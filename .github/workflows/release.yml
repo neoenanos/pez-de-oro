@@ -5,6 +5,9 @@ on:
     tags:
       - "**"
 
+permissions:
+  contents: write
+
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -15,27 +18,24 @@ jobs:
 
       - name: Install pandoc
         run: sudo apt install -y pandoc
-    
-      - name: Prepare Metadata
-        run: "{ echo '---'; cat meta/meta.yml; echo '---'; } > meta/title.txt"
 
       - name: Parse metadata
         id: metadata
         run: |
-          echo "title=$(grep '^title:' meta/metadata.yml | cut -d ' ' -f2-)" >> $GITHUB_OUTPUT
-          echo "author_name=$(grep '^  - name:' meta/metadata.yml | cut -d ' ' -f2-)" >> $GITHUB_OUTPUT
-          echo "author_lastname=$(grep '^  - lastname:' meta/metadata.yml | cut -d ' ' -f2-)" >> $GITHUB_OUTPUT
+          echo "title=$(grep '^title:' meta/metadata.yml | cut -d ' ' -f2- | xargs)" >> $GITHUB_OUTPUT
+          echo "author_name=$(grep '^  - name:' meta/metadata.yml | cut -d ':' -f2- | xargs)" >> $GITHUB_OUTPUT
+          echo "author_lastname=$(grep '^  - lastname:' meta/metadata.yml | cut -d ':' -f2- | xargs)" >> $GITHUB_OUTPUT
         
       - name: Get epub name
         id: epub_filename
-        run: echo "filename='${{ steps.metadata.outputs.author_lastname }}, ${{ steps.metadata.outputs.author_name }} - ${{ steps.metadata.outputs.title }}'" >> $GITHUB_OUTPUT
+        run: echo "filename=${{ steps.metadata.outputs.author_lastname }}, ${{ steps.metadata.outputs.author_name }} - ${{ steps.metadata.outputs.title }}" >> $GITHUB_OUTPUT
 
       - name: Compile Epub
         run: |
           mkdir -p out
-          pandoc meta/title.txt md/* -o out/${{steps.epub_filename.outputs.filename}}.epub
+          pandoc md/* -o "out/${{steps.epub_filename.outputs.filename}}.epub" --metadata-file=meta/metadata.yml
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: out/${{steps.epub_filename.outputs.filename}}.epub
+          files: "out/*"
