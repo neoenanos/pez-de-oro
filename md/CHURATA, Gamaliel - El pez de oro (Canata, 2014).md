@@ -68,41 +68,30 @@ G. Ch.
 
 # HOMILÍA DEL KHORI-CHALLWA
 
-    Moscopa yana pachachahuan,
-    pampascani callampata sapallo
-    tani paquini moscuypi.
+> Moscopa yana pachachahuan, \
+> pampascani callampata sapallo \
+> tani paquini moscuypi. \
+> Me enterraron con mortaja negra, \
+> he visto crecer hongos, he partido \
+> calabazas en sueños. \
+> (Onirólogos Inkaikos) 
 
-    Me enterraron con mortaja negra,
-    he visto crecer hongos, he partido
-    calabazas en sueños.
+### HAYLLI
 
-    (Onirólogos Inkaikos)
-
-    ### HAYLLI
-
-    Maduro tu colmillo,
-    
-    maduras las espigas,
-    
-    Khori-Puma;
-    
-    enciendan tus gruñidos
-    
-    su hoguera de Wiphalas.
-    
-    Dirás que todo esto
-    
-    es trino sólo
-    
-    y como trino
-   
-    con que arde su caverna
-    
-    ni comienza ni acaba.
+> Maduro tu colmillo, \
+> maduras las espigas, \
+> Khori-Puma; \
+> enciendan tus gruñidos \
+> su hoguera de Wiphalas. \
+> Dirás que todo esto \
+> es trino sólo \
+> y como trino \
+> con que arde su caverna \
+> ni comienza ni acaba.
 
 Por lo que en estos cuentos, si no fábulas, o mágicas del
 Laykhakuy, de ti diga y de tu lago, lo que de ambos haya escrito hasta
-acá, o escriba en días venideros, ¿a quién pediré perdón, KhoriChallwa,
+acá, o escriba en días venideros, ¿a quién pediré perdón, Khori-Challwa,
 sino a ti, si soy lerdo, y cojo, y manco, y como nadie conozco
 que arremeto en kharkhas para horadar en quienes me falta cincel
 aunque pulsos no me falten? Pero un manco como pocos picapedrero:
@@ -557,9 +546,9 @@ Calderón de la Barca.
 ¿Qué esquiliano desgarramiento más americano que el del
 Segismundo de "La Vida es Sueño"?
 
-> ¿Qué delito cometí 
-> contra vosotros 
-> naciendo?... 
+> ¿Qué delito cometí \
+> contra vosotros \
+> naciendo?...
 
 Afírmase que el gran poeta inspiró su tragedia en la del Inka
 Yawarwaka, el que lloró sangre. Es enteramente admisible; si ese grito
@@ -594,25 +583,16 @@ Al margen sus valores generales, su poesía revela más que el
 disfuerzo por vestir la clámide helena, apurar destilaciones ya persas, ya
 tudescas.
 
-Este es el monte del Titán excelso,
-
-y esta es la cumbre en que el dolor es éxtasis.
-
-La memoria del dulce Prometeo
-
-vaga aún por los riscos desolados
-
-cual la sombra de un sueño. Duermen mudos
-
-en la peña empapados que obsediaron
-
-los ecos de titánicos lamentos.
-
-Mis plantas huellan como polvo vívido
-
-pavesas áureas de apolínea hoguera.
-
-Conozco las proezas del Lirófobo.
+> Este es el monte del Titán excelso, \
+> y esta es la cumbre en que el dolor es éxtasis. \
+> La memoria del dulce Prometeo \
+> vaga aún por los riscos desolados \
+> cual la sombra de un sueño. Duermen mudos \
+> en la peña empapados que obsediaron \
+> los ecos de titánicos lamentos. \
+> Mis plantas huellan como polvo vívido \
+> pavesas áureas de apolínea hoguera. \
+> Conozco las proezas del Lirófobo. 
 
 No es un reproche a Tamayo, ni a los excelsos poetas
 hispanoamericanos que son lustre de la hispana literatura; pero de estos
@@ -877,7 +857,6 @@ retórica, y que de proseguir en esa línea acabarán por animar el
 lenguaje indomestizohispano. Que esa literatura se consagre, problema
 es que depende del genio del gran escritor que con ella amase. Sin
 embargo, si se hallan en la corriente emotiva de las plebes, y la
-
 traducen e imbiben; también se hallan frente a mayoría que no va en
 esa dirección. Esa mayoría estará representada oficialmente por los
 millones de "americanos" censados como "blancos" y los cuales nada
@@ -993,7 +972,6 @@ khollas el reconocimiento de singularidades antropológicas en manera
 alguna comunes a las razas mongoloides que se ven distribuidas en casi
 la totalidad del área continental, confiriéndoles rol de sucedáneos de la
 cultura tiwanakota, cuya lengua, –el aymara–, se expande a lo largo de
-
 las Américas, como sostienen topólogos de la importancia de Villamil
 de Rada, Luis Soria Lenz, bolivianos, y el peruano Washington Cano.
 
@@ -1112,7 +1090,6 @@ sistema providente del Hijo del Sol. Y en esto hacen consistir la
 superioridad de su cultura; pues luego atienden a imponer sus
 coordenadas vitales: la tierra se reserva para quien puede ser marido de
 una mujer y padre de sus hijos; y por cada retoño debe acrecentarse el
-
 área de cultivo. Fuera de esto, el Inkario constituye el primer Imperio
 Histórico de Trabajadores; lo son el Inka, el funcionario, el intelectual,
 el sacerdote. Su destino político mira al hombre. He aquí el élan
@@ -1148,11 +1125,11 @@ porque, evidente, no era el kheswa, lengua general: no lo sé. Siento que
 los Inkas son sucedáneos de la cultura atlanta, y que en algún punto
 pudieron hallar parentesco o relación con la cultura del Summer.
 
- Verdad se muestra como sano corolario de estas inducciones: si
+Verdad se muestra como sano corolario de estas inducciones: si
 el Inkario no importa lo que Vico llama ricorsi de cultura ancestral,
 constituye problema histórico insoluble.
 
- Tal interna corrivación de linfas induce a admitir que el mito
+Tal interna corrivación de linfas induce a admitir que el mito
 americano tiene raíces sólo en ese foco irradiante; y si raíces, no mito.
 
 No se me diga que estoy descubriendo Mediterráneos, si hasta a
@@ -1190,11 +1167,11 @@ escudriñar las raíces de su trino, que viene a anunciar que no es
 muriendo como se vive; y que morir de América no es "estar" en
 América; sino fuera de ella.
 
- En un trino comienza la alborada. Perentorio será localizar el
+En un trino comienza la alborada. Perentorio será localizar el
 punto canoro de una cultura para conocer al hombre y su naturaleza en
 la historia.
 
- Al hombre debe hallársele en la cuerda, el gorjeo, o la Khaswa,
+Al hombre debe hallársele en la cuerda, el gorjeo, o la Khaswa,
 átomos sanguíneos de su discurso vital. En la célula.
 
     * * *
@@ -1234,7 +1211,6 @@ América, dado que uno geste, pero en las mismas lenguas vernáculas,
 que deberán ser galvanizadas para un nuevo destino, se sustituya el
 verbo transitivo DESCUARTIZAR con el nombre de Oidor Areche,
 inspirador y ejecutor de la inmolación del Inka, verdugo,
-
 históricamente, del Tawantinsuyu, punto de partida del ARECHISMO,
 o hispanoamericanismo.
 
@@ -1275,7 +1251,6 @@ fenómeno tan español y pizarresco como la Conquista.
 No debemos olvidar que por tan grávida razón Bolívar se
 muestra más grande que el hispanoamericanismo, y que sólo él –
 español visceral de dimensiones cósmicas– pudo ser capaz de esas
-
 cinco palabras dignas de un dios consciente de sus clavos, su cruz, su
 corona de espinas y su Magdalena:
 
@@ -1367,12 +1342,12 @@ ininteligible, nada resta por hacer: el predicador llegó retrasado para el
 sermón: ¡América no existe y España es América, y debe ser, antes que
 sodómica!
 
- América es la Europa en el tercer día de la Creación, fecundada
+América es la Europa en el tercer día de la Creación, fecundada
 por Frascuelos y Torquemadas en el undécimo de la Capilla Sixtina.
 
- ¿Pero, si así no, Sancho quijotesco?
+¿Pero, si así no, Sancho quijotesco?
 
- –¡Historiadores: borrón y cuenta nueva!
+–¡Historiadores: borrón y cuenta nueva!
 
 ¿No es lo mismo lo que político tiene que hacer y debe decirse?
 Pero, antes que el político, el escritor advierte que de su actitud de hoy
@@ -1386,7 +1361,7 @@ del Alba o sepulturero del Sol.
 desprendido en ese momento de los brazos de su barragana y estaba
 más ébrio que el padre Noé, cuando se enfardeló en los ornamentos
 sacros, y sin respeto a Dios ni miedo al Diablo, celebró la misa del
-Corpus Christi. Pobre chapate... Su nombre me piruetea en los
+_Corpus Christi_. Pobre chapate... Su nombre me piruetea en los
 bracitos de acero de la mecanográfica; si era tierno y mimoso como
 hombre. Me pregunto ahora: ¿Y este cura español habría podido hacer
 lo mismo en España? No, ciertamente; sí. De otra manera formaría en
@@ -1404,12 +1379,12 @@ Le habremos puesto en el camino de hacerse de un concepto de
 dignidad nacional. Y dignidad sin concepto es la trónica del cholo. Es
 decir, la nuestra. No hay motivos para alabarnos.
 
- Mediría la sociedad criollo-mestiza la superioridad del pueblo
+Mediría la sociedad criollo-mestiza la superioridad del pueblo
 indio respecto del suyo si pudiera penetrar en la semántica de esta otra:
 
- –¡Haitarata!
+–¡Haitarata!
 
- Si sois capaces, mirad, españoles:
+Si sois capaces, mirad, españoles:
 
 –¡Zamarro! ¡Khamakhe! ¡Mentiroso!
 
@@ -1454,7 +1429,6 @@ Conquistador; le siguen sus acólitos en no menos pechudos jamelgos.
 Y, entre ellos, atadas las manos a la espalda, arreado a patadas por
 Torquemada en párroco fiero de alma, huesos y rostro, el indio
 apostólico, de bigotitos punzados en la ranura de su lengua, que tuvo la
-
 brillantez de convertir una de las paredes de su chuklla en abecedario
 mural destinado a desasnar a los asnos americanos... Le llevan a la
 Cárcel; y Cristo, llorando junto al apóstol, su apóstol, camino de la
@@ -1462,7 +1436,7 @@ Cruz...
 
 Estos retablos calzan nombres propios para más propiedad.
 
- Si no hay lenguaraz que pueda volver el categorema
+Si no hay lenguaraz que pueda volver el categorema
 Hispanoamérica al aymara o al kheswa –idiomas de un alma con
 Tawantinsuyu– el deber realista para los americanos es edificar pueblos
 españoles o indios, sin término medio. Fijaos: el indio no despreció al
@@ -1475,7 +1449,7 @@ alcohólicos, los simoniacos, los hijos legítimos de la pseudomorfosis.
 americana, ni lengua patricia, sin Él y en Él. El problema matinal para
 la Literatura Americana, será, pues, preguntarse:
 
- –¿Hay, en último análisis, un hombre americano?
+–¿Hay, en último análisis, un hombre americano?
 
 <hr>
 
@@ -1498,12 +1472,12 @@ naya!
 
 ## GERMINACIÓN COMO ESTÉTICA
 
- ¿Cuál el grito del labriego en el rebrote de la carne? ¿Y qué
+¿Cuál el grito del labriego en el rebrote de la carne? ¿Y qué
 podemos entender por rebrote de la carne?
 
- –¡Maaaaá!...
+–¡Maaaaá!...
 
- Chákchanle khawras y corderillos. Es el primer burbujeo anímico
+Chákchanle khawras y corderillos. Es el primer burbujeo anímico
 del hombre cuando efloresce en la entraña materna y retoma tendones
 para el viejo discurso de su deber y su derecho. Como la tierra, el
 labriego debe sentir que es causa y efecto del germen; y así apenas se
@@ -1535,10 +1509,10 @@ los mismos capitanes de la Gesta quienes primero restablecieron el
 ritual de las secuencias a la Madre España, sin doblones ya, pero con
 yaravíes e Hijo Pródigo:
 
- –¡Tómame como al más homildoso de tus bravos; aunque no los
+–¡Tómame como al más homildoso de tus bravos; aunque no los
 doblones!...
 
- ¿Quiénes guerrearon contra España, entonces? Pizarros,
+¿Quiénes guerrearon contra España, entonces? Pizarros,
 Valverdes, Areches...
 
 El hidalgo español puede ser todo lo famélico y antropófago que
@@ -1583,7 +1557,6 @@ se les escurre los sutiles mecanismos de la fisiología anímica. El
 hombre en el rebrote conserva el sentimiento del pezón de la tierra, o
 sea, de hecho, del ñuñu de la patria. No por otra causa es el de la patria
 sentimiento maternal; que sin eso habría entre los hombres de sano
-
 juicio uno que se hiciese matar, y menos matara, por ella, a veces
 contra todo dictamen de conciencia y derecho.
 
@@ -1624,7 +1597,6 @@ mates nazcas o mochicas; siente el cobre, la tectónica de la figura, el
 bloque. Quienes conocen su biografía comprenderán ahora en qué
 medida obedeció a succión arcaica superior a cuanto evalúa la
 mentalidad occidental. Requiriera de óvulo estético en que tomaría
-
 contacto con sangre virgen, pues en virginidad sentía el cósmos desde
 un punto viejo de la suya.
 
@@ -1670,7 +1642,7 @@ esto no por milagrería; por determinismo de la materia.
 
 Tenemos palingenesia, indudablemente.
 
- A la mundolatría que prende por acción oceánica en sus grupos
+A la mundolatría que prende por acción oceánica en sus grupos
 artísticos, el desasimiento hoy cardinales, seguirá un arte de génesis, de
 lujuria y afincamiento en la patria láctea; pues allí se verá que la patria
 láctea no puede ser suprimida y todo lo que se hizo fue obligarla a
@@ -1702,7 +1674,6 @@ egipcia, o la pelasga, la vihuela, desarrollo serán ya de las pomas
 frutales, ya de la línea en que khurukhutean mieles por las columnas
 jónicas que sustentan la más hermosa creación del genio de la vida: la
 madre. Aún más: sea charango, o lira, urna maternal es la caja
-
 melódica; y, cuando, al noveno, entrando al décimo, círculos concéntricos, vibra en manos del tarakchi, o el aeda, asistiremos a parto de
 arpejios en nada inefriores al trino con que vuela desde el nido maternal el pajarillo del Alba...
 
@@ -1776,7 +1747,6 @@ como antes se lo impusiera Grecia; y no a la inversa. Sin embargo, si
 aquí existe hibridación teológica no existe estética. Los símbolos del
 Sol y de la Luna en las ideografías del plateresco colonial no han sido
 impuestas por el indio, ni admitidos con valor categorial por la Iglesia;
-
 son tan subsidiarios que sólo pueden obedecer a una concesión dentro
 del proceso catequista. Para que América hubiese pirografiado su
 espíritu en la arquitectura hispana éste habría tenido que asimilar el
@@ -1814,7 +1784,6 @@ germinación tienen que poseer grado geográfico, punto lácteo, si es
 cosa averiguada que nadie engendra fuera de sí mismo, en comandita o
 segunda persona. Mas, por razones que miran a los factores sociales
 que concurren a la formación de los idiomas andinos, podría estimarse
-
 que el "ego" latino, no es el inkásiko, que es ego colectivo. Por lo que
 es forzoso que para ser "americana" la Literatura Americana, comience
 por mostrarnos en sí el tumulto del pueblo de que es fruto y el punto
@@ -1849,7 +1818,6 @@ necesariamente debe ser no naturaleza, y entonces resulta tan sin naturaleza com
 naturaleza lo que no es naturaleza. Y la muerte, que comporta esa rara
 entidad, lo único real, preexistente y subsistente. Natural es que
 volvamos por los fueros del buen juicio y nos percatemos que en
-
 cuanto individuos y cósmos somos una irrealidad animada en su
 irrealidad. No ser es la única manera de ser. Y Dios es Dios porque es
 el no sér.
@@ -1887,7 +1855,6 @@ Es del valor de un imperativo categórico que el Pez esté en
 infinito, y que el infinito sea en tanto él es infinito. Y siendo así su
 espacio es mónada. La idea de muerte le sería admisible a condición de
 que el Pez pudiera no ser Pez; pero si el Pez deja de ser Pez, el infinito
-
 deja de ser infinito. Aunque participara de la autoeliminación universal,
 el Pez no puede no ser Pez, ya que si lo consiguiera no liquidaría al Pez
 sino a la Vida.
@@ -1927,7 +1894,6 @@ negarnos en el ente.
 Vivir en caverna, en la caverna y para la caverna, con el infracturable destino de la unidad vital, que no es más que el gozo de la
 fertilidad. Y como no se puede estar vivo y muerto, ni estar en dos
 naturalezas, ni, objetiva y simultáneamente, estar en dos sitios, hay que
-
 estar en tensión láctea, que el punto de la tensión es el punto de la
 caverna.
 
@@ -1964,33 +1930,22 @@ tempestades de tu trino.
 
 ### HAYLLI
 
-Maduro tu colmillo,
-
-maduras las espigas,
-
-Khori-Puma;
-
-¡enciendan tus gruñidos
-
-su hoguera de Wiphalas!
-
-Dirás que todo esto
-
-es trino sólo,
-
-y como trino
-
-con que arde su caverna,
-
-ni comienza ni acaba.
+> Maduro tu colmillo, \
+> maduras las espigas, \
+> Khori-Puma; \
+> ¡enciendan tus gruñidos \
+> su hoguera de Wiphalas! \
+> Dirás que todo esto \
+> es trino sólo, \
+> y como trino \
+> con que arde su caverna, \
+> ni comienza ni acaba. 
 
 # EL PEZ DE ORO
 
-Mira, el olor de mi hijo
-
-como el olor del campo.
-
-La Torah
+> Mira, el olor de mi hijo \
+> como el olor del campo. \
+> _La Torah_ 
 
 ### TRENO
 
@@ -2025,7 +1980,6 @@ pedazo de la pacha-mama en que me paro, nada más que en témpano
 flotaría en la inmensidad del átomo. Pero estás, y estoy, en fuego
 genésico, y puedo conducirme como un fuego fecundo. ¿Adviertes ya
 la presencia del yoka que espía desde mis ojos negros? No; no has
-
 querido mirar aún a esta burbuja del polvo. Pero así me adelanto a caza
 de tu centella. Y me arrobo en tu incendio; en Él, en quien labras tus
 estigmas; en mí, en quien pones su relámpago. No me perderás de
@@ -2059,53 +2013,48 @@ hormona el hombre? Pero sin juventud la hormona no es hormona.
 Desconoce la vejez; si ha de inhibirse, se va joven; ignora la vergüenza
 del cayado.
 
- Ya el rubor prende en los carmines de la imilla; es que ha llegado
+Ya el rubor prende en los carmines de la imilla; es que ha llegado
 a la edad de la entraña que besa.
 
- Ese el punto de la fertilidad y el instante nutritivo. El eterno
+Ese el punto de la fertilidad y el instante nutritivo. El eterno
 instante de la vida.
 
 ¡Tumbemos las escuelas y a sus lívidos!
 
- Si me prometes venir en Él, y con Él, hijo mío, acabaré con
+Si me prometes venir en Él, y con Él, hijo mío, acabaré con
 cementerios y catedrales. Qué majestuoso el Cínico harapiento
 echando a rodar soles de oro por el Cranio, y diciendo al soldado:
 "¡Quita, pendejo: primero es el Sol!"... Qué caligénico el Estoico
 macerando en tizanas sofísticas la cicuta que le revelará su inmortalidad
 de animal.
 
- –¡Si es un niño loco!
+–¡Si es un niño loco!
 
- E ignoraban que el niño loco, sin caramelos ni pandorgas,
+E ignoraban que el niño loco, sin caramelos ni pandorgas,
 fiándose los cobres de la noche y los amaneceres, hincaba las pupilas,
 insomnes, en su caos. Ignoraban que si a la escuela prefería la
 Chinkana, era porque en Ella le nutría Él; le nutría con lengua sabia, y
 pulía esa lágrima de ámbar que secretan sus huesos.
 
- No llores, o llora, Sacha-runa: algún día la roña será más el
+No llores, o llora, Sacha-runa: algún día la roña será más el
 déspota del caos.
 
- Ese torturado que en mí se torturaba, ¿quién fue si no Él? ¿Quién
+Ese torturado que en mí se torturaba, ¿quién fue si no Él? ¿Quién
 fue si no Tú? Si América no mira en Él, y no cree en Ti, perderá las
 hormonas.
 
- –¡Piupiu-titit!
+–¡Piupiu-titit!
 
 Siento que si la luz trina, todo me empuja al gruñido lívido.
 
 ### HARARUÑA
 
-Desque te echaron de la Escuela,
-
-ya no buscas campo ni chinkana.
-
-Pero, es que ahora eres chinkana;
-
-eres campo con cielo y con estrella.
-
-Ahora en tus ojos Thumos lagrimea.
-
-Ahora es que pesa en oro tu latido.
+> Desque te echaron de la Escuela, \
+> ya no buscas campo ni chinkana. \
+> Pero, es que ahora eres chinkana; \
+> eres campo con cielo y con estrella. \
+> Ahora en tus ojos Thumos lagrimea. \
+> Ahora es que pesa en oro tu latido. 
 
 III. ¡Mi Diario!... Toda la razón a quienes te llamaban, cuando
 por jumencia, cuando por piedad: ¡el niño loco! Tu Diario... No; no
@@ -2128,7 +2077,7 @@ que la ternura del cabrero hizo dios del cabro Olímpico.
 
 ¡No te pelees contigo, Supaya!
 
- IV. Si entre tú y tú, no hay otro: ¿quién miente? Nadie te impuso
+IV. Si entre tú y tú, no hay otro: ¿quién miente? Nadie te impuso
 el garrapateo de tu "Diario". Así: si entre tú y él, sólo Él de engaño
 puede alegar, mira que tus verdades no le caigan, y aunque la realidad
 con sus oros te empobrezca, dale siempre hartazgo de realidades. Así
@@ -2154,7 +2103,6 @@ fue mi primer soneto... y el último; si tan ruin roznaba que no le dejé
 sangrarme más. Pero entonces a mi buena madre le salió volando un
 dulce soneto del corazón, y me almidonó collar y ladrido, tras eso me
 alargó de pantalones; si orgullosa por ellos nadie la disuadiera que su
-
 mestizo era capaz de llegar al cielo con los pantalones. ¡Ya no más
 entristeceré a mi pobre! Y corrí a zocallinar khusillus al Bazar Hindú:
 "La tierra es buena para los animales machos"... Desde entonces la hice
@@ -2196,7 +2144,6 @@ el Chullpa-tullu. En cambio, qué jocunda brutalidad la de aquéllos.
 
 Pero, vamos a cuenta con el Santo. ¿De qué trigo candeal se
 sustenta si no come? No creeré que cuervo alguno le suministre tortas,
-
 como al de la Tebaida, aquel que se la pasaba en lo alto de una
 columna sin más espacio que para menear sus aflicciones y devorar las
 tortas; pues bien se ve que San Jerónimo gustaba de raíces tiernas,
@@ -2218,12 +2165,12 @@ hay algo más que gruñidos, hojas verdes, agua manantial, raíces tiernas;
 hay la encrucijada. El león que busca lengua de hombre para bramar,
 sabido que nadie le entiende que trina cuando llora.
 
- Así, si os muestra la zarpa, y gruñe, no le deis fe; bien se ve que
+Así, si os muestra la zarpa, y gruñe, no le deis fe; bien se ve que
 arrulla.
 
- Ya no hay animales como él.
+Ya no hay animales como él.
 
- XI. He leído las Upanishads, San Tomé, La Ciudad Divina. Qué
+XI. He leído las Upanishads, San Tomé, La Ciudad Divina. Qué
 atracón bovino; si me alejó dos meses del mundo de los hombres y
 otros tantos de la deheza. Luego es difícil sacudirse las persuasiones
 que Agustín dosifica con sutileza impropia de un númida. Las sumas
@@ -2238,7 +2185,6 @@ Cristo, que sabe que ha resucitado en nosotros? Nunca renacuajo fue
 sacudido por El como yo estos días; porque luego la "Suddha
 Dharma", y su alegría absoluta, me obligaban a mirar en el quieto
 Bhodistava, sin azotes, en unidad universal. Acá hasta el filamento de
-
 polvo tiende al Yoga, como Yoga al Brahama; y si no hay dioses, hay
 azotados divinos. Yeso es cada uno de los que fueron capaces de
 Bhoddi.
@@ -2249,7 +2195,7 @@ El único azote sobre el universo, ¿sabeis cuál?
 
 Me han metido ya en los huesos la cicuta del caos.
 
- XII. La vida discurre entre succiones de la carne y tentación de sí
+XII. La vida discurre entre succiones de la carne y tentación de sí
 misma. ¿Tentación? No hay tentación de pecado; sólo hay tentación de
 ser. Si pecar no fuera vivir, pensaría si vivir será sólo tentación de
 pecar; y que para no caer en tentación de pecar, basta con dominar la
@@ -2274,10 +2220,10 @@ mestizas como tú. O eres un blancón aindiado...
 –No entiendo. Las mestizas me producen miedo. ¡Yo mismo me
 cargo con no poco recelo!
 
- –¡Canarios!... Finalmente, karrajuska, al Diablo con remilgos: eres
+–¡Canarios!... Finalmente, karrajuska, al Diablo con remilgos: eres
 tan indio como eres español.
 
- –Eso, lo que me tiene temblando. Siento que tanto el español
+–Eso, lo que me tiene temblando. Siento que tanto el español
 como el indio afirman tozudamente. ¡No sé a (do) Diablos me llevará
 todo esto!
 
@@ -2295,7 +2241,7 @@ No; nó, siempre...
 
 –¡Haniwa, karrajuska; haniwa!
 
- Al nacer te arrancaron la lengua, y te la pasarás haciéndola
+Al nacer te arrancaron la lengua, y te la pasarás haciéndola
 sangrar hasta el morir. ¡No! Implacablemente. No; jamás lo aceptamos
 antes; no lo aceptaremos hoy, ni lo aceptaremos nunca. No:
 ¡karrajuska, haniwa, haniwa!
@@ -2327,15 +2273,14 @@ rato, envuelto en su olor y el olor de su cántaro, me quedo, quedo...
 ¿Sus pies? No son pies, karrajuska. A esa hora están lavaditos ya, y
 fregados, fragantes; y si son de un rosa cárdeno, de cobre sangresangre, con qué gracia, se mueven. No lo sabrás nunca. ¿Has
 observado las huellas que las patitas de la korokuta dejan en las
-
 arenillas de la playa? Si quieres seguirla te bailarán sus olorcitos en el
 aire.
 
- –¡Zambomba!... No eres el mismo.
+–¡Zambomba!... No eres el mismo.
 
 –¿Soy otro? Si; siento que he cobrado lubricidad de espiga.
 
- XVI. Tengo la impresión de partear a la madre y que en las
+XVI. Tengo la impresión de partear a la madre y que en las
 manos me recibo, saliendo de las viejas lágrimas con que me abrigaba
 su vientre. Veo que en mi sombra se ha escurrido la sombra, y que
 subiré ébrio con mi cruz al calvario. Anoche me he embriagado de
@@ -2347,7 +2292,7 @@ esponja el wakaycholo; que una la tentación de las campanas, y otra la
 del piojo del indio que tienta a las campanas, que no es lo mismo
 construir el phutu que levantar castillos de humo.
 
- Y sompensé mis derrumbes cuando una mujer vestida con mis
+Y sompensé mis derrumbes cuando una mujer vestida con mis
 huesos...
 
 –¡He dejado la chullpa –con cavernosa voz me dijo– para que
@@ -2371,9 +2316,8 @@ de mis veinte años.
 
 ### HAYLLI
 
-Ahayu del chullpar;
-
-oro del lloro...
+> Ahayu del chullpar; \
+> oro del lloro... 
 
 XVII. Este, el más viejo de mis estratos. Cuando forcé a la
 Virgen María a revelarme por cuáles razones no me alimentó de su
@@ -2392,7 +2336,7 @@ Domingo.
 Rechinando dientes mientras angustiosos trabucaban entre los
 rapazuelos, en esos ojos una lágrima temblaba buscando a su guagua.
 
- Luego la reconocieron imillas y llokallos.
+Luego la reconocieron imillas y llokallos.
 
 –¡Mama Margacha! ¡Mama Margacha!
 
@@ -2419,18 +2363,18 @@ hambrienta de este paraíso de los Gamonales. Sobre todo veo, y siento
 más que veo, que la mama Margacha extrae el pikchu de la boca, y para
 hacerme de tripa fuerte como el anu, lo exprime en la mía.
 
- ¡La kukita de mama Margacha!
+¡La kukita de mama Margacha!
 
 Era un tronco del Hatun Kolla; y era parienta de la Virgen María,
 No he vuelto a verla. Cuando la recuerdo, en la cruz me sofoca el gusto
 de su coca, y me cae de la espina extraño sabor a hueso podrido.
 
- Pero, al último, el gusto de su coca se ha tornado para mí el gusto
+Pero, al último, el gusto de su coca se ha tornado para mí el gusto
 de la verdad: por ella es que he vuelto.
 
 <hr>
 
- XX. La embriaguez que late y destroza la entraña me dice que en
+XX. La embriaguez que late y destroza la entraña me dice que en
 mi caos está coagulando el oro.
 
 Solitario en mi tumulto he pasado desde la madrugada en las
@@ -2449,15 +2393,15 @@ gritos reproché a los Achachilas el tardío reencuentro.
 Hay que estar en soledad de paja, de roca, de viento, para sentir la
 primogenitura de la tierra.
 
- Tata Lupi: mi preñez era preñez de varón, urgencia de
+Tata Lupi: mi preñez era preñez de varón, urgencia de
 postrimería.
 
 –¡Guaguititay!
 
- Veinte años se enternecían en las patitas de la khorokuta, patitas
+Veinte años se enternecían en las patitas de la khorokuta, patitas
 arreboladas, lavaditas ya cuando el ancho Sol Se sopa en el Titikaka.
 
- –Gai. Si la imilla viniese a la cumbre, mamitay, vería al hañachu
+–Gai. Si la imilla viniese a la cumbre, mamitay, vería al hañachu
 enloquecido en la cruz...
 
 <hr>
@@ -2511,7 +2455,6 @@ arrodillada hasta ese día. Reconozco que mientras el licor no
 encalabrinó me oían bobos o tiernos. Pero cuando se abatieron
 antifaces y el cabrito se vio el rabo desnudo, tiró a tirarse. Entonces,
 me gritaron, no: me escupieron gritos y baba. Que si los cabros de la
-
 Cafrería eran capaces de entender el espacio tetradimensional, no lo
 eran de reconocer que el indio, harapiento y piojoso, sea la estirpe del
 hamponaje de la chistera. Sin soltar la botella avanzamos chorreras allá
@@ -2519,14 +2462,14 @@ de la aldea, y nos internamos en la pampa.
 
 Cielo ahíto de estrellas.
 
- Viento, viento que rugía. De pronto, dentro la tiniebla se
+Viento, viento que rugía. De pronto, dentro la tiniebla se
 perfilaron sombras silenciosas; y de los cuatro que vociferaban tres
 temblaron, de asco, o de miedo. Fue entonces que un ronco maullido
 rompió los bramidos del viento.
 
 –¡Los indios!
 
- Entendí que era venido desde la urna donde suches virreynales
+Entendí que era venido desde la urna donde suches virreynales
 velan los huesos de Francisco Pizarro, si, lívidos, lactorrágicos, se
 lanzaron sobre las sombras y las aporrearon. De las sombras
 silenciosas unas huyeron, gimieron otras; se acoquinaron las más. ¿Qué
@@ -2537,7 +2480,7 @@ No. No.
 No lejos se dibujaba la capilla del Cementerio, y, allí, inútil, mi
 cruz: el garabato inútil.
 
- Sólo un kirki lloraba entre las cruces.
+Sólo un kirki lloraba entre las cruces.
 
 ¿Qué demonio negativo me poseyó? ¿De qué antro putrefacto salía? ¡Los ancestros! El picador de toros que América consagró cura de
 almas. El pechero que se apropincuó la encomienda y devino señor
@@ -2557,16 +2500,15 @@ labras! ¡Así te modelas! ¡Así te harás piedra y serás montaña! ¿Me he
 perdido? Buscadme en el hampatu. En los ponchos. Buscadme en las
 chuspas. En la chinkana de las khawras. Preguntad al Waksallu, al kirki,
 al wakaycholo. Y si nada saben, parad. Habrá sido inútil. El torcedor y
-
 la vergüenza me habrán sepultado. ¡Infeliz carpintero que engendraste
 bazofias! ¡Pobre Virgen, venida a menos, que pariste hokollos!
 
- Mi padre me ha recogido de la calle, donde yacía, ébrio y
+Mi padre me ha recogido de la calle, donde yacía, ébrio y
 destartalado.
 
- ¡Oh, fragante amanecer de mis chikchipas!
+¡Oh, fragante amanecer de mis chikchipas!
 
- –Mira, hijo mío: ¡no me mates! Acabar así es acabar con tu padre.
+–Mira, hijo mío: ¡no me mates! Acabar así es acabar con tu padre.
 Todo se reduce a una cosa bien chiquita: abre tu corazón y deja que
 Dios regrese a él; que vuelva a su nido el pajarito amoroso. Ya te
 cantará, te cantará. ¡Ah, cuando su trino te enloquezca! Tú no sabes...
@@ -2595,10 +2537,10 @@ casualmente, caben ustedes. Penétrame para siempre, Khantati-ururi,
 estrella de mis trinos; y tú, hermano Titikaka, con tus cargas de
 challwas, balsas y balseros, con tus verdes totorales trinadores...
 
- –¡Chio-khori! ¡Chio-khori!... ¿Dónde bogas? ¿Dónde trinas,
+–¡Chio-khori! ¡Chio-khori!... ¿Dónde bogas? ¿Dónde trinas,
 Khori-Challwa?
 
- Ya se rompe la cáscara del Hake.
+Ya se rompe la cáscara del Hake.
 
 ¿Qué te retiene, Achachila-tata? Y tú, Huturi, que chicoteas con
 tu cola de fuego cuando en el lago se duermen los balseros: ¿por qué
@@ -2609,7 +2551,7 @@ Y en un trueno de las nubarras: cherekañas, kurumpilas, yarakakas, pichitankas,
 
 Son el villancico de la Margacha.
 
- –¿Y tú, Khori-Challwa? ¿Qué espera EL PEZ DE ORO?
+–¿Y tú, Khori-Challwa? ¿Qué espera EL PEZ DE ORO?
 
 Cerraré mis compuertas, y no las abriré, pajarito; no las abriré si no me
 trinan tus relámpagos...
@@ -2642,7 +2584,6 @@ bandería al lado de los más platudos y gorrones, y el Consejo de Indias
 entendió que no había manera de acogotar a sus levantiscos
 colonizadores, tanto como a los kunturinos Monrroyes, capaces de
 estrellarse el cráneo en una roca antes que doblar la cerviz al yugo y
-
 látigo hispanos, que elevando al Phuñu a cabeza del Virreynato Kolla,
 tributo, al mismo tiempo, de la pernada con que pagaban las indias su
 legendaria hermosura; este yacón presumido, llevaba como el más
@@ -2674,7 +2615,7 @@ Me internaba en el imperio de mi lágrima.
 ¡Adiós, walkyrias de talle de helicóptero! ¡Adiós, menjurges
 alquímicos!
 
- Sin gloria os dejo y sin pena me voy.
+Sin gloria os dejo y sin pena me voy.
 
 <hr>
 
@@ -2682,12 +2623,12 @@ XXXV. Ya florecieron las Khantutas. La imilla me mama de
 tanto que me ama; y si de mis tendones arranca la flor de la hawasa, yo
 en sus senos abrevo el aliento de hawasa en flor.
 
- –¡Sol, Padre Lupi: mira este vientre!... Ya soy un hombre... "Mira,
+–¡Sol, Padre Lupi: mira este vientre!... Ya soy un hombre... "Mira,
 el olor de mi hijo, como el olor del campo".
 
- ¡Tenemos que huir, imilla! ¡Tenemos que huir a la charca!
+¡Tenemos que huir, imilla! ¡Tenemos que huir a la charca!
 
- La poesía crepita y revienta salvas de camaretones en mis ojos.
+La poesía crepita y revienta salvas de camaretones en mis ojos.
 Cuanto toco se vuelve canción. Cuanto miro, danza, y danza la tierra
 bajo mis plantas. A trueque de kilómetros de lengua, llegaremos a
 Orko-pata, y vencido el centímetro de lodo, además de los jardines se
@@ -2727,27 +2668,17 @@ cuerpo se abandona, nos poseen aires azules y fluye la paz del agua.
 
 ### HARARUÑA
 
-Mirad, lakatos: chamusca el Sol
-
-la dura piel del hombre;
-
-raja el ácido berrocal,
-
-que morder no pudo
-
-el diente de los siglos.
-
-Oid, lakatos: el Sol
-
-con el amor juegan al arco.
-
-Y si thikchan un chocho
-
-con la vida;
-
-también thikchan chochitos
-
-con la muerte...
+ > Mirad, lakatos: chamusca el Sol \
+ > la dura piel del hombre; \
+ > raja el ácido berrocal, \
+ > que morder no pudo \
+ > el diente de los siglos. \
+ > Oid, lakatos: el Sol \
+ > con el amor juegan al arco. \
+ > Y si thikchan un chocho \
+ > con la vida; \
+ > también thikchan chochitos \
+ > con la muerte... 
 
 XXXVIII. En medio a una explosión de retamas y cedrones de
 verdes undívagos, que invadían las haldas de las colinas,
@@ -2807,11 +2738,10 @@ sublime serenidad de su sangre, el bendito trabajo de la hormona.
 XL. Ya, ya le poseo. Esta evidencia es tan comprobable como la
 de que uno y uno son dos; por más que un macho y otro macho, así el
 pubis se abollen, puedan darnos sino dos unos, y nunca un dos. Esto
-
 me lo soplaste en la sangre, tú, divino Sócrates; mas qué hacerle, si los
 sabios lo hacen.
 
- Kempis, Nicolás de Cusa, Maestro Eckardt, Juan Jacobo... Ateos
+Kempis, Nicolás de Cusa, Maestro Eckardt, Juan Jacobo... Ateos
 al revés y al derecho, ateos en la divina copa, ateos en la copa de
 Falerno. Ah, qué gran cosa fue haber partido mi chupi con ustedes,
 qué gran cosa me fue pelear conmigo mismo y con el chupi. Y me
@@ -2839,34 +2769,24 @@ plazas, calles y garitos.
 
 Ni la flor te amasará rojo; ni azul te tundirá el agua.
 
- Tú, eres Naya...
+Tú, eres Naya...
 
- XLII. No sé. No sé... Desde la perka miro al Titikaka en la
+XLII. No sé. No sé... Desde la perka miro al Titikaka en la
 santidad de la sustancia: limpio, terso, cristalino.
 
 ### HARARUÑA
 
-Si el Arun-thaya
-
-la algarabía trae
-
-de la gaviota;
-
-flameando
-
-entre esmeraldas
-
-luz de oro llueve
-
-la Khesana.
-
-Sólo vieja lágrima
-
-de bruñida plata eres,
-
-Titikaka,
-
-plañendo su esmeralda...
+> Si el Arun-thaya \
+> la algarabía trae \
+> de la gaviota; \
+> flameando \
+> entre esmeraldas \
+> luz de oro llueve \
+> la Khesana. \
+> Sólo vieja lágrima \
+> de bruñida plata eres, \
+> Titikaka, \
+> plañendo su esmeralda... 
 
 No sé; no lo sé. Algo susurra la brisa. ¿Es que ya traduzco la vieja
 lengua del Arun-thaya porque animal humanidad afina mis sentidos? El
@@ -2882,7 +2802,7 @@ padre.
 
 –¡Tata! ¡Tatalay!
 
- Dicho de su lengua no es más miel la miel de las abejas. Escruto
+Dicho de su lengua no es más miel la miel de las abejas. Escruto
 en el fondo de sus ojos, y ellos nada saben. Pero yo miro que saben:
 saben que en un remoto pasado sin comienzo estuvimos en el ovario
 maternal; y ella contó cincuenta madres y yo cincuenta padres encaré.
@@ -2893,7 +2813,7 @@ maternal; y ella contó cincuenta madres y yo cincuenta padres encaré.
 
 Después de ésta queda muy poca dulzura en el mundo.
 
- Compruebo que me está cambiando su cariño por respeto,
+Compruebo que me está cambiando su cariño por respeto,
 veneración; no sé si miedo. Está disolviendo su yo en mi yo. Su rezo ya
 no busca el cielo, si, contrito y humilde, se acurruca en un mico: mi
 corazón. Ya soy su dios, el dios que siente relampaguear en los huesos.
@@ -2905,7 +2825,6 @@ razas y lenguas de sus dominios no amontonó el Intipchuri un día
 alrededor de esta su charca del Titikaka, si sobre el humus atlanta
 quedan shiris, aymaras, chipayas, kheswas, chimús, urus... A éstos les
 he visto en islotes en lo más impenetrable de los totorales y su
-
 primitividad vino a serme como la cortesanía de los tiutikus. Junto a los
 zancudos y negros mihis, los rosas y lineales pariwanas, los blancos y
 sucios khankhatas, chapotean en los bofedales. Y aunque hayan
@@ -2914,18 +2833,18 @@ atribuyen su mítico origen. Si las jovencitas tienen la seducción de la
 chokha tierna, las viejas dejan colgar, apergaminadas e inútiles, mamas
 flácidas, que parecen el ala traposa de los soknas viejos.
 
- –¡Liwlay! ¡Liwlay! – trinan las doncellas tras la mariposa de alas
+–¡Liwlay! ¡Liwlay! – trinan las doncellas tras la mariposa de alas
 flébiles.
 
- –¡Okchichi! ¡Okchichi! – gruñen los mozos a los cerdos.
+–¡Okchichi! ¡Okchichi! – gruñen los mozos a los cerdos.
 
- Son cándidos como las aves y las nubes; y viven en dulce
+Son cándidos como las aves y las nubes; y viven en dulce
 promiscuidad con aves y nubes.
 
- Aquí las crucifixiones del sexo nada saben de cruces ni oyen
+Aquí las crucifixiones del sexo nada saben de cruces ni oyen
 campanas nunca.
 
- ¡Y yo siento que un campanero en los totorales ya talla mi tañido!
+¡Y yo siento que un campanero en los totorales ya talla mi tañido!
 
 XLV. La khaswa es de los Katekates del paisaje y los Huturis de
 la ola. Y es que los Anchanchos se han enredado en la profundidad de
@@ -2939,13 +2858,10 @@ cortinas tenues. Las vacas mugen desde el establo.
 
 ### HARAWI
 
-Bajo los kollis
-
-baila el Anchancho;
-
-baila el Anchancho rojo
-
-de los sankayus.
+> Bajo los kollis \
+> baila el Anchancho; \
+> baila el Anchancho rojo \
+> de los sankayus. 
 
 El rito coreográfico y la llovizna adormecen sus ojos, momentos
 de arrullo del cedrón, los cherekeñas, los chaiñas, de las manzanitas
@@ -2953,13 +2869,10 @@ que le gorjean desde el árbol.
 
 ### HARAWI
 
-El viento sus flautas finas
-
-consuena el tierno són;
-
-junto a imillas clavelinas,
-
-el pututu del español.
+> El viento sus flautas finas \
+> consuena el tierno són; \
+> junto a imillas clavelinas, \
+> el pututu del español. 
 
 El violón del moscardón crepuscular persigue los gruñidos del
 río, que abre su fauce verde, y en ella titilea su dentadura de moluscos y
@@ -2976,23 +2889,15 @@ que se vierte! Si permaneces vivo, desnudaremos la espada muerta...
 
 ### HARARUÑA
 
-¿Unktati urpanaka hiwañan
-
-akiri orasionana llaki?
-
-Pankara kalaktiw hawiraru
-
-hachjasin sarjew...
-
-¿Ves la nubla de muerte
-
-en el desconsuelo de la tarde?
-
-La flor se desgaja,
-
-cae en la linfa;
-
-y se va, llorando...
+> ¿Unktati urpanaka hiwañan \
+> akiri orasionana llaki? \
+> Pankara kalaktiw hawiraru \
+> hachjasin sarjew... \
+> ¿Ves la nubla de muerte \
+> en el desconsuelo de la tarde? \
+> La flor se desgaja, \
+> cae en la linfa; \
+> y se va, llorando... 
 
 ### TRENO
 
@@ -3008,49 +2913,28 @@ El jadeo multiplica obstáculos.
 
 ### HAYLLI
 
-Tiene obsesiones verdes
-
-el sudor del pedruzco.
-
-Cantellean, vibran,
-
-nuestros pasos.
-
-¡Él nos espera!
-
-Sobre las arenas
-
-de la mar,
-
-cuatro mil metros
-
-de khollos.
-
-¡Él nos espera!
-
-Cintarazos del Sol,
-
-oro de sus alfanjes,
-
-acuchillan
-
-el ojo muerto
-
-del abismo.
-
-¡Él nos espera!
-
-Ya siega la segur
-
-estrellas
-
-como espigas;
-
-ya siega espigas
-
-como estrellas.
-
-¡Él nos espera!
+> Tiene obsesiones verdes \
+> el sudor del pedruzco. \
+> Cantellean, vibran, \
+> nuestros pasos. \
+> ¡Él nos espera! \
+> Sobre las arenas \
+> de la mar, \
+> cuatro mil metros \
+> de khollos. \
+> ¡Él nos espera! \
+> Cintarazos del Sol, \
+> oro de sus alfanjes, \
+> acuchillan \
+> el ojo muerto \
+> del abismo. \
+> ¡Él nos espera! \
+> Ya siega la segur \
+> estrellas \
+> como espigas; \
+> ya siega espigas \
+> como estrellas. \
+> ¡Él nos espera! 
 
 XLVIII. Cumplo como puedo mi decoroso voto: no he vuelto a
 abrir un libro. Para qué, si a través de las nubes se ciernen las estrellas.
@@ -3064,7 +2948,7 @@ berros y hampatus. Para qué libros, si mi embriaguez embriaga y me
 siento cubierto de lianas, me siento tierra fecunda, de que arrancan su
 raíz los árboles profundos y los líquines.
 
- Es nó que el aire entone, sino que el nuestro es un aire de pájaros
+Es nó que el aire entone, sino que el nuestro es un aire de pájaros
 de sangre. Es nó que el ala del viento se agite en el hígado del mundo,
 sino que nuestras venas trallan, estruendosas, en los días Koskos.
 
@@ -3126,7 +3010,6 @@ de los Chibchas, de los Sapallas y los Thunupas.
 
 Estás enloqueciendo suavemente. Y en tanto olvidas la noche del
 Anchancho, su cuerpo de odre, sus patitas de ratón, sus orejotas de
-
 khusillu. El acabó español también y espía tu oro. Mientras danzas, él
 ora al oro.
 
@@ -3170,7 +3053,6 @@ Hichu...
 Los árboles se acuestan al socaire de las enanas habitaciones; está
 neblinoso el viento. Chillan las aves, y chilla mi corazón. Los
 chiwankus bailan wayñus. Mi alegría es Él, Él, a quien con la khenaya
-
 que agüaita desde las colinas amamanto en el hichu que maceró mi
 sangre.
 
@@ -3195,17 +3077,17 @@ LV. Calcomanía de calaminas y de hichus, cristalería de tejas hispánicas o mo
 La calcomanía ha salido negra... Dolor que naces con el día, dolor que
 no esperaste la noche para nacer...
 
- Hichu, hichu... Brincan olores genésicos; y un balsámico macho
+Hichu, hichu... Brincan olores genésicos; y un balsámico macho
 cabrío resuma lágrimas y esclavos.
 
- A tí, te digo: superficie innoble de hojalata, en que la luz ordeña
+A tí, te digo: superficie innoble de hojalata, en que la luz ordeña
 sus ahogos.
 
 Hichu del ayllu en el relámpago; hichu en la pampa y el risco;
 hichu en la inmensidad agraria y en el cielo; hichu en las khallampudas
 techumbres; hichu en las khenayas y los trinos.
 
- La piedad del Titikaka me brinda lo azul de la inocencia, y me
+La piedad del Titikaka me brinda lo azul de la inocencia, y me
 obliga al Pez.
 
 –¡Apura el hichu del Pez!
@@ -3218,45 +3100,35 @@ LIV. Inocencia, qué cruz la de tu cruz. Me sustancia el charango.
 Y por calles y plazas, suburbios y cenizales, vagan mis fantasmas y mis
 thanosos huérfanos, trabucando sus viejos basurales y las puertas que
 aldabonaron la ruindad y el miedo. Habrá ya quien redima la cruz de
-
 los zagüanes, y el silencio se animará en la vieja chuseka agorera para ir
 y morir en la cruz de la estrella, gritando: ¡Sicio!
 
 ### HARARUÑA
 
-Cuando le abandonas
+> Cuando le abandonas \
+> a las algas \
+> con sus verdes fontanas \
+> le arrullan las Sirenas. \
+> Y tú sólo sabes marrullar \
+> sus ojos \
+> y su arrullo. 
 
-a las algas
-
-con sus verdes fontanas
-
-le arrullan las Sirenas.
-
-Y tú sólo sabes marrullar
-
-sus ojos
-
-y su arrullo.
-
- LV. No me cabe más. A medida su día crece, crece terrible
+LV. No me cabe más. A medida su día crece, crece terrible
 hermosura.
 
- –¿Se bebe onté? ¡Yau! ¡Yau! ¿Men fuefo?
+–¿Se bebe onté? ¡Yau! ¡Yau! ¿Men fuefo?
 
 ### HARAWI
 
-¿Qué idioma hablas,
+> ¿Qué idioma hablas, \
+> killi-killi? \
+> ¿Qué música haces sonar, \
+> puku-puku? 
 
-killi-killi?
-
-¿Qué música haces sonar,
-
-puku-puku?
-
- LVI. Cuando el día que no se irá, esté, porque regrese, y no se ha
+LVI. Cuando el día que no se irá, esté, porque regrese, y no se ha
 ido, el viejo se hará niño, y el niño será el viejo.
 
- Yo quería marrullar mis vagidos vahídos, pero ésos no son
+Yo quería marrullar mis vagidos vahídos, pero ésos no son
 marrullos sino arrullos.
 
 –¡Yau! ¿Sa bebe onté? ¡Yau! ¡Yau!
@@ -3268,7 +3140,6 @@ monte; desprendiéndose de la fronda más alta, vibrantes los remos, los
 Killi-killis se detenían a observarnos; ¡rompiendo cascabeles la
 korokuta volaba desde el tejado; la lengua sabia de Thumos me lamía;
 la cocinera con sus diez y ocho turrones se daba al turronero, y la imilla
-
 tiraba y trituraba el vergajo... Dejándonos boquiabiertos, ¡qué salto de
 plumas el suyo si florecieron las khantutas.
 
@@ -3308,21 +3179,14 @@ resinas y adorarle.
 
 ### HAYLLI
 
-¿Dásle a la piedra
-
-alma de sangre?
-
-¿Quieres del yoka
-
-hacer tu alma?
-
-¿Amasarás un hombre
-
-con tu lágrima?
-
-¿Cobrarás tu lágrima
-
-en el hombre?
+> ¿Dásle a la piedra \
+> alma de sangre? \
+> ¿Quieres del yoka \
+> hacer tu alma? \
+> ¿Amasarás un hombre \
+> con tu lágrima? \
+> ¿Cobrarás tu lágrima \
+> en el hombre? 
 
 LIX. ¡Elake! ¡Elake! Y le puse en su hornacina de diamante bajo
 el torrente menudo y suave; de manera que quienes en llegando le
@@ -3353,9 +3217,9 @@ LX. Cuando la ubre preñada la vaca muge:
 Cuando la temperatura de otro tiempo sea la de esta hora de
 tramonto y de Angelus, se oirá de nuevo:
 
- –¡Mú! ¡Mú!
+–¡Mú! ¡Mú!
 
- Pero, ya sabremos que llaman al ternerito que todas las noches se
+Pero, ya sabremos que llaman al ternerito que todas las noches se
 nos va en el alba. Le llamarán, y no la llama; pues la llamarada vino, y
 no la khawra.
 
@@ -3378,35 +3242,21 @@ empapado en el trino del pinkollo.
 
 ### CORAL
 
-Kaipi
-
-wañuska
-
-llakta
-
-guaguan.
-
-Kaipi
-
-Layka-kota
-
-Khori-Challwa...
-
-He aquí,
-
-el hijo
-
-de la ciudad
-
-muerta.
-
-He aquí
-
-EL PEZ DE ORO
-
-del lago
-
-de los brujos...
+> Kaipi \
+> wañuska \
+> llakta \
+> guaguan. \
+> Kaipi \
+> Layka-kota \
+> Khori-Challwa... \
+> He aquí, \
+> el hijo \
+> de la ciudad \
+> muerta. \
+> He aquí \
+> EL PEZ DE ORO \
+> del lago \
+> de los brujos... 
 
 ### TRENO
 
@@ -3459,20 +3309,20 @@ LXIV. Su madre es la tierra.
 
 Le instruyo.
 
- –Titikaka: por tu casta viniste. Pero no llegarás a cruz si no ruges,
+–Titikaka: por tu casta viniste. Pero no llegarás a cruz si no ruges,
 Khori-Challwa. Nada, bueno; pero nó en pajarillo. Nada en nuestra
 nada, que la nada ahoga al Pez.
 
- Batanea religiosa carne en la risa morena. Y ya en nada pienso,
+Batanea religiosa carne en la risa morena. Y ya en nada pienso,
 que no sea terquedad de padrillo, nada del hombre, nada del oso.
 
- ¡Hüiik, pues! Orko-patas: qué pututaso... Vosotros que lo visteis:
+¡Hüiik, pues! Orko-patas: qué pututaso... Vosotros que lo visteis:
 el pájaro por la nada y el gato de piedra que nadaba.
 
- Junto a la cuna, con longo reproche, la imilla hila hostias que ya
+Junto a la cuna, con longo reproche, la imilla hila hostias que ya
 no tragará el Diablo.
 
- LXV. ¡Imposible! ¿Pero, te es imposible suponer que mientras te
+LXV. ¡Imposible! ¿Pero, te es imposible suponer que mientras te
 españoleas, llora, te llora? ¿Le parí para esto?
 
 –¡No! ¡No; claro!
@@ -3503,7 +3353,6 @@ cuanto quieras; bárreme con tus basuras, que me pisotéen los
 Conquistadores; si te aseas así, siémbrame; que mis lágrimas no te
 ahoguen. ¡Tatalay; pero El, tu hijo! ¡Ay! ¡Ay!... Por mis ojos, por mis
 senos, por mi vientre; dime, tatay: ¿será EL PEZ DE ORO trasto para
-
 la escoba de tu España? ¡Trina, trina, hijo mío, trina, guagualay! ¡Que te
 oiga este leopardo que devoró a tu dulce padre, que ya no existe!
 
@@ -3523,7 +3372,7 @@ atreve a oirla?
 
 Corazón, viejo bombón...
 
- LXVII. Soy el áspid del leproso. Y en la alborada de los pájaros,
+LXVII. Soy el áspid del leproso. Y en la alborada de los pájaros,
 antes que el Sol resplandece mi pústula. No digan que no hiervo, si en
 el costado izquierdo hierven el pus y el canto, hierve EL PEZ DE
 ORO, y su madre se hace una lawa de lepras. ¡Groseros, que adorabais
@@ -3538,51 +3387,31 @@ lepra hasta sudar el pus!...
 
 ### HAYLLI
 
-¡Alto ahí, Miuras toriondos!
-
-Todo dolor es indio.
-
-El callar si no es indio no es callar
-
-Las mugres todas son indias.
-
-¿Si el llorar no es indio, qué es?
-
-El temblor es indio
-
-Toda hambre es india.
-
-Los infiernos son indios.
-
-No hay esclavitudes sino indias.
-
-Los puntapiés se hicieron para el indio.
-
-Las cadenas quieren indios.
-
-El indio es un dios humillado.
-
-Los hombres ocultan un indio dentro.
-
-Arco y flecha es el indio.
-
-Bestia: te llaman indio.
+> ¡Alto ahí, Miuras toriondos! \
+> Todo dolor es indio. \
+> El callar si no es indio no es callar \
+> Las mugres todas son indias. \
+> ¿Si el llorar no es indio, qué es? \
+> El temblor es indio \
+> Toda hambre es india. \
+> Los infiernos son indios. \
+> No hay esclavitudes sino indias. \
+> Los puntapiés se hicieron para el indio. \
+> Las cadenas quieren indios. \
+> El indio es un dios humillado. \
+> Los hombres ocultan un indio dentro. \
+> Arco y flecha es el indio. \
+> Bestia: te llaman indio. 
 
 ### HAYLLI
 
-Se desnuca el khusillu:
-
-lo estais viendo.
-
-Ya, verdad es, nadie
-
-puede más.
-
-¡Más no podemos ya!
-
-El Inti-raymi
-
-llegó al garguero...
+> Se desnuca el khusillu: \
+> lo estais viendo. \
+> Ya, verdad es, nadie \
+> puede más. \
+> ¡Más no podemos ya! \
+> El Inti-raymi \
+> llegó al garguero... 
 
 ### TRENO
 
@@ -3605,51 +3434,37 @@ el khorikancha del Alba...
 
 ### HAYLLI
 
-¿Que ignorais
+> ¿Que ignorais \
+> su evangelio? \
+> ¡Sus tendones \
+> anuncian el arco! \
+> ¿Que no sabeis \
+> si pide o da? \
+> ¡Su abdomen y su \
+> tórax están ávidos! \
+> ¿Que nada os llaga \
+> de sus ojos? \
+> ¡Son los flechadores \
+> de la mañana! \
+> ¿Que no veis \
+> sus hozes? \
+> ¡Esperad! ¡Esperad! 
 
-su evangelio?
-
-¡Sus tendones
-
-anuncian el arco!
-
-¿Que no sabeis
-
-si pide o da?
-
-¡Su abdomen y su
-
-tórax están ávidos!
-
-¿Que nada os llaga
-
-de sus ojos?
-
-¡Son los flechadores
-
-de la mañana!
-
-¿Que no veis
-
-sus hozes?
-
-¡Esperad! ¡Esperad!
-
- LXX. Es ley que del vientre de la noche brote el día. Es ley que
+LXX. Es ley que del vientre de la noche brote el día. Es ley que
 en el seno de la muerte la carne ame. Es ley que el dolor suture los
 harapos. Es ley que los huesos ardan. Es ley que la tierra encarne.
 
- Es ley que el amor rompa los hígados.
+Es ley que el amor rompa los hígados.
 
- Pero la miel de la ley es Él.
+Pero la miel de la ley es Él.
 
- LXXI. Preguntemos al más sabio de los hombres; y nos dirá: "El
+LXXI. Preguntemos al más sabio de los hombres; y nos dirá: "El
 sabio es Él, el trino". En el trino un Inka mira al Inka que en nosotros
 trina y nosotros no sabemos trinar.
 
 Cuando la lepra se oculte, trinemos.
 
- –¡Piupiu-titit!
+–¡Piupiu-titit!
 
 Cuando el Inka se acobarde, trinemos.
 
@@ -3657,7 +3472,7 @@ Cuando el Inka se acobarde, trinemos.
 
 LXXII. ¡Um! ¡Um! ¡Aka!... ¡Cri! ¡Criii!
 
- Hay que oirle en el cherekheña. Vuela con las avecillas y la
+Hay que oirle en el cherekheña. Vuela con las avecillas y la
 escarcha del alba. Salta entre las matas de la Chokemama, entre los
 tiernos yuyus y las temblorosas sombrillas de los okalis. Y cuando aún
 la estrella parpadea en la hondura de la primavera, el danzarín de oro
@@ -3718,12 +3533,12 @@ Y en la orilla del Titikaka, amontonaron mujeres preñadas, niños
 de pecho, ancianos anatómicos, phasñas y waynitus kheswas en la flor
 de la edad y con la edad de la flor mustia en los labios.
 
- Sobre el montón de carne martirizada, un niño miraba al cielo
+Sobre el montón de carne martirizada, un niño miraba al cielo
 con los ojos opacos.
 
- –¡Kaka!... Criiii...
+–¡Kaka!... Criiii...
 
- Allí naciste, trino; de ese montón putrefacto, naciste, trino mío,
+Allí naciste, trino; de ese montón putrefacto, naciste, trino mío,
 Inka.
 
 ### TRENO
@@ -3753,7 +3568,7 @@ Embebido en la noche, me ahoga la mañana.
 Pero, allí, de mi tórax, un Khawiti arrebolado irrumpe y planta el
 grito de su honda que ruge en las pukaras.
 
- –¡De hombre a hombre! ¡De pecho a pecho! ¡De trino a trino!
+–¡De hombre a hombre! ¡De pecho a pecho! ¡De trino a trino!
 Vigía y centinela del Inka, Inka Mihi: ¡aquí te reta lo que en mis huesos
 muerde de España! ¡Acomete, Inka cárdeno, profundo como el
 corazón de mis waksallus! ¡No pueden respirar dos gigantes en una
@@ -3769,7 +3584,7 @@ Estrellada mi España fue a morir en su estrella.
 –¡Bien, Khori-Challwa; ya la muerte podrá contigo; pues lo único
 que pudo dártela ha perecido, Chio-Khori!...
 
- LXXIV. ¡Ala, hala! Me siembra y tritura la oreja; me lacta con sus
+LXXIV. ¡Ala, hala! Me siembra y tritura la oreja; me lacta con sus
 trinos; infúndeme su aliento; me martaja su muerte; me estrella su
 estrella.
 
@@ -3797,19 +3612,13 @@ bronquios del Alba...
 
 ### HARAWI
 
-Para gorjear,
-
-nunca otro viento,
-
-que el trino
-
-de uvas vivas
-
-del sarmiento,
-
-en que trinaba
-
-el pajarito muerto...
+> Para gorjear, \
+> nunca otro viento, \
+> que el trino \
+> de uvas vivas \
+> del sarmiento, \
+> en que trinaba \
+> el pajarito muerto... 
 
 ### TRENO
 
@@ -3843,21 +3652,15 @@ relicario de ovarios turbios...
 
 ### CORAL
 
-Kaipi
+> Kaipi \
+> wañuska \
+> llakta \
+> guaguan. 
 
-wañuska
-
-llakta
-
-guaguan.
-
-Kaipi
-
-Layka-kota
-
-### KORI
-
-CHALLWA...
+> Kaipi \
+> Layka-kota \ 
+> KORI \
+> CHALLWA...
 
 ### TRENO
 
@@ -3919,13 +3722,10 @@ Entonces: ¡llegó el incendio!
 
 ### HARAWI
 
-Elake: madre e hijo
-
-se han fundido en la raíz;
-
-y atrapado el cherekheña,
-
-le atraparon sus trinos...
+> Elake: madre e hijo \
+> se han fundido en la raíz; \
+> y atrapado el cherekheña, \
+> le atraparon sus trinos... 
 
 CII. No estoy solo; están conmigo el rayo y la tormenta. Están el
 Cherekheña y el suspiro. Gruñen dos Pumas en mi puerta. Flamea en
@@ -3933,7 +3733,6 @@ mi kharkha la Wiphala. Y si phusiris y pinkhollos aúllan como el anu,
 yo con su rayo azoto al Chullpa-tullu, a la danza le obligo y a meter en
 la suya mi tormenta. No soportó la imilla la Conquista; pero ahora
 soporta la fogata. Al alba, al medio día, en la noche, una línea india se
-
 perfila bajó el cielo y sobre el agua. Y el ala vuela satisfecha y el viento
 arde en llamarada. ¡Ala, hala!
 
@@ -3945,10 +3744,10 @@ Margacha y el Tawantinsuyu que estalla entre mis dedos.
 
 Repugno de los tibios de corazón y de los tibios de voluntad.
 
- El fuego ya me oye y la nieve me cree; si casi soy todos los
+El fuego ya me oye y la nieve me cree; si casi soy todos los
 hombres ahora que soy sólo una lágrima.
 
- Mira, en la pampa el oro de tus misikus; y en el cielo tachonada
+Mira, en la pampa el oro de tus misikus; y en el cielo tachonada
 tu laguna.
 
 Mira, el monte que trina.
@@ -3963,23 +3762,15 @@ Mira, el dolor de América, como el olor de mi hijo...
 
 ### CORAL
 
-¿Hubo que lastimar la tierra
-
-para sembrarlos?
-
-¿No bastaron el trino del agua,
-
-el árbol que trinaba,
-
-el pájaro de los trinos?
-
-Esa luz trinará,
-
-no lo dudeis;
-
-porque de garra y trinos
-
-los khoskhos fueron hechos.
+> ¿Hubo que lastimar la tierra \
+> para sembrarlos? \
+> ¿No bastaron el trino del agua, \
+> el árbol que trinaba, \
+> el pájaro de los trinos? \
+> Esa luz trinará, \
+> no lo dudeis; \
+> porque de garra y trinos \
+> los khoskhos fueron hechos. 
 
 ## PARALIPÓMENO ORKO-PATA
 
@@ -4054,7 +3845,6 @@ en Superbestia. Y entonces fácil será admitir que el amor es el instinto
 no solamente de conservar sino de realizar la especie cósmica. El
 hedonismo himeníaco, que puede hallarse manifiesto en todos los
 órdenes de la Civilización, comenzando por los religiosos, para
-
 alcanzar a los científicos, ha hecho del hombre un condón virtual (y ya
 se sabe lo que este término significa en la terapéutica del sexo; que si al
 Papa se le impuso por razones malthusianas, que no serían morales, ha
@@ -4176,7 +3966,6 @@ Vea allí que el amor cuando es amor en naturaleza, y arde, saca
 genios del témpano. Y es que amor es virtuoso en sustancia y
 constituye plenitud de un estado salubre. ¿Por qué el embrión es
 protegido contra la acción de gérmenes patógenos que hicieron presa
-
 de sus progenitores, y mientras reina en su ámbito amoroso, le
 sabremos inmune? Porque el proceso genésico será estación en que la
 materia se perenniza.
@@ -4214,7 +4003,6 @@ es, por tanto, de una "raza" fuerte.
 No ignoramos que esta institución del Inka ha sido estimada
 como signo de su barbarie. Ello no impedirá recordar que Aristóteles la
 había sostenido en indubitable modo, que es ya apodíctica: antes que
-
 amor salud. ¿No advirtió el filósofo, empero, que amor y salud son
 unívocos, que amor no abstrae la idea de salud, si, más bien, la
 involucra? Por eso mismo, conviene establecer las diferencias que
@@ -4253,7 +4041,6 @@ hace otro tanto con el pichón; y les avientan hacia rumbos opuestos
 cual si persiguiesen prohibirles toda aproximación sexual. Se les verá
 deambular por las apachetas, el ojo inquieto, tremulantes los nervios, a
 caza de signos, proximidades. Mas pronto las parejas se habrán
-
 constituído, dentro y no fuera de la ley; y allí tendremos al bello
 dominico de las chakharas ocupando puesto jerárquico en ese mundo,
 pues es el enemigo del lakhatillo que devora la simiente y precioso
@@ -4291,7 +4078,6 @@ queda otro medio que ennoblecer la carne, ennoblecer la especie, si en
 ellas habita, y es su trémolo y vibración... Un gran filósofo inglés dijo
 que toda acción racional es sencillamente un fenómeno instintivo.
 ¿Quiso decir que la razón del hombre es la razón de su destino, en
-
 tanto su destino es el camino de sus instintos? Entonces, el
 determinismo y el Fatum Vitae, no caben en las concepciones de la
 relatividad filosófica: el hombre tiene un destino, que pertenece nó a la
@@ -4371,7 +4157,6 @@ Acaso el alma no sea la sangre, mas está en ella; en sus huesos, en
 su nervadura, en suma, está en el movimiento y es el movimiento. Así
 lo siente el runa-hake; y en cuanto antropopitecos, también nosotros.
 El Chullpa-tullu posee existencia; el movimiento que originó en el
-
 cuerpo humano no ha desaparecido, si es el movimiento en sí.
 Veremos que la diez veces centenaria osatura se anima, vuela, canta,
 llora, ama, padece: vive. Pero, ¿esto no es filosofía? Ciertamente, es
@@ -4445,7 +4230,6 @@ contemplamos la belleza de un cuerpo de mujer, armonioso y elástico,
 temblamos ante el precario milagro de la muerte de que es estallido,
 pues, presto, le veremos cruelmente ofendido por los gusanos. Pero es
 que no hemos querido sentir que esa forma prístina de la osatura, es la
-
 del chullpa-tullu, la vida integral, eterna, pasional, instintiva y fértil, y
 que no esperaremos verla reproducirse en otra doncella igualmente de
 líneas pulcras y risueñas: la veremos en esa misma niña, con su ego,
@@ -4464,7 +4248,7 @@ lo que vale el intrincado y mágico mecanismo de esa máquina del
 raciocinio que fue Kant, al lado del instinto de Kant. Es que lo infinito
 sólo cabe en lo infinito, en el sentimiento, en el alma, como se estrecha
 y aniquila en el "pienso, luego existo", dentro del cual el gigantesco
-Emmanuel no sale de catecúmeno de Renato Filosofía del
+Emmanuel no sale de catecúmeno de Renato... Filosofía del
 antropopiteco: siento, aunque no exista. No le daremos la razón
 cartesiana al Tentador que pretendió coimear a Adán ofreciéndole la
 inmortalidad. ¡Somos inmortales, así nos pese, como que pesa a no
@@ -4488,7 +4272,6 @@ porque lo explique, sino porque lo siente. Vive en un constante acecho
 de la muerte, pero de esa muerte que vive, que está. Y está nó
 ciertamente en su chullpar, sino en él. No rechazaría Bergson la
 ejecutoria sensista del espeleólogo, o espeleófilo, pues para el florido
-
 filósofo de la Intuición Creadora, si actuamos es en pasado, es decir en
 cuanto sentimos la estancia. Y es que el runa-hake no se guía sólo por
 doctrinas baconianas, sino que ha asimilado a Federico Nietzsche, hace
@@ -4526,13 +4309,12 @@ maternal. Si dejo de pensar dejé de existir: pero sigo doliendo... ¡y no
 existo! No hablo porque pienso; hablo porque siento. Se sigue que
 cuando el hombre retorne de la aventura diaspórica, y se meta en sí
 mismo, porque sólo así se mete en el infinito, su naturaleza se habrá
-
 iluminado en la medida del cósmos, y su palabra tendrá el poder del
 ¡Fiat Lux!... Tendrá fetones.
 
 Vamos, anda, canta...
 
- En el estruendo del gorjeo matinal el universo se llena con
+En el estruendo del gorjeo matinal el universo se llena con
 palabra que tiene la angustiosa ansiedad del óvulo en que madura el
 germen y esa palabra se rompe en oriflamas y relámpagos solares con
 una profundidad sinfónica que deja entender que ella es un parto que le
@@ -4563,7 +4345,7 @@ Y allí, y en otra parte nó, radica la melancólica comicidad del civilizado, c
 irrealidad mentalista, para no darle calificativo más impúdico y cabal.
 Realidad, empero, de que no podrá redimirse sino come bruti.
 
- Sepa el hombre que cuanto más sea de animal su dolor, será más
+Sepa el hombre que cuanto más sea de animal su dolor, será más
 fértil, profundo y sabio, más simple y saludable y bello también. Más
 vital.
 
@@ -4605,7 +4387,6 @@ gigantomaquias tártaras o tudescas. ¿Qué pureza arquetípica relacionan
 las teologías y las egorragias cuando desbordan las verdaderas
 dimensiones del hombre? Purezas sin cósmos, sin materia. Sostiene
 Hegel que ser puro es lo mismo que no ser; y tiene toda la razón. El
-
 hombre es hombre come bruti, como naturaleza. Y es y está sólo en
 animal-humano. Epicuro, en cuanto materialista, concibió el estado
 indoloro, propio de la beatitud, o el bhodi hindú; y entre muchas de
@@ -4622,7 +4403,7 @@ la negación divina es la única manera de lograr la sustancia del sér, y
 alcanzar al Junker, al capataz, en suma al Superhombre: negación de la
 materia.
 
- La carne es mala, nos enseñan; la forma de redimirla, vejarla,
+La carne es mala, nos enseñan; la forma de redimirla, vejarla,
 mascotearla, ofenderla, crucificarla, hasta acabar con ella, que en
 faltando ella, quedará, como en el tiesto del Salmista, el oro siete veces
 colado, la intangible pureza del arquetipo.
@@ -4644,7 +4425,6 @@ tanto duele y se pudre.
 ¿Qué pasaría con la sed de cielo, y sus chicanas de pureza, de que
 el hombre siempre está en agruras, si le dijéramos: "Mira: más allá de
 ése albañil de tu carne, ya no hay más; pues afíncate en él; o
-
 desapareces"? ¿Por qué el indio llora si se vierte una gota de su sangre?
 porque esa gota de su sangre le duele como una gota de su
 inmortalidad, de la inmortalidad del sér. Crea usted que la santa tierra
@@ -4668,27 +4448,17 @@ llagas que ella hace, pues son nada más que el nido de la vida.
 
 ### HAYLLI
 
-¡Guaguay! ¡Guagualay!
-
-Un potro de ávidos ijares:
-
-mi dolor, te hizo caballero.
-
-No, debajo del potro; sobre él
-
-vienes, vencedor de la muerte.
-
-Amo el dolor con que tu amor me enciende,
-
-pues sólo así soy, naya, soy.
-
-La dolorosa ánfora de tu madre
-
-amo, pues sólo en ella estoy.
-
-Y dame el jugo de tu sangre,
-
-que es tiempo, guagüitay...
+> ¡Guaguay! ¡Guagualay! \
+> Un potro de ávidos ijares: \
+> mi dolor, te hizo caballero. \
+> No, debajo del potro; sobre él \
+> vienes, vencedor de la muerte. \
+> Amo el dolor con que tu amor me enciende, \
+> pues sólo así soy, naya, soy. \
+> La dolorosa ánfora de tu madre \
+> amo, pues sólo en ella estoy. \
+> Y dame el jugo de tu sangre, \
+> que es tiempo, guagüitay... 
 
     * * *
 
@@ -4844,7 +4614,6 @@ Cruzadas y a la sombra del lábaro de la Civilización Divina?
 Divina... ¿Todo lo contrario no será lo justo? En verdad, el esclavizamiento de un pueblo por otro, a título alguno puede corresponder
 a la Historia de la Civilización, supuesto la civilización debe hallarse en
 el ápice de las superaciones morales. Es sólo la protohistoria del
-
 salvaje; si al valernos del salvaje para caracterizar la rapiña, el
 cuatrerismo, el superhombrismo, no ofendemos la dignidad humana.
 
@@ -4883,7 +4652,6 @@ viejos son como aquél, y acaso más viejos, no se arrogan tales
 facultades. Si usted propusiera el problema al Huturi (divinidad ofídica
 del Titikaka), le creería una naturaleza desleal, que nadie, sin manifiesta
 deslealtad, concibe un dios que para hacer la vida requiere de unidades,
-
 siendo él, necesariamente, la unidad. Y luego, porque lo cree bueno –y
 un dios estará, aunque sólo por respeto a sus regalías, más allá del bien
 y del mal–, suprime algunas de ellas, seguramente porque advierte que
@@ -4923,7 +4691,6 @@ El gamonal, por quítame aquesas pajas, había arrebatado la
 cosecha de okas de un pobre indiecillo, y éste, como era de rigor, antes
 que al gendarme acudió al Layka. Y el Layka, realizada la consulta a la
 coca, acompañado de la víctima una noche acudió a la "casa de
-
 hacienda". Después de varios manipuleos mágicos en que entraba un
 bracerito alimentado con takia, dejó sumidos en profundo sueño (y
 actuaba a no menos de trescientos metros de la casa) a gamonales,
@@ -4941,14 +4708,14 @@ nuestros huesos.
 –¡Tened fe como un grano de mostaza y podréis mandar al
 monte: trasládate al mar! Y el monte obedecerá?
 
- Un día el hombre tendrá fe como un átomo, y podrá hacer y
+Un día el hombre tendrá fe como un átomo, y podrá hacer y
 deshacer el universo.
 
- ¿La fe del hombre es la fuerza de sus fetones que ha creado
+¿La fe del hombre es la fuerza de sus fetones que ha creado
 energía, poder de ser? San Agustín decía: "La sabiduría del hombre es
 la fe".
 
- Oh, flamígera cornada en la glándula pineal de Agustín,
+Oh, flamígera cornada en la glándula pineal de Agustín,
 propinada por Agustín: La sabiduría del hombre es el instinto; y el
 instinto la fe de la materia...
 
@@ -4966,7 +4733,6 @@ Además, si, como afirman tratadistas con autoridad, la ciencia no
 ha llegado a establecer la misteriosa ley a que obedece el movimiento
 de los brazos del hombre, y, en suma, la dinámica de sus impulsos, ¿no
 será lícito suponer, que un proceso atómico deflagra a diario en el
-
 hombre, y a eso llamamos voluntad, raciocinio, intuición? En todo
 caso, no veo en qué se diferencie la magia del Layka de la magia que
 permite al hombre vivir. Ciertamente, quien sea capaz de operar sobre
@@ -5005,7 +4771,6 @@ el infinito...
 CXVII. Ese "alguien" que juega con alfiles y peones en el ajedrez
 de la Pacha-mama, no es el Cristo, ni es el Layka; no es el hombre ni es
 la naturaleza. ¿Será dios? Pero, si tal juego es indigno del hombre, en
-
 tanto no hombre cómico: ¿en qué grado no será de un dios, si por dar
 rienda suelta a su bonomía vese constreñido a dejar vacíos que si algo
 constituyen es su negación? Y desde Demócrito, a Francisco Bacon y
@@ -5042,10 +4807,9 @@ instaba a decir, si, en verdad, era hijo de Dios... ¿Qué podía responder
 el sabio, si el sabio sabe que Dios no puede tener hijo alguno, no se ha
 dado en matrimonio, y es inapetente, por sustancia, y en cuanto a la
 verdad ergotista por quien indagaba el romano, es algo peor? Pudo
-
 responder: "Poncio: pueda que la verdad seas tú; yo soy el Cristo". Y
 Poncio se habría quedado, como está: restañando su piel de la sangre
-del Justo
+del Justo...
 
 Él andaba de su fe y por su fe; y nadie anda por otra causa. ¡La fe
 es una elaboración sin naturaleza física, nos viene de zonas inasibles, y
@@ -5092,7 +4856,7 @@ Luego, dice usted que suprimida esa unidad, porque así lo
 encontró "bueno" ese "Alguien"... "sobre el papel quedan las huellas de
 las suprimidas, y las que permanecen cobran su vitalidad".
 
-CXIX. Sobre el papel, sí. Pero si esto último contiende ruidosamente con su anterior afirmación. Reflexionemos Nada descubre las
+CXIX. Sobre el papel, sí. Pero si esto último contiende ruidosamente con su anterior afirmación. Reflexionemos... Nada descubre las
 nebulosidades del "razonamiento místico" tanto como su consoladora
 afirmación (que en mí constituye evidencia); pues no solamente le hace
 cometer a "Alguien" grotescas tropelías, sino que, a vuelta de hoja,
@@ -5120,7 +4884,6 @@ ya sabe usted lo que eso quiere decir en lengua aristofanesca. Nietzsche
 sostenía que "los instintos que no tienen salida se vuelven atrás; se
 tornan alma". Esto sería de una estupidez escalofriante si no
 entendiéramos que el filósofo paradojal que había en el autor del "Ecce
-
 Homo", quiso decir que en tanto vela, disfraza, sus instintos, el
 hombre se hace místico. Pero que el instinto fallido se torne alma, es
 de una monstruosidad que enloquece; como enloquecería la idea de
@@ -5151,20 +4914,20 @@ está tu ganancia; que sólo se posee eternamente lo que se ha perdido",
 escribe Kieerkegard, no sé si en sus "Pensamientos" o en su "Filosofía
 de la Angustia". Paradoja estupenda, comparable sólo a las de ese genio
 de la paradoja, mi señor don Miguel de Unamuno: "La ciencia pone el
-universo en orden". Pero bisímbolo, menos explícito que un
+universo en orden". Pero... bisímbolo, menos explícito que un
 Término romano, y con tanta tentación a la absurdidad como la
 resurrección de la carne (la inmortal) y la misma resurrección como
 valor filosófico. No menos paradójica, aunque sí más tontuela, la de
 ese Saulo pretoriano que acababa de oir en Damasco una gran voz que
 le tumbó y por miaja le rompió la oreja:
 
- – ¡Saulo! ¡Saulo!, pendejo...
+– ¡Saulo! ¡Saulo!, pendejo...
 
- (En el sentido del pendejo, que tiene nada de hamposo, y es
+(En el sentido del pendejo, que tiene nada de hamposo, y es
 castizo y linajudo, conforme lo predica y emplea el paradojista
 hispano).
 
- – ¡Saulo!... ¿Por qué me persigues?
+– ¡Saulo!... ¿Por qué me persigues?
 
 Y este judío al servicio del Pretorio, que abreva en Platón, asimila
 a Epicteto, desconoce a Heráclito, repudia a Demócrito, se platoniza y
@@ -5240,7 +5003,6 @@ orgasmo, no admite unidades ni límite. Cuando Goethe dijo:
 "Naturaleza es todo en uno", debió sentir que le definía. En verdad,
 habrá ínfima partícula de sus células que no sea síntesis en sí misma,
 como en un grano de polvo está el cósmos en sustancia y espacio, o la
-
 presencia del cósmos es inaprehensible. Einstein ha encontrado para
 éste (según los doctores afirman) la fórmula de infinito-finito. ¡Atrévete
 a entender eso, Sacha-Runa! El hombre es todo en uno, o no es.
@@ -5279,8 +5041,8 @@ los derechos del tálamo...
 Gana de hurgar el chullpa-tullu de don Miguel: ¡el teólogo
 poniendo en orden el cerebro de Dios!
 
-Esto se parece al infinito-finito de Einstein. El cuerpo desintegrado, vuelto podre y tierra de surco, al último se insume en el
-
+Esto se parece al infinito-finito de Einstein. El cuerpo desintegrado, vuelto podre y tierra de surco, 
+al último se insume en el
 abdomen del humus, y huesos acá y huesos allá, la triste carne,
 calumniada y befada, vuelve a la unidad geológica del estrato, si no
 torna a animarse en el bípedo implume. Sin embargo, ateniéndose a los
@@ -5346,7 +5108,7 @@ aún en la naturaleza humana.
 
 Hay una especie de presciencia en la tierra. Es la ahayu: la semilla.
 
- CXXII. Viéneme de memoria un cuento de Laykas, que si bien
+CXXII. Viéneme de memoria un cuento de Laykas, que si bien
 no hace al caso, ase la materia que aquí tratamos. Cierta venerable
 matrona sufría de una llaguita que, poco a poco, fue corroyendo su
 existencia, y cuando la medicina oficial se decidió por el último recurso:
@@ -5356,7 +5118,7 @@ herbolario. El Kolliri, previa consulta a Mama-Kuka, opinó por qué el
 mal debía tratarse con emplastos de barro. Nó le digo: se armó un
 batifondo hasta la raíz del árbol genealógico.
 
- –¡Someterse en este siglo a las imbecilidades de los indios!
+–¡Someterse en este siglo a las imbecilidades de los indios!
 
 Cuando se amputó la batalla estaba perdida: la venerable dama, al
 sepulcro.
@@ -5398,7 +5160,6 @@ movimiento, es decir, de la ahayu, la semilla del hombre y de la
 naturaleza. El hombre es otra cosa que Hallpa-kamaska: tierra animada.
 ¿Y en qué, y de qué, se anima el hombre? En, y de, su semilla. Ergo: la
 semilla es el movimiento redondo, y el movimiento infinito y eterno
-
 como la semilla. Se comprenderá ahora por qué todo fruto es semilla; y
 se comprenderá también que la semilla del hombre es su alma.
 
@@ -5436,7 +5197,6 @@ lógica que "nadie puede dar lo que no tiene". ¿Imagina usted lo que
 significaría que de pronto se detuvieran las Pléyades en medio de la
 lujuria universal? Si es usted capaz de imaginarlo, diga que ha
 imaginado la muerte. Pero, no podrá; porque ese punto estático en el
-
 Universo, constituiría la "negación del Universo", la "inversión de la
 materia"; y eso aparejaría el estallido del cósmos. Nada prevalece
 estático en el movimiento, ni en lo que está ocupado pueden darse
@@ -5467,52 +5227,41 @@ perder estuvo tu color...
 
 ### HAYLLI
 
-Canta tus epitalamios:
-
-¡Soy el Pez! ¡Soy el Pez!
-
-Coyunda de oro te dé
-
-el agua, collera de oro
-
-te dé el viento.
-
-¡Atlanta eres!, dirá el fuego.
-
-Y tú, desde el erizado kurmi,
-
-cantarás: ¡Soy el Puma;
-
-y tengo al Pez!...
+> Canta tus epitalamios: \
+> ¡Soy el Pez! ¡Soy el Pez! \
+> Coyunda de oro te dé \
+> el agua, collera de oro \
+> te dé el viento. \
+> ¡Atlanta eres!, dirá el fuego. \
+> Y tú, desde el erizado kurmi, \
+> cantarás: ¡Soy el Puma; \
+> y tengo al Pez!... 
 
 CXXVII. Lo haré; si ya la fértil poesía me lleva la mano a la
 paleta. Y con ella, y con Él, estuve, estuvimos, estamos y estaremos,
 inseparables, en marcha al infinito y en el infinito redondo.
 
- –¿No es éste el hijo del Carpintero? ¿De dónde la autoridad con
+–¿No es éste el hijo del Carpintero? ¿De dónde la autoridad con
 que pinta?
 
- –En verdad, os digo: mi reino no es de este mundo.
+–En verdad, os digo: mi reino no es de este mundo.
 
 ### TOKAÑA
 
-Está de las Atlántidas
-
-por lo bajo
-
-y de las Hespérides
-
-por lo alto...
+> Está de las Atlántidas \
+> por lo bajo \
+> y de las Hespérides \
+> por lo alto... 
 
 No hablo yo; quien pinta es Él.
 
 Y es que, por uno u otro lados, el hombre debe retener esta
 verdad: ¡somos inmortales!
 
- El hijo nunca muere; y si le abruma el sueño, duerme en el Padre
+El hijo nunca muere; y si le abruma el sueño, duerme en el Padre
 para en él despertar a veces al tercer día.
 
- –¡Lamma!, ¡Lamma!: ¿Sabactani?... ¡Padre! ¿Por qué me has
+–¡Lamma!, ¡Lamma!: ¿Sabactani?... ¡Padre! ¿Por qué me has
 abandonado?
 
 He aquí, en labios del Hijo del Hombre el horrendo grito de la
@@ -5524,7 +5273,7 @@ guadañas son lo real y miserable condición de su naturaleza.
 
 –¡Lamma!, ¡Lamma!: ¿Sabactani?...
 
- Afortunadamente el laberinto cretáceo de los Evangelios, que nos
+Afortunadamente el laberinto cretáceo de los Evangelios, que nos
 llegan en una maraña de contradicciones y remiendos, devuelve a ese
 grito del miedo el valor afirmativo que condice a la personalidad de esa
 afirmación sanguínea que es el Cristo. El instinto vital alcanza en él
@@ -5532,9 +5281,9 @@ afirmación sanguínea que es el Cristo. El instinto vital alcanza en él
 plenitud luminosa, cuando instruye a sus discípulos en la inevitabilidad
 de su muerte; diciéndoles:
 
- –¡Voy al Padre!...
+–¡Voy al Padre!...
 
- Quien muere va al Padre, pues no tiene otro camino que la
+Quien muere va al Padre, pues no tiene otro camino que la
 vesícula paternal. Y como fue al padre, es padre, hijo y espíritu santo,
 en el germen del hombre; por que el hombre no puede irse del
 hombre. ¿Has oído, Saulo?
@@ -5572,7 +5321,6 @@ que vuelven para sacudirla de nuevo con sus revoloteos y pipíos.
 
 Si me permite el magíster, me anticiparé para decirle que el
 esquema no es euclídico ni neoeuclidiántico, si nuestra antigüedad
-
 estelar tiene más de veinte millones de siglos, según sostienen hombres
 como Laplace o Copérnico, y se presume que por delante tendremos
 más de veinte millones; antes nuestro satélite habrá cedido a los tirones
@@ -5591,7 +5339,7 @@ La hora del infinito-finito llamará a todos los corazones.
 
 Pero, no nos espantemos: seguiremos en infinito aún.
 
- Para este caso, no olvidemos que la Pacha-Mama no es
+Para este caso, no olvidemos que la Pacha-Mama no es
 solamente este planeta católico, sí, en éter interplanetario, la que
 nuestros pulmones sustenta, y la que se columbra en la inmensidad
 abdominal, dentro la cual bogamos, es también Pacha-mama. Y
@@ -5613,7 +5361,6 @@ la semilla: dále su naturaleza en la inseminación, como él la recibió del
 suyo; o, de otro modo, le tributa sus materiales plásticos, con los
 cuales, además, le cede su alma. Entiendo que la materia plástica
 nitrogenada, cálcica, albuminoidea, acaba por ser digerida, se convierte
-
 en jugo vital, y va a completar su formación en el óvulo. El "ego" del
 padre constituirá en el hijo una célula genésica que éste deberá
 transmitir en las mismas condiciones que con él cumpliera su
@@ -5650,7 +5397,6 @@ la edad de quien lo usa; para quien no lo usa no existe. El Tiempo y el
 Espacio hacen la paralela macabra, pues se niegan. Como dice ese
 enloquecedor de la Mama Kuka: el ¡ingá! del niño, el primer ¡ingá!,
 equivale al primer segundo de su existencia. Sería poco menos que
-
 desaforado sostener que en ese momento, en tal segundo, el niño ése
 tiene un segundo de existencia. No. Es más viejo que Japeto, porque
 no es en cronómetro, sí en universo. ¿Dónde está el tiempo? Niño
@@ -5702,25 +5448,16 @@ alimentaba.
 
 ### TOKAÑA
 
-Si comes carne ángel serás;
-
-si trituras berzas, tigre.
-
-Si por los plátanos te diera,
-
-como al homo sapiens catirrino,
-
-acabarás tory y pasto inglés.
-
-Si carne de ángel prefirieras,
-
-churrascos del hígado divino,
-
-¿te moznarán diente y colmillo
-
-y la moral de hisopo y diente?
-
-¿Entiendes, Poncio, que aquí estás?
+> Si comes carne ángel serás; \
+> si trituras berzas, tigre. \
+> Si por los plátanos te diera, \
+> como al homo sapiens catirrino, \
+> acabarás tory y pasto inglés. \
+> Si carne de ángel prefirieras, \
+> churrascos del hígado divino, \
+> ¿te moznarán diente y colmillo \
+> y la moral de hisopo y diente? \
+> ¿Entiendes, Poncio, que aquí estás? 
 
 CXXXI. Nunca será despreciable el empeño que se ponga en
 decidir cómo debe alimentarse el Hijo de Dios, si hasta ahora ha hecho
@@ -5736,7 +5473,6 @@ condición de simio es devorador de frutas, y su apetencia natural no
 concibe otra carne que la del tálamo. Pero este mono platanero es
 carnívoro ya... ¿Por qué? ¿Comenzó alimentándose con hormigas,
 como el oso? ¿De gusanos y lodo como el diplodoco? Y sí comió carne
-
 y la comió cruda, por terciario que fuese, no sería la carne del
 brontosaurio, que para eso habría requerido muelas de molino y no sus
 tiernos molares destinados a romper castañas o amasar los algodones
@@ -5789,9 +5525,9 @@ su alma. Cuando el cerdo –y el macho, precisamente– devora su
 lechigada, porque la sabe enferma, o nace muerta, se restituye no la
 carne sólo: se restituye a sí mismo: el alma del cerdo.
 
- ¿Ese algo es digestivo, por tanto, orgánico?
+¿Ese algo es digestivo, por tanto, orgánico?
 
- La saliva, o ciencia de la saliva, nos dirá que el muerto es un
+La saliva, o ciencia de la saliva, nos dirá que el muerto es un
 cadáver; la sangre, o ciencia del corazón, nos dirá que no: el muerto
 sigue vivo, sin edad, en pleno uso de sus instintos. He aquí cómo entre
 algunos salvajes (a mí se hace que los salvajes no son ellos) cuando el
@@ -5811,7 +5547,6 @@ hermano de su Padre, pues –según él– el alma de su pariente se hallaba
 refugiada en el animalucho. ¿Cómo así llegaría a saberlo? El
 "civilizado" refirió el hecho con sorna suficiente; y era natural. Pero los
 sabios "civilizados" tienen obligación de "reír" menos de estos
-
 absurdos y llorar un poco por la magnitud de su ignorancia frente a la
 sabiduría de salvajes como el lapón.
 
@@ -5878,7 +5613,7 @@ enfermo", o es "la enfermedad de la tierra", como Nietzsche siente, y
 decidirse por cualquiera de esas profecías, valdrá haber puesto un pie
 en el camino de las soluciones para la tragedia humana.
 
- Acaso al hombre le falte alimentarse del hombre para superar a la
+Acaso al hombre le falte alimentarse del hombre para superar a la
 bestia intelectual que ha inventado la muerte.
 
 CXXXIII. Volvamos a la hormiga. Puesto que es la que sabe el
@@ -5892,13 +5627,13 @@ Sublime entrega.
 –¿Qué te di de mi semilla, hijo mío? No es bastante: devora mis
 huesos y mi carne. ¡Tú, eres naya!
 
- Razones cuadradas del círculo.
+Razones cuadradas del círculo.
 
- Todo esto corresponde a "cargar el presente con el pasado", que
+Todo esto corresponde a "cargar el presente con el pasado", que
 diría el barón de Leibnitz; el "conocer que somos eternos", de
 Santayana.
 
- CXXXIV. Relacionemos esta ley con nuestro problema. Si el
+CXXXIV. Relacionemos esta ley con nuestro problema. Si el
 maestro Eckhardt preguntara al indio, él tan afecto a inquisiciones de
 esta índole:
 
@@ -5940,7 +5675,6 @@ tanto secuela de mesianismo profético. ¿Pero, Marx entendía que los
 muertos mandan porque los muertos no son los vivos? En ese caso su
 pleroma búdico no poco y hasta tomista. Mas su paradoja se concreta
 ahora, puesto que podemos decir, sin anfibologías, sólo tiene autoridad
-
 el que ha muerto (por eso puede mandar) y autoridad de sabio aquél
 que sabe que el muerto es él.
 
@@ -5956,12 +5690,12 @@ muerto? No parece. Si el indio nos duele es porque nada hay más vivo
 en nosotros que el indio. Y si nada en el indio duele más que América,
 será porque sólo en el indio América está viva.
 
- Observa que al abrigo de tus alondras sapos venenosos fornican
+Observa que al abrigo de tus alondras sapos venenosos fornican
 en tu corazón: están vivos: no pueden evitarlo. Ni ellos saben morir.
 
- Somos necrademias que andan.
+Somos necrademias que andan.
 
- El "ego" unidad en cadena. Cargas vivos a tus muertos desde el
+El "ego" unidad en cadena. Cargas vivos a tus muertos desde el
 infinito. Inevitablemente eres sólo en ellos. Vivir : Imbivir.
 
 CXXXVI. No extraño que en la Isla del Waksallu se haya dado el
@@ -6011,7 +5745,7 @@ energía.
 
 Más digerible, no la lechuga.
 
- No por otra causa, el historicismo, partiendo del "padre"
+No por otra causa, el historicismo, partiendo del "padre"
 Tucídides, aunque más propio fuera partir del levítico Esdras, "ha
 llevado a la épica", invadiendo áreas místicas, y lo mismo predios de
 una acaso no siempre mala teatral del osario.
@@ -6020,7 +5754,6 @@ Historia no es de algo, sino en algo; por lo que donde falta sujeto
 no hay historia. Y será lo mismo decir que donde falta Presente no hay
 pasado; viceversa; deben coexistir, y, más propiamente, tú-eres-naya, o
 no eres. No descursaremos en la historia "tras la vena espiritual de las
-
 cosas" (Ranke) para encontrar las cabeceras del Nilo historicista, sí tras
 los sistemas arteriales, seguros de encontrar la vena espiritual en el
 caldo plasmático. "Un pasado conscientemente conservado
@@ -6034,7 +5767,7 @@ las calles de París; ni menos que el maxilar del pekinense, que diera
 para "intuir" la osatura del antropopiteco chino, suponga que le hayan
 dado carta de marear para el Futuro.
 
- La única manera de encontrar al pekinense es buscarle en la
+La única manera de encontrar al pekinense es buscarle en la
 sangre fértil de los pekinenses de hoy. De otra manera historia sería –y
 es, por infortunio– paleomanía, manía de retardados mentales; porque
 si nada, ni nadie, vive muerto, es de lógica que lo histórico sea sólo
@@ -6051,7 +5784,7 @@ descuartizado, pena; y pena en la sangre de sus areches.
 
 Ser, pues, es estar. Y así historia es lo que está, y hoy.
 
- En el hombre de hoy pára el de ayer; por lo que el "documento"
+En el hombre de hoy pára el de ayer; por lo que el "documento"
 histórico ha de revelar naturaleza, siendo condición suya capacidad
 digestiva, locomotriz y no menos germinal. De así no ser historia
 acabará retablo de Maese Pedro, ante el cual hidalgo de rocín tiénese
@@ -6089,12 +5822,12 @@ que ha hecho de él un imbécil, acabará por animalizarle. Para este
 acudan a los paracelitas, y verán que la Coca no es alimento que
 convenga a imbéciles, sino, al contrario, a semidioses, como el Inka.
 
- –¡Consolémonos: el indio se irá al fin!...
+–¡Consolémonos: el indio se irá al fin!...
 
- Apolíneo consuelo de pollinos; y séase dicho con perdón del
+Apolíneo consuelo de pollinos; y séase dicho con perdón del
 razonable rocino.
 
- ¿Con qué bisagras mentales se opera para sostener que el pasado
+¿Con qué bisagras mentales se opera para sostener que el pasado
 de la Vida no es el presente de la Vida, si sólo es Vida en cuanto está?
 ¿O es que alguien, y ella menos, puede estar sin estar? Si suprimimos el
 pasado (dado que rezongo ventral alguno lo pueda) no sólo
@@ -6120,7 +5853,7 @@ CXXXIX. ¿En qué plasma gime, crucificado, el dolor de
 América? ¿Quién el pueblo que há siglos llora sólo? ¿Cuyos lomos
 soportan el dolor del Universo, y son su doler?
 
- Ese el Salvador ofendido y humillado.
+Ese el Salvador ofendido y humillado.
 
 Si emerge en ti, pues te refirma; tu deber apretarte a su posesión;
 cerrar tras Él puertas y ventanas; no le diluyan trapizondas en tanto te
@@ -6134,7 +5867,7 @@ Y cuando te enraíce...
 
 –¡Engendra!...
 
- CXXL. Él tu pueblo, en tanto, tú, pueblo. Y aunque el genésico
+CXXL. Él tu pueblo, en tanto, tú, pueblo. Y aunque el genésico
 circular tu pueblo, tienes que acicatearle como el tábano en las rollizas
 popas al filósofo:
 
@@ -6175,7 +5908,6 @@ CXLI. Vivías de saber que sólo hay sabiduría en la fecundidad, y
 hoy vives de la fecundidad de tu infecunda sabiduría. Hay hombres y
 pueblos genésicos; mas debe haberlos, así mismo, no genésicos.
 Aquellos están en fuego; aquestos que no en hielo. De Khana-mama, la
-
 peregrina pagana, dícen la heteroma y estéril. Ciertamente, en las
 sentinas no se ven los partos de la luz. Que esta gran genésica tenga
 lupanares en el óvulo, pasa de metáfora burguesa, como –mal pese–
@@ -6195,79 +5927,52 @@ romperse desde el antropomorfo y con el antropomorfo.
 
 Es que ser en nacer.
 
-### TOKHAÑA
+### TOKHAÑA 
 
-–¿Por qué la mujer bella,
+> –¿Por qué la mujer bella, \
+> si su belleza ignora, \
+> más bella? 
 
-si su belleza ignora,
+> –Porque está en madre. 
 
-más bella?
+> –¿Por qué a sí misma \
+> la vida no se siente, \
+> y en nosotros arde? 
 
-–Porque está en madre.
+> –Porque es la parida. 
 
-–¿Por qué a sí misma
+> –¿Pero, entonces, di: \
+> algo más púdico hay \
+> que la tempestad del genio? 
 
-la vida no se siente,
+> –¡No!... Porque es \
+> tempestad de partos. 
 
-y en nosotros arde?
+> –¡Bha! ¡Bha! Todo lo sabes. \
+> Mas sabrás si el abrazo \
+> con que a Tanatos \
+> el fiero Herakles \
+> a devolver obliga \
+> la vida de la mujer casta; \
+> es el de: "¡Heliogábalo, \
+> fundador de ciudades: \
+> bebe, vive al día!... \
+> O es del que "sospechó \
+> que los dioses lloran?"... 
 
-–Porque es la parida.
+> –También llorando \
+> las mechachuwas \
+> fecundan el embrión \
+> de la Chinkhana. 
 
-–¿Pero, entonces, di:
-
-algo más púdico hay
-
-que la tempestad del genio?
-
-–¡No!... Porque es
-
-tempestad de partos.
-
-–¡Bha! ¡Bha! Todo lo sabes.
-
-Mas sabrás si el abrazo
-
-con que a Tanatos
-
-el fiero Herakles
-
-a devolver obliga
-
-la vida de la mujer casta;
-
-es el de: "¡Heliogábalo,
-
-fundador de ciudades:
-
-bebe, vive al día!...
-
-O es del que "sospechó
-
-que los dioses lloran?"...
-
-–También llorando
-
-las mechachuwas
-
-fecundan el embrión
-
-de la Chinkhana.
-
-–Entonces, abre el pico,
-
-Waksallu, y cátanos
-
-los Trenos y los Trinos
-
-de EL PEZ DE ORO.
-
-¿Treno es de tu alma?
-
-¿Su matinata puerperal?
-
-¡Símbolo de símbolos
-
-haces de Él...
+> –Entonces, abre el pico, \
+> Waksallu, y cátanos \
+> los Trenos y los Trinos \
+> de EL PEZ DE ORO. \
+> ¿Treno es de tu alma? \
+> ¿Su matinata puerperal? \
+> ¡Símbolo de símbolos \
+> haces de Él... 
 
 CXLII. En parto le dibujo porque vivo del parto y el suyo es
 parto de oro. Y si de Él vengo, es que a Él voy; lo mismo que el lloro
@@ -6275,19 +5980,14 @@ va del lodo a todo...
 
 Te instruirá.
 
-LA TOKHAÑA DEL PARTERO
+### LA TOKHAÑA DEL PARTERO 
 
-En el punto, maestro, en que tu Dolor moría,
-
-alzóse en mi su llamarada de oro.
-
-"Me ahogo –con angustiado acento me decía–:
-
-que el Khori-Puma al Titikaka me devuelva".
-
-Y des el chiara de aquel día,
-
-en el Lago semilla de su oro fue mi lloro.
+> En el punto, maestro, en que tu Dolor moría, \
+> alzóse en mi su llamarada de oro. \
+> "Me ahogo –con angustiado acento me decía–: \
+> que el Khori-Puma al Titikaka me devuelva". \
+> Y des el chiara de aquel día, \
+> en el Lago semilla de su oro fue mi lloro. 
 
 Y acá se mire, en esta mi nutrida llaga, cómo el poeta kheswa que
 le cantó con abejas indias, ha olvidado que rápsoda de su
@@ -6359,7 +6059,6 @@ Que si Puma de agua su awichu-auki; guagua de éste su tatarabuelo: el
 Puma-hokho; mas su awichitu sólo el de la Sakha. Su padre (de quien
 fuera primogénito) el gran Puma-khala. Le llamaron Khori-Puma, si
 nació, como el Renacuajo, señalado por áureo y extraño destino. Del
-
 Puma de Oro ha salido EL PEZ DE ORO, hijo de linda Sirenita del
 Lago de Arriba.
 
@@ -6392,14 +6091,13 @@ werakhocha!... Pues te daré esposa digna de ti: cásate con la Khellwa.
 Tiene voz de tiple, es blanca, hermosa y su huevera fértil”. “¡No, no,
 tatalay (fremitó el Puma): la Khellwa es una bulliciosa airada, te cultiva
 poco cariño y es de las de mitra manirrota. Si me dieses esposa entre
-tus humildes Kheñulas... tal vez Pero, nó: tampoco, tampoco... La
+tus humildes Kheñulas... tal vez... Pero, nó: tampoco, tampoco... La
 Kheñula permanece en el agua breves instantes, los necesarios para
-
 atrapar al Ispi, y como es tan debilucha escapa pronto. Deseo esposa
 hogareña que anide en el lodo de tus hermosos palacios”.
 
 Vers. 8. “Khori-Puma, difícil complacerte. Tengo mi pobrecita
-Moksa... Pero vive lejos, al otro lado de mis ojos. Mírala” Y el Lago
+Moksa... Pero vive lejos, al otro lado de mis ojos. Mírala...” Y el Lago
 de Arriba le dijo: “Aquí tengo hija digna de ti; mas por ella tienes que
 pagarme con algo más que tu cariño, y luego prendarme tu vida si
 quieres cargar con ella”.
@@ -6410,7 +6108,7 @@ Warawarani del Lago de Arriba.
 Vers. 10. Acudió presto el felino a vaciar entre los silicatos de la
 arena su chuspa de enamorados sílices, que allí crepitaron sus arrobos:
 “¡Mi vida es tuya, Titikaka, tatay: dámela! Comprendo que era por sus
-dos oriflamas que tanto mis oros te lloraban”
+dos oriflamas que tanto mis oros te lloraban...”
 
 Vers. 11. “¡Ella habrá de parirte (farfullaron los oleajes) al Hijo
 Inmortal; el primero que sepa de dónde vino y va donde sólo para Él
@@ -6430,7 +6128,6 @@ del Lago de Arriba, tan de oro como su padre, si bien no como él de
 oro desmemoriado. Y tánto le quería, y tánto le quiere ahora, que vez
 le dijo: “Tienes que ir al Cielo de Abajo, y llorar a mi vieja Chullpa
 hasta que cielo con ola se vierta de tu lágrima. Cuando del Lago de
-
 Arriba baje puñado de Lodo Ardiente, tira el anzuelo; y péscame. ¡Yo
 vivo, Tata-Puma, en la espina de la niña de tus ojos!”
 
@@ -6450,36 +6147,27 @@ Vers. 18. La Coral del Hallu-grito entanto haruñaba:
 
 ### WAYÑUSIÑA
 
-¡Ni el ñuñu de fuego
-
-de la tawaku
-
-quiero; ni la fría leche
-
-de la estrella
-
-espero!
-
-¡Ellas, y el ojo
-
-de las Khawras,
-
-serán para mi guagua,
-
-que ya viene...
+> ¡Ni el ñuñu de fuego \
+> de la tawaku \
+> quiero; ni la fría leche \
+> de la estrella \
+> espero! \
+> ¡Ellas, y el ojo \
+> de las Khawras, \
+> serán para mi guagua, \
+> que ya viene... 
 
 Vers. 19. Día en el lacrimal peinó pestaña el iris de sus ojos...
 Cintarajos esmeralda crecían en los bofedales; en el bofedo anidaron la
 Khewlla, el Phana, las Unkhallas. Ovaron Ispis, Suchis, Khonos...
 Tremularon thusas de tiernos verdes en su líquida estancia; viejas
-
 doradas thusas panzudas, hasta el garagato cargadas con papas imillas,
 rukhis y phorekhas, le abrieron llagas en la ola...
 
 Vers. 20. Mas del Lago de Arriba tardaban en mandar el ardiente
 puñado y el oro debía seguir aterrado con el lodo.
 
- Vers. 21. Awichitaja de los Chullpas, tras su labio, le rrurruaba:
+Vers. 21. Awichitaja de los Chullpas, tras su labio, le rrurruaba:
 "¡No llores, Khori-Puma: voy a parir!"...
 
 Vers. 22. Aquél que por su lloro fue trajeado, tenía ya otro oficio
@@ -6507,64 +6195,41 @@ Y majestuosa se alzó la artillería del Hallu-grito:
 
 ### ALBARUKÓRAL
 
-Los ojos resplandecen ya del Suchi.
-
-Ya mis lodos le croan en los ojos.
-
-Niña Ardiente inflámase en el lodo.
-
-Crece el Todo del Oro con su Lodo;
-
-y estalla en lodo el lloro de su oro.
-
-¿Qué la siembra espera de EL PEZ DE ORO?
-
-¿qué el anzuelo del Puma, qué la Khesti,
-
-si en el ojo del Lodo es trino el Oro?
-
-Y, cabe el Lago que guarda los Chullpares,
-
-el Príncipe Suchi de los Challwas,
-
-incendia garras del Puma con su oro...
+> Los ojos resplandecen ya del Suchi. \
+> Ya mis lodos le croan en los ojos. \
+> Niña Ardiente inflámase en el lodo. \
+> Crece el Todo del Oro con su Lodo; \
+> y estalla en lodo el lloro de su oro. \
+> ¿Qué la siembra espera de EL PEZ DE ORO? \
+> ¿qué el anzuelo del Puma, qué la Khesti, \
+> si en el ojo del Lodo es trino el Oro? \
+> Y, cabe el Lago que guarda los Chullpares, \
+> el Príncipe Suchi de los Challwas, \
+> incendia garras del Puma con su oro... 
 
 Vers. 25. Diluvia urpilas el Lago de Arriba; aflora en beso la
 Ardiente Niña en el Cielo de Abajo.
 
 ### CORAL
 
-¡Piupiu-titit!
-
-¡Piupiu-titit!
-
-¡Piupiu-titit!
-
-¡Piupiu-titit!
-
-¡Piupiu-titit!
+> ¡Piupiu-titit! \
+> ¡Piupiu-titit! \
+> ¡Piupiu-titit! \
+> ¡Piupiu-titit! \
+> ¡Piupiu-titit! 
 
 ### HAYLLI
 
-¡Khocha, Khocha-mama!
-
-EL PEZ DE ORO
-
-Challwa de tu oro es,
-
-embrión del Puma
-
-de tu Chullpar;
-
-del Champi muerto,
-
-lágrima viva.
-
-¡Khocha, Khocha-mama:
-
-abre tu ñuñu verde
-
-al oro de su lloro!
+> ¡Khocha, Khocha-mama! \
+> EL PEZ DE ORO \
+> Challwa de tu oro es, \
+> embrión del Puma \
+> de tu Chullpar; \
+> del Champi muerto, \
+> lágrima viva. \
+> ¡Khocha, Khocha-mama: \
+> abre tu ñuñu verde \
+> al oro de su lloro! 
 
 Vers. 26. "¡Bendito serás (díjole la Madre Tierra, y al són de sus
 tímidas lenguas); bendito serás por los Siglos de los Siglos, KhoriPuma, porque en tus ojos ha parido la Niña de mis Oros!".
@@ -6583,21 +6248,15 @@ danzando al encuentro del Challwa de Thokhes y Kheñulas...
 
 ### CORAL
 
-¡Khaipi,
+> ¡Khaipi, \
+> el Hijo \
+> de la patria \
+> muerta! \
+> ¡Khaipi, \
+> Khori-Challwa, \
+> guagua-chullpa!... 
 
-el Hijo
-
-de la patria
-
-muerta!
-
-¡Khaipi,
-
-Khori-Challwa,
-
-guagua-chullpa!...
-
- Vers. 28. Gracia de ola rizaba el totoral; tiernos plañidos besaban
+Vers. 28. Gracia de ola rizaba el totoral; tiernos plañidos besaban
 en la espuma...
 
 Vers. 29. Encabritóse el anzuelo y fuése a hundir en lo no
@@ -6610,7 +6269,6 @@ Vers. 30. Le arrurraba en el regazo, cuando en el miski-ñuñu
 abriéronse yemas lácteas; del Khori-Puma ululó el auricanoro Hallugrito, despertó el Sol –Tata-Lupi–, a tales horas akhollpachado en sus
 nocturnas llikllas, con sangrientos asombros, al mirar el Ñuñu del
 milagro, irguió la cabeza esplendente, escapáronsele fogaradas de los
-
 ojos; sus respiros encendieron el Lago de Arriba; y luego ardieron
 pampas, khollos, phutus, Chullpa-tullus y Chullpares... Ciertito, vieran:
 al fiero Waksapata, que en un ¡OOOO! de Chinkhana viera caer vivo
@@ -6639,7 +6297,7 @@ Aurora, ululantes espadas de Phusiris tasajearon el viento.
 Vers. 34. "¡Khori-Challwa!... ¡Mi Khori-Challwa!... Inkábanle
 guagüítas en la ola y ya del corazón se le salía su llokhallito khalatito...
 
- Vers. 35. Con su vuelo redondo EL PEZ DE ORO zambullóse
+Vers. 35. Con su vuelo redondo EL PEZ DE ORO zambullóse
 en los ojos de su Lago.
 
 Vers. 36. Entre oríficos tizones, en el Lago de Arriba, guiñaba la
@@ -6705,10 +6363,10 @@ allí donde hacinan necesidades con voluntad melódica, pronto la
 creatura toma carnatura de timbal y retiñe y anda. Eso EL PEZ DE
 ORO en el plasma unigénito.
 
- No conoce molicie en el sueño; desconoce molicie en la carroña.
+No conoce molicie en el sueño; desconoce molicie en la carroña.
 También en ellos es inka e ¡inká!:
 
- –¡Duele, duele; y engendra; y pelea; y haz tu guerra; y sangra! Mas
+–¡Duele, duele; y engendra; y pelea; y haz tu guerra; y sangra! Mas
 dejes que te areche el penssiero... Duele más, más, y engendra.
 
 Si acudiésemos a imponerle pensar replicaría su llorar; que Él no
@@ -6739,29 +6397,18 @@ tiempo. Alguien en tu corazón porque le oigas llora... ¡Óyele!...
 
 ### TOKHAÑA
 
-Tiene que ser arpegio de tu carne,
-
-El, que salmodia al Lago de Arriba, toda
-
-vez que del Cielo de Abajo te repiten
-
-que en ti se añuda el alma con las almas.
-
-Y que allí, donde crees que te mueres,
-
-es que estás naciendo para henchirte
-
-de la sangre en perenne melodía.
-
-Y hoy, lo mismo que ayer, y que mañana.
-
-Pues, en ti, el discontinuo, no bien
-
-cierra el Lago de Arriba ventanales,
-
-abre el Cielo de Abajo su ventalle.
-
-Tu monodía múltiple, porque es eje...
+> Tiene que ser arpegio de tu carne, \
+> El, que salmodia al Lago de Arriba, toda \
+> vez que del Cielo de Abajo te repiten \
+> que en ti se añuda el alma con las almas. \
+> Y que allí, donde crees que te mueres, \
+> es que estás naciendo para henchirte \
+> de la sangre en perenne melodía. \
+> Y hoy, lo mismo que ayer, y que mañana. \
+> Pues, en ti, el discontinuo, no bien \
+> cierra el Lago de Arriba ventanales, \
+> abre el Cielo de Abajo su ventalle. \
+> Tu monodía múltiple, porque es eje... 
 
 La nota sólo en cuanto vibra; el hombre sólo en cuanto vibra; el
 hombre sólo en cuanto vive. Nunca el paso pasa: traspasa. Pisa y pasas;
@@ -6857,7 +6504,6 @@ Su mansa resignación y la teja con que limpiaba las coriasas del
 pus, y el mismo muladar que le dieron por habitación, eran tan
 humildes como su lágrima; si por cada pústula que le rompía la carne,
 fluyéndole pestilencia y gusanos, bendecía al Señor por ese suave
-
 ejercicio de la bondad con que le blandía. Pero tanto hincó en su
 mansedumbre la hija de Berrachael, instándole a rebelarse contra el
 fementido amo que así hería con hedores y podre al más generoso y
@@ -6872,7 +6518,7 @@ amargura!...
 
 Y el ancho alarido llegó al cielo.
 
- De lado los simunes de su arábiga naturaleza, su Dios, en vez del
+De lado los simunes de su arábiga naturaleza, su Dios, en vez del
 Vicariato que delegó a Satanás para que le hincara con sus horcas de
 triguero protervo, demostrando que los dioses buenos son capaces
 también de la bondad de la bestia, pudo amonestarle:
@@ -6885,17 +6531,12 @@ tu Señor ha matado al Santo Leproso.
 
 ### HAYLLI
 
-Un día, en los meteriosos ideoplasmas,
-
-todo esto estará escrito.
-
-Y se leerá, además,
-
-que si el dolor las átomos de la chullpa
-
-destroza, es porque en ella,
-
-el Hijo llora, y se sustancia...
+> Un día, en los meteriosos ideoplasmas, \
+> todo esto estará escrito. \
+> Y se leerá, además, \
+> que si el dolor las átomos de la chullpa \
+> destroza, es porque en ella, \
+> el Hijo llora, y se sustancia... 
 
 <hr>
 
@@ -6924,35 +6565,23 @@ Trinos que rizan arreboles.
 
 ### WAYÑUSIÑA
 
-Cuando en ti mi carne florecía,
-
-danzaba, Flora, hijo mío.
-
-Ya del Otoño astroso, sus nieves
-
-y sus canas astíl cansado, hastía
-
-nuestros árboles; y, purpúrea
-
-mariposa, la vencida hoja
-
-purpura mi calvario...
-
-¿Cómo, pues, faltarme, si eres
-
-el que si se va se ha ido nunca?
-
-En sangre, en oro y lágrimas,
-
-aflore de su flor EL PEZ DE ORO
-
-¡Vuélvame su relámpago!...
+> Cuando en ti mi carne florecía, \
+> danzaba, Flora, hijo mío. \
+> Ya del Otoño astroso, sus nieves \
+> y sus canas astíl cansado, hastía \
+> nuestros árboles; y, purpúrea \
+> mariposa, la vencida hoja \
+> purpura mi calvario... \
+> ¿Cómo, pues, faltarme, si eres \
+> el que si se va se ha ido nunca? \
+> En sangre, en oro y lágrimas, \
+> aflore de su flor EL PEZ DE ORO \
+> ¡Vuélvame su relámpago!... 
 
 # PACHAMAMA
 
-Creen que vine del cielo.
-
-Colón
+> Creen que vine del cielo. \
+> _Colón_ 
 
 ¿Y si de allí nó, Cristóforo: de dónde? Qué genial el marino... Los
 Kanibas le habían dicho que vino del cielo, y era lo sensato, silogístico,
@@ -6987,7 +6616,6 @@ ser el descubridor.
 Héle ahí echado a que las aguas le aguanten o se haga al tamaño
 del mundo que habría de caerle. Hacia el Oeste humores auríferos
 fermentaban y hacia ellos las naves eran impelidas con la ansiedad de
-
 quien ya tiene otra fe que su fe; que si no le bastaran wikingos,
 sumerios y fenicios, Marco Polo le dijera que por ese camino
 encontraría a Zipango, el maestro Paulo Toscanelli, que por ahí toparía
@@ -7018,7 +6646,7 @@ relampagueante, Tata-Lupi, soltaron sus voces roncas:
 
 Y nó: era oro...
 
- Allí el aire tomó gusto dulce y "sabroso", y "diz" que sólo
+Allí el aire tomó gusto dulce y "sabroso", y "diz" que sólo
 faltaban los trinos del Cherekeña de Orkopata, para ver que sobre la
 mar danzaban los Huturis.
 
@@ -7026,7 +6654,6 @@ Mas, si, presto seguido de víboras de fuego, se alejara EL PEZ
 DE ORO, y de nuevo se hiciera apretada la niebla, cabe ella,
 diferenciaron el deleite perlino de tres avecicas que cherekeñaban. Pero
 cuando en la borrosa lontananza se anunció la Aurora, las avecicas se
-
 habían esfumado. Por un "pedazo" del día la superficie se mostrara
 barrida; no se verían flotar "hierbas ni juncos", aunque luego juncos y
 hierbas fueran más y más espesos. Una tortolilla les mirara con
@@ -7037,17 +6664,17 @@ Y tierra no era: era EL PEZ DE ORO.
 
 Y fueron los descubridores...
 
- Alzaran un junquillo de las aguas, le miraran, una y otra vez, no
+Alzaran un junquillo de las aguas, le miraran, una y otra vez, no
 poco estupefactos, si por enchapes, y rubís, y esmeraldas, coligieran
 que la insignia era del Warayok de Kanidia, adelantando regio de su
 estupenda presencia. ¡Y nos han descubierto!
 
- –¡Allí están ellos! –pensaba, dentro el Almirante, otro, otro,
+–¡Allí están ellos! –pensaba, dentro el Almirante, otro, otro,
 perspícuo y nada bobo–: ¡Allí están!
 
- Y, luego:
+Y, luego:
 
- –¡Mira, Cristóforo: todo esto a cuenta de que agarraron los
+–¡Mira, Cristóforo: todo esto a cuenta de que agarraron los
 badajos, y presto oiremos campanas!
 
 Rodrigo de Triana, que velaba en el castillo de La Capitana, de
@@ -7057,7 +6684,7 @@ auroraba, le rompió su luz a la luz. Mas, así como la estrella a él le
 
 –¡Dicen que viene del cielo! Decires, Almirante.
 
- Elake, pues; la noche de nuevo. La mar se extendía bajo el palor
+Elake, pues; la noche de nuevo. La mar se extendía bajo el palor
 de la Warawarani, el marino no quitaba el ojo de la estrella; y ya
 advirtió que el sextante se emborrachaba, temblando, perdido rumbo, y
 que si no el sextante la estrella mareaba.
@@ -7076,7 +6703,7 @@ muerto soy.
 
 ¡Zipango! ¡Gran Khan! Y ya pisaba el Imperio del Kaníbal.
 
- –¡Dios santo! ¡Dios de Booz y de la Moabita!... Están allá: lo
+–¡Dios santo! ¡Dios de Booz y de la Moabita!... Están allá: lo
 Siento. Y si no me salvas, doy con "suas" huesos– pensaba el de
 adentro.
 
@@ -7098,17 +6725,16 @@ señoras que allá nunca hobieron, que si vestidos anduviesen serían tan
 blancos como en España" los kanidios. Pero van "desnudos como su
 madre los parió" y son "multidumbre" de pueblos de ánimos "tan
 medrosos, que diez hombres harían fuir a diez mil"; "no tienen secta ni
-
 son idólatras, salvo mansos" y sin saber qué sea mal ni matar a otros; y
 cuando a algunos degüellan, y se los comen, y su sangre beben, no
 entienden pecar. Más allá de Baneke, viven hombres de un solo ojo, y
 otros con hocico de gozques. Y éstos sí son malos y cortan su "natura"
 a los vencidos.
 
- Cristóforo por traer la cruz del SEJHESUA se aventura y
+Cristóforo por traer la cruz del SEJHESUA se aventura y
 cristianar el oro es su menester.
 
- –¡Almirante: a Baneke! Que estais muy cerca de la fuente; y N.S.
+–¡Almirante: a Baneke! Que estais muy cerca de la fuente; y N.S.
 habrá de revelaros e INRI donde "nasce" el INTI.
 
 ¿Estáis de acuerdo ya en que el INTI descubrió el alma del
@@ -7135,21 +6761,20 @@ ellos Cristóforo y los suyos llegaron a la América.
 Qué nimio error para la madre omnímoda. Pero es que esta gran
 madre no siempre sabe lo que se hace. Así, cuando en el fondo de los
 mares se agitó una intención de corpúsculo organizado, la luz había
-
 partido de Antares, y de Antares no acabará de llegar, cuando el
 corpúsculo del limo ha redimido los pecados del mundo, es ya el
 Creador de la Creación. Y, ella, no obstante en su carne se operaba el
 milagro, lo ignora todavía.
 
- En lo estuoso de los siderales desiertos algún Colón descubre
+En lo estuoso de los siderales desiertos algún Colón descubre
 estrella, y afirma a ceño enjuto que pertenece a sistema celeste alguno.
 
- –¡Una nova en el cielo! ¡La más diminuta y brillante que descubre
+–¡Una nova en el cielo! ¡La más diminuta y brillante que descubre
 el triángulo de la triangulación del Universo!
 
- Ingenuas ufanías.
+Ingenuas ufanías.
 
- Todo lo que allí pasó fue que la nova descubrió a su descubridor,
+Todo lo que allí pasó fue que la nova descubrió a su descubridor,
 cuando, a la gineta del ojo celeste, iba perdido en los ahogos de las
 arenas estelares. Aquí estaba Baneke, y como vio al marino entre
 espada y pared, piadosamente le salió al encuentro.
@@ -7176,19 +6801,13 @@ Almirante habían de venir.
 
 ### HAYLLI
 
-Sábete felíz si en el reparto
-
-de dones y trabucos
-
-de la cristiana encrucijada.
-
-ta ha cabido ahayu atlanta.
-
-que en los entresijos no se pierda;
-
-si descubrir descubridores,
-
-fue todo el laykakuy de los Laykas.
+> Sábete felíz si en el reparto \
+> de dones y trabucos \
+> de la cristiana encrucijada. \
+> ta ha cabido ahayu atlanta. \
+> que en los entresijos no se pierda; \
+> si descubrir descubridores, \
+> fue todo el laykakuy de los Laykas. 
 
 Y adelante con la Pachamama, y osados con ella, que es mujer y
 ama la violencia.
@@ -7245,7 +6864,7 @@ Habría mal creído de la solicitud de madre; pero en la
 Pachamama caben las folliscas. Y era Otoño, y la veía cargada de
 melones.
 
- Echado de panza no cesaba de recriminar al astro; que un friecito
+Echado de panza no cesaba de recriminar al astro; que un friecito
 burlón me iba dando carne de gallina, y cuando con tales travesuras
 viene el friecito de la Altipampa, parece que el Sol está obligado a
 guagualearnos, pues para algo es Él, como tú-eres-naya.
@@ -7281,7 +6900,7 @@ saben que el cuchillero del viento las despabilará, y ascienden,
 recelosas, cobran las cumbres, se phuiskan en los picachos, donde
 enamorado rubor las ayrampa la mejilla.
 
- Quien de estas alturas sea capaz, vivirá como el Mayku-Khunturi
+Quien de estas alturas sea capaz, vivirá como el Mayku-Khunturi
 entre los besos y arrobos de las khenayas...
 
 Pero, he aquí: el Mayku-Titikaka no está para tutías, y no bien ve
@@ -7311,10 +6930,10 @@ Qué sinapismo de piojos el de Tata-Lupi entonces.
 
 En pleno lampo solar Venus cabrillea.
 
- La estrella, siempre la estrella; lo que nos acredita que somos
+La estrella, siempre la estrella; lo que nos acredita que somos
 estrellas, vivimos en estrella, y nos esperan en la estrella.
 
- –Creen que vine del cielo...
+–Creen que vine del cielo...
 
 Pobre Almirante. Cuán más sabio le fuera haber dicho:
 
@@ -7325,15 +6944,15 @@ De la batea se alzaba vaporcillo de jabón ablandando los
 carmines de la mama; y yo temblaba, como el talluelo de la enea, pues
 de quererlo ese vaporcillo de jabón me quitaría el Sol.
 
- –¡Es curioso tu frío, Khori-Puma –haruñaba madre–: tengo
+–¡Es curioso tu frío, Khori-Puma –haruñaba madre–: tengo
 metidas las manos en el agua, y me queman.
 
- La rogué con un gruñido:
+La rogué con un gruñido:
 
- –¡Échala, madre! ¡Échala!... ¿No comprendes? Se hará nubes.
+–¡Échala, madre! ¡Échala!... ¿No comprendes? Se hará nubes.
 ¿Por qué no la echas a otro rincón del Zodíaco?
 
- Madre tan no vaciló, que pronto la espuma de su batea estuvo en
+Madre tan no vaciló, que pronto la espuma de su batea estuvo en
 las Cabrillas.
 
 Y luego, con esa dulzura maria, tan suya, extendió en el cordel las
@@ -7347,7 +6966,7 @@ mejor, engarzados en Mirya.
 
 La nubecilla boyaba en las atmósferas.
 
- Libre de nubes de jabón, el Sol, su joyante cáscara de nuez
+Libre de nubes de jabón, el Sol, su joyante cáscara de nuez
 achicharraba en el abismo, doraba el plumón de las aves, granizaba
 abejas de miel. Y de esta guisa, hasta el mestizo patiecito cargado de
 begonias, en mansas oleadas llegaba el resuello del Universo. Y el
@@ -7357,48 +6976,37 @@ regusta el divino picor.
 
 No lejos hervía argénteo el Tata-Titikaka.
 
- Elake, que cuando advertí del piojo el sinapismo cada vez más
+Elake, que cuando advertí del piojo el sinapismo cada vez más
 quemante acercarse al hígado, bendije esta sublime autoridad universal.
 Y la adoré en runrunes:
 
 ### HARAWI
 
-¡Qué bien lo haces,
+> ¡Qué bien lo haces, \
+> mama Margacha! \
+> ¡Qué bien lo haces, \
+> María, madre mía! 
 
-mama Margacha!
-
-¡Qué bien lo haces,
-
-María, madre mía!
-
-Y ya ella me arrullaba:
+Y ya ella me arrullaba: 
 
 ### EIRAY
 
-Puma-yunta!
-
-¡Arrurrú,
-
-Komer-khenti!
-
-¡Arrurrú,
+> Puma-yunta! \
+> ¡Arrurrú, \
+> Komer-khenti! \
+> ¡Arrurrú, 
 
 Y brindóme el pezón, donde, un día (días, ay, que no olvidará el
 lobezno), para mí, de su ñuñu, fluyó la miel.
 
 ### EIRAY
 
-¿Te importunaban
-
-Khenayas,
-
-mi corazón?
-
-¿Te toreaban
-
-waka-tokoris,
-
-sonkoimi?
+> ¿Te importunaban \
+> Khenayas, \
+> mi corazón? \
+> ¿Te toreaban \
+> waka-tokoris, \
+> sonkoimi? 
 
 Y, como, desmelenado, no respondiera a tan dulce complicidad,
 que no hay quien responder pueda preguntas como ésas, si nacieron
@@ -7437,29 +7045,18 @@ que contiende ya es en ella.
 
 ### HAYLLI
 
-Yo pienso; En la inmensidad
-
-ellos corren. hervimos.
-
-Reposo yo; Nos dan energía;
-
-ellos engendran. energía damos.
-
-Corriendo, Soy astro,
-
-estoy quieto; asteroide,
-
-engendrando, árbol soy
-
-me engendran. y soy líquen.
-
-Ellos lujuria;
-
-Somos lo estático yo la esperma
-
-que late que incendia
-
-estético. la caverna...
+> Yo pienso; En la inmensidad \
+> ellos corren. hervimos. \
+> Reposo yo; Nos dan energía; \
+> ellos engendran. energía damos. \
+> Corriendo, Soy astro, \
+> estoy quieto; asteroide, \
+> engendrando, árbol soy \
+> me engendran. y soy líquen. \
+> Ellos lujuria; \
+> Somos lo estático yo la esperma \
+> que late que incendia \
+> estético. la caverna... 
 
 ¿Esta fuerza se gobierna por quién, y hay gobierno; y Naya es
 Nada, o es Todo ? ¿Naya es causa? ¿Algún día reflexionará al átomo y
@@ -7480,7 +7077,7 @@ desea, está en parte alguna. Es sólo deseo en el átomo.
 
 –¡Tierra, mamitay!
 
- Mi deseo eres tú, María, estrella mía; y tu deseo fue tu yoka, que
+Mi deseo eres tú, María, estrella mía; y tu deseo fue tu yoka, que
 es tu estrella deseada. Presumí un paseo a la Kanidia, y allí vi a
 Cristóforo llevando el oro de Zipango en la nariz; y que en
 amaneciendo se "fué a tierra a marear con las naves armadas", pues el
@@ -7490,7 +7087,7 @@ llora. Y así los Kanidios le esperan, no ya medrosos, sino con bosques
 de arcos y de flechas; y él sabe asentarse en la tierra fatigado cuando ya
 la mar se ha fatigado con él.
 
- Pobre Almirante...
+Pobre Almirante...
 
 –¿Y qué deseas, ahora, Cristóphoro Colombo?
 
@@ -7501,18 +7098,18 @@ hematomas y cadenas, suspiró:
 
 –¡Vencerás, Christóphoro Colombo!
 
- Mas, nada acedo, bailando marineras me interné en la Kanidia
+Mas, nada acedo, bailando marineras me interné en la Kanidia
 tras el Gran Khan; que há cuatro horas desparecieran dos atarrayeros
 de Vigo, no trajinados y muy sabrosos. Y al Khan se los recetaran por
 "milicina" para templar el vigor que iba escaseando en sus partes.
 
- –¡Khan... Ka...! ¿Por qué la menanconía añubla tu santa
+–¡Khan... Ka...! ¿Por qué la menanconía añubla tu santa
 impavidez? ¿Es que piensas ya, Khan? Di: ¿qué deseas?
 
- Y pensando que los marineros poco digeribles eran y que há
+Y pensando que los marineros poco digeribles eran y que há
 cuatro horas se le indigestaban en la conciencia, suspiró:
 
- –"¡Vencer!"...
+–"¡Vencer!"...
 
 –¡Lo mereces, Khan... Ka...! ¡Pero, para asegurarte la victoria y
 conciliarla con tus conceptos de paz universal (si eso se puede comer
@@ -7543,45 +7140,26 @@ vertiginosos giraba la phuiska de fibra menuda.
 
 ### HARAWI
 
-¡Hila, hila, guagualay!
-
-Más que sabio fue bueno
-
-quien el kaitu inventó.
-
-El que sabe hilar
-
-tiene la fuerza.
-
-Para hacer cordel de tu vida,
-
-reúnete cordel.
-
-De tu sangre saca el hijo,
-
-si en tus nervios está
-
-y en tu hueso.
-
-Bronco será el primero.
-
-Pero, otro hilito bronco sacarás,
-
-y otro, otro, y otro.
-
-¿Los kaitus de tu carne no ves?
-
-Y nada más kaitu que tu carne.
-
-Si entiendes el harawi,
-
-fuertes serán tus kaitus.
-
-¡Hila; hila, guagualay!
-
-¿Acaso de tu corazón
-
-Kaitu no soy?
+> ¡Hila, hila, guagualay! \
+> Más que sabio fue bueno \
+> quien el kaitu inventó. \
+> El que sabe hilar \
+> tiene la fuerza. \
+> Para hacer cordel de tu vida, \
+> reúnete cordel. \
+> De tu sangre saca el hijo, \
+> si en tus nervios está \
+> y en tu hueso. \
+> Bronco será el primero. \
+> Pero, otro hilito bronco sacarás, \
+> y otro, otro, y otro. \
+> ¿Los kaitus de tu carne no ves? \
+> Y nada más kaitu que tu carne. \
+> Si entiendes el harawi, \
+> fuertes serán tus kaitus. \
+> ¡Hila; hila, guagualay! \
+> ¿Acaso de tu corazón \
+> Kaitu no soy? 
 
 Hilar, hilar en la rueda de la estrella, de que procedo, y en que me
 contengo. Un día, para volver a la Warawarani, fugaré de la
@@ -7591,72 +7169,47 @@ chullpares.
 
 ### HAYLLI
 
-¡Nunca mirarás,
-
-guagualay,
-
-si no es con tus ojos,
-
-guagualay!
+> ¡Nunca mirarás, \
+> guagualay, \
+> si no es con tus ojos, \
+> guagualay! 
 
 Con los ojos terrizos en que toda visibilidad es agua, con los que
 ahora me limpias en la sangre, madre.
 
 ### KOTUSANKA
 
-Melancólico parpadeo;
-
-fogón de brasa fría.
-
-¿Cuántas marró mi estrella
-
-sus fuegos
-
-sin saber que eras la brasa?
+> Melancólico parpadeo; \
+> fogón de brasa fría. \
+> ¿Cuántas marró mi estrella \
+> sus fuegos \
+> sin saber que eras la brasa? 
 
 ### KHATARI-PAKA
 
-Sierpe oscura,
-
-fulges siniestra
-
-claridad,
-
-enamorada del que llora
-
-y del chaiñita
-
-muerto.
-
-Fulges, sierpe luminosa,
-
-y no agosto tus agostos.
+> Sierpe oscura, \
+> fulges siniestra \
+> claridad, \
+> enamorada del que llora \
+> y del chaiñita \
+> muerto. \
+> Fulges, sierpe luminosa, \
+> y no agosto tus agostos. 
 
 ### WIPHALATAKATA
 
-¿Quién te agitó si no la thaya?
-
-Te agitó para que ondearas
-
-clamando en la batalla
-
-En lo más cenceño de la muerte,
-
-eres wiphala de los chullpares.
-
-Nunca viento fue tuyo
-
-que no fuera viento de la batalla.
-
-¡Agítate, Wiphala takata!
-
-Ya cota de sangre al Chullpa-tullu
-
-le arma, y su pupila late.
-
-Que ondee tu oriflama
-
-y rompan su grito los volcanes.
+> ¿Quién te agitó si no la thaya? \
+> Te agitó para que ondearas \
+> clamando en la batalla \
+> En lo más cenceño de la muerte, \
+> eres wiphala de los chullpares. \
+> Nunca viento fue tuyo \
+> que no fuera viento de la batalla. \
+> ¡Agítate, Wiphala takata! \
+> Ya cota de sangre al Chullpa-tullu \
+> le arma, y su pupila late. \
+> Que ondee tu oriflama \
+> y rompan su grito los volcanes. 
 
 Los que veis ahora son los ojos del Khawra, el de mirada
 fosforescente. No el Caballo del Centauro; es el enterrador que volvió
@@ -7670,17 +7223,12 @@ cintila la Corona Austral en la frente del brujo: Layka-pillu.
 
 ### PUMA-YUNTA
 
-Blande colmillos fúlgidos
-
-la pareja felina;
-
-que ya los surcos
-
-se colman de flores,
-
-ya los frutos se colman
-
-de trinos...
+> Blande colmillos fúlgidos \
+> la pareja felina; \
+> que ya los surcos \
+> se colman de flores, \
+> ya los frutos se colman \
+> de trinos... 
 
 Madre me ordenó henchir el santo germen del silencio, pues el
 que germina debe ser silencioso. Así su telepatía fue tokaña de estrellas,
@@ -7688,98 +7236,64 @@ una para cada día de la noche.
 
 ### CHIO-KHORI
 
-El oro
-
-que vuela
-
-es oro
-
-que trina.
+> El oro \
+> que vuela \
+> es oro \
+> que trina. 
 
 ### SONKOIMI
 
-Sonko tuyo
-
-mi sonko.
-
-Corazón,
-
-mi corazón
-
-más tuyo
-
-que mío.
-
-### KHORI-CHALLWA
-
-Si el agua no arde
-
-no es oro,
-
-guagualay...
-
-Ya en ti el oro arde,
-
-y en el agua,
-
-guagualay.
-
+> Sonko tuyo \
+> mi sonko. \
+> Corazón, \
+> mi corazón \
+> más tuyo \
+> que mío. \
+> ### KHORI-CHALLWA \
+> Si el agua no arde \
+> no es oro, \
+> guagualay... \
+> Ya en ti el oro arde, \
+> y en el agua, \
+> guagualay. 
+    
 ### KHOMER-KHENTI
 
-La pluma se pulverice
+> La pluma se pulverice \
+> para que trine el oro; \
+> que pluma que no trine, \
+> trino será sin oro. \
+> ### LLOKALLAGUAGUAN \
+> Te parieron con barbas, \
+> y aunque pareces guagua, \
+> eres la guagua de las barbas \
+> y las barbas de la guagua. 
 
-para que trine el oro;
+### SACHA-RUNA 
 
-que pluma que no trine,
+> En un árbol te acunaron; \
+> sus ñuñus te nutrieron. \
+> Un árbol fue tu padre, \
+> una raíz tu madre. \
+> En este punto hablóme de los fieros orígenes: 
 
-trino será sin oro.
+### EYRAY 
 
-### LLOKALLAGUAGUAN
+> No escuches las consejas \
+> del sabio borreguil; \
+> era tu padre el Puma \
+> de ojos de añil. 
 
-Te parieron con barbas,
+Y como sintiera un ñuñu en el gobernalle de mis ojos, en sus \
+entrañas me acune y con mis rugidos la cubrí. 
 
-y aunque pareces guagua,
+### EYRAY 
 
-eres la guagua de las barbas
-
-y las barbas de la guagua.
-
-### SACHA-RUNA
-
-En un árbol te acunaron;
-
-sus ñuñus te nutrieron.
-
-Un árbol fue tu padre,
-
-una raíz tu madre.
-
-En este punto hablóme de los fieros orígenes:
-
-### EYRAY
-
-No escuches las consejas
-
-del sabio borreguil;
-
-era tu padre el Puma
-
-de ojos de añil.
-
-Y como sintiera un ñuñu en el gobernalle de mis ojos, en sus
-entrañas me acune y con mis rugidos la cubrí.
-
-### EYRAY
-
-Mientras hilo,
-
-duérmete, guaguay.
-
-Kaitu de mi puiska,
-
-duérmete,
-
-papay...
+> Mientras hilo, \
+> duérmete, guaguay. \
+> Kaitu de mi puiska, \
+> duérmete, \
+> papay... 
 
 De ahí que en la alborada una boquita babee la espuma de su
 leche.
@@ -7795,19 +7309,13 @@ La paridora te clama, y te aclama:
 
 ### HAYLLI
 
-¡Wipha!
-
-Madre pura.
-
-¡Wipha!
-
-Pura entre
-
-vírgenes,
-
-pura madre.
-
-¡Wipha!
+> ¡Wipha! \
+> Madre pura. \
+> ¡Wipha! \
+> Pura entre \
+> vírgenes, \
+> pura madre. \
+> ¡Wipha! 
 
 Sublime araña casera.
 
@@ -7815,7 +7323,6 @@ Sublime araña casera.
 borrar el pigmento; pues aunque nada te sobre, tú nos sobras algo.
 Aferrados a tu estática, nos encienden tus dinamias, y ya dueños de tu
 fuerza, somos tu voluntad de movimiento. Naya vendré en Llama-ñawi
-
 con tendones graníticos; el Sublime a mi lado en Clavileño, leño y clave
 de los crucificados, y abriéndonos camino de centella, esotro, en grupa
 salvaje de Ibice, aborto saltarín de la tiniebla. Llegaremos... ¿Los que
@@ -7837,97 +7344,52 @@ sueño, allí encontraré su manantial de urpilas...
 
 ### HAYLLI
 
-Me vio en la cólera del mar
-
-agigantando la marea.
-
-Tierno en los torreones del erizo
-
-y en el acebo de sus púas tierno.
-
-Volar en khomer-kenti
-
-con ala kunturina.
-
-En el amargor de la madrépora
-
-vivir la perla de su leche.
-
-Con el fuelle de oro del siluro
-
-inflamar los vientos de EL PEZ DE ORO.
-
-En las espeluncas de la muerte,
-
-vivir en calandrajo la inocencia
-
-de los siete pecados capitales.
-
-En la fiera del plankton oceánico
-
-vivir el hambre de la fiera.
-
-A mitad del médano del viento,
-
-en la esquina de vientos y de médanos.
-
-sacudir el sarmiento de los vientos.
-
-Atorar la ciudad y el divo atoro,
-
-corruptores de albas y gusano.
-
-Pero, quieta, por su yokha veló ella,
-
-si ya en el humo del incienso
-
-la ahayu de su yokha era el humo.
-
-¡Recogida, oyóme
-
-que del ñuñu de los órganos
-
-manaba el calostro de su ñuñu!
-
-Los vientres maceró que reproducen
-
-de semillas la ahayu.
-
-Fecunda se detuvo en los chullpares.
-
-Al ver mi hueso triturado:
-
-"¡El hombre es sólo hambre
-
-de guagua –me dijo–, guagualay!"
-
-Pero su tempestad cobró silencio,
-
-el silencio que anuncia todo parto.
-
-Y allí se arreboló su entraña,
-
-puesto que estériles palabras
-
-de infamia henchían mi palabra...
-
-Y para no ahogarla en la vergüenza:
-
-a mi lodo le eché: ¡Vuela! Conminé
-
-crecer al árbol; que marchara
-
-mi linfa y la mar bramara.
-
-A la fiera que amaino: ¡Ruge! ¡Ruge!
-
-Al volcán que dormita: ¡Fuego! ¡Fuego!
-
-Entiendo, te entiendo, Pacha-mama.
-
-Nó idioma me pides; idilio me das.
-
-¡Ah, divino fuego!
+> Me vio en la cólera del mar \
+> agigantando la marea. \
+> Tierno en los torreones del erizo \
+> y en el acebo de sus púas tierno. \
+> Volar en khomer-kenti \
+> con ala kunturina. \
+> En el amargor de la madrépora \
+> vivir la perla de su leche. \
+> Con el fuelle de oro del siluro \
+> inflamar los vientos de EL PEZ DE ORO. \
+> En las espeluncas de la muerte, \
+> vivir en calandrajo la inocencia \
+> de los siete pecados capitales. \
+> En la fiera del plankton oceánico \
+> vivir el hambre de la fiera. \
+> A mitad del médano del viento, \
+> en la esquina de vientos y de médanos. \
+> sacudir el sarmiento de los vientos. \
+> Atorar la ciudad y el divo atoro, \
+> corruptores de albas y gusano. \
+> Pero, quieta, por su yokha veló ella, \
+> si ya en el humo del incienso \
+> la ahayu de su yokha era el humo. \
+> ¡Recogida, oyóme \
+> que del ñuñu de los órganos \
+> manaba el calostro de su ñuñu! \
+> Los vientres maceró que reproducen \
+> de semillas la ahayu. \
+> Fecunda se detuvo en los chullpares. \
+> Al ver mi hueso triturado: \
+> "¡El hombre es sólo hambre \
+> de guagua –me dijo–, guagualay!" \
+> Pero su tempestad cobró silencio, \
+> el silencio que anuncia todo parto. \
+> Y allí se arreboló su entraña, \
+> puesto que estériles palabras \
+> de infamia henchían mi palabra... \
+> Y para no ahogarla en la vergüenza: \
+> a mi lodo le eché: ¡Vuela! Conminé \
+> crecer al árbol; que marchara \
+> mi linfa y la mar bramara. \
+> A la fiera que amaino: ¡Ruge! ¡Ruge! \
+> Al volcán que dormita: ¡Fuego! ¡Fuego! \
+> Entiendo, te entiendo, Pacha-mama. \
+> Nó idioma me pides; idilio me das. \
+> ¡Ah, divino fuego! 
 
 Y volé del seno de la constelación al seno de las constelaciones.
 Allí, redondos, ovoides, opacos unos, centellantes otros, tensos,
@@ -7938,23 +7400,15 @@ saltando tras la ubre de la cabra.
 
 ### HAYLLI
 
-Y, como yo, sentiles hombres.
-
-hombres como tú, a ley sujetos,
-
-nó del nacimiento:
-
-de los nacimientos en cadena
-
-de oro. Que si del camino hoy
-
-te suprimen, la huella de la usuta
-
-no dejará la huella del camino.
-
-Que destino del camino es el parto,
-
-y parto es todo camino...
+> Y, como yo, sentiles hombres. \
+> hombres como tú, a ley sujetos, \
+> nó del nacimiento: \
+> de los nacimientos en cadena \
+> de oro. Que si del camino hoy \
+> te suprimen, la huella de la usuta \
+> no dejará la huella del camino. \
+> Que destino del camino es el parto, \
+> y parto es todo camino... 
 
 El Sol ofuscaba; y le increpé:
 
@@ -8022,31 +7476,19 @@ Hatan y lo hizo prolífico, fueron urgencia, apremio, impaciencia.
 
 ### HAYLLI
 
-Piso y paso
-
-¡Hisa!
-
-Y nada pasa
-
-y nada pisa.
-
-¡Hisa!
-
-Lo que no
-
-se traspasó
-
-no se pisa.
-
-¡Hisa!
-
-No se habrá
-
-pasado
-
-nunca...
-
-¡Hisa!
+> Piso y paso \
+> ¡Hisa! \
+> Y nada pasa \
+> y nada pisa. \
+> ¡Hisa! \
+> Lo que no \
+> se traspasó \
+> no se pisa. \
+> ¡Hisa! \
+> No se habrá \
+> pasado \
+> nunca... \
+> ¡Hisa! 
 
 –¡Cómo! ¿Tú, aquí, Almirante?
 
@@ -8124,7 +7566,6 @@ mujeres y las mujeres de todos los hombres. Otros que no tuvieron tu
 alta cerviz, aunque espuelas resonantes sí, y no menos musicales
 cascos, han derrumbado ese Imperio; y del oro no hay que decir que lo
 obtuvieron sin reato ni recato, y tánto, que cuando el oro se les corrió
-
 se quedaron sin reato ni recato. A nadie le vino en miente que el oro
 que no se pierde es el que se amasa con el oro del lloro, pues el lloro es
 el padre de que el oro "nasce". Callo todo lo demás, Cristóforo, si ya tu
@@ -8138,7 +7579,7 @@ callar le motejan Sancho!
 
 <hr>
 
- Y qué hace Cristóforo acá? ¿Y qué los mundos que circulan en
+Y qué hace Cristóforo acá? ¿Y qué los mundos que circulan en
 este Mare Magnum? ¿Crearán otro Colón? ¿Otro hombre de las
 cavernas, quizá?... ¿Y quién el Khori-Puma, si no el hombre de las
 cavernas, el hombre genital, con la potencia genésica de la bestia, hijo y
@@ -8147,21 +7588,14 @@ padre de la radiación cósmica y en sí la misma proyección radial?
 
 ### HAYLLI
 
-Tomé del éter la materia viva,
-
-y haciendo un chocho,
-
-empapéle en la saliva de la mama,
-
-bañéle en los sudores de la awicha;
-
-Y cuando trémulo en el viento tiritaba,
-
-le fungieron mis bronquiales alaridos.
-
-Trinó, y ardió el chochito: ¡Una Nova!
-
-¡Piupiu-titit! Viejo trino, trinó, nuevo...
+> Tomé del éter la materia viva, \
+> y haciendo un chocho, \
+> empapéle en la saliva de la mama, \
+> bañéle en los sudores de la awicha; \
+> Y cuando trémulo en el viento tiritaba, \
+> le fungieron mis bronquiales alaridos. \
+> Trinó, y ardió el chochito: ¡Una Nova! \
+> ¡Piupiu-titit! Viejo trino, trinó, nuevo... 
 
 Y de la manera que se toman las mamas a toda mujer jacinta,
 tomé las órbitas de una de las Osas, y las elastiqué a la anchura de mis
@@ -8170,25 +7604,18 @@ estrellas. Y aunque una y mil veces las nueve vulvas del Helicona
 intentaron retomar el camino, no pudieron más que parirse entre ellas...
 La catástrofe la estaban anotando los astrónomos, pero su causalidad
 permanecería en la sombra. Sonríe. Alguien debió sonreír así, y nó el
-
 manso SEJHÉSUA, por cierto, cuando España hizo chinitas de
 Kanidia.
 
 ### HARAWI
 
-Lluvia
-
-en las florestas
-
-de la Pacha-mama.
-
-Lluvia
-
-de estrellas
-
-en las florestas
-
-de sus ojos...
+> Lluvia \
+> en las florestas \
+> de la Pacha-mama. \
+> Lluvia \
+> de estrellas \
+> en las florestas \
+> de sus ojos... 
 
 Pero, fuíme más adentro aún; al silencio poblado de partos; al
 duro abdomen donde la tiniebla parpadea; a la esperma que torna al
@@ -8199,19 +7626,13 @@ amontonada en su trino.
 
 ### HARARUÑA
 
-Hiele, hile,
-
-EL PEZ DE ORO.
-
-Trina tus hielos,
-
-guagualay.
-
-Hila, hila,
-
-que tu hielo
-
-arde ya, guagualay...
+> Hiele, hile, \
+> EL PEZ DE ORO. \
+> Trina tus hielos, \
+> guagualay. \
+> Hila, hila, \
+> que tu hielo \
+> arde ya, guagualay... 
 
 Nada está más allá de tu fuerza. Los soles están en ti. Las
 nebulosas son tus formas. Los Colones, los Kanidios, los KhoriChallwas, "desnudos como su madre los parió", te conforman en tus
@@ -8219,7 +7640,6 @@ formas. Partes en una dirección y a todas llegas. Avanzas en el infinito,
 y si el infinito se limita, eres tú, ilímite, el límite del infinito; pero no
 eres finita, porque no tienes principio; y aunque el hombre no
 comprende hoy, tendrá que enterarse que aquello que principio tuvo
-
 no existe. En ti sólo lo permanente es cosa. Eres todo sin unidades. Y
 como fuera de ti nada hay, tú no llenas, sino estás.
 
@@ -8229,25 +7649,16 @@ y así en su fuego te proyectas.
 
 ### HAYLLI
 
-Madre amorosa,
-
-cuyo ñuñu es diente;
-
-que si dientes pare
-
-con el ñuñu engendra.
-
-Amorosa madre,
-
-en cuya lágrima
-
-esperan nuestras guaguas.
-
-Madre amorosa.
-
-que por amada mata
-
-y por amante alumbra.
+> Madre amorosa, \
+> cuyo ñuñu es diente; \
+> que si dientes pare \
+> con el ñuñu engendra. \
+> Amorosa madre, \
+> en cuya lágrima \
+> esperan nuestras guaguas. \
+> Madre amorosa. \
+> que por amada mata \
+> y por amante alumbra. 
 
 Pero, si algo ha de obligarnos a bendecirte en la ternura de los
 surcos, es que haz puesto en la carne la presencia de tu pasado, que no
@@ -8275,28 +7686,25 @@ somos proyección sin límite...
 
 ### HAYLLI
 
-Maríaja: te tributaré la coca
-
-que de mi sangre extraigo;
-
-si ella es la parte
-
-enamorada de tu naturaleza.
+> Maríaja: te tributaré la coca \
+> que de mi sangre extraigo; \
+> si ella es la parte \
+> enamorada de tu naturaleza. 
 
 # ESPAÑOLADAS
 
- –Construye una torre alta con ventanas
-que se iluminen a sí mismas.
+    –Construye una torre alta con ventanas
+    que se iluminen a sí mismas.
 
- –¿Cómo construiré, oh, grande Aura
-Mazda, un tal recinto según tus instrucciones?
+    –¿Cómo construiré, oh, grande Aura
+    Mazda, un tal recinto según tus instrucciones?
 
- –Golpea la tierra con tus talones y amásala
-con tus manos.
+    –Golpea la tierra con tus talones y amásala
+    con tus manos.
 
-Zend Avesta
+    _Zend Avesta_
 
-¡Karrajuska! ¡Ñerdas!
+    ¡Karrajuska! ¡Ñerdas!
 
 ¿Quién eres hoy, maestro? No eres Teofrasto, el atracador que
 anduvo en pleito con la justicia por el asesinato del santo Timoteo.
@@ -8326,13 +7734,12 @@ El orgulloso aislamiento que pregonas, ¿qué es? Ropaje de tu
 miedo, miedo de esclavo, inferioridad de siervo. Si no, ensaya a vocear.
 Sí; lo haces. Pero para tú oirte, y saberte, y sentirte, para el erupto de tu
 grito. Y si gritos tales tuviesen sexo: ¿no te escupiría el tuyo? Pues
-
 escúpelo tú; quizá en él te limpies. ¿No ves cómo el moscón escupe en
 la mosquita muerta?
 
 No eres escupidor ni tienes qué escupir: estás perdido.
 
- Mi aislamiento orgulloso. Mis volvos... Cabroncicos. Escupo en
+Mi aislamiento orgulloso. Mis volvos... Cabroncicos. Escupo en
 mi carne y mi carne. Y mi soledad son ellos: los chullpa-tullus y los
 traposos. Con ellos parlo, consagro y celebro, con ellos soy engendro
 exquisito, placentero, agudo.
@@ -8371,7 +7778,6 @@ emparenta con la muerte y coquea.
 un santo, un hombre con los guantes remangados. Ah, ustedes
 desconocen mi alquimia; que el secreto para destilar mis extracciones
 me lo aprendí en el hueso del awichu. Sépanlo ahora: yo sé que tengo
-
 hambre. Mi hambre en este punto es el hambre de la tierra, en lo que
 vive y de lo que vive. Pero aunque mi hambre sea el hambre de la
 tierra, y el hambre de la tierra la de mis "pasados", como de ella ellos
@@ -8452,16 +7858,16 @@ borra donde, dizque se hacen los genios, te oía con deleite. He aquí
 (me decía), entre tanto cerdón el gran cerdudo, la probeta de Fausto,
 do hasta el Diablo enloquece. Pero...
 
- –No será de hambre que enloquece el ahíto. El hambre es
+–No será de hambre que enloquece el ahíto. El hambre es
 personal; y nada menos personal que el estómago del Diablo.
 
- –¡Zambomba!
+–¡Zambomba!
 
- –¿No te dijo el Cristo legión eres? En mí se aisla el hambre de los
+–¿No te dijo el Cristo legión eres? En mí se aisla el hambre de los
 hambrientos; adquiere señorío y heráldica. Mi heráldica es lo que
 hambrea en mis hijos.
 
- –¿Es que el Diablo ha de sufrir ésa tu hambre?
+–¿Es que el Diablo ha de sufrir ésa tu hambre?
 
 –No te aludo, meteco; que nadie te dio vela en este velorio.
 Puedes cerrar los ojos en el Escorial; mas acá debes abrirlos. Acá
@@ -8469,15 +7875,15 @@ comerás mugre, mugre de indio; te den allá pudridero de reyes.
 
 –¡Indio! ¿Pretenderás que el Diablo español pueda rezar en indio?
 
- –Nó digo eso: el indio no te conoce.
+–Nó digo eso: el indio no te conoce.
 
 –¿Me negarás? ¿No soy tu hijo?... Tu hijo, y nó por el idioma, que
 el tuyo bueno es para que lo aguanten los Nebrijas. Tu hijo soy por las
 barbas. Cuídente ellas; y habla como te pida el Sacha-runa de tu gana...
 
- –De la phusa eres el pus. Camaleón: razona alguna vez.
+–De la phusa eres el pus. Camaleón: razona alguna vez.
 
- –¿Y con qué razones? No puede el Khusillu pedir a su hijo que
+–¿Y con qué razones? No puede el Khusillu pedir a su hijo que
 razone; que si tu hijo soy no seré guacamayo. Quien debe usar las
 barbas eres tú, si ya es tiempo que dejes el árbol. ¿Conoces el infierno
 que haz metido en mi alma?
@@ -8490,7 +7896,7 @@ uno junto al otro, mudos, y corneando.
 
 –¿Y quién te metió en el cuesco que debas llamarme padre?
 
- –¿Quién? Ella; mi madre.
+–¿Quién? Ella; mi madre.
 
 –¿Madre? ¿Tú?
 
@@ -8558,7 +7964,6 @@ podrás reir del ácido. Hombre: compadece al Diablo y padécete. De mí
 te digo que me padezco heroicamente, si es ahora, y en tí, que he visto
 el deleite místico del estómago cuando ingiere y digiere. ¡Eso, el cielo,
 tatalay! ¿Qué puede digerir el Diablo si carece de alma? De un alma que
-
 digiere parten las sutiles emanaciones del amor, la generación y la
 muerte. Y yo vivo con una amenaza implacable de inmortalidad; una
 inmortalidad sin estómago. Cómo tú, Khori-Puma, que eres el más
@@ -8569,9 +7974,9 @@ todos los siglos a que el impasible cielo se niega.
 Y el infeliz Khori-Puma se puso triste por la infelicidad del
 Diablo.
 
- Sus ojos mareaban en borrosas lontananzas.
+Sus ojos mareaban en borrosas lontananzas.
 
- La imilla tierna que a la caricia se rindió del hambriento hidalgo
+La imilla tierna que a la caricia se rindió del hambriento hidalgo
 que en Castilla la Vieja dejara almenado castillo para morir en carne
 india sin almenas ni castillos, medular, cosquilleábale la médula, como
 el toro de lidia se aguza los cuernos encajonado en el toril listo a
@@ -8604,24 +8009,24 @@ Pasmo. Y entre carnales oros y hambres en cueros, grita y fritangas,
 encontró la carne cuyo oro buscaba: el suyo, y el de su vieja carne, que
 aún hoy bufita de hambre de oro.
 
- ¿Qué era? Bien poca cosa: un caballerete sin hidalguía, pero con
+¿Qué era? Bien poca cosa: un caballerete sin hidalguía, pero con
 usutas, y la explosión de todos los partos electrónicos.
 
- Nada extraño si le ofenden.
+Nada extraño si le ofenden.
 
- –Eres más que un indio enhuesado en su cadena, indio poltrón,
+–Eres más que un indio enhuesado en su cadena, indio poltrón,
 tímido y resentido, que degusta la gloria del alcohol y no decanta el
 alcohol de la gloria. ¿Quién te afina? Phuá... La "cáscara del novillo"
 español.
 
- Menos si, con melíflua garganta, otros le mojinetean el moflete.
+Menos si, con melíflua garganta, otros le mojinetean el moflete.
 
- –Serás indio, si bien se quiere; pero en tí están los caballeros que
+–Serás indio, si bien se quiere; pero en tí están los caballeros que
 aventuraron todo por tu gleba americana.
 
- –¿Por mi gleba o por su leva?
+–¿Por mi gleba o por su leva?
 
- –¿Acaso pecheros no jaranean en tu grosería? Pero si grosería no
+–¿Acaso pecheros no jaranean en tu grosería? Pero si grosería no
 hubiera en ti no habría España, como en nosotros el oro de los tatakus.
 La gloria de los fulginosos capitanes te alcanza, pese a que barrunto te
 engendraron unos que miraban más a la cruz que a la espada, no
@@ -8629,8 +8034,7 @@ agavillaron indios, ni en infamia mojaron la esponja de hiel del pueblo
 crucificado. He aquí por qué cenobio donde con lenguas de Teresica te
 lloran, hiere sus campaniles en el alba, aunque sea para que te soflame
 luego el ulular del pututu, y quisieras partir con Amaru el necesario
-descuartizamiento del Descuartizador.
-<hr>
+descuartizamiento del Descuartizador…………………………………………………………………………………………………………
 
 Su cráneo era el infierno de la pureza impura a espera del experto
 en claraboyas por donde se escupen los gérmenes de las guerras civiles,
@@ -8655,25 +8059,16 @@ Tenorios sin arrepentimiento que se aferran a las telarañas de sus ojos.
 
 ### HAYLLI
 
-Un español relincho enciende el ruedo.
-
-Muge el toro en la pica y la caverna.
-
-Rozna y filosofa Buridán en el jumento,
-
-Del sevillano viento los venablos cantan
-
-"jondo", ganas y mamas de cholos y de chulos,
-
-Y cuando sagra Loba incrusta el diente,
-
-látigo es el oro en Khori-kancha y lloro.
-
-Mas presto encréspase la mar balbólica
-
-y Pizarro ajos hiperbólicos sofríe.
-
-Que allí, y en la cruz, purrula el ñuñu.
+> Un español relincho enciende el ruedo. \
+> Muge el toro en la pica y la caverna. \
+> Rozna y filosofa Buridán en el jumento, \
+> Del sevillano viento los venablos cantan \
+> "jondo", ganas y mamas de cholos y de chulos, \
+> Y cuando sagra Loba incrusta el diente, \
+> látigo es el oro en Khori-kancha y lloro. \
+> Mas presto encréspase la mar balbólica \
+> y Pizarro ajos hiperbólicos sofríe. \
+> Que allí, y en la cruz, purrula el ñuñu. 
 
 ¿Nosotros no phusaremos? Gua... El indio ñerdea y karrajuskea.
 Bien se ve que, ni con mucho, hay algo más español que ese cholo,
@@ -8688,15 +8083,15 @@ con sus lingüales khañiwakus.
 cien mil bestias infieles y somos puñado de caballerizos de la Cruz.
 ¡Santiago a la gineta, acometed, bravos!
 
- Y los ochenta ginetes harán pavesa de las cien mil alimañas de la
+Y los ochenta ginetes harán pavesa de las cien mil alimañas de la
 Pacha-mama.
 
 –¡Caño! ¡Por la Pilarica, traga ésta, indio salvaje!
 
- Y un machetazo, cruz y todo, divide al guerrero de la coronilla al
+Y un machetazo, cruz y todo, divide al guerrero de la coronilla al
 desagüe.
 
- –¡Karrajuska!... ¡Aguanta; y sea por la gloria de España y en
+–¡Karrajuska!... ¡Aguanta; y sea por la gloria de España y en
 provecho del cielo!
 
 Otro bruto Inka despanzurrado.
@@ -8706,9 +8101,9 @@ husmea el lebrel por los aledaños. No fueron, empero, los ochenta
 caballerizos los del milagro; los del milagro fueron los españoles
 caballos y la cóñica espada de esas palabras.
 
- –¡Karrajuska! ¡Ñerdas!...
+–¡Karrajuska! ¡Ñerdas!...
 
- Como el náufrago a la tabla de marras podía menos que echar
+Como el náufrago a la tabla de marras podía menos que echar
 mano de ellas. Fueron las segundas que profirió cuando en el alboroto
 de su aldea (las primeras vinieron al ver, illo tempore, que del ñuñu le
 escupían otra cosa) maligna lengua le escupió en la cara.
@@ -8744,7 +8139,6 @@ cruz que con la corona de espinas. Son voces que los gamonales del
 Perú llaman palabras "machas", haciendo de un sabio barbarismo la
 más freudiana caracterización de la Conquista de Indias, que si algo,
 fue aventura machuna equipada por una gran mujer y por otra gran
-
 mujer canonizada: la Iglesia. Y como si en España faltasen machos –en
 la más "macha" de las patrias–, para nuestros académicos caciques la
 Conquista de América, por ser quien fue el Conquistador, tenía que ser
@@ -8830,7 +8224,6 @@ una chispa.
 
 El día que el hake-hake vea nacer de su entraña esas palabras
 como ve que de la tierra le nacen los sankayus, la Conquista regresará
-
 (y ése regresar espera) de los pongos sobre los amos; y al hapapeo y
 pututazo de las sublevaciones el virtuoso cenáculo de las letras sin
 Judas seguirá en una khaswa de pámpanos.
@@ -8860,7 +8253,7 @@ más sus premáticas, que Toledo fue de los Visorreyes de Lima el
 menos limeño, y pudo merecer se le llamare español, como españoles
 se llama a Vitorica, a las Casas o a don Quixote.
 
- Observadlo bien: el niño "orejón", antes de romper con
+Observadlo bien: el niño "orejón", antes de romper con
 balbuceos pueriles, dice:
 
 –¡Kaka!... ¡Criiii!...
@@ -8878,7 +8271,6 @@ palabras con que en español se desflora el cerebro del pobre traicionado en los
 arte bélico, ciencia de las exactitudes y teologales aproximaciones, para
 el llokallo, si sustantivan el traposo miedo de sus harapos? Las seis
 primeras, clarinazo bermejo que espanta a los chiñis de la tiniebla; y
-
 suenan a creación y albor, tanto que así se entera que se encrespa una
 mar khespiña, alborea el albor, y su inferioridad se rompe como la
 noche cuando el gallo lanza su estridor a las estrellas...
@@ -8895,9 +8287,9 @@ noche cuando el gallo lanza su estridor a las estrellas...
 
 –¿Y las otras seis, mataor?
 
- –¿Las otras seis, sutuwailla?
+–¿Las otras seis, sutuwailla?
 
- De alánicos aduares vinieron aquéllas, éstas de la fabla de los ritos
+De alánicos aduares vinieron aquéllas, éstas de la fabla de los ritos
 pasando por los cuneiformes. ¡Hama!... ¿Verdad que otra palabra? Algo
 más: es la gran palabrota; porque, si no el epílogo de la comedia
 humana, es el interludio de la carne. Habrá que devolverle una parte de
@@ -8921,7 +8313,6 @@ digo que de los cristales groseros será la gloria del diamante. Y eso lo
 que el taumaturgo nos brinda: excrescencias de su vida, su calvario y su
 podre. Y dadlo por hecho que si con elllas comulgáramos, y nó con la
 publicana hipocresía y el farisaico arrepentimiento, acaso el pecador no
-
 volvería a nacer. La carne es buena, dijo ese humilde: la mala es tu
 boca; por ella te sale la soberbia y se te entra la corrupción. Que tu
 humildad sea antes humildad de la lengua; y te henchirán las riquezas
@@ -8936,7 +8327,7 @@ desprecia a su medroso padre.
 En las palabras humildes está el germen de ímpetus oscuros que
 tienden a librar al hombre de sus limitaciones y su miedo.
 
- Pero, nó palabras ni gritas; eres acción. Tal sea tu lengua.
+Pero, nó palabras ni gritas; eres acción. Tal sea tu lengua.
 
 <hr>
 
@@ -8957,35 +8348,21 @@ Ya le gritaban.
 
 ### HAYLLI
 
-A cambio del retrete de tus tráficos
-
-estrangularnos querías en tu ripio,
-
-negarnos pensabas tu sabrosa guanes...
-
-Mientras no sangres de tus llagas,
-
-ningún verbo encarnado te daremos.
-
-¿Qué somos tuyo si no tu guerra?
-
-¡Somos pulgas que pulguean tu seso!
-
-¿Es que ya acaso no te sientes?
-
-Sin guerra tu madre nó tu madre.
-
-Y sólo en la guerra, y cuando la
-
-caracola embocas, tuyo tu hijo.
-
-Mira: ha la guerra llegado a los
-
-rincones neumáticos de tu sangre.
-
-y en ella micos sarnosos te estropean.
-
-¡Tienes que pelearnos, o partirte!
+> A cambio del retrete de tus tráficos \
+> estrangularnos querías en tu ripio, \
+> negarnos pensabas tu sabrosa guanes... \
+> Mientras no sangres de tus llagas, \
+> ningún verbo encarnado te daremos. \
+> ¿Qué somos tuyo si no tu guerra? \
+> ¡Somos pulgas que pulguean tu seso! \
+> ¿Es que ya acaso no te sientes? \
+> Sin guerra tu madre nó tu madre. \
+> Y sólo en la guerra, y cuando la \
+> caracola embocas, tuyo tu hijo. \
+> Mira: ha la guerra llegado a los \
+> rincones neumáticos de tu sangre. \
+> y en ella micos sarnosos te estropean. \
+> ¡Tienes que pelearnos, o partirte! 
 
 ¿Las voces con que desafinó hostias y muerte, con que rompió
 turbamultas, salían a pelearle desde los horacos de la ciénega? ¿Es que,
@@ -8999,7 +8376,7 @@ Otro había; otros que fregaban sus batanes.
 –Estás en nos y nos haz puesto en tí. Nunca podrás echarnos;
 cuídate, en cambio, que somos los kheche - kheches.
 
- En la oscuridad, en su ojo bailaba jotas aragonesas; el otro molía
+En la oscuridad, en su ojo bailaba jotas aragonesas; el otro molía
 khaswas en pekhañas.
 
 –Vienes ahora con ese Vox clamatin in deserto; y son tus viejas
@@ -9010,49 +8387,28 @@ para reventar de pulgas y de epítetos.
 
 ### HAYLLI
 
-Tú, el hombre del grito,
-
-la cañahueca del chillido,
-
-el faramalla de la mesnada...
-
-Quieres bostezar en latín
-
-mientras te hace viento la pereza.
-
-¿Qué buscas zurziendo con tedio
-
-el tedio de tus pollkos?
-
-Álzate en fuerza y alegría;
-
-que si tu dolor horrendo fue,
-
-tu júbilo debe ser luminoso.
-
-Aprende al padre en tí, padre;
-
-del cojo pata de palo, aprende
-
-en el palo de la pata y en el ojo.
-
-No al razonar te vuelvas Teofrasto,
-
-ni en santo te atente Timoteo.
-
-Prefiere el pájaro del pajarero
-
-y de los varones que verbo fueron
-
-la reja del arado y la semilla.
-
-Ca que por ser, y por saberse
-
-sembradores de la simiente, nunca
-
-diarreas del cuesco lamentaron.
-
-¡Tienes que parirnos y parirte!
+> Tú, el hombre del grito, \
+> la cañahueca del chillido, \
+> el faramalla de la mesnada... \
+> Quieres bostezar en latín \
+> mientras te hace viento la pereza. \
+> ¿Qué buscas zurziendo con tedio \
+> el tedio de tus pollkos? \
+> Álzate en fuerza y alegría; \
+> que si tu dolor horrendo fue, \
+> tu júbilo debe ser luminoso. \
+> Aprende al padre en tí, padre; \
+> del cojo pata de palo, aprende \
+> en el palo de la pata y en el ojo. \
+> No al razonar te vuelvas Teofrasto, \
+> ni en santo te atente Timoteo. \
+> Prefiere el pájaro del pajarero \
+> y de los varones que verbo fueron \
+> la reja del arado y la semilla. \
+> Ca que por ser, y por saberse \
+> sembradores de la simiente, nunca \
+> diarreas del cuesco lamentaron. \
+> ¡Tienes que parirnos y parirte! 
 
 Mira: un virtuoso salvaje (y si además hermoso fue colige de que
 hermana decíales a tu madre), a khiños amasamó el espinal hispánico,
@@ -9075,7 +8431,6 @@ somos en que los caballeros apretan con hisopos y moharras y los
 indios blanden makhanas y hapapean como enfurecidos pumas. Y
 quieres rezar en latino. Ni en la tumba encontrarás ese latín; si el tuyo
 debe ser el camino del Haipuñi, en el surco, donde una fuerza india
-
 labra en oro las flores de tu carne. Mas comprende que por eso se trate
 de que estés en tí, y en lucha contigo mismo. Nó: ellos los que están y
 se arremeten. ¿Quién vencerá? Quien venza, llegará día que una sangre
@@ -9100,34 +8455,24 @@ pongo.
 
 ### HARARUÑA
 
-Hamphama Mariaha
-
-diosa grasiapata phokhatatawa;
-
-apu dioswa humanpiski,
-
-warwinakan taypipan kollanatawa,
-
-purakaman achupa Jesusa,
-
-wawamastin kollaranakiwa.
+> Hamphama Mariaha \
+> diosa grasiapata phokhatatawa; \
+> apu dioswa humanpiski, \
+> warwinakan taypipan kollanatawa, \
+> purakaman achupa Jesusa, \
+> wawamastin kollaranakiwa. 
 
 ¡Bendito sea el vientre de toda mujer! ¡Bendito el vientre de la
 mujer que nació parida! ¡Wawamasti kollaranakiwa!
 
 ### HAYLLI
 
-Bendita seas, tú,
-
-en la hostia del vientre,
-
-Pacha-mama;
-
-porque eres madre
-
-de toda hostia.
-
-Dos garras le sujetaban los omóplatos.
+> Bendita seas, tú, \
+> en la hostia del vientre, \
+> Pacha-mama; \
+> porque eres madre \
+> de toda hostia. \
+> Dos garras le sujetaban los omóplatos. 
 
 (¡Ciña! ¿Habéis oído, Marqués, qué ruín bestia profana el nombre
 de la madre del cielo?).
@@ -9145,41 +8490,26 @@ arrodillaba en su lágrima.
 
 ### HAYLLI
 
-¡Levántese del chullpar EL PEZ DE ORO!
-
-Mientras dormía me clavaron su cruz.
-
-En la cruz de sus ojos ya florece mi lágrima.
-
-Se alzarán los chullpares el día de mi lágrima.
-
-Su verbo ya sazona y se bruñe en mi lágrima.
-
-Cenizas de su madre palpitan en mi lágrima.
-
-Danza, alegre, y le bendice mi lágrima.
-
-Que ascienda el Pez a la cruz de mi lágrima.
-
-No tema que el barbudo le gruña tras mi lágrima.
-
-Sea entero; no se fraccione en mi lágrima.
-
-Peñasco tierno de su cuerpo es mi lágrima.
-
-Lupi-tata le incendiará en mi lágrima.
-
-Khuno-tata, le hará carámbano en mi lágrima.
-
-Le escoltarán khenayas en mi lágrima.
-
-¡Ya del Khori-Puma le bautizaron lágrimas!...
+> ¡Levántese del chullpar EL PEZ DE ORO! \
+> Mientras dormía me clavaron su cruz. \
+> En la cruz de sus ojos ya florece mi lágrima. \
+> Se alzarán los chullpares el día de mi lágrima. \
+> Su verbo ya sazona y se bruñe en mi lágrima. \
+> Cenizas de su madre palpitan en mi lágrima. \
+> Danza, alegre, y le bendice mi lágrima. \
+> Que ascienda el Pez a la cruz de mi lágrima. \
+> No tema que el barbudo le gruña tras mi lágrima. \
+> Sea entero; no se fraccione en mi lágrima. \
+> Peñasco tierno de su cuerpo es mi lágrima. \
+> Lupi-tata le incendiará en mi lágrima. \
+> Khuno-tata, le hará carámbano en mi lágrima. \
+> Le escoltarán khenayas en mi lágrima. \
+> ¡Ya del Khori-Puma le bautizaron lágrimas!... 
 
 Dejaron el poblado a vuelo de kuntur y ya EL PEZ DE ORO
 pirueteaba en los trapecios de la pampa. De la cóncava inmensidad se
 alzaba el Alba: el Sol, en agitados tumbos de una mar convulsa; árboles
 y flores, cuanto repta o vuela, enraíza o camina, cuanto exhala vigor o
-
 mana fuego, cuanto ama y se inflama, filtra dulces venenos. Los
 campos, lujuriosas isthallas de encendidas primaveras; pieles de puma,
 erizadas, los pajonales; sierpes de plata y sangre, ríos y arterias; cromos
@@ -9230,7 +8560,7 @@ sí mismo.
 Dueño del ahinco del diamante, EL PEZ DE ORO golpeó el
 suelo con su oro. Y ordenó:
 
- –¡Akaru, tatalay!
+–¡Akaru, tatalay!
 
 Aquí, padre: aquí se hunde mi barretilla de oro.
 
@@ -9247,7 +8577,7 @@ Haruñas.
 
 –¡Akaru, guagualay!...
 
- Acá hablará tu piedra y silenciará la mía. Con la dócil cerviz del
+Acá hablará tu piedra y silenciará la mía. Con la dócil cerviz del
 barro, sus manos se hicieron molde para adobar la tierra en la forma de
 molécula que le conviene. Las uñas tornáronse cortantes, pues con
 ellas habrían de trazar las líneas que ya hablan de la muerte del sueño
@@ -9265,18 +8595,14 @@ Eran sólo esquirlas de su trino.
 
 # PUEBLOS DE PIEDRA
 
-Wirakocha hizo a los
-hombres de piedra.
+> Wirakocha hizo a los hombres de piedra. 
 
- (Leyenda Inkaika)
+> (Leyenda Inkaika) 
 
-¿Qué es el fuego?
-
-principio de piedra
-
-¿Qué es la piedra?
-
-principio de beso.
+> ¿Qué es el fuego? \
+> principio de piedra \
+> ¿Qué es la piedra? \
+> principio de beso. 
 
 La fina cúspide que besa imantaba el vientre de la noche.
 
@@ -9311,7 +8637,7 @@ Voz áspera, crudelísima voz, única voz capaz de mis honduras.
 
 Vez, en gentil velero de caliza, el Antiguo vino hacia Él; y le dijo:
 
- –¡Déjame pasar!
+–¡Déjame pasar!
 
 La barquichuela tenía forma de caramillo labrado en caliza que el
 lengüetazo de la ola puliera hasta el brillo del oro. El viento la impelía
@@ -9319,22 +8645,22 @@ soplando en sus flautones y al hacerlo le arrancaba al són el són. Era la
 del Antiguo thusaphusiri, de cuyos acordes tenía preñado el mundo.
 En ella, de pie siempre, el Antiguo miraba la vida conmovido.
 
- Le interrogó Él:
+Le interrogó Él:
 
- –¿Cúyo hijo eres?
+–¿Cúyo hijo eres?
 
- ¡Hum!... El Antiguo dijo:
+¡Hum!... El Antiguo dijo:
 
 –¡Hum!... Para que me sepas, te diré que no conozco padre; acaso
 no lo tenga... Soy el padre...
 
- –Por lo menos te nombrarán: ¿cómo?
+–Por lo menos te nombrarán: ¿cómo?
 
 –No sé. Aunque soy el Antiguo me llaman Runawayna... Es que
 soy de hoy y desconozco todo lo que no soy. Cuanto sé es que hoy,
 ¡hoy es la batalla! ¿Me entiendes?
 
- –No.
+–No.
 
 –Te hablé mal. Se intuye sólo lo que se es; pues tú, si bien te fijas,
 no sabes qué eres, pero sabes que eres. Todo aquel que de esta manera
@@ -9355,7 +8681,7 @@ La cúspide de hielo hizo brillar la aguja.
 –Vuelvo a decirte: al Antiguo no se le entiende; se le vive. Si eres
 capaz de vivirme, ¿qué vale me entiendas o nó?
 
- Y, luego:
+Y, luego:
 
 –Es una mala pieza. Se le ha ocurrido que mi barca posee
 diabólico poder y por causa tal odora en melodías. En sus manos,
@@ -9368,7 +8694,6 @@ no se puede, no se podrá. Así, cuando por mí y mi velero viene, y cree
 encontrarnos, dase cuenta que no ha llegado. He aquí por qué te pido
 darme asilo. Y cuando llegue, si llega, le dirás: "No le busques. Parece
 no entiendes que no eres. ¿Cómo quieres apropiarte de su barca? Tú
-
 acaso seas mañana; él es hoy, o no es. Hoy le tengo en mis galerías,
 porque el Antiguo es lo único que está siempre en hoy".
 
@@ -9383,26 +8708,26 @@ hubo que temí. Pero cuando llegó no llegó: ¡no llegará! Si se alza en mis
 dinteles torna a desaparecer. Te suplico: ¡ábrame campo! Que se rompa
 tu hielo y por él circule mi ansiedad ardiente.
 
- –¿Es fría mi carne?
+–¿Es fría mi carne?
 
 –Díjelo por decir: no te enfades. Nada más ardiente que tu beso.
 De beso es el alma. ¡Abreme campo: somos el perenne fuego que besa!
 
- La fina cúspide de hielo dejó paso al velero orquestal, cerró tras
+La fina cúspide de hielo dejó paso al velero orquestal, cerró tras
 él sus chinkhanas; mas el Antiguo alcanzó a bendecirla.
 
- –¡Buena tu acción, latido de mi beso!
+–¡Buena tu acción, latido de mi beso!
 
 La montaña se abriera, nó como otrora bajo los ortos coléricos
 de Lupi, sino como los corazones a la bondad; pues dicen las consejas
 que las montañas son Chullpas que besan.
 
- –¡Runawayna!... ¿Tiemblas? ¿Sufres? ¿Acaso deseas dormir? Mira:
+–¡Runawayna!... ¿Tiemblas? ¿Sufres? ¿Acaso deseas dormir? Mira:
 en tu corazón está el siempre.
 
- Voz mansa de la bondad del fuerte.
+Voz mansa de la bondad del fuerte.
 
- Los glaciares las transportaron en bloques erráticos, cantos
+Los glaciares las transportaron en bloques erráticos, cantos
 rodados, gravilla, arena, infusorios de fósiles marinos, marga, tierra
 vegetal, pudingas, tobas volcánicas. Las transportaron y las dejaron
 tornarse pórfidos, ryolitas, basaltos alabastros. Su mudez tiene la
@@ -9432,11 +8757,11 @@ hiela... Pero, ¡ay, Pekhañayok!, en su entraña besa la piedra. ¡Espléndido
 peñón, el primero que besa la Paksi cuando sacúdese los perfumados
 chubascos de Setiembre...
 
- –Fue la bienquerida del mayor allpakero, como Pekhañayok
+–Fue la bienquerida del mayor allpakero, como Pekhañayok
 siervo de ambos. Mas Pekhañayok naciera montaña y el amo cascajo
 del camino.
 
- –¿Eres tú, por ventura, Pekhañayok?.
+–¿Eres tú, por ventura, Pekhañayok?.
 
 –¡Soy tata Blas! ¿Me has olvidado? El ayo a quien te confiaron al
 nacer. Mi semilla viene de tu casta: la piedra. Mas Pekhañayok amaba a
@@ -9475,7 +8800,7 @@ ulaka! No son los muertos.
 
 ## LOS SAPOS
 
- –¿La mujer, ésa, suspendida en el abismo, Pekhañayok?
+–¿La mujer, ésa, suspendida en el abismo, Pekhañayok?
 
 –¿La infeliz a quien la brisa agita la cabellera? La Pankharita es,
 flor de los Khara-wayu, famosos Kholliris de rostro pálido, pico de
@@ -9495,7 +8820,6 @@ que el eco tiembla en el Sirpa si repite sus tristes ayes? La pasión besa
 como la piedra. Hoy todos los enamorados sin esperanza vienen a
 dolerse con ella en ese hilo de agua, criadero de huesos dulces. Dicen
 que cuando se toma de sus agüitas al amanecer y se tiran guijarros al
-
 Sirpa, le besan a uno Los Sapos Nengros en el corazón. Los Kharawayus se perdieron huyendo del Wawaku; pero de la puerta del bosque
 les hicieron volver a la mitad del camino. No se entiende ahora lo que
 hablan; pero éstos los viejos Kharas que dominaban sobre el mundo.
@@ -9517,7 +8841,7 @@ viven las hermosas m a m a k u n a s del Titikaka.
 –Ah, el sabio... Y bien sabio que es, pues nada sabe, y lo sabe; y
 por esto es que sabe mucho.
 
- –¿Tiene historia?
+–¿Tiene historia?
 
 –¿Historia? Historias... Así los sabios: pura historia. Ya te las
 contaré. Veamos qué hace la vieja zorrina... Sudaba de envidia por los
@@ -9535,7 +8859,6 @@ encontraba forma de castigarla, se dijo que habría de cavilar con los
 tendones. Y así fue que, cavilando, cavilando, la dijo: "Comadre Atokwarmi: cuando mis huevos están a punto de romperse, y ya mis
 chiquitos picotean dentro, llamándome para que les ayude a salir, traigo
 a su buen padrecito y cargamos con ellos a un horno muy caliente, los
-
 metemos, y a poco las cáscaras revientan, salen agitando las alitas, pían
 y se vienen para que los abrigue. Los beso, y después, al lago,
 comadrita, al baño. He ahí lo que tienes que hacer". Se relamió la zorra,
@@ -9557,7 +8880,7 @@ sorbe, reventó; con la violencia del estallido voló su cuerpo y fue a caer
 de hocico, como la ves. La mata de hiru testimonio es de su voracidad
 y necia condición.
 
- –¡Qué zorra tonta!
+–¡Qué zorra tonta!
 
 –Eh... No de otra laya los zorros entre los hombres.
 
@@ -9575,7 +8898,6 @@ cielo para que llegue hasta vosotros el resplandor de Lupi-tata, el padre
 centellante, y os muestre la hermosura de este mundo que he creado
 para vosotros. ¡Oídme, todos! Cuando se abra el cielo y veais
 encenderse una luz y se os aparezcan las montañas, los ríos, árboles,
-
 lagunas, florestas, en la tierra, y estrellas en el cielo, sabed que no
 tardaré. Venidme a esperar a la orilla del Titikaka. Mas nó solos; sí con
 vuestras esposas y vuestros hijos, todos, sin que falte nadie. No quiero
@@ -9600,7 +8922,7 @@ eso, tornó a oscurecerse el cielo y se llenó de negras y pesadas nubes.
 
 –Ahora le oiremos –se decían.
 
- Y retumbó el trueno en las montañas, en los bombos líquidos del
+Y retumbó el trueno en las montañas, en los bombos líquidos del
 Titikaka; el rayo descargó su fuego que incendia y mata; y tras truenos,
 rayos y huracanes, el mundo se llenó de horror y de agua.
 
@@ -9622,7 +8944,7 @@ trueno, a oirse su voz:
 
 –¡Ahora,voy!... ¡Ahora voy!...
 
- El cielo amarró sus llokllas y Wirakocha apareció en la oscuridad
+El cielo amarró sus llokllas y Wirakocha apareció en la oscuridad
 como la verdadera luz de la vida. En la mano diestra portaba cetro de
 oro, de la wincha, de hilos áureos, colgaban dos coágulos de la Khitula.
 Ciertamente, más que la de Lupi era grande la hermosura de
@@ -9637,13 +8959,13 @@ tornasol, el Chenko nigérrimo de alitas orificadas, el rosa Parewana, de
 largas patas, cuello serpentino y pico de acero fofo, los negros Mihis de
 picos hipodérmicos, el Lekhe-lekhe de trompilla de celador, los fluidos
 Kheñulas de alitas sin pluma, los Shokhas de betún como su genio, los
-Thikhis, de berbellonada cresta En fin, todos. En las oheranis del
+Thikhis, de berbellonada cresta... En fin, todos. En las oheranis del
 Titikaka aparecían y se hurtaban, Mauris, Humantos, Khesti-challwas,
 Ispis, Khono-challwas; hasta la culebra de fuego: el Tata Huturi.
 
 Ante esa inmensa multitud, dijo el Creador:
 
- –Estoy alegre, pues todos los hijos que entregué al cuidado de mi
+–Estoy alegre, pues todos los hijos que entregué al cuidado de mi
 Lago y lagunas, que los protegen, son dignos de su padre, que no está
 en el Cielo, sino con ellos, confundido en su corazón y en el agua, el
 hielo y la piedra. Espero que nadie haya faltado... Hasta ahora habéis
@@ -9692,10 +9014,10 @@ inmenso cariño que os cultiva: reproducíos sin límite! Ojalá que de
 cada uno de mis hijos me nazcan miles de nietos, que ellos forman la
 riqueza de mi corazón...
 
- CuandoWirakocha estuvo a punto de marcharse, sombra solitaria
+Cuando Wirakocha estuvo a punto de marcharse, sombra solitaria
 se dibujó en lontananza.
 
- –¡Wakak! ¡Wakak!...
+–¡Wakak! ¡Wakak!...
 
 Pero, a tiempo que estruendo de alas se levantó en las parvadas,
 estallaron en el lago resplandores de oro y se vio que se alzaban las olas
@@ -9707,7 +9029,7 @@ lugar del prodigio, y tronó con grande voz:
 
 –¡Khori-Challwa, rompe el agua y vuela!
 
- La fina cúspide que imanta las estrellas se alzó en encendido
+La fina cúspide que imanta las estrellas se alzó en encendido
 venablo, estalló, cayendo en lluvia de luceros. Y ya EL PEZ DE ORO
 fulgía entre el cielo y la tierra. El Dios gimoteó conmovido y se movió
 con sus resplandores hasta ponerse casi a la altura del oro divino. El
@@ -9715,117 +9037,66 @@ Suchi del Titikaka miraba al mundo con los diamantes de sus ojos y el
 mundo se besaba en ellos. Bramaba, bramaba el Khori-Puma mientras
 Wirakhocha cantaba... cantaba...
 
-H A Y L L I DE EL PEZ DE ORO
+### HAYLLI DE EL PEZ DE ORO 
 
-¡Khori-Challwa!... ¡Khori-Challwa!...
+> ¡Khori-Challwa!... ¡Khori-Challwa!... \
+> ¡Rompe ya los trinos y emboca la trompeta! \
+> ¿No tiene el mundo pulso \
+> para que alumbres sus caminos, \
+> y aunque turbarse deba, \
+> sentir que resplandecen tus oros en la sangre \
+> y que la tuya ablanda el duro pan del hombre? \
+> ¡Khori-Challwa; aventarás la muerte del sepulcro; \
+> que sólo a espera del resplandor que nutre, \
+> la vida estalla con tu amorosa Primavera! \
+> Haz que los hombres sepan, Khori-Challwa, \
+> que se va Wirakocha; \
+> y que en mis pueblos se oiga \
+> el estertor divino. \
+> ¡Ha fulgido tu llauto, Khori-Challwa! \
+> Hice mi rol de germen y en el germen, \
+> mostrando del agua la bondad, \
+> la bondad de la piedra, \
+> la bondad fértil de la nube, \
+> la bondad de los pastos, \
+> del Sol que trae su calor bueno... \
+> Mas no pude a la vida negarle mi gusano, \
+> y aunque de piedra bondadosa, \
+> mortal la hice, \
+> como somos mortales los dioses inmortales. 
 
-¡Rompe ya los trinos y emboca la trompeta!
+> ¡Khori-Challwa! ¡Khori-Challwa! \
+> En ti no se cansará la vida, Khori-Challwa. \
+> Te vi en las marejadas estelares, \
+> en los hervores de la tierra, \
+> en la fiebre, que es tensión del témpano, \
+> en la soberbia del harapo, \
+> en la humildad de harapo del soberbio. \
+> Cristales tuyos refulgen en el Alba; \
+> y si tu fulgor da ojo al ciego, \
+> cegará tu fuego al ojo cruel... 
 
-¿No tiene el mundo pulso
+> ¡Sólo Wirakocha sabe, Khori-Challwa, \
+> de cuál centella destella tu palabra, \
+> de cuyos pechos viene tu latido, \
+> y qué distancias naufragan en tu luz! \
+> Haces temblar los huesos de los dioses, \
+> pues eres Tú el temblor de la vida. \
+> ¡Khori-Challwa!... ¡Khori-Challwa!... \
+> Muere en tus nidos el último inmortal; \
+> pero ya los que por la inmortalidad \
+> de los dioses fueron los mortales, \
+> tendrán en Tí la plenitud... \
+> ¡Ansiedad de tu aroma sacude mi granito, \
+> sacude la rugiente materia de los mares, \
+> sacude al átomo dormido; \
+> y porque vienes en nombre de la Vida \
+> el Universo se besa en tu aleluya! \
+> ¡Khori-Challwa!... ¡Khori-Challwa!... \
+> Cuando se crispe en oros el aire de los hombres, \
+> ya el hombre cargará en la sangre tu aleluya... 
 
-para que alumbres sus caminos,
-
-y aunque turbarse deba,
-
-sentir que resplandecen tus oros en la sangre
-
-y que la tuya ablanda el duro pan del hombre?
-
-¡Khori-Challwa; aventarás la muerte del sepulcro;
-
-que sólo a espera del resplandor que nutre,
-
-la vida estalla con tu amorosa Primavera!
-
-Haz que los hombres sepan, Khori-Challwa,
-
-que se va Wirakocha;
-
-y que en mis pueblos se oiga
-
-el estertor divino.
-
-¡Ha fulgido tu llauto, Khori-Challwa!
-
-Hice mi rol de germen y en el germen,
-
-mostrando del agua la bondad,
-
-la bondad de la piedra,
-
-la bondad fértil de la nube,
-
-la bondad de los pastos,
-
-del Sol que trae su calor bueno...
-
-Mas no pude a la vida negarle mi gusano,
-
-y aunque de piedra bondadosa,
-
-mortal la hice,
-
-como somos mortales los dioses inmortales.
-
-¡Khori-Challwa! ¡Khori-Challwa!
-
-En ti no se cansará la vida, Khori-Challwa.
-
-Te vi en las marejadas estelares,
-
-en los hervores de la tierra,
-
-en la fiebre, que es tensión del témpano,
-
-en la soberbia del harapo,
-
-en la humildad de harapo del soberbio.
-
-Cristales tuyos refulgen en el Alba;
-
-y si tu fulgor da ojo al ciego,
-
-cegará tu fuego al ojo cruel...
-
-¡Sólo Wirakocha sabe, Khori-Challwa,
-
-de cuál centella destella tu palabra,
-
-de cuyos pechos viene tu latido,
-
-y qué distancias naufragan en tu luz!
-
-Haces temblar los huesos de los dioses,
-
-pues eres Tú el temblor de la vida.
-
-¡Khori-Challwa!... ¡Khori-Challwa!...
-
-Muere en tus nidos el último inmortal;
-
-pero ya los que por la inmortalidad
-
-de los dioses fueron los mortales,
-
-tendrán en Tí la plenitud...
-
-¡Ansiedad de tu aroma sacude mi granito,
-
-sacude la rugiente materia de los mares,
-
-sacude al átomo dormido;
-
-y porque vienes en nombre de la Vida
-
-el Universo se besa en tu aleluya!
-
-¡Khori-Challwa!... ¡Khori-Challwa!...
-
-Cuando se crispe en oros el aire de los hombres,
-
-ya el hombre cargará en la sangre tu aleluya...
-
-Y EL PEZ DE ORO fungióse en el granito.
+> Y EL PEZ DE ORO fungióse en el granito. 
 
 Siguió el silencio que habita en la carroña y en el Sol.
 
@@ -9843,9 +9114,13 @@ Dirigiéndose al sabio, dijo:
 único delincuente? Falta ninguno de mis hijos. ¿O es que ya sabes que
 Wirakocha se muere? La fuerza debe ser humilde y la sabiduría dulce.
 Mira que el oro es presto y su resplandor alígero; pero sólo es dable al
-oro. En ti debe pesar algo, que nó, tu gentil airón.¿Qué es? Dilo.
+oro. En ti debe pesar algo, que nó, tu gentil airón. ¿Qué es? Dilo.
 
-–¡Wakak! ¡Wakak!
+<br>
+
+–¡Wakak! ¡Wakak! 
+
+<br>
 
 –¡Wakak!... Sabio indigno, antes sé animal; después sabio, si
 quieres, que podrás. Mas no te dejaré sin ley que te gobierne, supuesto
@@ -9863,7 +9138,6 @@ Y en ese momento la piedra tomó la forma de la sabiduría. ¿Ya
 comprendes por qué el Waksallu es el único pajarraco del Titikaka a
 quien mujer alguna besa y acompaña? Los mudos Chenkos le huyen.
 El "viudo" le llaman los balseros; pero nó el viudo de su hembra; sí el
-
 viudo de la hembra. Todo se reduce a que sabios como éste cargan la
 sabiduría en la cabeza; y como toda sabiduría de la cabeza, huyen de la
 mujer.
@@ -9872,49 +9146,33 @@ mujer.
 
 ### HARARUÑA
 
-¿Quién, los del árbol pies ligeros
+> ¿Quién, los del árbol pies ligeros \
+> sorprendió, cuando en la corriente \
+> del riachuelo mira su ramaje, \
+> esclavizada la raíz a la ribera? 
 
-sorprendió, cuando en la corriente
+> ¡El beso! \
+> ¿Los impacientes pies del agobiado \
+> pueblo, quién sujetos a las cadenas \
+> vio del amo rudo y sanguinario? 
 
-del riachuelo mira su ramaje,
+> ¡Pekhañayok! \
+> ¿Quién del hambre el gesto; \
+> quién, que más calla cuando \
+> más devora y se devora? 
 
-esclavizada la raíz a la ribera?
+> ¡El beso! \
+> ¿Quién vió que el hombre \
+> es hechura del miedo \
+> y del miedo su tábano? 
 
-¡El beso!
+> ¡El hielo! \
+> El fuego te pide que le mires, \
+> que le oigas te pide cuando besa. \
+> Si la raíz es del trino que anda; \
+> si anda en tí es que en tí besa. 
 
-¿Los impacientes pies del agobiado
-
-pueblo, quién sujetos a las cadenas
-
-vio del amo rudo y sanguinario?
-
-¡Pekhañayok!
-
-¿Quién del hambre el gesto;
-
-quién, que más calla cuando
-
-más devora y se devora?
-
-¡El beso!
-
-¿Quién vió que el hombre
-
-es hechura del miedo
-
-y del miedo su tábano?
-
-¡El hielo!
-
-El fuego te pide que le mires,
-
-que le oigas te pide cuando besa.
-
-Si la raíz es del trino que anda;
-
-si anda en tí es que en tí besa.
-
-¡Busca su huella en el beso de tu alma!
+> ¡Busca su huella en el beso de tu alma! 
 
     * * *
 
@@ -10139,7 +9397,6 @@ comprendo: vives en la cabeza.
 –Hace momento me preguntabas cómo así resulté en tu casa. No
 lo sé; y eso que he tratado de averiguarlo como tú, con la cabeza. Me
 sale nada. Creo que allí está la causa de tus males; por eso eres triste. Si
-
 yo viviera con la cabeza, y con la cabeza pensara, me creería un animal
 detenido. Yo pienso con la rodilla, con el tendón, el codo, la oreja, el
 hígado. Cada parte de mi cuerpo posee la facultad de pensar, discernir,
@@ -10201,13 +9458,13 @@ hijos muertos". Y pronto sintió el muchacho que nó a El a quien se
 dirigía. Comenzó a acabar todo. ¡Ingrato! Un día me echó. Voy por
 EL...
 
- –¡Ah, su risa no volverá a alegrar mi sepulcro! Transparente
+–¡Ah, su risa no volverá a alegrar mi sepulcro! Transparente
 como el agua y como el viento viva; pura, primaveral, prístina, aroma
 del aroma...
 
- (–Por piedad, tatay: no vuelvas con mis letanías).
+(–Por piedad, tatay: no vuelvas con mis letanías).
 
- –¿Te besa? Estás loco. Ábreme campo: voy por Él.
+–¿Te besa? Estás loco. Ábreme campo: voy por Él.
 
 <hr>
 
@@ -10221,12 +9478,9 @@ salido del bulbo genealógico. Genial siempre; su curiosidad maravillosa. Y si n
 hacia la infancia. No hubo en mi chuklla allko más retozón, ni flor
 hubo que perfumara más. He aquí que aunque no cesaba de sostener
 que El lo había echado, sus vientos fuertes rompieron el coral de mi
-
 naranja de oro. Le lloraba, sí; pero en silencio, sin gemido. Y sin una
 lágrima que yo me sé y que de entonce tembló en sus ojos, habríamos
-pensado que en el ojo el cielo le temblaba
-
-por llorarle.
+pensado que en el ojo el cielo le temblaba por llorarle.
 
 –¡Volveremos!
 
@@ -10246,7 +9500,7 @@ viéronme los oteros; cuando supieron de mi angustia los u y u s de la
 heredad, salieron a abrazarme. Y todos, señalando el camino, el largo
 camino clivoso, repetían:
 
- –Por aisito será, tatay: pasó há milenios... Sus huesos están
+–Por aisito será, tatay: pasó há milenios... Sus huesos están
 hendidos en la piedra...
 
 Ya en la tierra está; a la nube se ha vuelto; el cielo le tiene y en la
@@ -10266,67 +9520,40 @@ quieta la tuve en el estupor de mis granitos...
 –¡No saldrás ya de mí, madre estéril –la decía–: te baste devorar
 los cadáveres que ahí tengo!
 
-TOKAÑA DEL SACHA-RUNA
+### TOKAÑA DEL SACHA-RUNA
 
-Ella dormía oculta en sus guadañas.
-
-Faltando el mono soltará la jauría.
-
-Mi santidad nimbaba sus alacranes.
-
-Vestíanla estrellas mis cilicios.
-
-¿Quién, desde la cúspide buída,
-
-la despertará con mi alarido?
-
-En los estratos de mi sangre
-
-una mujer baila sin ganas.
-
-Entre espinas crecido lirio
-
-y de mis cáctus los pudores era:
-
-del lirio ahora nacerán las espinas.
-
-Me enseñaste amar la desnudez del agua;
-
-y era con arrullo de volcanes,
-
-que tú mandabas que se amara.
-
-Ya la montaña al lirio aplasta.
-
-Y aunque sombra de tálamo la brindo,
-
-y de darla, daréla mis flúidos,
-
-no romperé su rosa perfumada,
-
-ni escanciaré la sangre que me hurtara.
-
-Mono espacial, a quien busco y no es;
-
-a quien siento y me faltas;
-
-a quien lumbre doy y se nubla;
-
-a quien siembro y no nace;
-
-a quien con arrullos llamo
-
-y no rula... Por lo menos que la muerte
-
-sepa que vive; y que en sus mamas
-
-me ñuñuñe: ¡Khusillu!... ¿Dónde estás,
-
-si del árbol eres y de él me faltas?
+> Ella dormía oculta en sus guadañas. \
+> Faltando el mono soltará la jauría. \
+> Mi santidad nimbaba sus alacranes. \
+> Vestíanla estrellas mis cilicios. \
+> ¿Quién, desde la cúspide buída, \
+> la despertará con mi alarido? \
+> En los estratos de mi sangre \
+> una mujer baila sin ganas. \
+> Entre espinas crecido lirio \
+> y de mis cáctus los pudores era: \
+> del lirio ahora nacerán las espinas. \
+> Me enseñaste amar la desnudez del agua; \
+> y era con arrullo de volcanes, \
+> que tú mandabas que se amara. \
+> Ya la montaña al lirio aplasta. \
+> Y aunque sombra de tálamo la brindo, \
+> y de darla, daréla mis flúidos, \
+> no romperé su rosa perfumada, \
+> ni escanciaré la sangre que me hurtara. \
+> Mono espacial, a quien busco y no es; \
+> a quien siento y me faltas; \
+> a quien lumbre doy y se nubla; \
+> a quien siembro y no nace; \
+> a quien con arrullos llamo \
+> y no rula... Por lo menos que la muerte \
+> sepa que vive; y que en sus mamas \
+> me ñuñuñe: ¡Khusillu!... ¿Dónde estás, \
+> si del árbol eres y de él me faltas? 
 
 <hr>
 
-### PEKHEKHAWRAKHOLLO
+### PEKHE KHAWRA KHOLLO
 
 Algo velludo, sí; pero, a través del vello, la piel broncínea bruñida
 por el yodo del Lago. No le quiteis el ojo. Ha corrido con el viento; y
@@ -10358,31 +9585,19 @@ la perkha. Y otra vez el celaje en el viento.
 
 ### HARAWI
 
-Las serpentinas thayas
-
-Khaswan para los ayllus;
-
-y en los ayllus ensueña
-
-la virgen con el Koo-khena.
-
-Ya la tarde ha caído.
-
-Paksi-mama es la Koya
-
-de la pampa y los chiñis,
-
-la Koya del añasko y el lekhe,
-
-del khamakhe es la Koya.
-
-Endulzan las khenayas,
-
-le escoltan warawaras.
-
-Las serpentinas thayas
-
-khaswan para los ayllus.
+> Las serpentinas thayas \
+> Khaswan para los ayllus; \
+> y en los ayllus ensueña \
+> la virgen con el Koo-khena. \
+> Ya la tarde ha caído. \
+> Paksi-mama es la Koya \
+> de la pampa y los chiñis, \
+> la Koya del añasko y el lekhe, \
+> del khamakhe es la Koya. \
+> Endulzan las khenayas, \
+> le escoltan warawaras. \
+> Las serpentinas thayas \
+> khaswan para los ayllus. 
 
 Warawaras, thayas y khenayas, le coquetean desde el cielo; desde
 él le avientan suspiros de hielo. Y él, desde el peñón de hielo, enreda en
@@ -10404,25 +9619,18 @@ copiosas las cosechas que faltan khawras para la khumunta...
 
 ### HAYLLI
 
-¿Velludo? poco ¿Rijoso? sí, sí...
+> ¿Velludo? poco ¿Rijoso? sí, sí... \
+> Piel bruñida al yodo bronce. \
+> Tendón de llamo; pectoral de ángel. \
+> Lomo para cargar nube o montaña. \
+> Volcán el puño; acero rojo el ojo. \
+> Pierna de thesko pero de jeta frágil. \
+> Iracundia del fuego en la alborada. 
 
-Piel bruñida al yodo bronce.
+> Su cabeza de Khawra, blanca y hermosa, \
+> es triste: ¡la entristece el hombre! 
 
-Tendón de llamo; pectoral de ángel.
-
-Lomo para cargar nube o montaña.
-
-Volcán el puño; acero rojo el ojo.
-
-Pierna de thesko pero de jeta frágil.
-
-Iracundia del fuego en la alborada.
-
-Su cabeza de Khawra, blanca y hermosa,
-
-es triste: ¡la entristece el hombre!
-
-H I L O S D E L H I E LO
+## HILOS DE HIELO
 
 Trino del viento. Trino Inka.
 
@@ -10444,7 +9652,7 @@ montaña de oro. ¿No fui el hombre que amó? Soy la montaña que
 besa. Oyeme si Hiruchunta no gime con los vientos y si los vientos no
 muerden en el suyo mi nombre.
 
- –¡Pekhañayok!...
+–¡Pekhañayok!...
 
 Acércate a la tierna Hirichunta y verás que manan cristales de
 agua de su ñuñu. Traga allí y sentirás el m i s k h i, pero en los
@@ -10454,23 +9662,15 @@ consumido el fuego. ¿No te imanta?
 
 ### HARUÑA
 
-¡Oh, tú, que imantas las estrellas,
-
-dulcísima cúspide del beso!
-
-Quema mis escorias y hazme ceniza
-
-y que mi ceniza te asga,
-
-que es ella principio de espina.
-
-Tu ley fue arder: ¡arde! ¡arde!
-
-Y cuando la nieve me amortaje,
-
-sé carbón para el fuego de la nieve.
-
-Sé la brasa que imante mi carroña...
+> ¡Oh, tú, que imantas las estrellas, \
+> dulcísima cúspide del beso! \
+> Quema mis escorias y hazme ceniza \
+> y que mi ceniza te asga, \
+> que es ella principio de espina. \
+> Tu ley fue arder: ¡arde! ¡arde! \
+> Y cuando la nieve me amortaje, \
+> sé carbón para el fuego de la nieve. \
+> Sé la brasa que imante mi carroña... 
 
 Ten la amorosa fuerza del Koo-khena; mas corre de su dura
 soberbia. La ley, ley, porque es simple, porque tiene la facilidad del aire
@@ -10533,7 +9733,7 @@ Ante su gran vozarrón todos temblaron.
 
 Avanzó el rebelde.
 
- –Parece que vienes a juzgarme; que acaso haya transgredido tus
+–Parece que vienes a juzgarme; que acaso haya transgredido tus
 leyes y no tú las mías... ¿No te mandé ayuntarte sólo con hembras de tu
 especie? ¿Y qué has hecho? Cómo sólo en ti estuviese el mal. Pero,
 quién no te imita ya. El hombre me ha pedido que ponga tu cabeza en
@@ -10547,50 +9747,31 @@ Cuando el Sol se ha ocultado baja del ventisquero y se ayunta con
 las llamitas vírgenes; en las noches persigue a las tawakus: El Kookhena es el hombre que pelea con la bestia. La vida quiere que la bestia
 ame al hombre, y que el hombre ame a la bestia. Preguntarás si el Kookhena está en el hombre. Bástete saber que en el hombre está la bestia,
 tanto, que sabrás cuándo el hombre es Khawra y cuándo el Khawra es
-
 hombre. El Koo-khena es la fuerza fértil, pero que no debe ser
 gobernada por la cabeza; que es ella madre de la crueldad inútil. Debe
 obedecer a su piedra que besa el sonko.
 
 ### WAYÑUSIÑA
 
-Por el ayllu, por la moya,
-
-por el uyu de la quiebra,
-
-el Koo-khena, vaga, bala.
-
-Y el hañachu se arrechucha
-
-por el ñuñu de la khawra
-
-que le holla, y le tiembla,
-
-y ya siente ardiente el soma.
-
-Su ansiedad deslíe mieles,
-
-mascotea piojo el ñuñu.
-
-Y en el ñuñu la paloma
-
-se abandona, y agoniza
-
-con suspiros que aletean
-
-en el belfo del hañachu.
-
-De hombre de armas la lihwana,
-
-ruda, bella pekhe khawra.
-
-Si a la khawra se le ayunta
-
-hombre es; khawra y fuego cuando
-
-en flor la flor desflora
-
-de la mama de los ayllus.
+> Por el ayllu, por la moya, \
+> por el uyu de la quiebra, \
+> el Koo-khena, vaga, bala. \
+> Y el hañachu se arrechucha \
+> por el ñuñu de la khawra \
+> que le holla, y le tiembla, \
+> y ya siente ardiente el soma. \
+> Su ansiedad deslíe mieles, \
+> mascotea piojo el ñuñu. \
+> Y en el ñuñu la paloma \
+> se abandona, y agoniza \
+> con suspiros que aletean \
+> en el belfo del hañachu. \
+> De hombre de armas la lihwana, \
+> ruda, bella pekhe khawra. \
+> Si a la khawra se le ayunta \
+> hombre es; khawra y fuego cuando \
+> en flor la flor desflora \
+> de la mama de los ayllus. 
 
 <hr>
 
@@ -10602,7 +9783,6 @@ viento... ¡Antiguo! ¡Antiguo!...
 aterrorice el que viene. Presto verás que sus trompetas callan y el
 cabrilleo se esfuma de los chukis. ¡Sólo en hoy la vida estalla virgen,
 virgen como la mujer, virgen si madre! Tómala el labio; pon guirnalda
-
 de misikus en su frente; vuélcate ardiente en su ardoroso seno. ¡El
 miserable cuatrero de la melodía jamás cantará en beso! Sólo canta el
 beso que ha llorado mucho, guaguay.
@@ -10611,11 +9791,9 @@ Y el Antiguo se llevó en el sonko la montaña que besa.
 
 # MAMA KUKA
 
-Cuanto vimos y cogimos lo soltamos;
-
-y traemos cuanto ni vimos ni cogimos.
-
-Heráclito
+> Cuanto vimos y cogimos lo soltamos; \
+> y traemos cuanto ni vimos ni cogimos. \
+> _Heráclito_ 
 
 Mi Wayñusiña era un ababol de parlanchinas corolas abiertas al
 liliputiense cielo que la diera por patria, para que en tanto kurukuteaban sus rubores no recordara a la Amapolita que no lejos de la
@@ -10639,7 +9817,7 @@ la susurraba, sin otra obligación que regatearnos sus cándidas corolas.
 Claro es que en todo esto, mirado desde la razón y sus fríos extremos,
 más había de juego que expresiones de candorosa locura.
 
- –Aunque locura sea –me decía al último–, como con ella a nadie
+–Aunque locura sea –me decía al último–, como con ella a nadie
 daño...
 
 No de otra manera lo entendían algunas de mis amistades que
@@ -10648,9 +9826,9 @@ salud ya, alegría, sin sabores, luego, y hasta caprichillos de la flor; nó
 como si sólo de la flor se tratara, sino de los rubores que la encendían,
 y cuyas causas manera hubo de privar de transida sobrehumanidad.
 
- El teléfono funcionaba desde las primeras horas de la mañana.
+El teléfono funcionaba desde las primeras horas de la mañana.
 
- –¿Cómo ha amanecido la ruborosa? Entiendo que estará alegre y
+–¿Cómo ha amanecido la ruborosa? Entiendo que estará alegre y
 bonita que nunca, si el día es una bendición... Déla mis recuerdos y
 muchos besos.
 
@@ -10666,9 +9844,9 @@ cataratas.
 –Mi grande y buen amigo: habla usted con Clemente... ¿Y, qué
 tal? ¿Qué cuenta?... ¿Tenemos nuevos Laykakuys?
 
- –No, no, querido... No...
+–No, no, querido... No...
 
- –¿Cómo va la salud?... ¿Y los libros que nos debe?
+–¿Cómo va la salud?... ¿Y los libros que nos debe?
 
 –Clemencia, en primer lugar por las libras, Clemente.
 
@@ -10677,22 +9855,22 @@ tal? ¿Qué cuenta?... ¿Tenemos nuevos Laykakuys?
 –Bien oí que son libros los que me cobra. Pero, si libras no
 gotean, cómo pagarle con libros, querido...
 
- –Deje libras y aferre libros: ése su destino, querido... Bueno, por
+–Deje libras y aferre libros: ése su destino, querido... Bueno, por
 otra parte: ¿qué me dice del chaparroncito?
 
- –Trejo: especialidad de nuestro cielo.
+–Trejo: especialidad de nuestro cielo.
 
- –¿La Wayñusiña está defendida? Una manga, así, puede hacerla
+–¿La Wayñusiña está defendida? Una manga, así, puede hacerla
 cisco...
 
- –Quede tranquilo; está debidamente protegida.
+–Quede tranquilo; está debidamente protegida.
 
- –¡Qué bien!... El gnomo no ha de dormir sin riesgo del cinturón
+–¡Qué bien!... El gnomo no ha de dormir sin riesgo del cinturón
 de las Waykyrias...
 
- –Pequeño mi jardín; mas yo le cultivo, así, pequeñin...
+–Pequeño mi jardín; mas yo le cultivo, así, pequeñin...
 
- –Ji, ji, ji... Claro: si en usted se han metido Fray Luis, el jardinero
+–Ji, ji, ji... Claro: si en usted se han metido Fray Luis, el jardinero
 del Hebrón, y el santo ateo de Ferney. Entonces; por mis caricias a esa
 inconsecuente hermosura...
 
@@ -10718,7 +9896,7 @@ también la gusto desganada; no sé si triste.
 
 –Ya ve: el corazón no engaña, amigo mío.
 
- –Que sí: a la pobrecita y a su viudo les faltan los mimos de una
+–Que sí: a la pobrecita y a su viudo les faltan los mimos de una
 hermosa que sólo nosotros adoramos.
 
 –Lisonjero y mal jugador. No piruetee con cera sobre llamas
@@ -10754,7 +9932,6 @@ De ella ya no se hablaba sino con ansiedad llorosa, tanto que yo,
 no poco desazonado, veía en todo ésto brotes de una locura que iba
 arredañándonos insensiblemente. Fíeseme crédito si digo que seguro
 del significado meramente lírico de esos mis amoríos, rogaba a
-
 enamorados y enamoradas no sobrepasar su simplicidad; no fuese se
 me juzgara enfermo, o cunda. Pero, entonces vine a entender que más
 que el individuo, la tribu, y en cuanto tal, es propensa a ciertos flujos
@@ -10764,7 +9941,7 @@ es para animar leyendas al mismo tiempo seductoras que pavorosas.
 revelan en qué grado los primitivos grupos humanos sabían más que
 los actuales de lo que llamamos las verdades de la vida.
 
- Ya no pocas me tomaban como descarnado protagonista de
+Ya no pocas me tomaban como descarnado protagonista de
 sucesos fantasmagóricos.
 
 –Que anoche te han visto, maistro (tal la jerarquía que me aplicó,
@@ -10784,7 +9961,7 @@ indias, evocaban el recuerdo la Amapolita.
 waspearte. Dicen haber visto mujer enlutada que te hacía compañía. ¡Y
 era su esqueleto de la Amapolita!
 
- Su esqueleto.
+Su esqueleto.
 
 Para acentuar el clima fantasmal, hallándome ausente, un Kon,
 mi fraternal amigo y camarada, parece que a causa de sutil chicha
@@ -10804,7 +9981,7 @@ Pude ya disimular las aflicciones que me sacudían.
 
 –Orko-pata.
 
- –Amigazo... ¿Y, qué tal?... ¿Me reconoce?... ¿Sí?... Pues, tengo
+–Amigazo... ¿Y, qué tal?... ¿Me reconoce?... ¿Sí?... Pues, tengo
 malas noticias. Sea valeroso, que lo que aquí le va es un mordizco. Sepa
 de antemano que nadie cree menos en su corazón, digo, en el mío, que
 este su amigo; por lo que hágase cargo de cuanto va a oir... Enantes, al
@@ -10818,21 +9995,21 @@ Temblé.
 
 –Sí: descarnada... ¿Me entiende?
 
- –Menos le entiendo, cuanto tiemblo, hombre de Dios. Exprésese
+–Menos le entiendo, cuanto tiemblo, hombre de Dios. Exprésese
 en árabe, si su cotidiano griego se le ha escurrido. ¿Quién el
 agonizante? Y luego ve usted una muerta, muerta y bien muerta...
 
- –¡Cocórcholis! Tiene usted razón. Es que, amigo mío, por mi
+–¡Cocórcholis! Tiene usted razón. Es que, amigo mío, por mi
 tampoco puedo más. ¡Deliro enamorado; y tiemblo por ella!
 
- –Bien, si le alivia. Pero sólo enloquecido pasaré este caliz... ¿A
+–Bien, si le alivia. Pero sólo enloquecido pasaré este caliz... ¿A
 quién se refiere usted, infeliz?
 
 –¿A quién? Bienaventurado: ¡a Wayñusiña! Ella se me ha hecho
 presente; la he visto exalar el aliento agostada por la moira de nuestra
 indignidad. ¡Cuídemela; pues yo sí acabaré loco; y a nó largo plazo.
 
- Por manera que el ababol es el alma, o tiene alma, para estos sus
+Por manera que el ababol es el alma, o tiene alma, para estos sus
 erizados y fieles amigos... ¿Qué los sabios dirían de todo esto? Y por lo
 mismo que la encontraba hermosa y vivaz que nunca el misterioso
 torcedor me laceraba más.
@@ -10848,7 +10025,6 @@ mis pasos. Avanzaba en acérrimo y zigzagueante senderillo, protegida
 mi soledad por bizarra guardia de runahakes, mis camaradas y
 hermanos, y me fue dado comprobar hecho pavoroso. Y fue que la
 brisa del Titikaka jugueteaba haciendo cruces con las pajitas pisoteadas
-
 en el sendero, a que dí importancia: si el viento es capaz de todo,
 particularmente el vientecillo emotivo de las oheranis. Pero, cuando las
 crucecitas se anticipaban con insistencia que parecía mimosa, tanto que
@@ -10901,19 +10077,13 @@ tiempo es que enrieles al redil de este cenobio?
 
 –Desmemoriada...
 
-"Mira que el amor es fuerte;
-
-"vida, no me seas molesta,
-
-"mira que sólo te resta
-
-"para ganarte, perderte;
-
-"venga ya la dulce muerte,
-
-"el morir venga ligero,
-
-"que muero porque no muero".
+> "Mira que el amor es fuerte; \
+> "vida, no me seas molesta, \
+> "mira que sólo te resta \
+> "para ganarte, perderte; \
+> "venga ya la dulce muerte, \
+> "el morir venga ligero, \
+> "que muero porque no muero". 
 
 –Que enloqueces, pastoruelo, de no besarla con devoción, así
 fríos sientas sus labios. Quieres meter oveja a tu redil; y eres awatiri
@@ -10922,7 +10092,7 @@ haga a tus trankhañas...
 
 ¿Podría no ceder al mareo de las olas?
 
- Wayñusiña volvióse la engreída castellana por cuyas necesidades y
+Wayñusiña volvióse la engreída castellana por cuyas necesidades y
 caprichos muchas prudentes personas malbarateaban cariños, sin
 mercarle aliño; si me codeaba poeta que hizo profesión trabucar por
 ella en mis ojos, de tanto los escrutaba; y en acrósticos, madrigales, y lo
@@ -10931,12 +10101,12 @@ como a mi hembra que era la trataba, sí como a la novia que le habría
 de dar para hacer más estrecha la adhesión que me cultivaba, tan
 parecida a la del uspakhuchu por la flama de la vela...
 
- Momento a momento, sustanciábase; adquiría humano perfil;
+Momento a momento, sustanciábase; adquiría humano perfil;
 reclamaba derechos; rompía la cárcel de su ovario.
 
- ¿Cedería al mareo de las olas?
+¿Cedería al mareo de las olas?
 
- Que un loco sepa que está loco, bien parece demostrar que por lo
+Que un loco sepa que está loco, bien parece demostrar que por lo
 menos el loco no es él. Mi problema era descubrir en raciocinios y
 actitudes, si existía, el punto del disloque. La normalidad de mis ideas y
 actos, la aptitud para centrarme en la realidad, en el mismo terreno
@@ -10953,7 +10123,6 @@ Cenábamos puñado de amigos, y nos regalaban con sopa de
 ostras, ciertamente vianda exótica y desusada para quienes no
 familiarizan lawas de cebada, khatawiapis, como un salomillo de M.
 Savarin, o espárragos lituanos, a los que el markamasi puede menos
-
 que tratar con guantes, si son los vanidosos cebos a que hay estómago
 misticho que se resista. De pronto, por inexplicable iniciativa, levanté
 el plato sopero, y en el plato plano, hecha de fideo, temblaba,
@@ -11002,17 +10171,17 @@ trajecitos domingueros de la amapola.
 Calofrío del alma en el sueño; eres lo más hondo de ese sepulcro
 que anda: el hombre.
 
- No entregué al sabio la interpretación del extraño episodio; lo
+No entregué al sabio la interpretación del extraño episodio; lo
 entregué al Layka.
 
- Y el Layka, me dijo:
+Y el Layka, me dijo:
 
- –Soñar con el Khomer-khenti, dice que un muerto querido ha
+–Soñar con el Khomer-khenti, dice que un muerto querido ha
 dejado la tumba para visitarte; y si el Khomer-khenti se convirtió en tu
 sueño en Wilamaywa, que ese muerto tiene sed de tu sangre. ¡Vas a
 morir!
 
-N o moriría loco. Confié al Layka la primera parte de mi sueño;
+No moriría loco. Confié al Layka la primera parte de mi sueño;
 ésta, y la segunda, las referiría a los médicos. La tercera, no la revelaré...
 Pero, después de ese sueño, tengo que admitir que otra naturaleza se
 había acoplado a la mía; y si a momentos me transportaba a la
@@ -11041,7 +10210,6 @@ es de la flor de que ha partido el movimiento de instilación que la ha
 llevado a aposentarse en mi personalidad. Y esto me ha inducido a
 pensar que aquello que llamamos subconsciente acusa, simplemente, la
 presencia de conciencias que se albergan en la personalidad humana; y
-
 constituyen nó una conciencia subyacente, sino una conciencia
 múltiple.
 
@@ -11082,14 +10250,14 @@ funciones mentales. Todo lo contrario. He comprobado sus efectos
 siempre saludables en el sentido más clínico de la palabra. Eso es
 desviar el buen camino del examen.
 
- Una realidad, cuando menos extraña, pugnaba por asumir cada
+Una realidad, cuando menos extraña, pugnaba por asumir cada
 vez más orgánica naturaleza.
 
- De todo cuanto se me había dicho en el proceso de esa larga
+De todo cuanto se me había dicho en el proceso de esa larga
 diatesis, sólo el acertijo del Layka atlanta me sacudía como una
 obsesión.
 
- –¡Un muerto querido tiene sed de su sangre! ¡Vas a morir!...
+–¡Un muerto querido tiene sed de su sangre! ¡Vas a morir!...
 
 La amapola con alas –sombra o suspiro– aleteóme en la oreja; y
 habría sabido dónde ni cómo se esfumó, si, presto, no sintiera junto al
@@ -11128,7 +10296,7 @@ Oí en el cerebro:
 
 –¡Viene la otra!
 
- ¿La otra? Esa noche soñé con "la otra"; y, al siguiente día, abrió
+¿La otra? Esa noche soñé con "la otra"; y, al siguiente día, abrió
 mi puerta... ¿Era la misma? Nunca antes la había visto: ¡el subcon
 sciente! La misma era; y en los ojos, en la palidez de marfil, en la
 porfiada vivencia interna, en el desasimiento de todo interés, y en un
@@ -11139,7 +10307,7 @@ Oígola ahora que me dice:
 
 –¡Aquí está "la otra" en el mismo martirio de la miel!
 
- La poética ebriedad en que me anegara en tanto cultivaba el
+La poética ebriedad en que me anegara en tanto cultivaba el
 campo de amapolas, cambióse por tristeza de carne y hueso; e,
 implacable, comenzó a roerme. Ya no acudiría a regar las amapolas, y
 nadie, ni nada, a permanecer con ellas me obligaría, y menos a hablarlas
@@ -11176,19 +10344,18 @@ los médicos, abonando mi razón, declarar que en momento alguno
 convinieron en el diagnóstico; que ni alteraciones observaron en la
 temperatura; menos se habían caracterizado perturbaciones nerviosas
 (mis clásicos soliloquios eran sólo dramática per nativitate), inhibición
-
 de la voluntad se hizo manifiesta, menos schizos que acusaran
 indiosincrasia psicósica.
 
 Terminó uno de ellos:
 
- –Que te mueres, se ve; por qué, nó. Para mí que tu enfermedad
+–Que te mueres, se ve; por qué, nó. Para mí que tu enfermedad
 es de fruiciones letales. Lo que deseas es experimentar el gran estado
 de la muerte. Enférmate de vida y te levantarás ahora mismo a bailar
 marineras, que buena falta te hacen. Si, no obstante la prescripción, te
 vas: será por que ése tu deseo...
 
- Fueron los últimos chispazos de la conciencia; y, luego, me
+Fueron los últimos chispazos de la conciencia; y, luego, me
 hundí...
 
 Atraídos por la cadaverina, con el non sancto afán de capujar
@@ -11201,7 +10368,7 @@ enfrentar al viejo ciclópeo a quien atribuían mis calamidades.
 
 No pocos suspiraban:
 
- –Es su Wayñusiña que se lo lleva.
+–Es su Wayñusiña que se lo lleva.
 
 El viejo ciclópeo era el Achachila de nuestra hogareña montaña:
 el Kancharani. Mientras vaciaba las copitas rituales de alcohol aguado,
@@ -11249,7 +10416,7 @@ era hombre no solamente sano, sino fuerte...
 
 Pero...
 
- –¡Ahayu watan!... El Chullpa-tullu amarró su alma... No ha de
+–¡Ahayu watan!... El Chullpa-tullu amarró su alma... No ha de
 morir... Es corazón grande... ¡Su cabeza de Laika!... Pagaremos a la
 Pacha-mama... No ha de morir...
 
@@ -11265,7 +10432,6 @@ maléfica de una cascada le había hecho presa en la infancia; cultivávale
 sentimientos rencorosos y muy pronto le mandaría al destierro. Era
 benigna el alma que le había atrapado, y, lejos de quitárselas, le daría
 renovadas fuerzas; mas otras esperaban imitarla, de cuya contradictoria
-
 acción saldría al último victorioso. Un viaje por remotas e inholladas
 regiones del ánimo sería el comienzo de su verdadero destino.
 
@@ -11274,21 +10440,14 @@ emplean los Laykas:
 
 ### HARARUÑA
 
-Khantati ururi,
-
-suma ñairampi,
-
-chuimaha
-
-khanarañapataki...
-
-Lucero de la Aurora,
-
-el que mira magnánimo;
-
-báñame con tu luz,
-
-y ella alegre mi corazón...
+> Khantati ururi, \
+> suma ñairampi, \
+> chuimaha \
+> khanarañapataki... \
+> Lucero de la Aurora, \
+> el que mira magnánimo; \
+> báñame con tu luz, \
+> y ella alegre mi corazón... 
 
 Salmodia fue que el brujo dirigió a la estrella en nombre del
 enfermo debatiéndose en los estertores, seguro de que el poético
@@ -11356,7 +10515,6 @@ entienda si digo que eran visiones sensibles que se animan en la
 profundidad de la sangre; y porque allí están adquieren realidad y
 actualidad. De la misma manera que el corazón del moribundo se
 detiene progresivamente, hasta que, de pronto, cesa de palpitar, cuanto
-
 veía fue sustrayéndose borroso, hasta que al último dejó de serme
 perceptible. Sin embargo, por esto mismo debo anotar que esas
 visiones que ya no se ven siguen en nosotros con otra vida, tal vez
@@ -11408,18 +10566,16 @@ La sorda inmensidad se hizo sonora.
 
 ### HAYLLI
 
-Para qué me hiciste...
-
-Para qué me hiciste...
-
-Para qué me hiciste...
+> Para qué me hiciste... \
+> Para qué me hiciste... \
+> Para qué me hiciste... 
 
 Ciertamente, esa desesperante angustia que tañía, era la de la
 célula que experimenta la desintegración.
 
 Y es el alma quien responde:
 
- –Para el dolor que odora y anda... ¡Vamos: anda, canta!...
+–Para el dolor que odora y anda... ¡Vamos: anda, canta!...
 
 Vieja mama chaiña defendía el nido, y que mío sería su polluelo;
 corrí por él; mas cuando la vieja enarboló el ala para ampararle, que nó
@@ -11482,15 +10638,15 @@ alma, y caí en sopor, no sé si dulce.
 me decía: "Kancharani Achachila, tatalay", señalándome la hirsuta mole
 de lomos acerados, un rayo nos alcanzó...
 
- 3 ¿Cuántas horas la tormentosa lluvia cayó sobre nosotros, si al
+3 ¿Cuántas horas la tormentosa lluvia cayó sobre nosotros, si al
 recuperar la conciencia sonreía, fijos los ojos en el cielo; y era muerta?
 
- 4 Entonce me alargaba la mano, y como aquel funesto día,
+4 Entonce me alargaba la mano, y como aquel funesto día,
 llorábame: "¡Quiero mirar tus ojos, achachilay!".
 
- 5 Luego, todo se hizo latido de amapolas.
+5 Luego, todo se hizo latido de amapolas.
 
- 6 Como en el brote la yema de la kinwa dulzaina y tierna. Gracia
+6 Como en el brote la yema de la kinwa dulzaina y tierna. Gracia
 de tórtola odoraba su púdico himeneo. Tuvo la voluntad de su
 hombre; y sus mieles de madre fueron para el hijo que será el padre de
 su padre. Su olla en el fogón del Véspero hervía la médula del awichu.
@@ -11509,7 +10665,7 @@ riachos, en la hondura de la encañada, enredábanse en el perfume de
 los rosales, las salivillas, los cedrones, las khariwas, en el viejo tonadeo
 de las pakchas.
 
- 10 Encorvados lomos del labriego en las parcelas del común; el
+10 Encorvados lomos del labriego en las parcelas del común; el
 arado cauto y seguro; la gleba fértil. Lejos, el lago verde, lapislázuli el
 cielo, la nube argéntea...
 
@@ -11536,7 +10692,7 @@ con leda instancia.
 el otro; que allí seríamos unidad contínua; y todo habría de henchir y
 enriquecer.
 
- 18 Abiertas tendió las manos; cándidos brindó los ojos; de la
+18 Abiertas tendió las manos; cándidos brindó los ojos; de la
 sonrisa manábale generoso cobijo.
 
 19 Como aquel que vuelve libertad al aprisionado pajarillo
@@ -11551,33 +10707,29 @@ alzaron en muralla.
 quienes viejos puñales daban más dulce majestad; y así como posaron
 en tierra, asiéronse a su cuello para susurrarle sus plegarias.
 
- 22 Tras ellos, mujer blanca, de trémula belleza, imitándoles, con
+22 Tras ellos, mujer blanca, de trémula belleza, imitándoles, con
 beso trémulo le lloraba.
 
- 23 Siguióle, otra, morena y de cobre; atóse a su planta para darle
+23 Siguióle, otra, morena y de cobre; atóse a su planta para darle
 refrigerio. Y era la sed de sus caminos.
 
- 24 "¡Lalá! ¡Lalá!, trinó la anciana por su Urpila; y con arrodillados
+24 "¡Lalá! ¡Lalá!, trinó la anciana por su Urpila; y con arrodillados
 ojos emergió lirio lilial que, luego, fue a ungirle hueso, beso y lloro.
 
 25 ¡Qué feliz el hombre!... Viven en él cuantos adora y le adoran.
 
- 26 Mas, he aquí, que fue llegada la hora; y el Sol vertióse en miel
+26 Mas, he aquí, que fue llegada la hora; y el Sol vertióse en miel
 y oro; y, a su vez, el Hombre Placentero llamó con arrullo acedo:
 "¡Niña, mi querida niña!"... La cual era rosario de coral en el áureo
 pelliz del trino.
 
 ### HAYLLI
 
-¡Piupiu - titit!
-
-¡Piupiu - titit!
-
-¡Piupiu - titit!
-
-¡Piupiu - titit!
-
-¡Piupiu - titit!
+> ¡Piupiu - titit! \
+> ¡Piupiu - titit! \
+> ¡Piupiu - titit! \
+> ¡Piupiu - titit! \
+> ¡Piupiu - titit! 
 
 27 ¿Salió él de la niña? ¿La niña saliera de Él?
 
@@ -11590,37 +10742,22 @@ amargura secreta hieles; sus mimos manan panales".
 
 ### HARARUÑA
 
-¿Y, nosotras, tus novias,
-
-tus novias del jardín
-
-que regaba tu lágrima
-
-y tu beso nutrió;
-
-viviremos, sin verte,
-
-o viéndote vivir
-
-en el aroma que alza
-
-de la podre el olor?
-
-Nó en vano, de la tierra
-
-tu latido animó
-
-el labio que te besa:
-
-sólo nuestro serás.
-
-¡O en el ardiente polvo
-
-en que tu amor ardió,
-
-haremos con tu beso
-
-para tu amor cremor...
+> ¿Y, nosotras, tus novias, \
+> tus novias del jardín \
+> que regaba tu lágrima \
+> y tu beso nutrió; \
+> viviremos, sin verte, \
+> o viéndote vivir \
+> en el aroma que alza \
+> de la podre el olor? \
+> Nó en vano, de la tierra \
+> tu latido animó \
+> el labio que te besa: \
+> sólo nuestro serás. \
+> ¡O en el ardiente polvo \
+> en que tu amor ardió, \
+> haremos con tu beso \
+> para tu amor cremor... 
 
 30 Tornáronse felinas, y, con pétalos, devoraron a la niña
 cincopétala.
@@ -11632,47 +10769,27 @@ dijo:
 
 ### HAYLLI
 
-Encinta quedarás, madre vieja,
-
-nueve veces, de la sangre, grávida,
-
-de quienes sin ella languidecen.
-
-Henchiránse con ella nueve gérmenes;
-
-mas a los nueve días de la Aurora,
-
-sobrevendrá al noveno el décimo,
-
-y con el que es floral del trino,
-
-el rugido cósmico del Puma,
-
-que heraldo será de tu parida.
-
-Prosternaránse nube y montaña
-
-en tu sangre, vieja. Y, nueva,
-
-en la tuya fluirá la sangre
-
-de las canciones nuevas y las viejas.
-
-Que los que paridos sean de tu parto,
-
-y esperan en nueve círculos concéntricos,
-
-llegarán al décimo a tu embrión,
-
-donde tu próvida placenta
-
-arropa oro y miel.
-
-Rondará tu guarida la muerte veces nueve;
-
-pero, a la décima, el colmillo
-
-del Puma quebrantará la muerte,
+> Encinta quedarás, madre vieja, \
+> nueve veces, de la sangre, grávida, \
+> de quienes sin ella languidecen. \
+> Henchiránse con ella nueve gérmenes; \
+> mas a los nueve días de la Aurora, \
+> sobrevendrá al noveno el décimo, \
+> y con el que es floral del trino, \
+> el rugido cósmico del Puma, \
+> que heraldo será de tu parida. \
+> Prosternaránse nube y montaña \
+> en tu sangre, vieja. Y, nueva, \
+> en la tuya fluirá la sangre \
+> de las canciones nuevas y las viejas. \
+> Que los que paridos sean de tu parto, \
+> y esperan en nueve círculos concéntricos, \
+> llegarán al décimo a tu embrión, \
+> donde tu próvida placenta \
+> arropa oro y miel. \
+> Rondará tu guarida la muerte veces nueve; \
+> pero, a la décima, el colmillo \
+> del Puma quebrantará la muerte, 
 
 33 Y, sabiéndose la fuerza, era sólo el deseo.
 
@@ -11695,39 +10812,37 @@ achachilay?".
 pétalos del aire, los nueve partos de la tierra, al décimo pétalo que
 llueve.
 
- 40 "¿Malo está Achachila, imillitay?"... "¡Quieres en su alma hacer
+40 "¿Malo está Achachila, imillitay?"... "¡Quieres en su alma hacer
 su nido, achachilay!"...
 
- 41 Para el diente saturnino de la kharkha, era ya caramelo el pío
+41 Para el diente saturnino de la kharkha, era ya caramelo el pío
 pentatónico.
 
- 42 ¿Quién, el que dos veces dos vio el ojo del tiempo viejo?
+42 ¿Quién, el que dos veces dos vio el ojo del tiempo viejo?
 
 ### HARAWI
 
-Kancharani Achachila,
+> Kancharani Achachila, \
+> hina, hina, achachilay. 
 
-hina, hina, achachilay.
-
-El mejor de los ancianos,
-
-es el jefe viejo de la montaña.
+> El mejor de los ancianos, \
+> es el jefe viejo de la montaña. 
 
 43 "¿Te quieres, tatalay?"... "¿Si te quiero, imillitay?"... "¿Quieres
 mirar tus ojos, achachilay?"...
 
- 44 A saltitos, chimbando en el arroyo, llegaron a la chinkhana.
+44 A saltitos, chimbando en el arroyo, llegaron a la chinkhana.
 
- 45 Cristalizado hilo de luz; y, por las ranuras de la invisible
+45 Cristalizado hilo de luz; y, por las ranuras de la invisible
 bóveda, gota de agua caía, inalterable.
 
 46 Se hería sólo ella con ese hilo de luz avara; y era gota de agua
 que caía, caía, caía... Caía con el chasquido del beso microscópico del
 muerto.
 
- 47 "¡Quieres soplar el viejo viento de tu ojo, achachilay!"...
+47 "¡Quieres soplar el viejo viento de tu ojo, achachilay!"...
 
- 48 ¡Taya! ¡Taya!... Cuerda de charango, tañida, monótona,
+48 ¡Taya! ¡Taya!... Cuerda de charango, tañida, monótona,
 tenazmente... ¡Taya! ¡Taya!... Latía, tenaz, dolorosa... ¡Taya! ¡Taya!... La
 tiniebla, ronca, en los rincones... Abríanse fauces siniestras... ¡Taya!
 ¡Taya!... Hueca, húmida, la voz del musgo... ¡Taya! ¡Taya!... La gota de
@@ -11736,12 +10851,12 @@ agua, caía, caía; caía, caía... Ojos de fuego lloraban en la sombra...
 de chiñis huyeron por el boquete... ¡Taya! ¡Taya!... Graznaron los
 pukupukus...
 
- 49 Brazos fantasmales se extendieron en la sombra... ¡Taya!
+49 Brazos fantasmales se extendieron en la sombra... ¡Taya!
 ¡Taya!... Los brazos babosos se cerraron; y la flor, sin ruido, se dobló...
 
- 50 ¡Achachilá!... ¡Achachilay!...
+50 ¡Achachilá!... ¡Achachilay!...
 
- 51 Un trino enmudeció en El Hombre Placentero.
+51 Un trino enmudeció en El Hombre Placentero.
 
 ## PASTORAL DEL ALLKHAMARI
 
@@ -11750,7 +10865,7 @@ sombra del atardecer, cocuyos del cielo, se precisaban las estrellas,
 helado, largo crepúsculo se ahogaba con disilusiones violeta. Y la
 tempestad venía.
 
- Venía el Achachila.
+Venía el Achachila.
 
 El cielo cargábase de nubes, y era el viento, húmedo, persistente,
 filo.
@@ -11759,7 +10874,6 @@ Tornaron en dirección a los ayllus.
 
 Se alzaba la ventolera en las pampas, agitaba pajonales, topeteaba
 ribazos, estrellábase en los cerros, hacíase revoltijo de polvo y de
-
 polleras polícromas en los caminos; y, allí, mordisqueaba las piernas de
 las tawakus, o las khaspuñaba los pezones. Con musculosos y
 enloquecidos brazos ahorcaba luego el gargüero de la montaña; y
@@ -11786,14 +10900,14 @@ Viento de más allá del lago grande; "viejo viento flexible,
 ondulante, parlador, llaklla... ¿Era el viento? Era él. ¿De dónde viene y
 adónde va? Lo sabe nadie. Son preguntas de que se asusta el viento.
 
- Allá, Mama-Oka, diosa de la simiente, suministra azúcares a la
+Allá, Mama-Oka, diosa de la simiente, suministra azúcares a la
 siempre chuma olla de los pobres.
 
- Mama-Choke, providencia que no chilikute a sus rukis, imillas y
+Mama-Choke, providencia que no chilikute a sus rukis, imillas y
 phorekhas, lo mismo para el khamiri que para el khellupallasiri, que las
 pallapa entre sus rollizas y morenas piernas.
 
- El khellu-pekhe-hisañu, aurífero, como la thampa de los kharas,
+El khellu-pekhe-hisañu, aurífero, como la thampa de los kharas,
 que gringuea entre los surcos.
 
 Todos proclámanse amigos de los campesinos, aliados de las
@@ -11803,18 +10917,19 @@ hierven sin mengua de su entraña nutritiva; mas, crudas, mejor: serán
 comprimidos vitalizantes para quien las triture con molares sanos y las
 auge en la thosankheyu de la mamala...
 
- Que allí viene, vedla, vedla; danzando viene la diosa prolífera y
+Que allí viene, vedla, vedla; danzando viene la diosa prolífera y
 menuda, danzando y cantando.
 
- –¡Soy Mama-Upa, la madre, asinita, y alegre!...
+–¡Soy Mama-Upa, la madre, asinita, y alegre!...
 
- Tras ella se anuncia en el cielo, envuelta en plateados resplandores, oronda, la hermosa Phana de la noche.
+Tras ella se anuncia en el cielo, envuelta en plateados resplandores,
+oronda, la hermosa Phana de la noche.
 
 –¡Me cuido de favorecer con augurios todo lo que nace en el rielo
 de mi luz! ¿Cómo no veré donde mi propio marido es ciego, si soy
 Paksé-mama? Conóceme, tawaku; no me confundas, kake.
 
- Bullidora, cantarina, ya rompiendo cristales, ya escupiendo trinos,
+Bullidora, cantarina, ya rompiendo cristales, ya escupiendo trinos,
 ved, cómo bulle la asiritu.
 
 –¡Soy la corriente de aguas nuevas: Uma-mama! Parezco fatigada,
@@ -11827,7 +10942,7 @@ chikchipas y culantros.
 
 Ebria la garganta en melodiosos charangos...
 
- –¡Ni aún muerto dejarás de oirme –canta Pakcha-mama–. Mira,
+–¡Ni aún muerto dejarás de oirme –canta Pakcha-mama–. Mira,
 que si murmullo en las noches, conteniendo el resuello, y con él se
 duermen los hakes y sus guaguas; al amanecer doy mi khirkhinchu a las
 Sirenas para que enloquezcan a esos khamakhes chakareros que
@@ -11837,13 +10952,13 @@ ateridas dejan a la warmi por los orines de la añasku...
 
 Chukchu-mama, la estornudadora.
 
- –¡Conoces a mi hija, la escarcha! Ella es helada como su madre;
+–¡Conoces a mi hija, la escarcha! Ella es helada como su madre;
 pero no te fíes de cómo parece, si nadie ha visto las candelas de su
 corazón! Debes amarme; porque soy enemiga de la podre...
 
 Elake, elake, la blanca matrona, la de khawas en los dientes.
 
- –¡Achalau! ¡Achalau!... La fama de mi esposo es tan grande, que
+–¡Achalau! ¡Achalau!... La fama de mi esposo es tan grande, que
 ha llegado a borrar la mía. Khunu-tata me quiere mucho; cuando baja
 del cielo, soy los primeros copos de nieve que en el viento se hacen
 impalpables. Ya me adivinas: soy Khunukhunu-mama... No falto si los
@@ -11856,8 +10971,9 @@ danza y padece.
 
 Es la luz, que ni en el silencio calla.
 
- ¡Jai! Pero el Achachila nó alegría quiere y masca horror como la
-ahayu masca kuka. En esto acabó el viejo charanguero de la Pachamama. Ve que el hombre arrastra la demudada flor, sale de su yacija; y
+¡Jai! Pero el Achachila nó alegría quiere y masca horror como la
+ahayu masca kuka. En esto acabó el viejo charanguero de la Pachamama.
+Ve que el hombre arrastra la demudada flor, sale de su yacija; y
 le ofende:
 
 –¡Khumu-ñekhe!
@@ -11870,33 +10986,20 @@ frágil y tierno, así lo tierno y frágil sea tu Wayñusiña.
 
 ### HARAWI
 
-Dale la kuka
-
-de la mama;
-
-la dulce kuk
-
-de la mama,
-
-dale.
-
-Que si endulzaras
-
-su colmillo,
-
-tal vez torne
-
-benigna
-
-su ansiedad...
-
-¡Tiembla, tiembla,
-
-si, amargo,
-
-su diente
-
-te akullika!
+> Dale la kuka \
+> de la mama; \
+> la dulce kuk \
+> de la mama, \
+> dale. \
+> Que si endulzaras \
+> su colmillo, \
+> tal vez torne \
+> benigna \
+> su ansiedad... \
+> ¡Tiembla, tiembla, \
+> si, amargo, \
+> su diente \
+> te akullika! 
 
 Como yauris el rayo en las Khenayas, el Hombre Placentero
 hendía lihwanas en la tierra...
@@ -11913,11 +11016,12 @@ Entre dientes, a pedacitos, lloraba en los surcos Oka-mama.
 –¡Ya no serás digno de los caramelos de Oka-mama, vejete sin
 entraña! Y, luego:
 
-–¡Está rezongando; y no tardará en caer! –con la pudorosa florecilla silvestre, cuchicheaba Mama-Oka- ¿Le entiendes, Mamitathosankheyu? Qué es el hombre en sus manos...
+–¡Está rezongando; y no tardará en caer! –con la pudorosa florecilla silvestre, cuchicheaba Mama-Oka- ¿Le entiendes, Mamitathosankheyu? 
+Qué es el hombre en sus manos...
 
 Y la llorona Mama-Oka, conoce que el Achachila es el tiempo fementido y rastrero, padre, entre otras porquerías, del chivolara de TataPegro.
 
- De la Thosankheyu asistíanla los hipidos perfumados.
+De la Thosankheyu asistíanla los hipidos perfumados.
 
 El cielo, enloquecido torbellino; enloquecido tropel de wikuñas,
 hacia occidente, donde los últimos resplandores de la tarde
@@ -11928,63 +11032,40 @@ llokllas de la quebrada... El Titikaka se agitaba, estentóreo, oscuro.
 Era la tormenta. De ese cielo fantasmal partió una chispa,
 fulmínea. El Hombre Placentero, se amainó...
 
- –¡Achachilay!... ¡Achachilaaa!...
+–¡Achachilay!... ¡Achachilaaa!...
 
-### AMAYATOKAÑA
+### AMAYA TOKAÑA
 
-Elake, viday:
+> Elake, viday: \
+> mi rayo \
+> te hendió \
+> y te mató \
+> mi flor. \
+> ¿El traquido \
+> oyes aún? \
+> ¿Mi espanto, \
+> te espanta, \
+> todavía? 
 
-mi rayo
+> ¡Waspeame! 
 
-te hendió
+> La muerta tiembla, \
+> como su olor \
+> titila. \
+> ¿Ya a la khaswa \
+> te arrastrará \
+> la khorokuta? \
+> Rígida, elake, \
+> se quedó. \
+> Rígida, \
+> como un temblor, \
+> calladito, \
+> mamitay... 
 
-y te mató
-
-mi flor.
-
-¿El traquido
-
-oyes aún?
-
-¿Mi espanto,
-
-te espanta,
-
-todavía?
-
-¡Waspeame!
-
-La muerta tiembla,
-
-como su olor
-
-titila.
-
-¿Ya a la khaswa
-
-te arrastrará
-
-la khorokuta?
-
-Rígida, elake,
-
-se quedó.
-
-Rígida,
-
-como un temblor,
-
-calladito,
-
-mamitay...
-
-¡Mamay:
-
-que la traiga
-
-tu parida,
-
-mamitay!
+> ¡Mamay: \
+> que la traiga \
+> tu parida, \
+> mamitay! 
 
 <hr>
 
@@ -12012,7 +11093,6 @@ madre muere, nó porque en la vida de la muerta se halle la madre
 exenta, sino porque ella hace exenta a la muerte, y si muere, renace en
 la sangre de aquel de sus llokallos que la kurukuteaba más; que el hijo
 muerto no ha muerto, pues muerde en el latido paterno; que las
-
 mujeres amadas nos saben a sus mensuales linfas; que la virgen nívea,
 que agostó el martirio de los gladiolos, deja las falaces alas en el cielo, y
 agita corolas aladas en la sangre; que la muerte es hervor de la vida; y
@@ -12021,9 +11101,9 @@ otro destino que el hombre; y que el hombre para encontrar al hombre,
 ha de buscarle en el hueso, el páncreas; que sólo allí el hombre es
 fervor...
 
- ¿Locura? ¿Cocanismo?
+¿Locura? ¿Cocanismo?
 
- Si el hombre pudiese ser chakchado; si al menos pudiese
+Si el hombre pudiese ser chakchado; si al menos pudiese
 enloquecer. Allí se me reveló que el alma es un perfume; y que si en la
 carne es el perfume que se trilla; en la muerte es el perfume que nos
 siembra. ¿Locura? ¿Cocanismo?... Cuando se desintegraba el madero de
@@ -12053,7 +11133,6 @@ unas pocas hojitas de la hierba sagrada. Habían sido arrastrados a la
 conmiseración o amaban al hijo, que eso era el runahake para ese
 magnánimo, aunque en ocasiones severo emperador. La coca torna
 sereno al empavorecido; valeroso y estoico al tímido y renuente; sabio
-
 al torpe. Y a quien la asimila le permite alcanzar en la tensión vital
 vibraciones de una plenitud en orden. El organismo es poseído, nó de
 ebriedad, sí de aplomo (se le llama estupidez, "la razón del bruto"); no
@@ -12073,7 +11152,7 @@ perka del uyu, se acluclilló, chakchó su kukita; y sólo cuando se supo
 sabio, habló. Se había aconsejado de la vida, que la coca parteaba de su
 rectitud moral, diré, de una rectitud ancestral. Medita en su razonamiento.
 
- "No queda en Utawilaya –dijo– ninguno de los awichus para que
+"No queda en Utawilaya –dijo– ninguno de los awichus para que
 decida si debo consentir en que estos pequeñuelos sean despojados de
 la heredad de su padre, que, para ellos, me encargó cuidar. Sólo a esa
 autoridad correspondería el fallo que yo acatara. Pero en Utawilaya
@@ -12092,7 +11171,6 @@ filósofo como Marco Aurelio, tan sensitivo como Adriano, y
 Conquistador digno de hombrearse a Filipo o Ciro. Caben en un puño
 sus máximas; pero la experiencia de los hombres que ellas acusan, ya
 nó. ¿Si la kuka hace posible tal iluminación psicofísica, cómo puede
-
 embrutecer? El auki en el ámbito de su mundo tiene mayestática de
 Loja; y su agudez inspira la certidumbre de que los mestizos podremos
 penetrar en la interna sabiduría de su palabra sólo cuando valores,
@@ -12131,9 +11209,9 @@ hombre, y en ellas sustentaron el realismo de su política; realismo nó
 de regalías y sí de beneficio de la realidad. De esto tendríamos mucho
 que hablar. Explícase así que el Inka pudiese servirse en el Kosko
 pescado del día traído del océano, sin más que su maravilloso motor de
-
 explosión sanguíneo, el cual, como todos sabemos, no se alimentaba
-con destilaciones dionisíacas: con hierba en estado de virginal naturaleza: la coca. He aquí que si de trasladar las moles de sus gigantescas
+con destilaciones dionisíacas: con hierba en estado de virginal naturaleza: 
+la coca. He aquí que si de trasladar las moles de sus gigantescas
 fortalezas se trataba, regía la música (alcaloide también para algunos
 moralistas); mas ella el petróleo. Indudablemente, el Inka era un
 semidios. Europa le sorprendió cuando con masa caótica modelaba
@@ -12160,7 +11238,7 @@ conducta, en el respeto por la palabra comprometida, en la religiosa
 intangibilidad que cultiva por el "tuyo" y lo "mío". Digo, del indio en
 su mundo; nó en el de la sevicia mestiza.
 
- Todo lo contrario del toxicómano.
+Todo lo contrario del toxicómano.
 
 El kukani será un buen animal, y no le verás en sanatorios, ni
 cárceles, por kukani; menos que por akullikar hubiese estafado, o
@@ -12170,7 +11248,6 @@ notoria frecuencia. Cuando higienistas de buena fe le predicaron que
 era dañina a la salud, mascadores de coca centenarios prescindieron de
 ella sin fatiga ni torturas nerviosas. Si definitivamente le faltare, le
 restará convencerse que tiene las uñas qué roer. Es desde este ángulo
-
 inesperado que se comprende la revelación que hombres de ciencia
 europeos hicieron al afirmar que la coca, además del alcaloide, posee
 sustancias vitalizantes, en "escala verdaderamente integral".
@@ -12181,7 +11258,7 @@ flagelado.
 
 <hr>
 
- Penetra en esta tragedia –o auto de fe–, la cual, ciertamente,
+Penetra en esta tragedia –o auto de fe–, la cual, ciertamente,
 escapó al mago de Strafford.
 
 Cándido y dulce como la tierra, Emeterio Chipana, indio
@@ -12277,10 +11354,10 @@ me han parido en otra parte que la tierra. Bueno, hijo mío: deseóte
 honradez, honradez, como hasta hoy, si puedes. Y que seas feliz, si
 puedes también...
 
- Le abrazó; saltó al hueco; se acunó en él, ciertamente, como el
+Le abrazó; saltó al hueco; se acunó en él, ciertamente, como el
 feto se acuna en la entraña de la madre; y...
 
- –Ya, muchacho! –le ordenó.
+–Ya, muchacho! –le ordenó.
 
 Con la misma hierática sobriedad, el mozo volcó la tierra extraída
 del tollo, donde Fermín Covarrubias invernó con placidez de semilla,
@@ -12348,7 +11425,6 @@ principios. Como la coca suministra esas bases energéticas, que dices, y
 que yo ignoro, e ignora la ciencia que conozco, y la usas há siglos, actúa
 en el proceso de la quimificación a título de proveedora de sustancias
 alimenticias, sutiles y poderosas, te induce a embellecer la criminalidad
-
 y a juzgar del espíritu del hombre como de arquitectura de conciencias
 ajenas a él. Si esto no es locura, traducido al lenguaje de la calle, dice
 más que el hombre es probeta de almas criminales en pena; y en ese
@@ -12374,7 +11450,8 @@ cuanto totalizan el fenómeno vital. Esto es, intuir menos y aplicar las
 medidas de la materia al sentimiento. Pesar el valor. Además, es bien
 simple cuanto sostuve. Si mis conocimientos son válidos, las
 estructuras anímicas para la psicología moderna, y ella es en gran
-medida de una axiología moral, es decir utilitaria, viene de yuxtaposición de estratos, de la misma naturaleza de las capas geológicas.
+medida de una axiología moral, es decir utilitaria, viene de yuxtaposición
+de estratos, de la misma naturaleza de las capas geológicas.
 Por osado que me haga la coca, nunca discutiré al sabio en lo que sé
 que no sabe. Las asociaciones anímicas, pues las siento, se constituyen
 nó sólo de esos factores. A ellas, que sedimentan y cristalizan en la
@@ -12425,9 +11502,10 @@ de carbonario. Creo que fue William Hammilton, quien dijo que el
 hombre es el animal que se opone. Yo modestamente agrego que se
 opone hasta en la hora del cóctel...
 
-–Doctor Fausto: si el cuerpo muere, y no así el alma, ¿cuál el destino de ésta cuando el organismo se ha inmovilizado? Prescindamos
-
-por ahora de la bienaventuranza prometida al justo. ¿Será inmovilizarse, como él? Si la ciencia lo sostuviese revelaría que se mueve en
+–Doctor Fausto: si el cuerpo muere, y no así el alma, ¿cuál el destino de ésta 
+cuando el organismo se ha inmovilizado? Prescindamos
+por ahora de la bienaventuranza prometida al justo.
+¿Será inmovilizarse, como él? Si la ciencia lo sostuviese revelaría que se mueve en
 espacio carente de ejes; pues la vida así es más que función de
 mecanismos susceptibles de movimiento, y cuyo estado natural debe
 ser la inmovilidad.
@@ -12458,7 +11536,7 @@ otra manera...
 deberá cargar, además de sus estructuras anímicas, un cementerio... Y
 su fardito de coca.
 
- –El fardito de coca en este caso es un fardito de alivio; pues se
+–El fardito de coca en este caso es un fardito de alivio; pues se
 trata de pesos nada metafísicos. En todo hombre hay persistencia...
 
 –Perdoname si te interrumpo. Voy a seguir prestando atención a
@@ -12466,7 +11544,7 @@ tus digresiones sólo porque soy tu deferente amigo; nó, porque, como
 médico, ignore que ellas pueden conducirte a recaída peligrosa. Sigue,
 pues.
 
- –Por fortuna, endemias como ésta no suelen ser epidémicas.
+–Por fortuna, endemias como ésta no suelen ser epidémicas.
 Decía que en todo hombre hay persistencia con destino nutritivo,
 vegetativo y digestivo; y que al alma se aúnan almas, como las
 moléculas líticas forman el clivaje de la montaña; ya que es
@@ -12505,7 +11583,6 @@ nóumenos del Universo.
 
 Pues bien; el laboratorio no ha establecido la composición del
 semen; para él es tan apriorístico como el alma para el teólogo; el
-
 cerebro de un Lavoiser o de un Pasteur, tienen de común que operan
 sobre efectos inmanentes, y, lógicamente, los refieren a causas
 trascendentes; lo cual les veda, a éste encontrar la posibilidad de una
@@ -12530,13 +11607,17 @@ estado de un lodo fecundo, por tanto no elemental.
 Dime, entonces, no es llegado el tiempo de absolver la angustiosa
 pregunta del místico:
 
-¿A dónde van los muertos,
+<br>
 
-Señor; a dónde van?...
+> ¿A dónde van los muertos, 
+> Señor; a dónde van?... 
+
+<br>
 
 A los vivos, alma de Dios; que no has muerto, y me oyes.
 
-¿El hombre no conduce una agregación miracular de conciencias? ¿No podrá imprimir mayor vibración a su alma, o a sus almas,
+¿El hombre no conduce una agregación miracular de conciencias?
+¿No podrá imprimir mayor vibración a su alma, o a sus almas,
 sin más que recurrir a medios nutritivos? Ni a los dioses les alimentan
 los entimemas, que fueron siempre antojadizos y picanteros, con un
 pantagruelismo de mandarines barrigudos; tanto que en veinte mil años
@@ -12544,7 +11625,6 @@ de theísmo histórico, o político, las almas, con relación al alma
 encarnada, han vivido como "el ladrón en la noche", confinadas a cruel
 ostracismo, soportando régimen de desnutrición sistemático, pues a los
 dioses les aviene el mundo comer para ellos y las espiras de incienso
-
 para aquéllas... ¿Locura?... ¿Cocanismo?... Todas las religiones partieron
 de una filosofía humoral, como dices, instintiva; por tanto, devinieron
 digestivas. La transubstanciación es acto de deglución; aunque luego
@@ -12655,7 +11735,7 @@ madurez, acaba en sayal de huesos. Ha perdido conciencia de la
 realidad circundante y desconoce a marido e hijos. A todo momento se
 la ve ofrecer el seno a bebé que nadie ve, murmurando, entre sollozos:
 
- –¡Mi hijo! ¡Mi hijo!...
+–¡Mi hijo! ¡Mi hijo!...
 
 ¡Loca! Pero, nó de su locura; sino de la de ese "su" hijo que la
 trajina, loco, el corazón. ¿Qué de esa locura dice la ciencia, y qué de la
@@ -12725,7 +11805,8 @@ refugio de su personalidad. Pues bien: ¿tal proposición excluye la
 existencia de estados ingenuos de la conciencia? ¿El niño nace tan
 resabido como el octogenario?
 
-–Las disecciones que haces de mis riñones son en extremo personales, y hasta arbitrarias. Si meditas un poco, verás que la solución de
+–Las disecciones que haces de mis riñones son en extremo personales, y
+hasta arbitrarias. Si meditas un poco, verás que la solución de
 todo problema debe desprenderse de su planteamiento. En todo caso,
 el hijo es, siempre, más viejo que el padre, mirado naturalmente con el
 criterio escriturístico y gregoriano del mito temporal, pues, con el otro,
@@ -12749,9 +11830,8 @@ postular que la naturaleza hace cosas inútiles, y que, con haberle
 dotado de "ideas innatas", lo de menos es atingir a la memoria para que
 suministre los datos de la realidad. Así con el niño nace la conciencia
 del hombre, pues sólo cuando el ozono dilata los pulmones del feto, y
-profiere el sublime ¡ingá! es que estalla el óvulo de la vida en ese ser; la
-
-divinidad ha soplado en su corazón, de acuerdo a esquema inefable, le
+profiere el sublime ¡ingá! es que estalla el óvulo de la vida en ese ser;
+la divinidad ha soplado en su corazón, de acuerdo a esquema inefable, le
 comunica movimiento y razón y en ella prendidas las "ideas" que le
 ligan al supremo principio de su esencia. Los hombres han nacido para
 Dios, porque Dios los ha generado. Perdóname si te ofendo; pero creo
@@ -12788,7 +11868,6 @@ nivel de los líquidos y de los vasos comunicantes; pues no tiene otra
 manera de ser. El hombre será nó un venir de dios para volver a dios,
 o no volver y quedar en dios; será un entrar y salir del hombre,
 reiteración sin tiempo; es decir, pemanencia. Entonces, ¿cómo aceptar
-
 estados ingenuos en el sentimiento de la vida? Si no hay tiempo en la
 materia no hay edades concienciales en el hombre. En el sentimiento
 de la vida todo tiene que ser conciencia; y la conciencia es supra
@@ -12828,7 +11907,6 @@ valor y autoridad científicos, con los de los Krupp, los Du Pont, los
 Krügger, que saben cuanto cabe en el cerebro de un renacuajo, he
 acabado por enterarme que el hombre ha crecido en extensión, fuera
 de madre, perdiendo el sentimiento de su profundidad, sus raíces y
-
 semilla. Sería casi cretino sostener que el instinto sea el autómata de la
 materia; que lo mismo sería que digamos que el alma lo es del hombre.
 Los instintos son potenciales del alma, son el alma, el alma que secreta
@@ -12865,7 +11943,6 @@ inextricable; tiene que poseer transparencia infantil, la transparencia del
 alba. Y es que lo infantil es prenda de permanencia en sí misma de la
 vida; y nó otro el verdadero destino del hombre. ¿Dónde le cabe la
 estolidez? ¿Sería Protágoras un ignorante entre nosotros? Sólo en el
-
 grado en que la ramera enluce su piel para rivalizar con la primaveral de
 la virgen.
 
@@ -12878,20 +11955,22 @@ inventar es otro hómbre con una sabiduría sin hombre.
 luna de Paita. A ver, akullicaremos, hermano... No; no... ¡No lo haga
 nunca! La coca debe reservarse para los divinos Inkas...
 
- –¿Y, dudas, doctor Fausto, que yo...?
+–¿Y, dudas, doctor Fausto, que yo...?
 
- –Nó, nó. Con lo que he aprendido ahora, ya nó. Hombres como
+–Nó, nó. Con lo que he aprendido ahora, ya nó. Hombres como
 tú pueden ser lo que les venga en gana.
 
- –Falso. El hombre es lo que ha sido; o no es.
+–Falso. El hombre es lo que ha sido; o no es.
 
 –Y como ha sido Inka, Willakuma, Tukuyrikuy, y quizá autoridad
 de provincia, santo, diablo, tinterillo, o párroco de aldea, en regresando
 a guagua, acabará en chuspa de sutuwailas. ¿Verdad?
 
-–Como verdad, tal vez. Téngote dicho que la guagua es ya una arquitectura consolidada. Y es que, así como (perdona mis petrologías),
+–Como verdad, tal vez. Téngote dicho que la guagua es ya una arquitectura
+consolidada. Y es que, así como (perdona mis petrologías),
 digo, en los clivajes de la montaña es dable comprobar la presencia de
-estratos férricos, cálcicos, o areniscos, fosilizaciones o margas; en la superposición de tinterillo, tatakora, noble indio, etcétera, encontrarás la
+estratos férricos, cálcicos, o areniscos, fosilizaciones o margas;
+en la superposición de tinterillo, tatakora, noble indio, etcétera, encontrarás la
 personalidad arquitectural, como en aquellos encuentros la montaña.
 Más aún: si la guagua pudiese, fuese inducida, a organizar esta
 sedimentación de experiencias, gobernarlas, usarlas, verías que en la
@@ -12929,7 +12008,8 @@ espanto o el arrobo... Mas, ya me babea el alma...
 confluyen en la dinamia conciencial, hay superposición de vidas, que
 hacen del hombre epicentro de una conciencia múltiple; pues su
 destino es vivir al universo, como el universo es él, obedeciendo ley de
-reciprocidad germinal. Los que hemos asimilado la sabiduría del KhoriPuma, sabemos que esas vidas tienen el sentimiento de la semilla,
+reciprocidad germinal. Los que hemos asimilado la sabiduría del Khori-Puma,
+sabemos que esas vidas tienen el sentimiento de la semilla,
 destinadas, consecuentemente, a la fructificación. Pero, en el surco no
 todas las semillas obedecen a ese destino; algunas germinan en mayor
 profundidad y se unimisman con la gleba, tornándose humus fertilizador. Aunque la ejemplarización no sea plenamente cabal, en el
@@ -12941,12 +12021,11 @@ más universo en él, más fuerza. ¿Cuál el camino?
 
 –¡El pikchu de la Mama-Kuka!
 
- –Claro. Mas, observa que si el líquido adopta la forma del vaso en
+–Claro. Mas, observa que si el líquido adopta la forma del vaso en
 que se lo vierte; esa acumulación de conciencias, sin negarse, debe
 conformar los perfiles de una personalidad. No sostendrás que porque
 el racimo de uvas tiene una forma, las uvas, individualmente, carezcan
 de ella. Una uva no es el pámpano; pero el pámpano es imposible sin la
-
 uva. Así un hombre es el hombre; y sin ese hombre el hombre es
 imposible. La masa deviene individualidad. ¿Se entiende así la vida?
 Pues bien; ataquemos los contrafuertes de esta fortaleza. ¿Qué hay en
@@ -13052,7 +12131,8 @@ No acusan estos hechos grados de inteligencia en los hombres;
 sino habituación en determinadas funciones. Desde el punto de vista
 de la vida, todos los hombres poseen la inteligencia vital.
 
-Esta debiera ser la base del conocimiento psicológico del pedagogo para hacerse digno de parteros como Sócrates y el apóstol de
+Esta debiera ser la base del conocimiento psicológico del pedagogo
+para hacerse digno de parteros como Sócrates y el apóstol de
 Lausana; aunque tú, y la chusma académica, me digan que eso no es
 pedagogía, sino laykalogía. Por lo que a mí hace, de profesar el
 profesorado, comenzaría por preguntarme: ¿y, quién el niño a quien
@@ -13065,7 +12145,6 @@ el único camino de llegar a la raíz del hombre...
 Los papeles se habían invertido; el enfermo adoptaba posición
 casi doctoral; en todo caso se desenvolvía con patética seriedad,
 aunque de momento a momento era inevitable advertirle inestabilidad
-
 en las ideas y hasta la presentación contradictoria de ellas. En cambio,
 el joven médico alcanzaba tensiones lindantes con el delirio.
 
@@ -13097,14 +12176,14 @@ temperamentales de algunos hombres, determinen a la postre su
 emulsión en una personalidad, la más radical. Hecho que así como
 explicaría la dispersión e incoherencia en algunos sujetos, esquizofrenia
 e impersonalidad; en otros cohonestaría la unidad tensa y fértil. Todo
-esto es posible; al menos constituye hipótesis de fenómenos psicológicos que la ciencia no sólo no comprende aún, sino que desvía y
+esto es posible; al menos constituye hipótesis de fenómenos psicológicos
+que la ciencia no sólo no comprende aún, sino que desvía y
 desarticula. El alma tiende al racimo, doctor Fausto, al encadenamiento
 molecular.
 
 ¿Podrías calcular, grosso modo, cuántas espiroquetas pálidas
 colmarían la cornucopia del molusco más diminuto? No hay número
 igual de monedas en las petacas de los gamonales. Cuando en tus oídos
-
 vibre el rugido del Khori-Puma, comprenderás que sólo ilumina lo que
 se siente; y en profundidad, dolor y germen, sólo se siente la vida. ¿Por
 qué duelen los muertos? ¿y en dónde? En nosotros, como que están en
@@ -13122,11 +12201,12 @@ irrumpen en amorosa llamarada, y ¡vuelan!... ¡Ah, volar, doctor Fausto!
 
 –¡Muerta!...
 
- –Que en tu profundidad, vertical y eterna, está, sostenías; unida a
+–Que en tu profundidad, vertical y eterna, está, sostenías; unida a
 tí por el amor, acabó cementándose a ti y se te sumó... ¡No vive, pues;
 está muerta; ha desaparecido!
 
-–No llames pobres a los ricos, doctor Fausto. Acaba de entenderme; no amargues mis últimos momentos. ¡Eres de corazón
+–No llames pobres a los ricos, doctor Fausto. Acaba de entenderme;
+no amargues mis últimos momentos. ¡Eres de corazón
 berroqueño y de mollera reacia! Quien vive la suya y otras vidas, por
 eso debe admitir la negación ni de su vida ni de las otras; si eso negaría
 la vida en comunidad social y al hombre vivo en el estruendo del
@@ -13146,7 +12226,6 @@ pues, para que yo sea posible como hombre debo ser "yo" pero en
 "ellos". Sin mi "yo", el "ellos" es una abstracción. No te diré la sinfonía
 soy yo, ni ella, ni Él; pero sin Él, sin ella y sin "naya", la sinfonía no
 existe. Por tanto: ¿dónde soy si ella es sólo en mí y yo en ella? ¿Cómo
-
 no será ella en mí, y yo en ella, si somos en Él, y Él sólo es en
 Nosotros? La siento y me siente. ¿Ha muerto? Nó. Hasta esa zona
 tópica no alcanzaron tu bisturí ni tu certificado de óbito. El harapo se
@@ -13169,7 +12248,8 @@ contra los antiestéticos nueve meses de la mujer, remendando
 trigéminos leporinos, familiarizando a los obispos con el bacilo de
 Eberth, reeducando maceteros y daltoides paralíticos, cizando
 osteomelitis congénitas, regando la cava con soluciones formonales
-contra el romanticismo de las sístoles, trepanando zapallos académicos... ¡Jaaa!... ¿Conque, así pagas mi cariño, mi devoción? ¡Eres un
+contra el romanticismo de las sístoles, trepanando zapallos académicos...
+¡Jaaa!... ¿Conque, así pagas mi cariño, mi devoción? ¡Eres un
 dios sin alma!... ¡Te niego!...
 
 –¡No; no me niegues, espíritu de la cobardía!
@@ -13178,7 +12258,8 @@ dios sin alma!... ¡Te niego!...
 muerta... Me consta... Ja, ja, ja...
 
 –No te enloquezca el espíritu de negación, que ahora híbridos
-somos, doctor Fausto... ¡Vive, vive!... No morirá... Vino del Tawantinsuyo y está en mi cruz. No sabré cuándo comienza su dimensión en
+somos, doctor Fausto... ¡Vive, vive!... No morirá... Vino del
+Tawantinsuyo y está en mi cruz. No sabré cuándo comienza su dimensión en
 mí, ni cuándo la integro en sus dimensiones. Ahora mismo, en el punto
 que ella se pregunta, despierto coronado de espinas. ¡Estará en el
 madero, doctor Fausto, cuando a él me claves, sobrevenga la hora de
@@ -13206,7 +12287,7 @@ Arcángel?...
 
 En aquellos tristes papeles se lee aún, textualmente:
 
- "Tras milenio de silencio, en que Fausto, tras clavarme, se
+"Tras milenio de silencio, en que Fausto, tras clavarme, se
 mantuvo abyecto al pie de la cruz, alzóse redimido por mi sabiduría,
 miróme, bebiéndose las pupilas, alargóme la esponja que había
 empapado en sus lágrimas y en jugo de coca, suspiró; y me dijo:
@@ -13231,7 +12312,6 @@ Famélico; mas, entre segmento y segmento, tiene a la Mama Kuka para
 recobrar su unidad! ¡Que es eterno y conciencia en su embrión; y que
 en el embrión resucitan los muertos! ¡Resucitan! ¡Se rompen las
 tumbas, doctor Fausto, y ya estalla la tierra en el más grande parto que
-
 han visto los siglos! ¡Vuelo, doctor Fausto! ¡Al fin, la cruz parió la
 trinidad! ¡Vuelo, al hijo, al hijo!
 
@@ -13243,15 +12323,11 @@ trinidad! ¡Vuelo, al hijo, al hijo!
 
 # PURO ANDAR
 
-¿Quid quo est est?
-
-Ipsum quod fuit.
-
-¿Quid quod est fuit?
-
-Ipsum quod.
-
-Eclesiastés.
+> ¿Quid quo est est? \
+> Ipsum quod fuit. \
+> ¿Quid quod est fuit? \
+> Ipsum quod. \
+> _Eclesiastés_. 
 
 Primavera fue el hurón de mis chullpares; nó porque en ellos
 buscara regodeos, cuanto porque estaba seguro que unas tortuosas
@@ -13267,24 +12343,33 @@ de enfrentarla de tomar forma en la materia.
 Sin que penetrara en su apostrófico sentido, otro latinajo me
 abroquelaba:
 
-O gennius attonitum
+<br>
 
-gelidade formidine mortis...
+> O gennius attonitum \
+> gelidade formidine mortis... 
+
+<br>
 
 Sentía el frío de este latín espantable. Pero, Teresa de Jesús, mi
 dolorosa calandria castellana, esforzábase por instilar en mi chullpa sus
 “moradas” famélicas:
 
-Veo secretos en nosotros mesmos
+<br>
 
-que me tray espantada...
+> Veo secretos en nosotros mesmos \
+> que me tray espantada... 
+
+<br>
 
 ¿Y cuáles secretos que Teresa ve en “nosotros mesmos” ¿Nó
 trasgos?
 
-Son deseos tan vivos y delgados
+<br>
 
-que no se pueden decir.
+> Son deseos tan vivos y delgados \
+> que no se pueden decir. 
+
+<br>
 
 Ímpetus, llámales de pronto. En fin, Teresa, la de los espantables
 secretos vio que en el más velado rinconcito del palomar estaba vivo el
@@ -13310,7 +12395,7 @@ enternecida imilla nos dirá:
 “Ellos”: los muertos.
 
 Y si en la soledad y silencio tumbal de la chinkhana de pronto
-vuela guijarro y se rompe un quejido
+vuela guijarro y se rompe un quejido...
 
 —¿Has oído? —dirá la imilla—. ¿Has oído al Chullpa-tullu?
 
@@ -13327,13 +12412,18 @@ kuiku y de su mundo; y los Mallkis, puntuales, abrieron mis rejas.
 
 Eso vio Teresa en las moradas de la soledad.
 
-Mas ellos vieron algo más: vieron que los Chullpatullus crepitaban en las noches como chispas heladas de fogata inmaterial; y les
-vieron dirigirse a los manantiales a saciar la sed en que arden. Vieron un orden impuesto a la muerte. Mejor dicho: vieron que la muerte
+Mas ellos vieron algo más: vieron que los Chullpatullus crepitaban en
+las noches como chispas heladas de fogata inmaterial; y les
+vieron dirigirse a los manantiales a saciar la sed en que arden.
+Vieron un orden impuesto a la muerte. Mejor dicho: vieron que la muerte
 obedecía ley; la del Inka.
 
 Habíala de enfrentar un día; y la amé, seguro que amistad y
-compañía se trocarían al fin en gozquiña y pústula. Una a una desgranáronse mis mazorcas; ¡una a una!... Pero, por la misma razón de los
-impactos, más me adentré en su reino; mayormente me alcé su HiwaHila. Y bajé a los infiernos, bien que nó pulsando la heptacorde, sino el khirkhinchu del Laykha.
+compañía se trocarían al fin en gozquiña y pústula. Una a una desgranáronse
+mis mazorcas; ¡una a una!... Pero, por la misma razón de los
+impactos, más me adentré en su reino; mayormente me alcé su Hiwa-Hila.
+Y bajé a los infiernos, bien que nó pulsando la heptacorde, sino el
+khirkhinchu del Laykha.
 
 —No verán tus ojos, me decía, la vigésima quinta Primavera; ni
 de las otoñales escarchas la sexta vigésima. Pues aquellos que los
@@ -13365,7 +12455,11 @@ segmento imponderable del tiempo la reveló ley que conmina a la
 obediencia, y que, por tanto, quedaba otro camino que ponerse en
 camino.
 
-Saj... Saj... Saj...
+<br>
+
+> Saj... Saj... Saj...
+
+<br>
 
 —¿Qué hacerle? Es orden del Inka. A ése deben abrazarlo las
 noches y a sus tiempos las alboradas; y ellas solamente. Le besarás ya
@@ -13417,19 +12511,21 @@ Parto matinal estallaba en destellos, si en los cristales del Titikaka,
 y al són de pinkollos y tamboriles, danzaban los Huturis. ¿Son
 cobranzas del día a la noche? ¿expolios de la vida a la muerte? ¿el
 reacio hielo en las narices? ¿del Chullpa-tullu el lloro en los pajonales?
-
 ¿son las thusas fulgurantes y las funéreas schokhas? ¿Tata-Lupi, oro
 bruñido en Niágaras de sangre?
 
 En madre, desde el éter, me guiñaba el lucero.
 
-Saj... Saj... Saj...
+<br>
+
+> Saj... Saj... Saj...
+
+<br>
 
 Me detengo ante la puerta fantasmal; y aunque reprimo el
 
-Lasciate ogni speranza
-
-voi che entrate
+> Lasciate ogni speranza \
+> voi che entrate 
 
 del florentino, en són humilde, que absorbe en su aymara el venerable
 Hiwa-Hila, depongo mi empeño.
@@ -13453,6 +12549,8 @@ Medita; y al advertir que empuño el Khirkhi...
 
 —En fin, Khusillu: pasa... Pero, ¡chitón hocico!...
 
+<br>
+
 Saj... Saj... Saj...
 
 Andar. Andar.
@@ -13468,13 +12566,16 @@ escurridizo el frental; impaciente el calcañar; el cráneo desolado. Y
 aunque los riñones les brillan por la ausenca, todos se tienen por
 hombres de riñones. Embebidos con la sístole de una campana bronca
 que tañe afanosa en el vacío, viborillas en sensitivos témpanos, tras
-ellos, Duendes cuchichean... Chullpa-tullu, responde: ¿es lo mismo oir
-
+ellos, Duendes cuchichean... Chullpa-tullu, responde: ¿es lo mismo oír
 que gustar? ¿ignoras que el hombre sueña cuando paladea? Por los
 ojos, nó; hasta que se ha muerto. Los vivos soñaron nunca; les falta ojo
-en el telescopio
+en el telescopio...
 
-El hombre es el único animal que sueña ángeles en el vientre.
+<br>
+
+> El hombre es el único animal que sueña ángeles en el vientre.
+
+<br>
 
 Se muestran y se velan en los ramajes de los árboles; lentejuelean
 y se escurren en las linfas; gloglotean en la ciénaga; chispean en el ojo
@@ -13485,6 +12586,8 @@ carbonato, óxidos. En cuanto son carne en hueso hendido; en cuanto
 el hueso es éter denso; secretación en el huevo materno.
 
 Hay que llegar al Chullpa-tullu para arrullar al hombre:
+
+<br>
 
 —¡Padre mío!...
 
@@ -13507,7 +12610,8 @@ filósofo!
 —¡Uuuuuuuuuuuuuuu!...
 
 Voces que aletean. ¿No las habeis oído nunca, ni en la nocturna
-soledad, a la hora de los maitines del Thuku ? No conocéis al Chullpatullu; no habéis oído más allá de las narices.
+soledad, a la hora de los maitines del Thuku ? No conocéis al Chullpatullu;
+no habéis oído más allá de las narices.
 
 Las guturaciones recuerdan voces viejas.
 
@@ -13518,7 +12622,8 @@ Y otra:
 —¡Raaaami!...
 
 ¿Sem? ¿Rami?... ¿Semíramis? ¿Y cuál el rol, acá, de la hermosa
-cavilosa? ¿Raíces babilónicas en las tierras silúricas? ¿O es que, ciertamente, vinimos del mundo en polen del mundo? Mas la sombra se
+cavilosa? ¿Raíces babilónicas en las tierras silúricas? ¿O es que,
+ciertamente, vinimos del mundo en polen del mundo? Mas la sombra se
 aclara y ya se precisan líneas aleves de sus leves habitantes. Veo. Las
 voces toman corporeidad. Ebulle la calavernaria, y, como del ñuñu la
 espumosa leche, se desbordan de los chullpares.
@@ -13537,9 +12642,9 @@ parecían; sí, ciegos...
 Con entonación cavernosa y melancólica, ondulaba el macabro
 ulular.
 
-—¡ Sem Rami !...
+—¡Sem Rami!...
 
-—¡ Ruack !...
+—¡Ruack!...
 
 De la multitud, dos se detuvieron; los dos que emitían el gangoso
 gemido. Lleváronse las falangetas a las órbitas; y pude observar que las
@@ -13619,7 +12724,6 @@ ella no pudra; si, vieras: es como la cutis de la Amapolita que cada vez
 está más fresca. Entonces, si eres nó tan álogo, convendrás que ella no
 pudre. Pudre sólo que ya estuvo podrido. Y más no me tires de mi
 lengua. ¿Que en dónde está? aquisito. Velay, valay de cuescos: ¿no
-
 sientes que si por ella vamos es porque nos lleva ella; si nadie va sino
 por sí mismo y a sí mismo? Aquí, aquisito es la nevera; y allasito está
 nevando. Ya ves, en nieve se contiene la nieve, si ni los corrompidos la
@@ -13647,25 +12751,24 @@ de las ratas; y así cuando te metieron en la tierra, ya estabas en mi
 corazón. ¿No te acuerdas? Cuando abriste los ojos, abrí los míos... No
 sabes comprender todo lo que fueron mis huesos para ti...
 
- –No seas injusto, padre. Sé cuánto tu cariño. Pero, no olvides
+–No seas injusto, padre. Sé cuánto tu cariño. Pero, no olvides
 que la masa gelatinosa, también la ha soportado yo, a tu lado, sin
 chistar... ¿Te acuerdas?
 
- –¡Al hielo! ¡A la nieve, hijo mío!... Tenemos que librar al hombre
+–¡Al hielo! ¡A la nieve, hijo mío!... Tenemos que librar al hombre
 del infierno...
 
 –¿De modo, qué la pobre Bubdhi?
 
- –A bubear, hijo mío. Pregúntate –si eso es más útil– ¿dónde pára
+–A bubear, hijo mío. Pregúntate –si eso es más útil– ¿dónde pára
 el alma?
 
- –¡Ruack!
+–¡Ruack!
 
- –A lo mejor... Por eso el viento a ratos se pone meloso, y
+–A lo mejor... Por eso el viento a ratos se pone meloso, y
 relincha, y babea. ¿No será un viento espeso y de huesos? ¿De dónde,
 si no, vienen los huesos, el hígado, los riñones, y esos relinchos de
 semental que tiene a veces el viento? Y es que si poseemos eso, es
-
 porque sólo eso somos. ¿Las palabras, no serán eso? Cuanto "eso" es,
 habla, anda ¡Anda, guaguay!...
 
@@ -13702,7 +12805,8 @@ infiere al campanario.
 
 –¡Qué pakcha, macaco!... Paya y Maya, se casaron; y les nació un
 hijo: Kimsa. Y este Kimsa es el Maya y el Paya, según todos los han
-entendido, y en tanto el entendimiento pueda ser referido a las tabulaciones del metrón, o, cuando nó, del gnomón. ¿Si se dice dos en
+entendido, y en tanto el entendimiento pueda ser referido a las tabulaciones
+del metrón, o, cuando nó, del gnomón. ¿Si se dice dos en
 sánscrito: pakcha; y se invoca luego el metrón griego, se trata de
 hacernos entender que allí donde separamos la "idea" de dos, sea en
 Grecia, o en la India, dos serán dos? Si así nó, renuncia a la autoridad
@@ -13716,7 +12820,6 @@ Alégrase el retoño.
 –¡Khusi!... Qué, Cusa... Que los bhodistavas se hubiesen alegrado
 en palí, bien. Pero tú no eres bhodistava ni palí; entonces, tu deber es
 alegrarte en kuiku. Y para el kuiku, ¡khusi! Aunque por el otro lado de
-
 nosotros resulte lo mismo. ¿No sería cosa de tirarse los pelos ahora, si
 llegamos a la conclusión de que fueron mieles del Titikaka la mielura
 del Bhudda? ¿O es que toda lengua, en cuanto lengua, idioma de
@@ -13737,7 +12840,7 @@ persiguen.
 
 Y, luego:
 
- –Nunca rías en tiempo; hijo mío. El tiempo ríe y agría. Cuando lo
+–Nunca rías en tiempo; hijo mío. El tiempo ríe y agría. Cuando lo
 sepas todo, porque todo lo hayas medido, ya tendrás buenas razones
 para llorar; si esas medidas nó de las cosas cuanto tuyas. Al tiempo
 avienta esas medidas; y así te viente el viento. ¡Nada de risitas! El
@@ -13754,7 +12857,7 @@ lastre, se acaba en superdreanought, armatoste de museo náutico...
 
 Discurre.
 
- –El vómito una solución; pues ¿qué lo que pesa: el alma? Que
+–El vómito una solución; pues ¿qué lo que pesa: el alma? Que
 Dios tiró en el hombre un alma, se afirma, y se afirma por sutiles como
 el dispéptico geómetra famoso; por lo que deja descubrir que si Dios
 asignó alma al hombre, fue como el barco avienta lastres y se aligera.
@@ -13772,7 +12875,7 @@ que nacer un Duende laborioso que todas las mañanas te pregunte:
 "¿Y, qué tal? ¿trabajamos?". Y ya le verás, azada al hombro, dirigirse a
 la huerta, donde rompe en embrión la costra de la tierra.
 
- Dila, a poco la sientas: ¡Ya estás acá: Vamos: anda; canta!... Y será
+Dila, a poco la sientas: ¡Ya estás acá: Vamos: anda; canta!... Y será
 ella quien ponga melodía y peso en tu beso...
 
     * * *
@@ -13820,22 +12923,22 @@ Todopoderoso estaba convencido de ser él, también lo estaba de que
 carecía de forma, de materia palpable, de volumen, en fin. De suerte
 que pintiparado el muñequito, hacía más que mirarle, diciéndole:
 
- –¡Qué hermoso adefesio he modelado!... ¿Me miras, eh?... Briboncejo: acú, acú... Anda; echa a andar, liwlitu...
+–¡Qué hermoso adefesio he modelado!... ¿Me miras, eh?... Briboncejo: acú, acú... Anda; echa a andar, liwlitu...
 
- Pero, el muñequín, ¡niii!...
+Pero, el muñequín, ¡niii!...
 
- –¡Qué lástima de briboncito que eres! A este paso servirás ni para
+–¡Qué lástima de briboncito que eres! A este paso servirás ni para
 morir...
 
- Ahí fue que a sí mismo se regañó:
+Ahí fue que a sí mismo se regañó:
 
- –¡Chuzote!... ¿Cómo va a caminar, ni podrá morir, si está muerto?
+–¡Chuzote!... ¿Cómo va a caminar, ni podrá morir, si está muerto?
 Infúndele tu ser; sóplale en la nariz; vacíale la candente esencia de tus
 pulmones.
 
 Aunque ateos haya que no lo acepten, es de saber que el Todopoderoso los tiene, y fragorosos. Le sopló; y he aquí que el muñequito,
 tal le picara piojo indio, tembló, rascóse púdico la piel cándida; y se
-puso en vilo. Era una monada. El Todopoderoso mohino no poco
+puso en vilo. Era una monada. El Todopoderoso mohíno no poco
 dióse cuenta que fue aprisionado por el muñeco y que "más allá" del
 muñeco ya no estaba; que todo se le había tornado "en" acá.
 Inextricable problema que le puso enloquecido, si no era de aceptar
@@ -13849,7 +12952,7 @@ buscar al Todopoderoso cuan larga es la espesura silvestre.
 Nadie le respondiera; si todo cuanto de sus manos fue
 manufactura, era bruta suela de talabartero...
 
- ¿Dó el sublime poeta capaz de cantar esos rumorosos días de
+¿Dó el sublime poeta capaz de cantar esos rumorosos días de
 soledad y locura génesicas?
 
 Bástete saber que un día hubieron de acabar, día sin reloj de agua,
@@ -13863,13 +12966,13 @@ manera de estar, correr. Correr como el viento, el sonido, la luz, salirse
 de la tierra en un Plato Volador; que salirse de él, así deseáralo con
 veras, verás pronto que no habría de lograr.
 
- Pues, sensato y realista siempre, se dijo:
+Pues, sensato y realista siempre, se dijo:
 
 –Todopoderoso: al trabajo y, lo primero, hacerte de manos de
 trabajador; que des hoy "comerás el pan con el sudor" de ellas; y nó
 con las manos de los trabajadores y el sudor de tu hipotética frente!...
 
- ¿Acabó la todopoderosa soledad del Génesis? Claro; que acabó.
+¿Acabó la todopoderosa soledad del Génesis? Claro; que acabó.
 Asió puñado de tierra pukareña; amasomólo con sus divinos bebeos; y
 mientras en una y otra mano le peloteaba, se dijo:
 
@@ -13894,7 +12997,7 @@ trascendental.
 
 –¡Sóplala!
 
- ¿Sóplala? En notomía hominal el Todopoderoso perdiera su
+¿Sóplala? En notomía hominal el Todopoderoso perdiera su
 numinoso aliento. Soplábala con fiereza de tromba; soplábala con
 runrruneos de céfiro; con lacrimosos vientos la soplaba. Fáltanos
 también elegíaco que reconstruya el marrulleo divino en la impasible
@@ -13904,7 +13007,7 @@ oreja. Decíala palabritas con miel...
 
 Niii...
 
- ¿Qué hace el pobre hombre en casos como éste? Lloramicos, o
+¿Qué hace el pobre hombre en casos como éste? Lloramicos, o
 nó: a la santa tierra: a la tumba. La sepultó para sin consuelo llorarla en
 los tramontos. Pero la tierra la brindó solicitud de madre y como al fin
 en la pukareña materia se infundieran los gérmenes divinos, la sintió
@@ -13993,7 +13096,11 @@ articulaciones; llevaba aún adherida la tierra del sepulcro por lo que el
 resquebrajamiento de los secos nudos dióme a entender que en ese instante había dejádolo obedeciendo a ominoso destino. Le seguí hasta
 donde el mío pudo; pero el solitario, avanzaba, avanzaba...
 
+<br>
+
 Saj... Saj... Saj...
+
+<br>
 
 Muy lejos ya era diminuto Chullpa-tullu; y tuve la horripilante
 impresión de que de un abismo se dirigía a otro. Temblé considerando
@@ -14039,12 +13146,12 @@ He aquí cuatro esqueletos me encaraban ya, tan ensimismados en
 el motivo de su diálogo, que habiéndose detenido no advirtieron mi
 presencia.
 
- Hablaban extraña lengua; si aymara, si kheswa, si uru, si nubio, si
+Hablaban extraña lengua; si aymara, si kheswa, si uru, si nubio, si
 mochica; que de todas éstas tenía algo.
 
- Uno de ellos, el más arrebatado, dijo:
+Uno de ellos, el más arrebatado, dijo:
 
- –¿Te atreverás a sostener, entonces, que la Pacha-mama es tanto
+–¿Te atreverás a sostener, entonces, que la Pacha-mama es tanto
 hombre como es mujer: no es cierto? Ese el horrendo disparate que
 ofende nuestros cristianos sentimientos.
 
@@ -14100,7 +13207,6 @@ gravedad y aplomo.
 Extraño es, mas el Palacio del Hiwa-Hila se halla permanentemente envuelto en marejadas de tiniebla; de tinieblas que ni los rayos
 del Sol logran hender: tales sus espesos nubarrones moleculares. No a
 metros las murallas se alza sin embargo más apretada oscuridad; y tras
-
 ella, otras densas cuanto más lejanas; todo lo que da distancia que se
 distancia de sí misma. Tal vez geómetra ambidextro podría esquematizar tan extraña figura del espacio. En esa sucesión de valores del
 negro, que se prolongan ascendentes hasta el punto en que el negro
@@ -14112,7 +13218,7 @@ recorre la sangre o la del abdomen estelar.
 
 Siento que piso la tierra con el callo del Primate.
 
- Paso allá, late la luz; hay colorida fiesta en el agua; centellea el
+Paso allá, late la luz; hay colorida fiesta en el agua; centellea el
 pasto; paisajes se animan; verdes eclosionan colinas, surcos, recodos,
 encañadas. En las frondas laten aires verdes.
 
@@ -14129,7 +13235,7 @@ bosque otoñal; oigo que ágrias crujen las choquezuelas: Saj, saj, saj,
 saj... El quejumbroso marfil oigo de los caminos del Chullpa-tullu; oigo
 que el camino en mí camina.
 
-¿El infinito camino? ¿y en ti?
+¿El infinito camino?, ¿y en ti?
 
     * * *
 
@@ -14139,12 +13245,12 @@ que el camino en mí camina.
 carecemos de flexores? ¿No te parece, padre mío, que no hay objeto
 para ello, si vivimos muertos?
 
- –¿Muertos? ¿No haces metáforas? ¿Dí que estás cansado y Dios
+–¿Muertos? ¿No haces metáforas? ¿Dí que estás cansado y Dios
 te habrá de creer?
 
- –¿Cansado? ¿Sí? ¿de tus estrabismos?
+–¿Cansado? ¿Sí? ¿de tus estrabismos?
 
- –¿En mal punto me duele tu mestizaje? ¿No supe elegirte madre;
+–¿En mal punto me duele tu mestizaje? ¿No supe elegirte madre;
 y eso te cansa? ¿Por dármela de khara me saliste kharkhiento? ¿Los
 tendones son las cuerdas de un charango triste, guaguay? ¿O haz
 olvidado que eres Chullpa-tullu? ¿Los sin cuerdas somos el objeto de la
@@ -14185,7 +13291,6 @@ del esponsal? ¿el premimo de sus goces? ¿la embriaguez del hijo? ¿No
 ves que el hombre y la mujer se acoplan en él para la fecundación?
 ¿Alguna vez gozaron dos hombres, o dos mujeres (pan con hostias) sin
 venir de efebos y tribadieras? ¿Cuando veas a dos molletes que se
-
 refriegan y amelcochan al són de la Marimba, vomita? ¿Ahí está Dios
 en Uno? ¿Y con todos los cuernos? ¿El baile es casto sólo porque es
 genésico?
@@ -14196,13 +13301,12 @@ Juicio del Creador?
 
 ### HARAWI
 
-–¿Kakauuu?... ¿Khunas, mistisito
-
-me dio la gran flau?...
+> –¿Kakauuu?... ¿Khunas, mistisito \
+> me dio la gran flau?... 
 
     * * *
 
-–¿El Juicio Final será el baile final? ¿Allí, en las hermosas trompetas angélicas, comprobarás las calzas de tu padre, conociendo que son
+–¿El Juicio Final será el baile fonal? ¿Allí, en las hermosas trompetas angélicas, comprobarás las calzas de tu padre, conociendo que son
 trompetas paridas, si, contrariamente a los ángeles, tienen madre? ¿la
 elefantiasis trómbica? ¿Bailaremos todos? ¿maduros y en agraz?
 ¿borriquitos sensuales y borriquitas púdicas? ¿casados y descasados?
@@ -14219,7 +13323,7 @@ bailando? ¿Todo está sujeto a esa magnánima ordenanza? ¿Todo baila?
 ¿baila el protón; baila la nova? ¿Y si la brisa no bailara, hijo mío, no
 daría risa?
 
-–¿Desvarias, padre?
+–¿Desvarías, padre?
 
 –¿Bailo, dirás? ¿Sólo cuando se piensa se desvaría? ¿Y es que no
 pisa quien piensa?
@@ -14230,17 +13334,18 @@ pisa quien piensa?
 
 –¿No te entiendo, pisco?... ¿Es que rebuznas?
 
- –¿Eso habría querido más de una rubia para alegar del asnitu?
+–¿Eso habría querido más de una rubia para alegar del asnitu?
 ¿No sabes que el rebusno es tanto o más teológico que el latín? ¿y qué
 traduce mejor al hombre que la trombosis?
 
 –¿Por caridad, padre? ¿Miras quiénes nos miran?
 
- –¿Guá?... ¿Ellos?... ¿Se vinieron al cónclave a conocer al hijo de la
+–¿Guá?... ¿Ellos?... ¿Se vinieron al cónclave a conocer al hijo de la
 Mama-Chokhe?... ¿Qué calaveras?... ¿Son nuestros antropopitecos,
 nuestros antediluvianos, los del hacha de piedra y del San Lunes? ...
 ¿Joro-josé?... ¿También los abobados gliptodontes? ¿Y cómo vuelan
-con sus descarnados alones los therodáctilos, estos alcatraces mamarios?... ¿Qué tierra esta y qué cielo aquél?...
+con sus descarnados alones los therodáctilos, estos alcatraces mamarios?...
+¿Qué tierra esta y qué cielo aquél?...
 
 –¿Di? ¿qué asombro el suyo?
 
@@ -14263,15 +13368,12 @@ Si tú no lo persiguieras serías hijuela, que nó hijo. Mi muerta lengua
 viva eres; mi contradicción; limpiaborrones; buitrada de mis negras
 sabidurías...
 
- HARARUÑA
+### HARARUÑA
 
-Sé ya que no lo quieres,
-
-hijo; pero me interfieres.
-
-Y si de mí difieres,
-
-es que mi guerra eres.
+> Sé ya que no lo quieres, \
+> hijo; pero me interfieres. \
+> Y si de mí difieres, \
+> es que mi guerra eres. 
 
 Tal la condición. No basta que seas vasto en ser; se es contra
 algo. La idea de justicia cabe en dialéctica. Y es que se nace a
@@ -14294,7 +13396,7 @@ madre: qué será de ella...
 
 –Qué será...
 
- –Eso lo que debes investigar. Sería en ti si no fuera en otros. Por
+–Eso lo que debes investigar. Sería en ti si no fuera en otros. Por
 lo mismo que no admito sustituciones (así sustituya la Academia) yo
 adoro a tu madre en ti, hijo mío. La madre es madre en cuanto al padre
 lo es, y padre es el padre en cuanto es de madre. Vaya a tu hueso mi
@@ -14304,25 +13406,16 @@ gota sulfúrica: soy yo; hijo mío, tu padre y tu madre.
 
 ### HARAWI
 
-¡Ay, ayayay, khara juskita!
-
-Cuando en mis venas,
-
-khara juskita,
-
-tú latías;
-
-en las pupilas.
-
-¡Ay, ayayay, khara juskita!
-
-me danzaban mujeres
-
-entre los cañamerales
-
-de las venas.
-
-¡Ay, ayayay, khara juskita!
+> ¡Ay, ayayay, khara juskita! \
+> Cuando en mis venas, \
+> khara juskita, \
+> tú latías; \
+> en las pupilas. \
+> ¡Ay, ayayay, khara juskita! \
+> me danzaban mujeres \
+> entre los cañamerales \
+> de las venas. \
+> ¡Ay, ayayay, khara juskita! 
 
 Soy tu andrógino, guaguay. Pudieron ser esta o aquella; y en nada
 se habría modificado tu naturaleza; que en mí ella estaba, no sólo
@@ -14347,12 +13440,12 @@ en los calvarios de la hembra; y pocos que por repugnarla sean capaces
 de inventar la lógica, cual el afamado heleno; menos los que como el
 otro puedan decir:
 
- –¡Qué madre me busca!... ¡Quién madre!... ¡Madre quien hace la
+–¡Qué madre me busca!... ¡Quién madre!... ¡Madre quien hace la
 voluntad del Padre!...
 
- Palabra alumbró tanta sabiduría.
+Palabra alumbró tanta sabiduría.
 
- Cuidado con encharcar la carne, el himen, que, como la vida,
+Cuidado con encharcar la carne, el himen, que, como la vida,
 jamás dice: ¡basta!, según el cínico enseñara.
 
 Ya veo que la crudeza de mi palabra te turba, hijo mío. Dirás que
@@ -14364,10 +13457,10 @@ Plato.
 –¡Jaiii!... Lloras. Tengo que admitir que nada puede desintegrarse
 en ti y que a tu escoria no ha bastado el Código del Hiwa-Hila. No me
 desboques: tu ternezza me hace de afrodisiasmas. Que no me llore mi
-
 tontuelo. Te hablaré al oído, con susurros. Pára la oreja: ¡la mujer es la
 cabra de Unerico, a quien es fama sólo las cabras alimentaban; mas la
-cabra tire al monte, o no tire... No me llore, mi llokhallo. Que yo adoraba a tu madre, debes saberlo; y que la adoraba mientras en mí latías,
+cabra tire al monte, o no tire... No me llore, mi llokhallo. Que yo adoraba
+a tu madre, debes saberlo; y que la adoraba mientras en mí latías,
 mientras me urgían tus caminos. ¡Si no llegaría a sentirla mi deidad!
 Qué amasijo de corolas no era guagualay; mas al último vine a que el
 amasijo de corolas eras tú, yoka, yokay... Déjame recordar. La prima
@@ -14381,10 +13474,10 @@ sino el Sátiro de oro, que venía ya quemante so los oleajes, la
 fecundara. Y yo saltaba como el ardido potro que olfatea el anca de la
 yegua.
 
- Ah, si Unerico la viera, guagualay: nunca hueso vistió traje más
+Ah, si Unerico la viera, guagualay: nunca hueso vistió traje más
 tentador.
 
- –¡Es ella, padre; es ella! –me gritaste desde el diafragma, y el
+–¡Es ella, padre; es ella! –me gritaste desde el diafragma, y el
 pobre se me crispó como un puñado de alacranes.
 
 Sentí que tu voz se difundía por mis venas, y que el milagro
@@ -14404,9 +13497,8 @@ perlinas uñas de sus pies.
 
 –¡Es ella, padre; es ella!
 
- ¡Cómo desoir tu voz, hijo mío! Y aunque el temblor me había
+¡Cómo desoir tu voz, hijo mío! Y aunque el temblor me había
 reducido al tamaño de un calambre de bacteria marina, cuando brazos
-
 de monstruoso verde, la alzaron, y su grito de angustia taladró mi
 hueso; arranquéme los ojos y los zampé.
 
@@ -14417,105 +13509,69 @@ Yo debía obedecer tu voz.
 Y mis ojos al mar se la quitaron; y se la habrían quitado a Dios. Si
 mi osadía y mi fuerza se alimentaban en ti, en tu aliento, en tu olor...
 
- Fue así, hijo mío, que hiciste en mí tu voluntad; y yo tu voluntad
+Fue así, hijo mío, que hiciste en mí tu voluntad; y yo tu voluntad
 acaté..
 
 <hr>
 
- Dame el charango: me ha embriagado tu hueso. Guá... ¡Te
+Dame el charango: me ha embriagado tu hueso. Guá... ¡Te
 duermes!... Duerme, guaguay... Acúnate en mi corazón...
 
 ### EYRAY
 
-¡Rrorró, mi guagua!
+> ¡Rrorró, mi guagua! \
+> ¡Duerme, guaguay! 
 
-¡Duerme, guaguay!
+> Tú, que no solo. \
+> mi llokhallito; \
+> si ya te cantan \
+> los Duendecitos. 
 
-Tú, que no solo.
+> ¡Rrorró! ¡Rrurrú! 
 
-mi llokhallito;
+> Lindos eyrayes \
+> te cantaremos. \
+> Guayruru en sarta, \
+> pepitas de oro, \
+> flor de sankhayu, \
+> trinos de chaiña, \
+> llautu de Inka, \
+> te labraremos. \
+> Ya viene el Inka: \
+> rrurrú, papay... 
 
-si ya te cantan
+> ¡Rrurrú, mi guagua! \
+> ¡Guaguay, rrurrú! 
 
-los Duendecitos.
+> Oye mi cuento... \
+> ¡Rrurrú, tatay! \
+> Tu padre el Puma \
+> de ojos de añil... \
+> Si tú rrorró; \
+> rrurrúes él... \
+> ¡Duerme, mi guagua; \
+> dormí, guaguay!... 
 
-¡Rrorró! ¡Rrurrú!
+> ¡Rrorrú! ¡Rrurró! 
 
-Lindos eyrayes
+> En thusa de oro \
+> vienen del Lago: \
+> el Puma fiero \
+> y EL PEZ DE ORO. \
+> Toca, le dice, \
+> el Puma al Pez: \
+> toca el charankhu, \
+> que el yoka-tata, \
+> se va a dormir. \
+> ¡Rrorró, mi guagua! \
+> Hilan los Duendes, \
+> sueño, sueñito. \
+> ¡Rrurrú! ¡Rrurrú! \
+> Mirá, mi guagua \
+> que el Puma de oro \
+> te va a rugir. 
 
-te cantaremos.
-
-Guayruru en sarta,
-
-pepitas de oro,
-
-flor de sankhayu,
-
-trinos de chaiña,
-
-llautu de Inka,
-
-te labraremos.
-
-Ya viene el Inka:
-
-rrurrú, papay...
-
-¡Rrurrú, mi guagua!
-
-¡Guaguay, rrurrú!
-
-Oye mi cuento...
-
-¡Rrurrú, tatay!
-
-Tu padre el Puma
-
-de ojos de añil...
-
-Si tú rrorró;
-
-rrurrúes él...
-
-¡Duerme, mi guagua;
-
-dormí, guaguay!...
-
-¡Rrorrú! ¡Rrurró!
-
-En thusa de oro
-
-vienen del Lago:
-
-el Puma fiero
-
-y EL PEZ DE ORO.
-
-Toca, le dice,
-
-el Puma al Pez:
-
-toca el charankhu,
-
-que el yoka-tata,
-
-se va a dormir.
-
-¡Rrorró, mi guagua!
-
-Hilan los Duendes,
-
-sueño, sueñito.
-
-¡Rrurrú! ¡Rrurrú!
-
-Mirá, mi guagua
-
-que el Puma de oro
-
-te va a rugir.
-
-¡Alzá, guaguay!
+> ¡Alzá, guaguay! 
 
 Vengan quienes sostienen que el Chullpa-tullu no vive. Conserva
 oro y barro, himplar de hiena, trino de canario, ferocidad y ternura,
@@ -14561,7 +13617,7 @@ Mas, ¡gran lección la de esas orejas, hijo mío! El trato acordado a
 las "ideas": de la cabeza al trasero; del trasero a la cabeza. Marsias para
 arriba, Sileno para abajo.
 
- –¿Al trasero?
+–¿Al trasero?
 
 –Así van las "ideas" y las moscas, hijo mío.
 
@@ -14593,9 +13649,9 @@ medran del intestino.
 ¡padre!... Dime, padre... Nó: nada digas; que cuanto te mana es lodo.
 ¡Qué soy, Dios mío!
 
- Y el Señor le respondió:
+Y el Señor le respondió:
 
- –Mi lodo genésico, hijo mío.
+–Mi lodo genésico, hijo mío.
 
 <hr>
 
@@ -14617,11 +13673,10 @@ dora; el árbol se pluvina; la noche es alborada de plenitud cardial.
 El gañán va con la torezna; el sacacorcho con la botella vacía; la
 guillotina con la guillotinada; Hatan con Hiwa; el Santo con su pecado;
 la filosofía con su Ofelia marchita; Manko con Mama-Aklla; el leño
-
 con el hacha; Areche con las usutas del Descuartizado; el birrete con la
 Abracadabra...
 
- Son de una mística que del cielo viene muerta y viva la tierra pare
+Son de una mística que del cielo viene muerta y viva la tierra pare
 en el embeleso de su beso.
 
 A éste, de lumínica tiniebla, silencio sinfónico, llegan el ¡bon!
@@ -14637,11 +13692,9 @@ ayllus festejan el matrimonio de la más rolliza y chapuda de las
 tawakus, y tata Todiro, el viejo khamiri, que ya con el zumo de coca y
 cañazo babea sus amorosos cosquilleos...
 
-¡Bon! ¡Bon! ¡Bon!
-
-Bombos de los ayllus;
-
-latidos de la tierra.
+> ¡Bon! ¡Bon! ¡Bon! \
+> Bombos de los ayllus; \
+> latidos de la tierra. 
 
 Cómo nos abrazas, sedencia de la Pacha-mama, y melificas los
 tarazones de la muerte con tu lujuria láctea.
@@ -14654,24 +13707,21 @@ las cumbres de acero cruel. No la habitan ángeles kuikus; que el chulo
 trasverberado la atiborra; si a guisa de inscripción dantesca en la
 archivolta de la arcada de acceso, podía haberse escrito:
 
-Aquí del Hake el Sol se nubla
+> Aquí del Hake el Sol se nubla \
+> y del chulo la nubla se despeja. \
+> Aquí, la del Inka, sangre de oro, \
+> lodo volvió el saqueador del oro. 
 
-y del chulo la nubla se despeja.
-
-Aquí, la del Inka, sangre de oro,
-
-lodo volvió el saqueador del oro.
-
- Es la república de mulatos, lobos, cambujos, torna-atrases,
+Es la república de mulatos, lobos, cambujos, torna-atrases,
 albarizados, barainos, coyotes, tente-en-el-aires, no-te-entiendos...
 América, América: no te entendemos.
 
- Aquí, por fin, el solípedo de Santiago, el karrajuska de los siete
+Aquí, por fin, el solípedo de Santiago, el karrajuska de los siete
 puñales capitales y el mansurrón de Adán con su amansada prole.
 
- Saj, saj, saj, saj...
+Saj, saj, saj, saj...
 
- Andar. Andar.
+Andar. Andar.
 
     * * *
 
@@ -14700,14 +13750,14 @@ apetecido, quizá porque nunca lo chaspearía. ¿Estás conforme?
 –Aistapué... Tú nó más te lo buscas. No llores, palomay. ¿Te
 peso, acaso?
 
- –¿Y todo lo que nos pesastes a todas, Supaya?
+–¿Y todo lo que nos pesastes a todas, Supaya?
 
- –No seais exajerada. ¿Cuándo fui de peso pesado? Sesenta kilos,
+–No seais exajerada. ¿Cuándo fui de peso pesado? Sesenta kilos,
 mamay: eso es comercial.
 
- –Lo que la pobre mama sufrió por tu culpa.
+–Lo que la pobre mama sufrió por tu culpa.
 
- –La culpa de su dinero, dirás. ¿Para qué hubiera sufrido si me
+–La culpa de su dinero, dirás. ¿Para qué hubiera sufrido si me
 dejo gastar?
 
 –Yo sí que he sido tu curtida: ni lo que me hiciste llorar me
@@ -14728,9 +13778,9 @@ cabecita ha tomado la gracia de sus focos "Osram".
 
 –¿Que no me traicionarás nunca?
 
- –Ya, niii, mamitay... Aura mias electrizado. Qué se pensarían que
+–Ya, niii, mamitay... Aura mias electrizado. Qué se pensarían que
 eres la joven matrona que llenaba su puerta del Hotel cuando a sus
-espaldas de... (¡Callate, sonso!...). Digo, cuando ibas a tus candorosos
+espaldas de... (¡Cállate, sonso!...). Digo, cuando ibas a tus candorosos
 compromisos... ¡Jorojosé!... Tus supiros te salían como disparados por
 una ballesta. Y con tu carnesita, decí: nadies te prendió una flor en tu
 espumosa maceta.
@@ -14778,7 +13828,7 @@ Chullpa-tullus en la retreta del Parque...
 
 –El momento pué. Quién diría: ni las chusekhas se espulgan.
 
- No contaban los valentones con thanoso chokhollo, ya sin
+No contaban los valentones con thanoso chokhollo, ya sin
 thanas, que tal momento se escurría del Chullpa-tullu, y que al darse
 cuenta del cuchicheo se plantara a gañir con tanta humanidad que
 habría metido chukchu a los muertos.
@@ -14805,7 +13855,7 @@ buenos chicheros llamamos elocuencia!
 
 –Una libertadita provisional, doctorcito...
 
- –¡Ay; prevaricato más, o prevaricato menos, nadies le mete los
+–¡Ay; prevaricato más, o prevaricato menos, nadies le mete los
 dedos a este taimado del Hiwa-Hila!... De aquí no salen con libertad
 provisional sino los wachalomos gordos, amigazo. Questar cuesta; y si
 valor no falta en su amigo, los valores no cuentan.
@@ -14821,26 +13871,25 @@ los días sin poder estrangular a esos ladrones!
 
 –Se ríe, velay, el doctorcito.
 
- –Así es, mi amigo; qué me queda. De esas truhanerías se
+–Así es, mi amigo; qué me queda. De esas truhanerías se
 alimentan los zamarrones. ¿Qué la justicia, me dirá usted? Como si me
 preguntara qué la chicha. Para el forzudo fuerza; para el enclenque,
-
 alcohol, como por ahí va predicando ese filósofo potosino de don
 Carlos Medinaceli. Si el forzudo va por ello, el Juez la da; así prevaricato medie. Pero, guay, si el enclenque se atreve... El prevaricador se
 vuelve ley y ley el látigo... A ver, de qué se trata.
 
- –De casi nada. Que mi hijo mayor, con sus ochenta años,
+–De casi nada. Que mi hijo mayor, con sus ochenta años,
 invalidado por el réuma, vive de la limosna de sus hijos.
 
- –¿Y se queja usted? Esa es una obra de santos...
+–¿Y se queja usted? Esa es una obra de santos...
 
- –Sí; pero la plata la obtienen de mis propiedades, doctorcito; que
+–Sí; pero la plata la obtienen de mis propiedades, doctorcito; que
 para socorro de ese infeliz le dejé.
 
- –¡Córcholis! En ese caso no está indicado sino... Privaricatus
+–¡Córcholis! En ese caso no está indicado sino... Privaricatus
 mea. Y por el gaznate; que es infalible.
 
- –¡Se lo tragan, doctor: usted no los conoce!
+–¡Se lo tragan, doctor: usted no los conoce!
 
 –Caráspitas.
 
@@ -14892,7 +13941,7 @@ bajos al lado de aquéllos, que fueron manufactura directa, personal e
 intransferible, del marido de la Señora doña Proserpina de Plutonis y
 otras cáscaras nobiliarias.
 
- ¡Hurras! ¡Hurras!
+¡Hurras! ¡Hurras!
 
 –No hay más siervos –prosiguió el pongo–; y si en Pichakhani no
 los hay [eso lógica], no veo por qué habría de permitirlos el Hiwa-Hila.
@@ -14907,10 +13956,10 @@ Estruendosa ovación obligó a callar al pongo. Yeso, y su
 monolítico razonamiento, buena demostración me fue de que tales
 siervos son demasiada servidumbre para amos tan pequeños.
 
- El gamonal, al otro lado de las murallas, tullido por el
+El gamonal, al otro lado de las murallas, tullido por el
 reumatismo, de que no podía perder memoria, se echó a andar.
 
- Saj, saj, saj...
+Saj, saj, saj...
 
     * * *
 
@@ -14924,7 +13973,7 @@ Saj, saj, saj...
 gobierna sobre muertos –murmuró el punta y coma al oído del
 flamenco.
 
- –Así es –pontificó.
+–Así es –pontificó.
 
 –Y no puede ser de otra manera, señor Ministro.
 
@@ -14994,13 +14043,10 @@ arboledas, siguieron el paseo, llorando; acaso de hambre.
 
     * * *
 
-¡Gú! ¡Gú! ¡Gú!
-
-Mirad: os sigue el Khori-Puma.
-
-Andar... Andar...
-
-Saj, saj, saj...
+> ¡Gú! ¡Gú! ¡Gú! \
+> Mirad: os sigue el Khori-Puma. \
+> Andar... Andar... \
+> Saj, saj, saj... 
 
     * * *
 
@@ -15014,7 +14060,6 @@ la carne descarnada?
 
 ¿Os haré saber que esta doncella, que ya por dónde cargar sus
 virginidades tiene, fue engañada cuando engañaba a su prometido
-
 cediendo a hipnótico y clandestino galán que se gozó los esponsales
 para luego dejarla tirada y al prometido con un pasmo de narices? Lo
 que siempre pasa como si pasara. Mas, en qué magnitud debió sufrir el
@@ -15051,16 +14096,15 @@ tristeza, tirado, como lazarillo, por consuetudinario lamento dirigido a
 ése Dios que no le bendecía con un hijo. He aquí que todos sus
 pequeñuelos le rodean ahora y truecan en deleite sus paternales
 calvarios. Acaricia a todos, y a todos mima; y si alguno le mete las
-
 traviesas falangetas en las órbitas, hace más que estrecharle en sus
 amorosos huesos.
 
- Para él acabaron crucifixiones, cuando el Hiwa-Hila, golpeándole
+Para él acabaron crucifixiones, cuando el Hiwa-Hila, golpeándole
 tiernamente el lomo, le dijo:
 
- –¡Pasa, mamay!
+–¡Pasa, mamay!
 
- Nada sabe de filosofías, ni intereses le preocupan; no se cuida de
+Nada sabe de filosofías, ni intereses le preocupan; no se cuida de
 averiguar si su mansa mujer sigue echando un hijo cada año, o qué fue
 de su hacienda, qué de su mujer. ¡Su mujer!... Vientre más hacendoso
 hubo; si cierta vez le diera cinco hijos de una porrada, que, enternecido
@@ -15104,7 +14148,7 @@ campanas.
 –¡Khusillu! ¡Khusillu!... Pariente... No olvides el camino: aquí está
 tu patria –me gritaban los khusillus.
 
- ¡Talán! ¡Talán! ¡Talán!
+¡Talán! ¡Talán! ¡Talán!
 
     * * *
 
@@ -15150,7 +14194,6 @@ desgarradas escalas, oí...
 –¡Ven! ¡Ven, infeliz: aquí estoy!... Nó a ti; al otro. Tú, tú... A ti...
 Te cercenaron la cabeza de un tajo y la aventaron al fondo de la
 barranca... Aquí estoy: ven... ¿Fue tu pecado el haber nacido? ¿Te
-
 seccionaron, falange a falange, para descubrir en cuál resquicio se
 alojaban tus crímenes; y al último te amputaron la cabeza, pues acaso lo
 que perseguían era amputar al hombre? ¡Qué veneno corrosivo el de
@@ -15161,13 +14204,13 @@ o protegerle, corrí tras uno de ellos; y cuando le estreché en abrazo que
 habría de darle a entender mi fraternidad en la bestia, mis brazos
 cerráronse en un puñado de ceniza.
 
- Grité... Grité... Mis voces resonaron en la masa granítica; y desde
+Grité... Grité... Mis voces resonaron en la masa granítica; y desde
 ella a su vez voces estranguladas me gritaban:
 
- –¡No; allí nó! Aquí está... Ven a verlo: en la barranca; en la
+–¡No; allí nó! Aquí está... Ven a verlo: en la barranca; en la
 barranca...
 
- ¿Dónde? ¿En la barranca?
+¿Dónde? ¿En la barranca?
 
     * * *
 
@@ -15191,9 +14234,9 @@ los valores del esqueleto humano a categorías estéticas; algo (disculpad
 si a tamaño ejemplo acudo) así como el Dante con la teología hizo en
 su inmortal poema. No es que imite al florentino, que arrogancia
 semejante fuera ridícula no menos que boba; mas por ello encubre su
-intento de acabar con toda retórica en torno al problema del Chullpa
-tullu. Creo más bien que huele a Luciano; aunque Luciano hizo vivir a
-los muertos en cueros, digo, en huesos.
+intento de acabar con toda retórica en torno al problema del
+Chullpa-tullu. Creo más bien que huele a Luciano; aunque Luciano
+hizo vivir a los muertos en cueros, digo, en huesos.
 
 –¿Qué Luciano nombrais, maestro?
 
@@ -15209,7 +14252,8 @@ entre hindúes, kuikus y botocudos. Sin embargo, algo suigeneris
 sostiene nuestro mestizo –y que os haga conocimiento que mestizo es,
 conviene–; a saber: que el Inka no sólo mandaba en la superficie de su
 imperio, si se arrogó facultad de legislar y mantener autoridades en los
-predios de la sombra. ¡Canarios!... Visto así el problema del Chullpatullu cobra singularidad sin paralelo. La hija de Demeter reinaba en el
+predios de la sombra. ¡Canarios!... Visto así el problema del Chullpatullu
+cobra singularidad sin paralelo. La hija de Demeter reinaba en el
 Cocito y rendía parias a rey alguno de la superficie, bajo ella, me zumba
 que ni a su voltario marido. Nuestro Hiwa-Hila gobernaría con la
 tuición del Inka. ¿No es desconcertante?
@@ -15235,7 +14279,6 @@ homúnculi... La muerte de un su hijo, parvulillo canoro, le arrastró a
 singular locura; y ella le ha traído a formular doctrina tal, como ésta:
 ¡nadie muere! Y en tanto haya quien viva al que murió, el que murió
 vivirá. ¿Qué os parece? Me zumba que lo mismo fuera decir: "Soy el
-
 camino de la vida; quien me habite no morirá". Solidez tiene; aunque
 no poco en bruto. Le diría: no seas de "los que creen por el agrado",
 sino por "las pruebas". Si quiera no más que para tranquilidad del
@@ -15261,7 +14304,7 @@ locura que manifieste; que todos los poetas son locos, o no poetas, a
 estar al gusto de Plotino. Lo que debe exigírseles es que la obra de arte
 sea de arte; nó chismorrea de comadronas; nó dismenorrea.
 
- –¡Guá!... ¿Dismenorrea, maestro?
+–¡Guá!... ¿Dismenorrea, maestro?
 
 –No otra cosa lo que del poeta sale sin la debida digestión.
 
@@ -15277,7 +14320,6 @@ de oros tu pez; que de lloros..." Si allí el mestizo es de una lágrima
 vertical; bien que para encontrársela hay que arañar no poco en las
 materias oscuras y amargas de sus angustiosos vértigos. Dudo que de
 EL PEZ se diga que es imitación, como parece sugiere algún cagatinta;
-
 y aunque para justipreciarla en el orden cualitativo carezco de
 competencia, su originalidad, a mi ver, no admite reparos.
 
@@ -15317,7 +14359,6 @@ que emplea: ¿qué debe el que puede? poder. Entonces el deber es
 fuerza o destino, destino que lleva en sí mismo el poder de ser; si quien
 nada tiene puede deber algo. El destino es homólogo de su fuerza.
 Todo descubrimiento fue deber para aquel que le ha realizado. Cuando
-
 Spinoza dice: "la sabiduría no se preocupa de la muerte sino de la vida"
 está señalando el deber y destino de la sabiduría; ella, pues, debe revelar
 la vida, confirmarla y definirla. ¿Lo ha hecho? Pero, a este sujeto,
@@ -15356,7 +14397,6 @@ sabio: menestral casi cavernícola y os dice que peleáis con una sombra,
 pues la muerte es más que sueño, por hechos que demuestra nó con
 razones, sí con las trajinadas plantas de sus pies: ¿os queda campo para
 argucias intelectualistas? ¿Es que habréis de admitir la realidad sólo si
-
 se os ofrece académicamente adobada? Reconoced que nada parecido a
 su intento, con fortuna, o sin ella, se acometió nunca; si de los muertos
 no quiere tanatologías, sino vivencias. Aquí donde estamos, para él está
@@ -15372,13 +14412,13 @@ pulverizadas. Su presencia entre nosotros no es alarde filosófico: es
 hecho. He aquí el rugido del bruto áureo: ¡El hombre es eterno! Y, con
 esto, sé yo algo, se desnuca la sabiduría del sabio.
 
- –¿Eterno, maestro? ¿Es que entonces habrá perdido el derecho a
+–¿Eterno, maestro? ¿Es que entonces habrá perdido el derecho a
 envejecer?
 
- –El hombre nunca conocerá su vejez. Lo que habrá perdido será
+–El hombre nunca conocerá su vejez. Lo que habrá perdido será
 el derecho a morir.
 
- –Ergo: habrá perdido el derecho a nacer.
+–Ergo: habrá perdido el derecho a nacer.
 
 –Quitad, allá, Duende: tenéis toda la majadería de los pérgamos; y
 vuestra penetración de las cosas es ya ruin siquiera. Tomaré partido a
@@ -15396,15 +14436,14 @@ Afortunadamente es la bestia que se siente bestia.
 
 –¿Quién, y en dónde, el muerto? De allí que reclame por las
 expresiones del indio, que si oficialmente se suprime, extraoficialmente
-
 se vive. Por tanto, manifestaciones, que ya se observan, autorizan
 afirmar que en el mundo del Achachila saltarán las voces viejas, como
 el esqueleto ya comido por los vermes sepulcrales salta en el fuego de
 las pupilas...
 
- –¿Le permitís cachada humilde al más humilde de vuestros discípulos, venerable maestro?
+–¿Le permitís cachada humilde al más humilde de vuestros discípulos, venerable maestro?
 
- –Hablad, mi pequeño cachero.
+–Hablad, mi pequeño cachero.
 
 –En eso mismo, no os parece que sus propósitos son pavadas de
 tomo y lomo, si, a medida avanza el tiempo humano, las razas, si
@@ -15414,7 +14453,7 @@ raza?
 
 –¿Y quién os habló de raza? ¿El Khori-Puma?
 
- –¿No es a título de fueros raciales que se pretende dar carta de
+–¿No es a título de fueros raciales que se pretende dar carta de
 ciudadanía al bárbaro americano? Es así que encontrar en el noble
 señorío del Romance, que es lengua para la convivencia del hombre
 ecuménico, los terminachos del indio, puede sino implicar regresión
@@ -15425,9 +14464,9 @@ sin repugnancia.
 academias ni sus gobiernos: la otorga la naturaleza. Aquellos son más
 que los momificadores de un ser vivo.
 
- –Eso es de mayor monstruosidad todavía: como nuestra naturaleza es bárbara...
+–Eso es de mayor monstruosidad todavía: como nuestra naturaleza es bárbara...
 
- –Toda naturaleza es bárbara; o no es naturaleza.
+–Toda naturaleza es bárbara; o no es naturaleza.
 
 –Pretenderemos, digo, injertar en la mentalidad del hombre
 aluvional, que radica en estratos superiores, y confiere sentidos
@@ -15441,7 +14480,6 @@ el genio de la vida, la sublime monstruosidad de sus obras.
 Ciertamente, el hombre caudaloso no cabe en la exquisitez; y si os
 dijera que hay ferocidad volcánica en la garganta del turpial, seguirías
 más creyendo en vuestros exquisitos. El hombre engendra nó como
-
 raza; y la raza nada tiene que ver con su lengua. Por lo que veréis el
 estúpido sofisma de quienes aplican a la inferioridad racial del indio la
 solución de un cruce, o varios cruces, con "razas" superiores, si nada
@@ -15478,7 +14516,6 @@ vocalización del hispano. Pues, sabed que es en la fonética que los
 idiomas pierden su naturaleza o la refirman; que luego siguen las
 formas de la locución, se interpolan elementos a ellos ajenas y acaban
 haciendo de los castizos idiomas sin casta, o con nueva casta. Nada lo
-
 ilustra tanto como el Romance. Nó por una normatura racial se
 diferencian, pues, en lo poco que se diferencian, se diferencian como
 las escalas musicales del trino, de conformidad con la mayor o menor
@@ -15515,7 +14552,6 @@ especulación etnográfica, y ésto consagrado por Conferencias de alto
 nivel, se ha estimado que en América quedan aún sesenta millones de
 nativos. Por lo demás, si acudieráis a turbar el sueño del filósofo con
 importunidades de ese jaez, os gritaría desde el Chullpa-tullu: "Pavón:
-
 abre los ojos. ¿Dónde el "peso" del Asia? Abarca el planeta; Grecia es
 sólo un matiz de las flores". Y es que, si mis silogismos no me vedan,
 creo que habrá físico que niegue que sólo el peso pesa.
@@ -15550,16 +14586,15 @@ cósmica, sin cuna ni sepulcro. Lúbrica irracional de la vida.
 animal puro; es el puro animal: he ahí su entelequia. Paráos: me ha
 fatigado el reposo.
 
- Andar. Andar.
+Andar. Andar.
 
- Saj, saj, saj, saj, saj...
+Saj, saj, saj, saj, saj...
 
     * * *
 
 Vaya el grupo y llegue, de poder, a Filistea. Dirijámonos al
 encuentro del oleaje lacustre; que ya se columbra bajo neblinoso cielo
 Titikaka mutal, plúmbeo, introspectivo, acaso místico. Por ese camino,
-
 en el lugar más sombrío –o el sombrío solitario– de éste, vencido por
 verduras lujuriosas y ensordecedoras pakchas, ovario del transido
 hueso, desmedrado esqueleto descansaba el codo en la rodilla y el
@@ -15603,9 +14638,9 @@ sandalias de tan grandes maestros. Soy casco sin herrar, que a buen
 trote vuelve a la superficie de los vivos; y que algo puede hacer entre
 ellos por tus relinchos.
 
- Respingó en tan violento modo, que voz y palabra se le obstruyeron a uno.
+Respingó en tan violento modo, que voz y palabra se le obstruyeron a uno.
 
- –¡Jaa!... Pardiez...
+–¡Jaa!... Pardiez...
 
 Hizo como que tragaba saliva densa.
 
@@ -15688,7 +14723,6 @@ como Mesalina delicuescente, acabara de injurgitar los treinta adobos
 de Trimalción con que el asombrado Cabildo de sus admiradores
 festejaba su victoria, para pedirle me fiara centavejos con qué darme
 hartazgo de agua caliente; si ya el Cronida sonrojaba en el cielo las
-
 mejillas de Aurora, y yo, sin rubor, sobre la piel del alma cargaba
 centímetros de escarcha!... ¡Bien que te lo tienes, brutazo!
 
@@ -15702,19 +14736,19 @@ Allí estuve, mortal infeliz; en la pocilga del canario.
 
 Si por el patio iba entre dientes cuchicheaban:
 
- –¡Chiflado! ¡Chiflado!...
+–¡Chiflado! ¡Chiflado!...
 
 ¿Que, molido y de hocicos, caía en el jergón? No el Guardián
 acabara de correr el cerrojo de la celda que cupo a la divina desventura,
 y ya los muy canallas, llegábanse a puntillas; y por las rendijas, gruñían,
 pasito:
 
- –¡Chiflado! ¡Chiflado!...
+–¡Chiflado! ¡Chiflado!...
 
- Parecíame el viento. Y veces era él, él, más sabio que el hombre;
+Parecíame el viento. Y veces era él, él, más sabio que el hombre;
 pues luego que, incorporándome, le ordenaba:
 
- –¡Chis!... Te mando, viento, aplacarte; que tu Dios y Señor,
+–¡Chis!... Te mando, viento, aplacarte; que tu Dios y Señor,
 duerme...
 
 El viento recogía sus fuelles y se hacía, respetuoso, de lado. Que
@@ -15728,7 +14762,7 @@ piaban repetían el nefando vocablo:
 La tristeza se condolió de Dios; y un día sentí que los tendones se
 relajaban; y otro que con ellos y mis huesos daban en la hoyanca.
 
- ¡No les odio! Me odio a mí mismo: tenía que ser YO el padre de
+¡No les odio! Me odio a mí mismo: tenía que ser YO el padre de
 esta generación de víboras...
 
 Sin asomo sardónico, le dije:
@@ -15748,7 +14782,7 @@ espíritu.
 
     * * *
 
-ANDAR... ANDAR...
+## ANDAR... ANDAR...
 
 Llegóseme Sankhayu, flor del Hiwa-Hila, en sangre florecido el
 labio, dos sankhayus túmidos el seno; y cimbrando un talle de avispa,
@@ -15773,101 +14807,69 @@ labio un beso de mi madre.
 
 Andar... Andar...
 
-Dispuesta a encarnarse, sacudía las avascas del nubarrón, MamaPaksi, atóse cofia de nieve, y ya de grietas y peñolerías, matas de paja y
+Dispuesta a encarnarse, sacudía las avascas del nubarrón, Mama-Paksi,
+atóse cofia de nieve, y ya de grietas y peñolerías, matas de paja y
 lodazales, partían saetas y lagrimillas pirotécnicas, sin herir hiriendo la
 funeral penumbra, mientras descendían apresuradas otras, e insumiánse
 en la tierra. ¿Garúa de estrellas fugaces? ¿Nina-ninas con alas de pukupuku?
 
-Nó.
+No.
 
 Son los Chullpa-tullus.
 
 Bajo el killay calino, volvían del mundo, o al mundo iban a
 trajinar mundo.
 
-AMAYA TOKAÑA
+### AMAYA TOKAÑA
 
-Ay, candela, candelita.
+> Ay, candela, candelita. 
 
-De amor lates con hambre;
+> De amor lates con hambre; \
+> tu lujuria late; con la \
+> sombra late; en el aire \
+> lates, amas y te ahilas. \
+> Por ti la noche late, \
+> Hampuñis son tus chispas. \
+> Late, volátil nina-nina, \
+> tu beso volátil. 
 
-tu lujuria late; con la
+> Candela, ay, candelita. 
 
-sombra late; en el aire
+> Chispa del cielo eres; \
+> del viento barcarola \
+> que enloquece el viento; \
+> ala de la estrella que \
+> en estrella arde; \
+> que arde en el incendio, \
+> y, des ignotas lindes \
+> de mares amargados, \
+> de amores traes carga \
+> das tus aguas amargadas. 
 
-lates, amas y te ahilas.
+> Ay, candela, candelita. \
+    
+> De amor la enamorada, \
+> esperas al que amaste; \
+> y cuando llega y besa \
+> un beso sin tu beso, \
+> beso que incendia el aire \
+> es beso de tu beso. 
 
-Por ti la noche late,
+> Candela, ay, candelita. 
 
-Hampuñis son tus chispas.
-
-Late, volátil nina-nina,
-
-tu beso volátil.
-
-Candela, ay, candelita.
-
-Chispa del cielo eres;
-
-del viento barcarola
-
-que enloquece el viento;
-
-ala de la estrella que
-
-en estrella arde;
-
-que arde en el incendio,
-
-y, des ignotas lindes
-
-de mares amargados,
-
-de amores traes carga
-
-das tus aguas amargadas.
-
-Ay, candela, candelita.
-
-De amor la enamorada,
-
-esperas al que amaste;
-
-y cuando llega y besa
-
-un beso sin tu beso,
-
-beso que incendia el aire
-
-es beso de tu beso.
-
-Candela, ay, candelita.
-
-¿Por qué del KHORI-PUMA
-
-no oyes el rugido, del
-
-KHORI-CHALLWA el beso
-
-no besas de su beso?
-
-Los khori-tullus fátuos
-
-no lloren ya de amores;
-
-el Chullpa-tullu sufra
-
-soledades de amor...
-
-Ya ruge el KHORI-PUMA,
-
-candela, candelita;
-
-y el KHORI-CHALLWA prende
-
-tu beso con su flor.
-
-¡Candela, ay, candelita!
+> ¿Por qué del KHORI-PUMA \
+> no oyes el rugido, del \
+> KHORI-CHALLWA el beso \
+> no besas de su beso? \
+> Los khori-tullus fátuos \
+> no lloren ya de amores; \
+> el Chullpa-tullu sufra \
+> soledades de amor... \
+> Ya ruge el KHORI-PUMA, \
+> candela, candelita; \
+> y el KHORI-CHALLWA prende \
+> tu beso con su flor. \
+> ¡Candela, ay, candelita! 
 
 Ensartadas en el yauri, Chuima-urpillas, de los esqueletos
 voladores tres se detuvieron antes de volver al seno de la Pachamama;
@@ -15940,41 +14942,24 @@ cantando por las calles.
 
 ### HARAWI
 
-¡Khoro,
-
-khorokutay!...
-
-Tanta promesa
-
-en amor;
-
-que amor será,
-
-khoro,
-
-khorokutay.
-
-¡Te daré
-
-chancaca verde,
-
-khorokutay;
-
-mi chancaquita,
-
-khoro, pero,
-
-khorokutay,
-
-no ha comer
-
-el khuchi,
-
-khorokutay!
-
-¡Khoro,
-
-khorokutay!...
+> ¡Khoro, \
+> khorokutay!... \
+> Tanta promesa \
+> en amor; \
+> que amor será, \
+> khoro, \
+> khorokutay. \
+> ¡Te daré \
+> chancaca verde, \
+> khorokutay; \
+> mi chancaquita, \
+> khoro, pero, \
+> khorokutay, \
+> no ha comer \
+> el khuchi, \
+> khorokutay! \
+> ¡Khoro, \
+> khorokutay!... 
 
 De las Tres Gracias del Chullpa-tullu, una, que como aquéllas
 mal hora escapó al pincel del divino Sandro, no menos que a las tintas
@@ -16045,10 +15030,10 @@ de varios millares; y esto es darte cifras asequibles. Mientras tenga tan
 grave responsabilidad, bien lo comprendes, no cesarán mis fatigas. Ya
 estudio Plan que permita acortar los plazos de retención.
 
- Absorbido por estas ceñudas cuestiones estaba el noble Orejón
+Absorbido por estas ceñudas cuestiones estaba el noble Orejón
 tan ensimismado que tuve que llamarle.
 
- –Debes apresurar tu regreso, Khusillu –me dijo, casi como si
+–Debes apresurar tu regreso, Khusillu –me dijo, casi como si
 otro quehacer le embargara–; porque tu plazo expira y requiero que
 vayas presto y reveles al fin esta tremenda realidad.
 
@@ -16056,7 +15041,7 @@ Que bien presente lo tenía, respondíle; y que de no sobrevenir
 contratiempo hasta la inminente nueva lunación, agradecido y
 emocionado, le pediría permiso para marcharme.
 
- Las capotas del cielo esparramaban claridad difusa que permitía
+Las capotas del cielo esparramaban claridad difusa que permitía
 verlo todo con relativa exactitud.
 
 Pleno el corazón de amables angustias comprendí en qué medida
@@ -16080,7 +15065,6 @@ a la orilla del Titikaka, para –sobre los ojos y el corazón– recibir sus t�
 todo porque deseaba besar sus verdes nocturnos desde esta linde de la
 vida a la que, acaso, tardaría en volver. Me oprimía más mi apretadora
 angustia al considerar que en tan larga estancia no poco vi de hondo;
-
 mas nó así el rastro de aquellos por cuya compañía emprendiera la
 exploración de la Sustancia.
 
@@ -16118,7 +15102,7 @@ Resolló algo como gruñido.
 Aquel ¡Oh!, que salió de la mandíbula abierta por el asombro, me
 pareció un dó de pecho.
 
- –¡Señor! –balbucí, inclinándome para demostrarle respeto, y más
+–¡Señor! –balbucí, inclinándome para demostrarle respeto, y más
 que respeto, el espanto que su presencia inesperada me había
 producido.
 
@@ -16150,13 +15134,13 @@ Confuso aún, le detuve.
 No despegué labio y respondió a mi pensamiento. El espanto me
 sacudía.
 
- –No es que te huya –me dijo–. Soy de Kutimpu. Estas ratillas, de
+–No es que te huya –me dijo–. Soy de Kutimpu. Estas ratillas, de
 Sillustani... Conocemos esos lugares: ¿verdad?
 
- Y cuanto decía era más que respuesta a las interrogaciones que
+Y cuanto decía era más que respuesta a las interrogaciones que
 concebía y no llegaba a formular.
 
- –No te admire; me he visto forzado a aprenderlo.
+–No te admire; me he visto forzado a aprenderlo.
 
 Y es que en ese momento, presa del mayor desconcierto, había
 pensado, cómo sujeto de tales edades se expresaba en castellano, y se
@@ -16171,14 +15155,14 @@ Volvióme a hablar.
 Inkas, si bien de nuestra raza, atlantas, son atlantas que asumieron
 gobierno ayer, como mañana lo asumiremos nosotros. ¿Lo sabías?
 
- Respondiera nuevamente a mis sotomentales inquisiciones. Mas,
+Respondiera nuevamente a mis sotomentales inquisiciones. Mas,
 aunque sin atropellarle, hablé:
 
 –Iba a marcharme, venerable hake –le dije–, tras ya larga visita al
 Hiwa-Hila, con subconsciente desazón; seguro de que lo mejor que de
 ella esperaba no había sido satisfecho.
 
- –No te refieres a este encuentro; que nada tiene de nuevo. Lo
+–No te refieres a este encuentro; que nada tiene de nuevo. Lo
 mejor de tu visita nos espera antes de la partida.
 
 –Créeme: experimento la más extraña emoción de mi paseo por
@@ -16204,7 +15188,6 @@ solamente por ésto: nunca se presumieron poseedores de nuevos
 conocimientos, ni en los medios del trabajo, ni en la ciencia de
 gobernar; mas sostenían que sólo ellos eran capaces de cumplir, y hacer
 que se cumpliera, el mandato de los "pasados", pasados a quienes
-
 estaban seguros de retener en ellos. Aun para el individuo esto es sabio
 en proporción ingente. Para quien gobierna pueblos constituye título
 de capacidad. Y no ahondo en el sentido, no oscuro, profundo –que en
@@ -16241,7 +15224,6 @@ día estos pueblos sabránse protegidos por la unidad de un espíritu. Es
 decir, sentiránse habitantes de una tierra suya nó por derecho político
 sólo: por el derecho de posesión que viene de la raíz. Para los pueblos
 la posesión que no es raigal carece de historia. Es inútil pensar en la
-
 existencia de grandes naciones donde viven hombres empequeñecidos
 por la naturaleza. Permanecerán con la obsesión de la fuga; pues no se
 ha establecido su identidad con ella, sentirán el repudio de la tierra,
@@ -16263,7 +15245,7 @@ esclavitud.
 
 ¿Qué se aguarda para reconquistar el Kosko?
 
- Tremendo legado de negaciones contra el cual tienen que luchar
+Tremendo legado de negaciones contra el cual tienen que luchar
 hombres como nosotros; si acaso inconscientemente somos ya factor
 de negación para la patria.
 
@@ -16282,12 +15264,12 @@ sentirá que es. Descubre por qué relación sutil el pasado es el presente.
 Pero el Presente no está en superficie, sino en profundidad; y la
 profundidad se mide sólo en las vísceras.
 
- Dime, ahora: ¿la sabiduría del Inka no fue la eterna sabiduría de
+Dime, ahora: ¿la sabiduría del Inka no fue la eterna sabiduría de
 la tierra? Él representa su pasado actual.
 
     * * *
 
- Mi asombro era grande como el deleite de que estaba poseído: ¡al
+Mi asombro era grande como el deleite de que estaba poseído: ¡al
 fin habló la tierra!
 
 Pero, luego, el magnánimo anciano, me dijo:
@@ -16320,8 +15302,8 @@ de la religión solar y la regulación negativa del parto, pues fuera de
 hacer del amor un vicio determina esta inhumana y dolorosa realidad.
 Un millón de veces la población de la tierra está acá en estado de Sullu,
 pues le falta las arterias de inmiscuisión en el torrente sanguíneo. Claro
-es que la ignorancia constituye la causa primordial del macabro fenómeno; pero hay otra: la económica. Los hombres limitan la generación
-
+es que la ignorancia constituye la causa primordial del macabro fenómeno;
+pero hay otra: la económica. Los hombres limitan la generación
 porque la riqueza está repartida entre decenas de individuos generalmente infecundos y hasta sexualmente apáticos; y los pobres,
 germinales, no tienen medios para alimentar una prole numerosa, que
 es la típicamente humana. Los griegos concibieron mediante uno de
@@ -16358,7 +15340,6 @@ dirás que el Tawantinsuyu ha muerto; pero dirás que no le permiten
 vivir. ¿Faltará el Inka en tu sangre? tan nó, que habla. De acá obtén un
 corolario: el Tawantisuyo vive si el Sullu cuya hechura es no sabe
 morir. Cuando echaron por tierra nuestros Saksaiwamanes pensaron
-
 que no se levantarían más, confiados en que el Porvenir era de los
 demoledores. Falacia: el Porvenir no existe; por tanto el Tawantinsuyu
 sigue de pie, y si sus murallas se abatieron fue para alzarse, tal vez ya no
@@ -16373,11 +15354,11 @@ inducidos por el mismo determinismo que los conforma. No derivaremos a las intui
 imprime la naturaleza en el mundo vegetativo como rostros de su
 fisognómica.
 
- ¿Qué te dice todo esto? Te dice que sin el Sullu, el hombre y las
+¿Qué te dice todo esto? Te dice que sin el Sullu, el hombre y las
 colectividades de hombres carecen de fisonomía, de naturaleza y de
 ovario.
 
- Eso es patria y personalidad con raíz en la materia.
+Eso es patria y personalidad con raíz en la materia.
 
 Se dice de los babilonios que sus reyes alzaron jardines aéreos
 anhelosos de poner su galantería cerca del cielo. Payasos porveniristas
@@ -16395,16 +15376,16 @@ padres; y que la virtud es el verdadero camino de la Naturaleza. La
 maternidad es estado de virtud plena; sin ella sus milagros prenderían.
 No por otra causa el Sullu es un sentimiento olfativo de madre.
 
- Se alzaron en erupción de centellas.
+Se alzaron en erupción de centellas.
 
     * * *
 
- Hallábase en el aire, sus huesos fosforescían, y ya grité por él,
+Hallábase en el aire, sus huesos fosforescían, y ya grité por él,
 presa de angustiosa ansiedad.
 
- –Dime, venerable anciano: ¿quién eres y cómo debo nombrarte?
+–Dime, venerable anciano: ¿quién eres y cómo debo nombrarte?
 
- Manantial de bondad, desde donde boyaba como una constelación, me hizo este oscuro discurso:
+Manantial de bondad, desde donde boyaba como una constelación, me hizo este oscuro discurso:
 
 –Llámame el Achachi-Hila. Y en cuanto quién soy: ¡soy tú! Tus
 pasos son mis pasos. Si el amor se enciende en ti, soy yo quien arde en
@@ -16424,10 +15405,10 @@ la profundidad de mi palabra...
 estrato! ¡Yo recojo los cristales de la roca, y con ellos, y los metales
 finos, labro los filamentos de tu voz!
 
- Cuando mido tu antigüedad me siento embrión. A cada
+Cuando mido tu antigüedad me siento embrión. A cada
 momento que soy en ti perennidad.
 
- Vuélcate en ti, para que llegues, al fin, a mi raíz...
+Vuélcate en ti, para que llegues, al fin, a mi raíz...
 
 <hr>
 
@@ -16441,7 +15422,6 @@ Dices, oh, suave Hipócrates, que a la mujer de tu amigo Epicrato,
 estando ya con dolores, pronta a parir, la acometió inquietud maligna
 que suprimiste dándole a escanciar vino aguado. Tus experiencias y
 observaciones poseerán siempre el valor de la sencillez y el mayor de la
-
 tradición de que proceden, pues tú, un renovador de doctrina esotérica,
 creaste la verdadera doctrina positiva en materias médicas, que
 importara no sólo la metodología del acervo de conocimientos mágicos
@@ -16481,7 +15461,6 @@ por ser? Esta migración de huesos ha inmovilizado a los dioses en una
 sonrisa jimia. Prudencia será que si además de las pócimas y mágicas de
 tu maestro se aplique al agonizante algunos menjurges divinos, se haga
 que el dios se entere a lo menos de su estructura, o posología, dándole,
-
 así, la aptitud de incidir en aquellas sustancias susceptibles de
 infundirse de su ciencia.
 
@@ -16522,7 +15501,6 @@ síntoma de vida, o síntoma de muerte; y atendiendo a combatir con
 llevaba sus cadáveres a las cumbres de las montañas, y como el hindú
 en las márgenes del Eufrates, levantaba la pira liberadora en cuyas
 llamas y penachos de humo se desprendía ese denso valor de la vida
-
 para depositarse en la sangre viva del hombre. Se te culpa, pues, ¡oh,
 Hipócrates!, del cósmico dolor de la ahayu humana.
 
@@ -16580,7 +15558,7 @@ Hay hemorragias en el viento.
 
     * * *
 
- ¡América! ¡América! Qué pregunta, la tuya, pesada para el
+¡América! ¡América! Qué pregunta, la tuya, pesada para el
 hombre... Qué amarga respuesta, la suya, para América.
 
     * * *
@@ -16613,7 +15591,7 @@ orinal.
 
 ¡Eureka! ¡Llega la sangre; sangre; sangre!
 
- Maquinarias ni matraces, cohetes interplanetarios, ni microscopios electrónicos, podrán nada contra ellos; si se inhiben y son
+Maquinarias ni matraces, cohetes interplanetarios, ni microscopios electrónicos, podrán nada contra ellos; si se inhiben y son
 surgentes; se van en la permanencia y permanecen en la afluencia y
 están en el punto de donde faltan.
 
@@ -16648,18 +15626,22 @@ engendró de nuevo. ¿No fue Dios mi padre? Que los hombres lo
 sepan: la muerte vive en la carne de los dioses: que en la carne se
 pudran... ¡No te vayas, padre: espera; espera, tatalay!...
 
-–¡Álzame en tu carne; y llévame!
+–¡Álzame en tu carne; y llévame! 
+
+<br>
 
 Saj, saj, saj, saj, saj...
 
+<br>
+
     * * *
 
- Oh, incendio de nubes: mi aventura ha terminado. También diré:
+Oh, incendio de nubes: mi aventura ha terminado. También diré:
 ¡adiós!... O hasta luego...
 
- No están.
+No están.
 
- Andar. Andar.
+Andar. Andar.
 
     * * *
 
@@ -16683,9 +15665,9 @@ por la tierra verde, no encontré más verdecidas amarguras. Allí, en el
 puño de roquedo hirsuto, estaban dos figuras de la muerte: el que por
 sus mendrugos iba; el que de sus mendrugos se nutría.
 
- –¡Mira, mira, esa música!
+–¡Mira, mira, esa música!
 
- He mirado tu música, Chullpa-tullu hermano. Y es de entonces
+He mirado tu música, Chullpa-tullu hermano. Y es de entonces
 que comprendo cómo en todo vértigo se debe hallar la música de la
 materia, que sólo ella es un estado musical; si sólo se la ve allí donde
 trajinan los gusanos. Hermano Chullpa-tullu: tus enloquecidas cuencas
@@ -16700,18 +15682,17 @@ que ejecutaba la música que se ve.
 A mi buen destino encarezco no borrar esta visión de mis oídos.
 Nada vi, ciertamente; mas sentí en los míos el dolor de los huesos de
 todos los osarios de la tierra. Ahilando sus podres en invisible rueca a
-
 mi lado le tenía, absortas las cuencas en visiones melódicas y que de su
 sequedad se salía sólo para decirnos en quejumbrosos acordes:
 
- –¡Una madrecita! ¡Búscame una madre!...
+–¡Una madrecita! ¡Búscame una madre!...
 
- Y eran tan dulces sus puses que, presto, me besaron las plantas,
+Y eran tan dulces sus puses que, presto, me besaron las plantas,
 trepáronseme, me abrazaron el torso, con mimo de brazo infantil
 arrolláronse a mi cuello y en tanto sentía en el rostro su afanoso
 respiro, con vocecilla de hilo de araña:
 
- –¿Me miras? –me decía– ¡Soy la música!
+–¿Me miras? –me decía– ¡Soy la música!
 
 Nada comparable a esa voz que ya comprendes la miel que
 enloquece a los muertos. Todavía, del ojo de buey, que magnéticas las
@@ -16720,21 +15701,21 @@ ofreciéndole zurrón de cuero viejo.
 
 –¡No lo pierdas! ¡No lo pierdas!
 
- Retenía aún la visión de esos taladrados huesos y de la extraña
+Retenía aún la visión de esos taladrados huesos y de la extraña
 melodía de su arrobo; y ya las cuencas miraban con aferradas falanges
 el zurrón que entre ellas palpitaba.
 
- A punto de desandar el camino y fatigado abandonar la cima
+A punto de desandar el camino y fatigado abandonar la cima
 fatigada, vi, oí, sentí, que el ojo de buey era sólo estallido solar en que
 el aire arde como el oro.
 
- –¡Mira; mira! –con desesperado acento me reclamaba–. Y vi dos
+–¡Mira; mira! –con desesperado acento me reclamaba–. Y vi dos
 lágrimas que le rompían el hueso y serpenteaban.
 
- Sarmiento de trinos me anegó; frufrú de alas me cegaba el
+Sarmiento de trinos me anegó; frufrú de alas me cegaba el
 aliento.
 
- –Pero ya sentí en el corazón al Chullpa-tullu, linfa láctea,
+–Pero ya sentí en el corazón al Chullpa-tullu, linfa láctea,
 germinal.
 
     * * *
@@ -16743,24 +15724,23 @@ Agobiado, quizá macilento, dirigí los pasos al límite de la
 oscuridad; e iba a llamar al granito del Palacio Sombrío, cuando, de
 boscaje de kheñwas, fría, descarnada mano, me detuvo.
 
- Último alegato –me dije– que me reserva el mundo de los
+Último alegato –me dije– que me reserva el mundo de los
 muertos, conforme a la profecía del Achachi-Hila.
 
 –Te he seguido sin descanso; pues no sé por qué imagino que
 eres magnánimo y habrás de comprenderme. ¿Verdad, también te trajo
 el deseo de él? ¡Con la ansiedad y esperanza con que vine!... Cuando
-
 sentí que el frío invadía mi cuerpo; que, poco a poco, en sueño
 inmenso me sumía; mi corazón estallaba de gozo: "¡Lo verás; ahora lo
 verás!"... Ah, chasco, hermano: aquí no estaba.
 
- ¿Cómo supo este infeliz que por Él vine –se decía mi
+¿Cómo supo este infeliz que por Él vine –se decía mi
 enloquecido desconcierto–; y cómo sabe que no está?
 
- –No te comprendo, hermano mío, ni te comprenderé si no me
+–No te comprendo, hermano mío, ni te comprenderé si no me
 dices a quién buscas.
 
- –Hermano: viví con la sed angustiosa de verle un día; y mi vida
+–Hermano: viví con la sed angustiosa de verle un día; y mi vida
 fue más que plegaria arrodillada.
 
 –Por caridad, hermano: ¿de quién hablas? Dílo.
@@ -16780,7 +15760,7 @@ Se cubrió el rostro y con atroz quejido se alejó de mi lado.
 Herido en la fibra más sensible de la fraternidad con el hombre,
 al verle alejarse, me dije:
 
- –Terrible punto final en el dintel del Chullpa-tullu.
+–Terrible punto final en el dintel del Chullpa-tullu.
 
     * * *
 
@@ -16798,13 +15778,13 @@ será mecha-chuwa que alimentaré todos los días con mi agradecimiento.
 –No te precipites, Khusillu –repuso, sonriendo–. Has visto y
 oído a los hombres; ahora es justo que te veas y oigas a ti mismo.
 
- No había madurado el sentido de tan cabalísticas expresiones; y
+No había madurado el sentido de tan cabalísticas expresiones; y
 ya vi en mi delante gentil esqueleto, que me alargaba las manos,
 diciéndome:
 
- –¡No te asombres; no estaré muerta!
+–¡No te asombres; no estaré muerta!
 
- Sí; la profecía del Achachi-Hila se ha cumplido. Pero ya el dulce
+Sí; la profecía del Achachi-Hila se ha cumplido. Pero ya el dulce
 esqueleto se había echado a mi cuello, y lloraba; lloraba mis lágrimas.
 ¿Cómo podré describir ese momento? Decir que el corazón bien podía
 detenerse, o que el cerebro estallaría, es apenas parte mínima del sismo
@@ -16812,7 +15792,7 @@ vital que me sacudía.
 
 Mas, muy tímida, me sonó la voz querida:
 
- –¡Tatay!...
+–¡Tatay!...
 
 Volvíme, electrizado; pues voz es la suya que no muere en mi
 corazón.
@@ -16831,17 +15811,17 @@ gemidos y lágrimas me permitieron articular palabra...
 Airecito de alas de colibrí me besaba la oreja y allí se desgranó su
 trino:
 
- –¡Piupiu-titit!
+–¡Piupiu-titit!
 
- De rodillas caí en los huesos de mi hijo; y como ellos no dejaban
+De rodillas caí en los huesos de mi hijo; y como ellos no dejaban
 de trinar, era yo una sola lágrima en su trino.
 
- –¡La Pacha-mama viene! ¡Viene la Pacha-mama!
+–¡La Pacha-mama viene! ¡Viene la Pacha-mama!
 
- Gritaron alborozadas las mujeres; y ya vi hermoso esqueleto
+Gritaron alborozadas las mujeres; y ya vi hermoso esqueleto
 avanzar por mi negro camino.
 
- Mi madre.
+Mi madre.
 
 Con Él en brazos, y de rodillas, arrastréme a su encuentro; y me
 tumbé a sus plantas, humedecí sus huellas y las besé. Besé sus huesos, y
@@ -16852,7 +15832,6 @@ arpegios.
 
 Ya no estaban solos. Por voluntad del Hiwa-Hila, viniendo de los
 viejos estratos, habían llegado mis ancestros. Y como uno el tuétano
-
 que nos une, saben que en él está nuestra sustancia; cadenciosos me
 hablaron y con su viejo abrazo avivaron mi fuego viejo. Dicharacheros
 de verme qué no les dijo de mi andanza la aterida mudez; y cómo de
@@ -16860,16 +15839,16 @@ trajinarme fue que esperaba encontrarles...
 
 Pero, de pronto, vibró sedeña la voz del Inka.
 
- –¡Khusillu: te buscan!
+–¡Khusillu: te buscan!
 
 Sacudido, volvíme:
 
 –¿Quién?
 
- Cerca al noble dignatario, abría los brazos en cruz un venerable
+Cerca al noble dignatario, abría los brazos en cruz un venerable
 anciano.
 
- –¡Hijo mío!
+–¡Hijo mío!
 
 He aquí que los testarazos del ciclón habían trozado al más noble
 y añoso roble de mi kharkha. ¡Mi padre! Besé sus pies y los lloré. ¿En
@@ -16913,26 +15892,23 @@ Andar. Andar.
 
 La aurora de sus trinos ha vestido el camino.
 
+<br>
+
 Saj, saj, saj, saj...
+
+<br>
 
 # LOS SAPOS NENGROS
 
-–No tardes: propónla –repuso–: ¿qué no haré
-para salvarle?
+>–No tardes: propónla –repuso–: ¿qué no haré para salvarle? \
+>–Tu hijo está enfermo de amor; y morirá porque es a mi mujer a quien ama. \
+>–Si consintieras en satisfacerle te ganarías toda mi voluntad... \
+>–¿Tánto es tu cariño? Pues el remedio le tienes a la mano:
+dale a tu joven mujer, que es de ella de quien está enamorado. \
 
- –Tu hijo está enfermo de amor; y morirá porque
-es a mi mujer a quien ama.
+>*Eraristrato de Ceos* \
 
- –Si consintieras en satisfacerle te ganarías toda
-mi voluntad...
-
-–¿Tánto es tu cariño? Pues el remedio le tienes a
-la mano: dale a tu joven mujer, que es de ella de quien
-está enamorado.
-
-Eraristrato de Ceos
-
-Y el Rey se la dio.
+>Y el Rey se la dio. 
 
 ¡Padre!
 
@@ -16960,7 +15936,11 @@ Dulcemente acúname la mano:
 
 Comprendo de quién se halla enamorado. ¡Padre!
 
+<br>
+
 (Fijo, mi fijo, estoy).
+
+<br>
 
 –Claro... Así tenía que ser...
 
@@ -16975,11 +15955,15 @@ Dispónense a darme valor.
 (–Quién, o quiénes, pelean por acogotarte? ¿qué esmeril en el aire
 afila el puñal y afila los pañuelos?)
 
- Mira a mis ojos:
+Mira a mis ojos:
 
- –¡Me importa bledo tu valor!
+–¡Me importa bledo tu valor!
 
- Fijo, mi fijo, estoy.
+<br>
+
+Fijo, mi fijo, estoy.
+
+<br>
 
 –¿Los bledos de Kanidia te importan bledo?
 
@@ -17032,23 +16016,16 @@ en cuatro cuatrereando van el cristiano, el bhudista, el mormón, el
 anofele, la espiroqueta y la manopla de la mano que manipula la
 manija.
 
-HARUÑA
+### HARUÑA
 
-Qué bestia,
-
-bestia...
-
-¿En la haruña
-
-de qué pecado
-
-a crucificarte
-
-mi alma
-
-bestia
-
-vino?...
+> Qué bestia, \
+> bestia... \
+> ¿En la haruña \
+> de qué pecado \
+> a crucificarte \
+> mi alma \
+> bestia \
+> vino?... 
 
 De este ángulo; de aquel ángulo; del otrito ángulo. Del ángulo, de
 la anguila, la animula, la mulina. De éste, de aquél, del otrito, los
@@ -17103,29 +16080,23 @@ De la camita su respiración llega cansadita.
 ¡Me invitaron!... ¡Karrajuska!... Una mujercita invitada... Mi furor
 se desforra.
 
- –¡Ajo!... Digo, ¡Aja!... Ja, ja, ja...
+–¡Ajo!... Digo, ¡Aja!... Ja, ja, ja...
 
- –Jesús, diga usté. ¿Así se trata a la gente?
+–Jesús, diga usté. ¿Así se trata a la gente?
 
- –¡Invite!... Evita mi envite, thermita... Invite; cuando el niño se
+–¡Invite!... Evita mi envite, thermita... Invite; cuando el niño se
 muere... Sea usted quién sea, perdone: busque otra puerta. Y repita
 para su coleto: ¡No he sido invitada; y, allí, dentro, hay quien envita!...
 
- TOKAÑA
+### TOKAÑA
 
-Majadera que vienes
-
-a enverar las uvas
-
-y las úvulas.
-
-Cuando oliveáceas
-
-las úvulas
-
-están maduras
-
-en tu uva...
+> Majadera que vienes \
+> a enverar las uvas \
+> y las úvulas. \
+> Cuando oliveáceas \
+> las úvulas \
+> están maduras \
+> en tu uva... 
 
 ¡Cuánta, fijo, razón el enquiridón de Memnón!... El beso de esa
 vampiresa (haz la cruz) reza pus: sarna; sarna karka... (Malhaya este
@@ -17144,28 +16115,23 @@ Bramo. Bramo. Bramo.
 
 ¿Ja?... ¡Hid... ji, jijiji... ki-ki-ki!...
 
-AMAYA TOKAÑA
+### AMAYA TOKAÑA
 
-Su estertor aúlla.
+> Su estertor aúlla. \
+> ¡Puñuska llaktapi \
+> hatun khapari!... \
+> Un grito inmenso \
+> el del Sapo Nenglo \
+> en la ciudad deicida. \
 
-¡Puñuska llaktapi
-
-hatun khapari!...
-
-Un grito inmenso
-
-el del Sapo Nenglo
-
-en la ciudad deicida.
-
-–¡No te vayas, guaguay!... Guaguaguitititititiiti...
+–¡No te vayas, guaguay!... Guaguaguitititititi,i,ti...
 
 Estricnina a la vena; pronto: ¡estricnina!... El líquido no quiere; se
 atora; no puede: no le da la gana...
 
 Eraristrato:
 
- –¡Hum!... Escoge; que lo que al chico hace, no te angustie:
+–¡Hum!... Escoge; que lo que al chico hace, no te angustie:
 ¡parece muerto!... Acaso, si te dejas... En fin... Te dejo un gran trejo: mi
 colega Renacuajo: ¡qué doctorajo!...
 
@@ -17200,13 +16166,13 @@ Menea, anejas, las espléndidas orejas.
 que me mustia de tu angustia el torzón, mi Follón!... ¿Mas, qué queres,
 si hay mujeres? No te queda más renuevo que pararlo de a de nuevo.
 
- –¡Que te rajo, Renacuajo!... ¡Largo, presto; o te resto, perdulario,
+–¡Que te rajo, Renacuajo!... ¡Largo, presto; o te resto, perdulario,
 el honorario!... Como agita y cogita con herraje, rumia ollejo el pollinejo, y medita con el ego del espliego:
 
- (–Sí, acaso; acaso sí. Si un chuzazo bastó a Dios y a los dos... En
+(–Sí, acaso; acaso sí. Si un chuzazo bastó a Dios y a los dos... En
 fin; probaremos con la Nada, que es afín).
 
- Y, severo, encárame:
+Y, severo, encárame:
 
 –A la mesa la carta ésa. Venga acá, formidine, tu pezón. De
 menso pienso hizo Dios al Mamón. Si el recurso sale incurso, tienes,
@@ -17222,12 +16188,11 @@ Ya no ijadas y menos carcajadas.
 –¡Qué recuajo, Renacuajo! ¿Teminaste la Saggaste? Réuma neta,
 nmeumonata; valeroso terapeuta terra-mata: embutir terremoto y
 maremoto de un cadáver en el otro; pues siente nada con la prueba tu
-cliente. Que Mu–smé o Dios se traguen tu parné: si hay museta
+cliente. Que Musmé o Dios se traguen tu parné: si hay museta
 musagueta que te sufra la pipeta... Renacuajo, que nó yo: no me
 perdonaré haberte perdonado. Mas confío que las vírgenes impolutas,
-
-insolutas, te perdonen disolutas: que podrán si se abajan el holán. Pero
-baste tu ¡tlan!, ¡tlan!; que poética es emética.
+insolutas, te perdonen disolutas: que podrán si se abajan el holán.
+Pero baste tu ¡tlan!, ¡tlan!; que poética es emética.
 
 Estornuda.
 
@@ -17322,7 +16287,7 @@ La grito:
 –¡No, no, a los Sapos Nenglos! ¡Chunkitoy: no te los comas a sus
 Sapos Nenglitos!
 
- Por el goce medio; medio por el miedo, el riuriu del viento me
+Por el goce medio; medio por el miedo, el riuriu del viento me
 aserrucha los ojos.
 
 –¡Chunkituy!
@@ -17375,13 +16340,17 @@ Si están llorándose los Sapos...
 
 –Dime, no más, guaguay: ¿quién es esa cochina?
 
- –¿Cuál china?
+–¿Cuál china?
 
 –La que te está mamando, hina, pues.
 
 –¿A mí?...
 
+<br>
+
 Oh, mi lepla loca: el muelto soy yo.
+
+<br>
 
     * * *
 
@@ -17410,22 +16379,22 @@ era, pué, el nengro, y su animalito el sapo nengro?
 –Yaa. También era tiempo no más de que se fuera: estaba muy
 flaco y se apestaba su Chullpa-tullu...
 
- –Las pobres macetitas de clavelinas, decí más bien. ¡Pobre
+–Las pobres macetitas de clavelinas, decí más bien. ¡Pobre
 werakhocha! Buenito nomás era. Quién se lo estará mirando...
 
 –¿Han oído? Dicen que se ha de salir de su entierro...
 
- –Nii... Quién nomás... Más mejor, de las cantáridas, no dicen, pué
+–Nii... Quién nomás... Más mejor, de las cantáridas, no dicen, pué
 que con ellas habiá enloquecido a tantas tawakus y con ellas la hechizó
 a la Mistusita?
 
- –La pogre se llora como si la estuvieran sacando una tripa nengra
+–La pogre se llora como si la estuvieran sacando una tripa nengra
 de su resuello...
 
- –Jajaillas... Cuándo, pué: Ji, ji, ji... Será la tripa nengra del
+–Jajaillas... Cuándo, pué: Ji, ji, ji... Será la tripa nengra del
 difunto... ¡Jesús, Jesús: pogre alma bendita!...
 
- –Ay, que nos perdone... Pero, bien imillero nomás también era. Y
+–Ay, que nos perdone... Pero, bien imillero nomás también era. Y
 la sonsa de la Mistusa ni quiría que se lo hablaran de su werakhocha...
 
 –Ampe: no digas así: es pecado. Se lo rezaremos más bien.
@@ -17448,9 +16417,9 @@ Pero, quienes fueran, el runrún me llegaba como a través de un muro.
 
     * * *
 
-–No mi fastirias, Pablito: voy visare mi werakhocha...
+–No mi fastirias, Palito: voy visare mi werakhocha...
 
- ¿Qué? ¿La voz de la Mistusita? ¿Y quién me la fastiria? ¿Pablito?
+¿Qué? ¿La voz de la Mistusita? ¿Y quién me la fastiria? ¿Pablito?
 ¿El cochino ése?... Me iba a levantar a castigar al cochino... Pero: ¡guá!...
 Siempre más mejor hacéte el sonso...
 
@@ -17517,26 +16486,21 @@ Pitita. Probátelo: es un mazo de chancaca guagüita... Pero, mama Pitita:
 ¿qué veo? ¿Soy yo la guagua?... ¿Con qué derecho me lo hacen así a mi
 guagua?...
 
- AMAYA TOKOÑA
+### AMAYA TOKOÑA
 
-–¡Kunas, kaukisa, tatani!
-
-–¿Por qué te mientes,
-
-mama Pitita?
-
-–¡Kunas, kaukisa, mamani!
-
-–¿Por qué, así, mamay,
-
-a tu águila lo engañas?
+> –¡Kunas, kaukisa, tatani! \
+> –¿Por qué te mientes, \
+> mama Pitita? \
+> –¡Kunas, kaukisa, mamani! \
+> –¿Por qué, así, mamay, \
+> a tu águila lo engañas? 
 
 La mamala que me crió; crió la guagua, y hubiese criado a mis
 nietos. Pero, ya veo: no tendré nietos.
 
 –¡Que sea así, nomás, padres!... ¡Que así, pues, sea, águilas!...
 
- Ante lo inevitable se cree resignada la viejita; y desea que a los
+Ante lo inevitable se cree resignada la viejita; y desea que a los
 tatas y a las mamas la resignación se les acurruque en el rinconcito más
 tibio de la khoncha. ¿De mí? Niii... Viejita querida: ¿no sabes que es a
 mí a quien anonada este golpe?
@@ -17547,63 +16511,45 @@ coqueado, con modos de khaswa, entre chispeos solares, las vocesillas
 lloronas, revoleos de ponchos, phullus y los encandilados ojos sin
 consuelo...
 
- –¡Ay, ayayay, papay, papay!...
+–¡Ay, ayayay, papay, papay!...
 
-AMAYALI DEL INKA
+### AMAYALI DEL INKA
 
-Cómo tánto te lo querías,
+> Cómo tánto te lo querías, \
+> ¡ay, ayayay, papay, papay!, \
+> a éste tu achachi-guagua.
 
-¡ay, ayayay, papay, papay!,
+> ¡Papay! ¡Papay! ¡Papay!
 
-a éste tu achachi-guagua.
+> Si no eras mi werakhocha; \
+> mi sapito nengro eras. \
+> Cuando la estrella en el lago \
+> khaswando nos desperaba; \
+> con sabores tu olla hervía \
+> y en ella sapitos nengros \
+> para tus wakchus augabas.
 
-¡Papay! ¡Papay! ¡Papay!
+> ¡Ay, ayayay, papay, papay! \
+> Cómo tánto te lo querías \
+> a éste tu achachi-guagua.
 
-Si no eras mi werakhocha;
+> ¿Quién, cuando la pena amargue, \
+> aurimelo hará su boca? \
+> ¿Quién la agüita del pilón \
+> dejará que corra miskhi? \
+> ¡Papay! ¡Papay! ¡Papay! \
+> Si miskhis tu labio era; \
+> tu mano no maltrataba.
 
-mi sapito nengro eras.
+> ¡Ay, ayayay, papay, papay!
 
-Cuando la estrella en el lago
+> Cómo tánto te lo querías \
+> a éste tu achachi-guagua.
 
-khaswando nos desperaba;
+> ¡Ay, ayayay, papay, papay!
 
-con sabores tu olla hervía
-
-y en ella sapitos nengros
-
-para tus wakchus augabas.
-
-¡Ay, ayayay, papay, papay!
-
-Cómo tánto te lo querías
-
-a éste tu achachi-guagua.
-
-¿Quién, cuando la pena amargue,
-
-aurimelo hará su boca?
-
-¿Quién la agüita del pilón
-
-dejará que corra miskhi?
-
-¡Papay! ¡Papay! ¡Papay!
-
-Si miskhis tu labio era;
-
-tu mano no maltrataba.
-
-¡Ay, ayayay, papay, papay!
-
-Cómo tánto te lo querías
-
-a éste tu achachi-guagua.
-
-¡Ay, ayayay, papay, papay!
-
-Andáte pues por delante;
-
-por tu atrás tus sapos van.
+> Andáte pues por delante; \
+> por tu atrás tus sapos van. 
 
 Wiphando sus ¡ayayaes!, biscos de chispos, los chacareros de mi
 cobriza tierra son más que parvada de kunturis que por no saber
@@ -17623,7 +16569,7 @@ mejor, Khusillu...
 
 III
 
- ¡Tok! ¡Tok! ¡Tok!... Viene ya. Sombra macabra se proyecta y sus
+¡Tok! ¡Tok! ¡Tok!... Viene ya. Sombra macabra se proyecta y sus
 temibles zancajazos estremecen la tierra.
 
 La tumba está abierta.
@@ -17644,7 +16590,7 @@ Renacuajo quiere el tajo.
 
 –¡Khawray: un dosel digno de él!...
 
- Arrían el cuerpo de la guagua. No sé si como a suspiro de azúcar
+Arrían el cuerpo de la guagua. No sé si como a suspiro de azúcar
 le depositan en el fondo de mi llaga, que al sentir el dulce cuelpito
 expilo aile de khaliwa, y con ese ailesito de mi corazón se escapan mis
 foscas hediondeces. Pero iban ya a taquear la tierra sobre Él, cuando el
@@ -17657,7 +16603,7 @@ guagua: ¡Tok!...
 
 Ya está acá: ¡Tok! ¡Tok! ¡Tok!
 
- La bestia degollada patalea un instante, se contorsiona en el aire,
+La bestia degollada patalea un instante, se contorsiona en el aire,
 y va a dar al suelo ya; pero con violento pechazo impelen el corpachón
 lanudo... ¡Tok! ¡Tok!¡Tok!...
 
@@ -17690,16 +16636,16 @@ Con el negro rebozo mama Pitita cubre sus canas, y de hinojos,
 frente al florecido sepulcro, de quien retoña cruz, cruz de pobre: dos
 espinas abiertas al cielo, dice con lacrimoso acento:
 
- –Que lleves buen camino, alma bendita... Que nuestro Anchancho te proteja... Que los lakhatos no te coman... Que el viaje te sea
+–Que lleves buen camino, alma bendita... Que nuestro Anchancho te proteja... Que los lakhatos no te coman... Que el viaje te sea
 fácil...
 
 Para que en el largo camino hacia la sombra no sufrieran del
 hambre de los indios, junto al muerto y su vigía dejaron haz de cebada,
 akulliku en chuspa nueva, khispiña, khancha, sal, asukara.
 
- Se marchan.
+Se marchan.
 
- Qué fortuna: se marcharon sin verme. Así puedo permanecer
+Qué fortuna: se marcharon sin verme. Así puedo permanecer
 frente a Él; velarle el sueño; compartir su pancito agusanado, el silencio
 pobre, la soledad sin olla... Me postro frente al sepulcro; fatigada
 inclino la cabeza; y aunque la siento tumor que late, se enmaraña en un
@@ -17732,28 +16678,28 @@ Ocho días.
 Quema el Sol en mitad de sus caminos. Y he aquí mama Pitita y
 mi pobre mujer vieja: cargaron con las florecitas de las macetas.
 
- Tan abatida Mistusita puede ya ni sostenerse; que acudo y la
+Tan abatida Mistusita puede ya ni sostenerse; que acudo y la
 arrullo con lo más dulce de mi aire:
 
- –¿A qué vienes, Mistusita? ¿No sabes que cuido de Él?
+–¿A qué vienes, Mistusita? ¿No sabes que cuido de Él?
 
- Cómo está deshecho ese dulce corazón. Mistusita no me oye; el
+Cómo está deshecho ese dulce corazón. Mistusita no me oye; el
 llanto alborota sus ojos, que tampoco puede verme.
 
- ¡Su único llokhallo: pobre!
+¡Su único llokhallo: pobre!
 
- Quiero hacerla saber cómo nomás me mantuve aquí, cuidándole,
+Quiero hacerla saber cómo nomás me mantuve aquí, cuidándole,
 sin dormir; pero llora a gritos y se derriba en la tumba de mi alma...
 ¡Tok! ¡Tok! ¡Tok!... Ay, el corazón se me cae: ¡tok!... Mama Pitita, no
 menos desolada, se ahoga en su llanto: si era como su hijo. Seca la
 garganta, asfixiándome con mirarlas las lloro. ¡Mama Pitita!
 
- (¿Y ésto qué es, pues, ahura? Karrajuska: el diablo genésico se me
+(¿Y ésto qué es, pues, ahura? Karrajuska: el diablo genésico se me
 encabrita).
 
- Buena hora: se van. Esta visita me iba a matar.
+Buena hora: se van. Esta visita me iba a matar.
 
- No tardan Pablito y sus dos hijos trayendo enormes atados. Y
+No tardan Pablito y sus dos hijos trayendo enormes atados. Y
 son ropas, camas, libros, papeles, tonterías que uno guarda. Y hecho
 montón les prenden fuego. Pronto se levantan llamaradas que rugen y
 apestan. Se queman zapatos; se queman sapos; se queman trastos. La
@@ -17773,15 +16719,15 @@ alma; la otra, nuestras cositas, nuestros trastos: en ellas se quedaría la
 otra a llorar. De la guagua cosa reservan; a no ser su recuerdo. Y su
 recuerdo, es mío, mío; dentro mi hueso está y es para mi hueso.
 
- Finalmente, cenizas quemantes, que un rato laten, resuellan otro
+Finalmente, cenizas quemantes, que un rato laten, resuellan otro
 en el rescoldo y, luego, nada... El viento.
 
- Me hurto a los Pablitos; que buenamente de verme pretenderían
+Me hurto a los Pablitos; que buenamente de verme pretenderían
 cargar conmigo. Y yo a casa volveré; si he de volver...
 
- (¡Achalau!; qué frío...)
+(¡Achalau!; qué frío...)
 
- No volveré a trajinar con las pulgas, los ratones; mirando a diario
+No volveré a trajinar con las pulgas, los ratones; mirando a diario
 mis sapos en las paredes; mi rostro en todas partes; mi sombra de su
 cuenta; mi voz gritando en silencio; mis ojos a rastras de otros ojos,
 deslizándose en mis libros, en mis papeles, en mis pestañas; mi corazón
@@ -17791,7 +16737,7 @@ me hable me asiste y me viste...
 
 (¡Achalau!; qué frío...)
 
- No volveré a que me dejen con la mano estirada; sin que nadie se
+No volveré a que me dejen con la mano estirada; sin que nadie se
 acomida a mirarme, a oirme, a sentirme; que pregunten por mí y luego
 se hagan los que no me ven; o que me lloren cuando podían darme de
 comer; que me suspiren para hacerme llorar y no se dignen limpiarme
@@ -17806,7 +16752,7 @@ sobre mis ojos taconee... ¡Achalau!; qué frío...
 
 Se han ido.
 
- Enorme disco de cobre riela la Paksi-mama; su reguero de
+Enorme disco de cobre riela la Paksi-mama; su reguero de
 champis inkaikos tiene temblores siniestros. Brillan las primeras
 estrellas. ¡Achalau! Hace frío de tumba. Cuajarones de sangre son los
 últimos arreboles en la cumbre del Kancharani.
@@ -17849,7 +16795,7 @@ wayrurus...
 
 Crispaturas de luz y alas el aire; crispaturas de frío filo el viento.
 
- En todo hay gimoteo y temblor. El suelo está empavorecido y las
+En todo hay gimoteo y temblor. El suelo está empavorecido y las
 nubes se revuelcan. Cintilan, una estrella, dos, y luego son devoradas
 por las tétricas masas. En carrera desenfrenada, el fanal de la Paksi
 escapa de una para hundirse en otra marejadas de tenebrosos cúmulos.
@@ -17877,7 +16823,7 @@ linternazos de luna se encienden y apagan; el suelo se crispa bajo mis
 plantas... Y yo solo... Sopla vendaval seboso... Se oyen alaridos,
 estertores, quejas...
 
- Ya las campanas no doblan: tiritan:
+Ya las campanas no doblan: tiritan:
 
 –¡Achalaulaulauláu!...
 
@@ -17924,7 +16870,11 @@ comienzo a elevarme. Las campanas siguen doblando y llorando.
 
 Ya lo sé: los Chiñis me arrojan y las campanas tocan a muerto.
 
+<br>
+
 El mueltito soy yo.
+
+<br>
 
     * * *
 
@@ -17942,49 +16892,35 @@ Bramo.
 
 ### AMAYALI
 
-¿Adónde, bestia, arrastras.
+> ¿Adónde, bestia, arrastras. \
+> la carnaza del Diablo? \
+> Destruir no pretendas \
+> el nidal de mi trino; \
+> un sino obedezcas \
+> para el cual no se hizo \
+> la carne.
 
-la carnaza del Diablo?
+> ¡No hales su ala!
 
-Destruir no pretendas
+> Aún su tierra le ama \
+> y Él ama a su tierra. \
+> En su tierra se esponja \
+> mi lonja; el zurrón \
+> de sus trinos se esponja.
 
-el nidal de mi trino;
+> (¡Kiii! ¡Kikikikikikikí!) 
 
-un sino obedezcas
+> Mamífero astral: ¿adónde \
+> arrastras mi guagua \
+> y su ala y su trino? 
 
-para el cual no se hizo
+> (¡Kiii! ¡Kikikikikikiki! 
 
-la carne.
+> En la chuklla su trino \
+> adivino; de mi chullpa \
+> se alzará su canción. 
 
-¡No hales su ala!
-
-Aún su tierra le ama
-
-y Él ama a su tierra.
-
-En su tierra se esponja
-
-mi lonja; el zurrón
-
-de sus trinos se esponja.
-
-(¡Kiii! ¡Kikikikikikikí!)
-
-Mamífero astral: ¿adónde
-
-arrastras mi guagua
-
-y su ala y su trino?
-
-(¡Kiii! ¡Kikikikikikiki!
-
-En la chuklla su trino
-
-adivino; de mi chullpa
-
-se alzará su canción.
-
-¡Piupiupiupiupiu-titit!
+> ¡Piupiupiupiupiu-titit!
 
 Ollarea la cuadriga del viento. Mama Paksi ha desaparecido; la
 tierra no veo. Entramos al seno de oscuridad sin molécula. Pólipos
@@ -17995,12 +16931,12 @@ auquénido cuyos ojos fulguran en los humazones de la Vía Láctea, me
 conduce a la tierra de arriba, donde los que mueren son condenados a
 vivir.
 
- La vida se ha concentrado en un punto y en él enloquece lujuria
+La vida se ha concentrado en un punto y en él enloquece lujuria
 de trino cristalino.
 
- –Piupiutititpiupiutititpiupiutitit...
+–Piupiutititpiupiutititpiupiutitit...
 
-¿Hénos en los ignotos viaductos que de la Chinkhana de
+¿Henos en los ignotos viaductos que de la Chinkhana de
 Waksapata se dirigen al centro de la tierra, allí donde no inverna Chiñi,
 Lakhato labra; Allkhamari anida? Si cabe oscuridad, es la oscuridad en
 sí. Ruido, no: zumbido al vacío. Túnel sin comienzo y con finalidad.
@@ -18017,7 +16953,7 @@ detendrá ¡Padre! ¡Padre! No es una idea ya: es cosa; ¡kosa! ¿Ya? ¿Ya?
 
 ¡Padre!
 
- No es una idea ya. Pero soy yo quien cocina la cocina; yo quien la
+No es una idea ya. Pero soy yo quien cocina la cocina; yo quien la
 cuese; yo quien la escuese; yo quien la cose; yo quien... Hiervo vivito en
 sus trinos; vivito hierve el Sapo Nenglito en la olla del Laykha. Y
 aunque soy la Angustia con mayúscula no sé de la angustia minúscula.
@@ -18030,7 +16966,7 @@ barbas desde adentro.
 
 –¡No vayas!
 
- Y tiran de la soga; tiran de los pies. Uno, dos, tres: ¡hip!
+Y tiran de la soga; tiran de los pies. Uno, dos, tres: ¡hip!
 Unodostres-unodostres: ¡hiphiphip!... Chasss... Unos me tiran de los
 ojos; otros me tiran de los ajos...
 
@@ -18054,7 +16990,7 @@ Me descoyunta el forcejeo; y grito:
 
 –¡Ingá!... ¡Inká! ¡Inká! ¡Inká!...
 
- Acuchillan el intestino de ese túnel; y entra luz en chorro
+Acuchillan el intestino de ese túnel; y entra luz en chorro
 fragoroso: ¡Padre! ¡Padre! Chaksus de miel; chaksus de lodo: luz y
 sombra. Lejos, colude la paralela y estalla sin luz en otra luz... ¡Padre!
 
@@ -18067,14 +17003,15 @@ Han parido Hokhollos.
 
 –¡Inká! ¡Inká!
 
- Ahurasí, ahurasí: al Hokhollo del Sapo Nenglito; han parido al
-Hokhollo. Estoy nayana; soy ya naya... Desvertebrado atravieso la velocidad en sí con la necesidad en mí que de sí tiene la velocidad. Se
+Ahurasí, ahurasí: al Hokhollo del Sapo Nenglito; han parido al
+Hokhollo. Estoy nayana; soy ya naya... Desvertebrado atravieso la
+velocidad en sí con la necesidad en mí que de sí tiene la velocidad. Se
 detiene el Khawra y pisamos el Infierno. ¿Nube que mana maná?
 Tierra sólida: la tierra de nubes de Mama-Okllo... Pero; ya no sé de
 vuelta... Avanza el Khawra y le sigo. He aquí ante mi asombrado ojo la
 tierra que es caminito de las almas: Khana-taki.
 
- El Khawra se inflama y veo su largo pescuezo entre los abismos
+El Khawra se inflama y veo su largo pescuezo entre los abismos
 astrales y sus ojos laykhas que centellean.
 
 –¡Khawra! ¡Khawra!...
@@ -18085,7 +17022,7 @@ Se abre el vacío; y caigo.
 
 Y caigoynocaigocaigoynocaigoynocaigoguagüitaytugritomigritito..
 
- –¡Hijo! ¡Hijo!
+–¡Hijo! ¡Hijo!
 
 Estallo. ¿Dónde?
 
@@ -18113,7 +17050,7 @@ basta: el recuerdo del oxígeno puede ser sino oxígeno.
 
 No aspira, no instila, no respira, no expira. Pero es pira. ¡Padre!
 
- Ya no le veo; que el viento nos arrastra. ¡Padre! ¿Le vi? ¿En el
+Ya no le veo; que el viento nos arrastra. ¡Padre! ¿Le vi? ¿En el
 mundo? Qué no pesar pensar. ¿Soy el Todo del mundo y el Mundo
 está en el Todo? Me palpo impalpable. Soy el Éter que impalpable se
 palpa. No hay remedio: no me sé y soy. Y tanto, que si no en dos, en
@@ -18159,8 +17096,8 @@ en tu prójimo. No te creas en los providenciales del rebenque: lo que
 no es masa no existe. La única posibilidad que tiene Dios de existir es
 que se aposente en mis talones. Cuando eje se es, se es masa. En masa
 soy organismo; en masa procreo; en masa soy espacio; en masa soy
-habitud de forma. La unidad es igual masa; y es ella la utilitaria. Así eres
-la masa útil.
+habitud de forma. La unidad es igual masa; y es ella la utilitaria. Así
+eres la masa útil.
 
 –¡Hijo! ¡Hijo!
 
@@ -18204,7 +17141,7 @@ Khori-Challwa.
 Ego: tú-multo. No puede Él morir en Mí; si soy Él y Él es en mí.
 Si muere, me le como; si muero, me come. Eso tú-multo.
 
- Tú eres Naya. Masa: Vida.
+Tú eres Naya. Masa: Vida.
 
     * * *
 
@@ -18214,12 +17151,12 @@ Yo, a ratos, Él, en frecuencia, somos arrebatados a estado de
 langor en que la vitalidad parece adormecerse. Mi deber despertarle y
 obligarle a salir de mí y del Puma.
 
- En toda célula debe funcionar una matriz; si funciona la vida. La
+En toda célula debe funcionar una matriz; si funciona la vida. La
 nuestra se agita urgida por el parto.
 
- –¡Le despertaré!
+–¡Le despertaré!
 
- Antes despierte yo; si buena o malamente acaso duerma y sueñe.
+Antes despierte yo; si buena o malamente acaso duerma y sueñe.
 Algo fragua: ¡Padre! No estoy estando; no vigilio en vigilia; mas le
 vigilo vigile. ¿Sueño vivo en feto muerto? ¿Feto vivo en sueño muerto?
 Me disgrega fuga de proximidades.
@@ -18273,7 +17210,7 @@ patético resuello hace oro al lloro.
 
 –¡Inká! ¡Inká!
 
-Khori-kancha: oro, oro puro, a 40°
+Khori-kancha: oro, oro puro, a 40°.
 
 –¡Kiii! ¡Kiskiskiskiskis!
 
@@ -18305,10 +17242,10 @@ Oigo sebo; oigo lágrimas; oigo sudor vengador.
 Habla la tierra muda. El Sol se arroba con aromas de la mamaja.
 Mis células se inflaman; tibieza me traspasa; humedad me penetra.
 
- Tiembla Él; se esponja; concentra las formas de EL PEZ DE
+Tiembla Él; se esponja; concentra las formas de EL PEZ DE
 ORO. Irradíole angustia; y hace gorgoritos:
 
- –¡Padle! ¡Padle!
+–¡Padle! ¡Padle!
 
 La temperatura se dirige a la medida. Tierra soy. Sólo "yo" es Ella
 en Él. La flor perfuma en mí; el viento ruge en mí; el pantano es
@@ -18330,7 +17267,7 @@ le amurallo. Rotamos en vértigo.
 
 Renacuajo, tu trabajo:
 
-(–"Haya muesca que habrá naya").
+(–«Haya muesca que habrá naya»).
 
 –¡Kiii! ¡Kikikikiki!
 
@@ -18347,31 +17284,23 @@ Mi germen le punge: ¡dolor!, ¡dolor! Tic, tac, tic, tac...
 
     * * *
 
- He aquí el común bombardeo geminal. Me particulariza con
+He aquí el común bombardeo geminal. Me particulariza con
 punciones que me arrebolan, fecundan y nutren; me siento prolífico.
 
- Renacuajo, el latinajo.
+Renacuajo, el latinajo.
 
- (–"Mi yema se abre llema; y a la hora que Flora se desflora, su
+(–"Mi yema se abre llema; y a la hora que Flora se desflora, su
 llema se hará yema").
 
-Avituallado para el destino, de la llema saldrán árboles.
-
-Le daré la bondad del fruto;
-
-el candor del perfume;
-
-la melífuga del trino;
-
-la unidad molecular de la roca;
-
-el genio de la nube;
-
-el tú-multo del viento;
-
-la genésica del agua;
-
-la gracia sonora del vuelo.
+> Avituallado para el destino, de la llema saldrán árboles. \
+> Le daré la bondad del fruto; \
+> el candor del perfume; \
+> la melífuga del trino; \
+> la unidad molecular de la roca; \
+> el genio de la nube; \
+> el tú-multo del viento; \
+> la genésica del agua; \
+> la gracia sonora del vuelo. 
 
 Áurea burbuja, EL PEZ DE ORO ha insurgido; y es lo mío que
 esplende.
@@ -18394,44 +17323,36 @@ matinal lácteo látex.
 
 Quiero oir el gorjeo inefable:
 
- –¡Inká! ¡Inká!...
+–¡Inká! ¡Inká!...
 
- O el viejo alarido de la piedra.
+O el viejo alarido de la piedra.
 
     * * *
 
-La urna maternal se ha fraccionado y de ella se desprende
-nubecilla microscópica de astros.
+> La urna maternal se ha fraccionado y de ella se desprende nubecilla
+microscópica de astros. \
+> Succiona, amorosa, la tierra. \
+> Le arrastro. \
+> Soy ariete que rompe la capa oscura. \
+> Penetro un mar sin fondo; \
+> penetro un pelícano sin fondo; \
+> penetro un relincho sin fondo. \
+> Grado a grado le penetro y me penetra. 
 
-Succiona, amorosa, la tierra.
-
-Le arrastro.
-
-Soy ariete que rompe la capa oscura.
-
-Penetro un mar sin fondo;
-
-penetro un pelícano sin fondo;
-
-penetro un relincho sin fondo.
-
-Grado a grado le penetro y me penetra.
-
- No puedo escurrir la dentellada de famélicas tenazas; aferran mis
+No puedo escurrir la dentellada de famélicas tenazas; aferran mis
 neuronas y ordéñanles el piro-lácteo-látex.
 
- –¡Kiii! ¡Kiskiskiskis!
+–¡Kiii! ¡Kiskiskiskis!
 
- Son larvas de sus Sapos Nenglitos. Caigo sobre ellas con las
+Son larvas de sus Sapos Nenglitos. Caigo sobre ellas con las
 cuatro manos del antropoide y las arrojo en blancos hectoplasmas a sus
 arterias.
 
- –¡Kiii! ¡Kiskiskiskiskis!
+–¡Kiii! ¡Kiskiskiskiskis!
 
- Volveré al seno de la tierra; pero Él será el Emperador del
-Palacio de Oro.
+Volveré al seno de la tierra; pero Él será el Emperador del Palacio de Oro.
 
- La velocidad es el peso de la necesidad.
+La velocidad es el peso de la necesidad.
 
     * * *
 
@@ -18451,7 +17372,6 @@ en mí la Bestia despide fuegos metálicos. Todo se confunde en fragor
 de vientos encontrados; espanto de alas, de colmillos, de acerados
 picos. Ansiedad famélica agita el abdomen sin paredes. Que venzamos
 la muralla sin destruirlas constituye para esas fuerzas reguladoras
-
 violación de las normas. En cada corpúsculo de forma deben ser
 sometidas. Es un vórtice de cóleras; eruptos sulfurosos de volcanes
 ignotos; géiseres que arrastran la materia licuificada del cadáver en
@@ -18492,18 +17412,17 @@ aves carniceras. Se dirigen ya a suprimir la microscópica gema geminal,
 coágulo de oro en la inmensidad sombría. Centellea la Bestia mítica.
 EL PEZ DE ORO rompe el encierro felino y esplende. Contra Él se
 dirige ese aluvión desatado. El áureo resplandor incinera y torna glauca
-
 la tiniebla. Manadas de chacales que azota el rayo, huyen, rechinando el
 diente. Soportan en el anca el castigo del esplendor lacustre. Mas,
 presto, de la inmensidad se vomitan en masas de un humo letal que
 anega la concavidad. EL PEZ DE ORO, perdido en las sombrías
 marejadas, es ya remoto albor.
 
- Ténsanse, angustiados, los tendones de la Bestia mítica; brama;
+Ténsanse, angustiados, los tendones de la Bestia mítica; brama;
 cimbra el lomo; hiérguese, rampante; me desgarra y el volcán escupe su
 fuego.
 
- Hélo ahí... Hélo aquí...
+Hélo ahí... Hélo aquí...
 
 Oro puro, forma preformada, rectangular: gruesa la pata, el
 hocico cúbico, el ojo fuego-hielo, tierno el pecho, lumíneo el diente, la
@@ -18523,7 +17442,7 @@ barrancos fulge EL PEZ DE ORO. La Bestia mítica lame tiernamente
 los bigotillos del Suchi, lámelos con el labio de la aurícula, y se aguagua
 en la miel.
 
-Sí; está en mí. Para Él somos los Sapos y los P u m a s.
+Sí; está en mí. Para Él somos los Sapos y los Pumas.
 
     * * *
 
@@ -18559,63 +17478,42 @@ Una madre alumbra en la tumba; la tierra nos penetra.
 Confundiéndonos con sus dinamitas, amoroso rayo venido en los
 aromas estelares nos conduce a la Tierra.
 
- HAYLLI
+### HAYLLI
 
-¡Pacha-mama, Pacha-mama!
+> ¡Pacha-mama, Pacha-mama! 
 
-Temperatura en madre;
+> Temperatura en madre; \
+> entraña de las flores; \
+> nodriza de volcanes... \
+> Mullida entre las nubes \
+> corona de las madres, \
+> latido del Relámpago.
 
-entraña de las flores;
+> ¡Héla aquí! ¡Héla allí!
 
-nodriza de volcanes...
+> Pacha-mama, Pacha-mama: \
+> amor que pare al Puma; \
+> hielo que pare fuego. \
+> Sólo ella capaz fue \
+> De convertir el ascua \
+> en manantial de sangre.
 
-Mullida entre las nubes
+> Madre en cuyo ñuñu arde \
+> el oro de EL PEZ DE ORO. \
+> Nido de amor y espasmo. \
+> Madre, Sirena y Rosa; \
+> carne sumisa al germen; \
+> gorjeos de la Aurora.
 
-corona de las madres,
+> ¡Héla aquí, héla allí! \
+> ¡Pacha-mama, Pacha-mama!
 
-latido del Relámpago.
-
-¡Héla aquí! ¡Héla allí!
-
-Pacha-mama, Pacha-mama:
-
-amor que pare al Puma;
-
-hielo que pare fuego.
-
-Sólo ella capaz fue
-
-De convertir el ascua
-
-en manantial de sangre.
-
-Madre en cuyo ñuñu arde
-
-el oro de EL PEZ DE ORO.
-
-Nido de amor y espasmo.
-
-Madre, Sirena y Rosa;
-
-carne sumisa al germen;
-
-gorjeos de la Aurora.
-
-¡Héla aquí, héla allí!
-
-¡Pacha-mama, Pacha-mama!
-
-Sólo tu ardiente entraña,
-
-de fuelto, luz y lágrima,
-
-pudo que el lodo hable.
-
-¡Héla ahí; que la hermosa,
-
-de hermosuras colmada,
-
-fecunda la hermosura!...
+> Sólo tu ardiente entraña, \
+> de fuelto, luz y lágrima, \
+> pudo que el lodo hable. \
+> ¡Héla ahí; que la hermosa, \
+> de hermosuras colmada, \
+> fecunda la hermosura!...
 
     * * *
 
@@ -18632,23 +17530,16 @@ Lejano ya su trino me reclama:
 
 –¡Piupiu-titit!
 
- TOKAÑA
+### TOKAÑA
 
-He caído, salivilla de la tierra,
-
-en el ardiente nido de su látex;
-
-y ya siento que el látex de la madre
-
-inflama de mis gérmenes el látex.
-
-De su aliento la esteva siento honda
-
-en mi llaga labrar con miel su trino.
-
-¡Hijo!, le llama y le reclama; ¡hijo!,
-
-esta llama que inflama con su flama.
+> He caído, salivilla de la tierra, \
+> en el ardiente nido de su látex; \
+> y ya siento que el látex de la madre \
+> inflama de mis gérmenes el látex. \
+> De su aliento la esteva siento honda \
+> en mi llaga labrar con miel su trino. \
+> ¡Hijo!, le llama y le reclama; ¡hijo!, \
+> esta llama que inflama con su flama.
 
 ¡Hijo! ¡Hijo! ¡Hijo! ¡Hijo! ¡Hijo! ¡Hijo! ¡Hijo! ¡Hijo! ¡Hijo! ¡Hijo!
 
@@ -18688,7 +17579,7 @@ todos los sapos nenglitos, nenglitos, nenglitos...
 
 (–¡Inká! ¡Inká! ¡Inká!)
 
- En su delante el Sol, grandote huevo de Khankhata, amarillo,
+En su delante el Sol, grandote huevo de Khankhata, amarillo,
 pecoso; si, como el huevo pecoso, pecoso, pecoso... Y el Sol estalla,
 estalla, estalla, estalla. Y la yema inunda el patio, inunda su cuarto,
 inunda la ventana, la puerta; lo anega todo... ¡Uf!... Me ahogaré en yema
@@ -18705,9 +17596,15 @@ se va...
 
 –¡Estricnina! Pronto: estricnina, estricnina, estricnina...
 
+<br>
+
 ¿Dónde estuvo?
 
+<br>
+
 ¡Padre! ¡Padre!
+
+<br>
 
 La sapa soparpa y llora la Mikola.
 
@@ -18737,20 +17634,30 @@ de la Mistusa le hace: Kikikikikiki...
 
 –¡Madre!
 
+<br>
+
 –¡Guagüítitay!
+
+<br>
 
 Garúan los ojos de la Mistusa.
 
+<br>
+
 –¡Hijo mío de mi alma!... ¡Guagüititay!...
 
+<br>
+
 Pucheritos la saliva de la Mistusa.
+
+<br>
 
 (–¿Y qué de tu trabajo, Renacuajo?)
 
 –¡Oh, qué gloria: esto es victoria! Le quitamos la manka a la
 Manca y a la rica chochomica la botica. Cada vez más vivo mi cativo...
 
- (–Ji, ji, ji... Que te rajo, Renacuajo: ya, de a denuevo al trabajo.
+(–Ji, ji, ji... Que te rajo, Renacuajo: ya, de a denuevo al trabajo.
 
 Mas ahora no me prendes: a destajo).
 
@@ -18771,11 +17678,15 @@ Sapo Nengro:
 
 –¡Tene hamblecita, mamitay!
 
- Agota vaso de leche tibia. Y otra vez el sueño hasta medio día
+Agota vaso de leche tibia. Y otra vez el sueño hasta medio día
 con el Sol en el Zenit. Puede erguirse. Un padre falta y una madre no
 está.
 
+<br>
+
 Rosa... Rosa en el florero. Mira al florero.
+
+<br>
 
 –¡Flolelito!
 
@@ -18791,7 +17702,11 @@ Embufanda el aroma de la Rosa.
 
 –¿El tata, imilla?
 
+<br>
+
 Sapo Nenglo. Luto.
+
+<br>
 
 Se atolondra la alondra:
 
@@ -18806,7 +17721,7 @@ Y, luego, en la oreja:
 –Follón: el pasmo de la virgen leche su espasmo desflora, y la olla
 olla...
 
- –¿Otlito vasito, nenglitoy?
+–¿Otlito vasito, nenglitoy?
 
 –Ya, imilla. ¡Qué riquita la leche del Mañaso! ¿Dónde están los
 Sapos del tata?... Me tomaré otro sapito más, imilla... ¡Ahola te quielo
@@ -18820,9 +17735,15 @@ Duerme. Y despierta, mas nó la imilla; que está la madle.
 
 –No. Ya nó... ¿Lónle está mi tata?...
 
+<br>
+
 Los ojos a la faltriquera, Mistusa: qué hacerle.
 
+<br>
+
 –Fue al médico: volverá.
+
+<br>
 
 Saca sus pañalitos que huelen a tus fustanes de novia; y arrópale.
 Tiene sueño tu guagua, Mistusita.
@@ -18848,21 +17769,14 @@ Despierta. Su madre le arrurra:
 
 ### EYRAI
 
-Duélmete, mi guegua;
-
-lolmite, papay...
-
-Ya, en cuadliga d'olo
-
-viene el Kholi-Puma.
-
-Y Ley de los Challwas
-
-es tu Suchi d'olo.
-
-¡Lolmite, mi guagua;
-
-lolmite, papay!...
+> Duélmete, mi guegua; \
+> lolmite, papay... \
+> Ya, en cuadliga d'olo \
+> viene el Kholi-Puma. \
+> Y Ley de los Challwas \
+> es tu Suchi d'olo. \
+> ¡Lolmite, mi guagua; \
+> lolmite, papay!...
 
 ¡Ay, esta magle; la sapa del pagle!
 
@@ -18870,7 +17784,7 @@ lolmite, papay!...
 
 Luto.
 
-–Ha salido, guaguay: tey dicho: ¡volverá!...
+–Ha salido, guaguay: tey dicho: ¡volvelá!...
 
     * * *
 
@@ -18900,7 +17814,6 @@ arbustillo endeble en medio al tremendo vendaval; y ya se me ha
 reunido. Bondadosa siempre, amante de hacerse útil, llegó cuando
 porfiaba por romper las capas de tierra hasta donde me había
 entrañado en busca de mi destino; con melliza ansiedad sesgamos la
-
 tierra solificada y abriendo en materia ácida trochas vertiginosas, día
 llegó que afloramos por entre las junturas del piso del hogareño
 patiecito, donde hoy tierno señorío disfrutamos. Mi guagua, hombre
@@ -18945,8 +17858,8 @@ en las satisfacciones que le brinda su esfuerzo, cómo la angustia taladra
 angustiosa cuando algo le conturba y oprime; y el transido corazón
 desespera impotente por llevarle al éxito y la paz.
 
-Saber que le sustento, o que al menos esta emoción me nutra –
-puesto que bien lejos estoy de caer en necedades de que siempre traté
+Saber que le sustento, o que al menos esta emoción me nutra –puesto
+que bien lejos estoy de caer en necedades de que siempre traté
 de librarme–; puedo permanecer en Él, en cuanto pone su voluntad,
 constituye la razón para la embriaguez en que vivo. Mas no se les haga
 difícil aceptarme que si bien soy en Él fluencia de amor, de pasión, de
@@ -18961,7 +17874,7 @@ permaneceremos en Él, ardiendo, produciendo calor, alimentando la
 entraña del barco, apoyando el rumbo con que desafía el oleaje y lo
 domeña.
 
- Al menos, ésto lo que querríamos representar en su vida.
+Al menos, ésto lo que querríamos representar en su vida.
 
 Él lo ignora; y porque lo ignora su ignorancia nos funge en esa
 embriaguez que es sólo ignorancia en el anhelo; a punto de no saber
@@ -18979,7 +17892,6 @@ que no por su novedad ofrezco al Sapito Blanco. Al contrario, por su
 aparente insignificancia y efectiva vulgaridad. Qué genio literario se
 requiere para obtener del tema vulgar valores no vulgares. No trato de
 llevarles a considerar problemas abstrusos y sutiles. Querría se
-
 enamoren de todo lo baladí; que desde el punto de vista de la vida en
 lo insignificante y baladí está lo significativo y grávido de ella; si, así
 como permite mirarla a los ojos, en todo lo baladí la vida vuelve los
@@ -19028,7 +17940,9 @@ aguda lejos de doler deleita. ¿Por qué, tras el ¡inká! de la guagua su
 primer tributo a la vida es el llanto? Huelga la respuesta: porque es en
 una lágrima que se ha volcado el sentimiento de la vida.
 
- Cuando se rinde a la fatiga del trabajo y busca descanso en el
+<br>
+
+Cuando se rinde a la fatiga del trabajo y busca descanso en el
 lecho, aunque no llegue a vernos, ni le veamos sino en cuanto nos
 vemos en El, pues en rigor de sentir todo se ve; Mistusita le hace
 dormir plañendo sus eyrais terruñeros con el cascajoso castellano del
@@ -19051,22 +17965,24 @@ la tumba, en la tumba, después de la tumba: esto es: ¡en la cuna!...
 
     * * *
 
- Pero, cumplamos como buenos; que siento ya por quién ustedes
+Pero, cumplamos como buenos; que siento ya por quién ustedes
 me reclaman: Renacuajo, el doctorajo.
 
- Oro en choro.
+Oro en choro.
 
 Con qué punzó punzó su lloro el enemigo cadáver de su amigo,
 cuando el martirio de Calamar se hizo cirio y el flamear de los cirios
 martirios en el sitibundo atumbo espantoso del mar.
 
- Pobre, mi rico, mi salobre Renacualico.
+Pobre, mi rico, mi salobre Renacualico.
 
 Con qué bondadoso interés le vi prodigarse hasta impedir el
 zarpazo ciego que se propuso inmolar, injustamente, y sin derecho, por
 mera fechoría del hecho, mi torralba del Alba.
 
-Signífero, lucífero, Renacuajo; cascajo y cuajo de la sabiduría, hidalguía de la gallofería: ¿cómo pagarte? ¿Bastarte há que de poder otorgárate el lauro pauro del alejandrita Eraristrato, retrato de tu trato, ¡oh,
+Signífero, lucífero, Renacuajo; cascajo y cuajo de la sabiduría, hidalguía
+de la gallofería: ¿cómo pagarte? ¿Bastarte há que de poder otorgárate el
+lauro pauro del alejandrita Eraristrato, retrato de tu trato, ¡oh,
 tú, retrato de su estrato!, barreno por Reno, escarabajo por cuajo de
 oro en choro?
 
@@ -19096,7 +18012,6 @@ no a la vida por el arte!
 
 Mucho de cuanto en este relato se contiene –y así visto téngalo el
 listo–, ciertamente avasca y ruindad es. Las palabras que empleo no
-
 alcanzan a traducirme; yo apenas logro sugerir el valor de aquellas que
 arrebato al labio de mi plebe.
 
@@ -19112,63 +18027,36 @@ en todos, no solamente inalterable: sea eterno.
 
 Esa la raíz emotiva de su inefable embriaguez.
 
-HARARUÑA
+### HARARUÑA
 
-En su pan estoy y en su fatiga le sostengo.
-
-No permito que del ludibrio la amargura
-
-le entristezca, que su herida no restañe.
-
-Pero, si día de danza, y se endomingan
-
-sus hijos, sus amigos; dos en uno van
-
-bendiciendo con los ojos en los suyos,
-
-el pan, la flor, y en ésta la espina que
-
-florece; el berrueco áspero y huraño;
-
-del aguijón agudo el labio amargo.
-
-Ciertamente, há días las sonrisas
-
-velan su lumbre con suave pesadumbre.
-
-Es que sabe que siente lo que ignora.
-
-Sabe en labio, pecho y en los ojos,
-
-que los Sapos Nengros le roen y acarician
-
-cuando el viento desfleca su Wiphala,
-
-el aire le ama, e hinche con perfumes,
-
-el hielo ablanda las fiebres de su frente
-
-y en lloro añora el llanto que le llora.
-
-No se rompen sus risas en campanas;
-
-tiene un reir que llora para adentro.
-
-Si bien con ellas plañe el campanero.
-
-Salobre refrigerio vivo; ácido dulce.
-
-Pues en Él soy; siente que estoy.
-
-Y cuando en el pecho la ternura
-
-aférrale entre las garras tiernas,
-
-yo la ternura soy, que adoba con arrobos,
-
-el pan, la flor, la guija, y el sustento.
-
-que sólo con sustentarle se sustenta...
+> En su pan estoy y en su fatiga le sostengo. \
+> No permito que del ludibrio la amargura \
+> le entristezca, que su herida no restañe. \
+> Pero, si día de danza, y se endomingan \
+> sus hijos, sus amigos; dos en uno van \
+> bendiciendo con los ojos en los suyos, \
+> el pan, la flor, y en ésta la espina que \
+> florece; el berrueco áspero y huraño; \
+> del aguijón agudo el labio amargo. \
+> Ciertamente, há días las sonrisas \
+> velan su lumbre con suave pesadumbre. \
+> Es que sabe que siente lo que ignora. \
+> Sabe en labio, pecho y en los ojos, \
+> que los Sapos Nengros le roen y acarician \
+> cuando el viento desfleca su Wiphala, \
+> el aire le ama, e hinche con perfumes, \
+> el hielo ablanda las fiebres de su frente \
+> y en lloro añora el llanto que le llora. \
+> No se rompen sus risas en campanas; \
+> tiene un reir que llora para adentro. \
+> Si bien con ellas plañe el campanero. \
+> Salobre refrigerio vivo; ácido dulce. \
+> Pues en Él soy; siente que estoy. \
+> Y cuando en el pecho la ternura \
+> aférrale entre las garras tiernas, \
+> yo la ternura soy, que adoba con arrobos, \
+> el pan, la flor, la guija, y el sustento. \
+> que sólo con sustentarle se sustenta... 
 
 He aquí que a su corazón se allega, y musita para que nadie sino
 el corazón le oiga:
@@ -19182,20 +18070,20 @@ Y en su corazón su corazón se ahoga.
 Voces que escapan de la voz; avientan la muerte del sepulcro;
 hacen que los huesos de él se salgan; y dancen, y canten, en ese rayo de
 luz líquida que surca silencioso la mejilla de marfil, y con sus hieles miel
-para El se hacen.
+para Él se hacen.
 
- ¡Llorad, Sapitos Blancos: nó el pudor de Putifar os impida saber
+¡Llorad, Sapitos Blancos: nó el pudor de Putifar os impida saber
 que estáis vivos!
 
- Sólo el que llora es oro, y trino.
+<br>
+
+Sólo el que llora es oro, y trino.
 
 # THUMOS
 
-No basta examinar a los hombres entre sí,
-sino en relación con los animales, con las plantas y
-con todo lo que nace.
+> No basta examinar a los hombres entre sí, sino en relación con los animales, con las plantas y con todo lo que nace.
 
-Sócrates
+> Sócrates
 
 Mucho tiempo há les vi llegar siempre uno al lado del otro que
 imaginé que si no marido y mujer bien podían ser novios que se
@@ -19227,7 +18115,6 @@ los más perrunos esfuerzos por dormir y olvidar sus pellizcos. Cuando
 llegó la pareja estaba convertido en rosquete de melcocha (comparación no de turronero si se considera que la mía era la color de la
 chancaca); de manera que hice sino abrir un ojo para mirarlos. Ella me
 olió del sitio de donde el rabo parte; y yo me reduje a gruñirle, tal vez
-
 con más galantería que pudicia. Temblaban los pobres. Entonces, al
 modo del hombre que fui un día, erguidas cabeza y orejas, les dije:
 
@@ -19256,7 +18143,7 @@ parecen industria exclusiva del hombre.
 
 –¿Y tú? ¿Y tú? –me preguntaron.
 
- Por mi parte desembuché mis secretos. De tal guisa nos
+Por mi parte desembuché mis secretos. De tal guisa nos
 conocimos y estrechamos fraternales vínculos. Ya la pareja se había
 reproducido; y des entonces iban tres perros por el mundo: los dos
 enamorados, y el solitario que había hecho más que ambular pisando
@@ -19273,7 +18160,6 @@ perro en casa de un pobre cieguito, fui feliz con él en la medida en que
 la felicidad cabe para el que nació con estrella hambrienta en el
 corazón; pues que si conmigo partía los mendrugos que limosneaba, la
 ternura de que era capaz me la dedicaba toda. Mas el cieguito murió y
-
 quedé huérfano a limosnear por él en las puertas del mundo. En
 cambio, ellos huyeron del poder de ciertos borrachines desalmados que
 si no los mataban de hambre los majaban a palo cotidiano. La miseria
@@ -19282,10 +18168,10 @@ sus crueles y torpes propietarios. A ella la llamaban Lulú; al bachiller
 Capitán: Y a mí el cieguito me puso Satán. Y es que era un diablo de
 perrito.
 
- –¿No fuiste bachiller? –me preguntaba Capitán– Porque,
+–¿No fuiste bachiller? –me preguntaba Capitán– Porque,
 hombre, valgan verdades, te expresas doctorilmente.
 
- No había sido bachiller ni sochantre. Un hombre fui para quien
+No había sido bachiller ni sochantre. Un hombre fui para quien
 la vida volcó hieles y sabiduría con la misma crueldad. Creo que fui un
 poco poeta; que del todo no creo fuera; aunque viví siempre en olor de
 poesía. Capitán fue mi verdadero maestro; él descorrió para mí los
@@ -19312,11 +18198,10 @@ dos, lleno de arrestos y veleidades, tan capaz como él de transportes
 heroicos y de abatimientos y astenias sentimentales. Que llegó a
 entender el lenguaje de su amo, no tengo que decirlo; si ya Capitán nos
 ha demostrado que los animales que viven con el hombre, tras de
-
 algunos años de convivencia, llegan a entenderlo, y no sólo a entender
 sus palabras; si logran penetrar hasta sus más íntimos pensamientos.
 
- Observación que lo demuestra voy a adelantar a su biografía,
+Observación que lo demuestra voy a adelantar a su biografía,
 pues acaso el avaro tiempo no me deje considerarla, como deseo.
 
 Criaba un gallito de raza a quien bauticé "Chantecler" no sé si en
@@ -19351,7 +18236,7 @@ lógicamente de él no se podrá decir "es un gallo"; sino: ¡es todo un
 hombre! Lo cual pueda que entre los gallos produzca la admiración que
 entre nosotros nuestros galloferos.
 
- Chantecler estaba destinado a vivir para regalo de los ojos del
+Chantecler estaba destinado a vivir para regalo de los ojos del
 alma de su amo; para la olla, nó. Y vale la pena lo reitere: ¡nó!... Que
 nadie es capaz de comerse una paradoja en estofado; y para mí
 Chantecler era más que una paradoja con pico y espolones.
@@ -19391,10 +18276,10 @@ parte habría podido imponérsela? Transmitir a persona que no
 entiende nuestro idioma conjunto complejo de ideas, aun siendo
 inteligente, es cosa que nadie en su juicio intenta siquiera.
 
-–Gorjo –habría tenido que decirle–: voy a salir. ¿Me comprendes? Bien. Si salgo ya no habrá quién cuide de Chantecler. ¿Ya?
+–Gorjo –habría tenido que decirle–: voy a salir. ¿Me comprendes? Bien.
+Si salgo ya no habrá quién cuide de Chantecler. ¿Ya?
 Cabal: comprendes. Pues bien; mientras estoy fuera eres el llamado a
 reemplazarme. ¿Lo has entendido? Sólo tú me inspiras confianza,
-
 Gorjo. Entendido: ¿verdad? Así es que, mi amiguito, no te separes de
 él; y si alguien pretende llevárselo: ¡muerde! Nada temas; yo respondo...
 
@@ -19410,7 +18295,7 @@ Callé.
 
 –¿Es todo? –preguntó Lulú.
 
- –Nó, Lulita –seguí–. De las diabluras que tachonan la vida de
+–No, Lulita –seguí–. De las diabluras que tachonan la vida de
 Gorjo, ojalá su alma sutil me deje ladrar un día. Ahora me propongo
 sólo referirles el hecho insólito por el cual su recuerdo forma parte de
 los elementos de mi plenitud emotiva; el hecho por el cual no le olvido;
@@ -19436,7 +18321,6 @@ par de semanas partimos del vivac y vivimos aventura si peligrosa
 rodeada de incitaciones, de mi parte justificadas por su extraña belleza,
 cándida y satánica a medias; y en ella acaso por el dilacerante pulgueo
 de la conciencia, si se debía al respeto de un marido bonachón, muy
-
 inferior a ella que no fuese en la sencillez y la bondad de bien,
 ignorante de esta odisea sin Odiseo que yo cumplía en el rol de
 polichinela de los suspiros...
@@ -19477,14 +18361,14 @@ de mi extraña turbación. Ella sonrió en los ojos, aunque al mismo
 tiempo sus labios se contraían en mohín que quiso ser tierno mas fue
 casi tan cruel como un arañazo.
 
- –¿Sabes? Tengo un perrito a quien prefiero mucho; y acaba de
+–¿Sabes? Tengo un perrito a quien prefiero mucho; y acaba de
 hacérseme presente. ¡Y es que lo han matado; lo han matado!...
 
- –Oh, tontito –me dijo, mimosa–. Tus nervios; nada más.
+–Oh, tontito –me dijo, mimosa–. Tus nervios; nada más.
 Comprende, querido, que hay dos hombres con esa enmarañada
 madeja de los tuyos.
 
- –Tienes que creérmelo. Su alma, ¡su alma, está acá!, en este
+–Tienes que creérmelo. Su alma, ¡su alma, está acá!, en este
 momento: la siento...
 
 –¿Alma?
@@ -19496,7 +18380,7 @@ una esmeralda.
 
 Y, como era tan inteligente y vivaz, se esforzaba por consolarme:
 
- –¿No crees que la "otra", la muerta, nos dice...? ¿Que es ella la
+–¿No crees que la "otra", la muerta, nos dice...? ¿Que es ella la
 que... ? Bueno; no sé... Tranquilízate. Ten valor; y, sobre todo, no
 olvides que mi marido debe llegar a Mollendo en pocos días... Se acabó
 la aventurilla... Levántate; vamos... Liaremos maletas...
@@ -19508,7 +18392,11 @@ envenenándole. ¿Qué merecía esta abominable criatura? Me enmudeció
 la indignación, no menos que el dolor; y miré a su hijo casi con odio
 por la raza humana.
 
+<br>
+
 Entonces comprendí por qué se muerde.
+
+<br>
 
 La hora y el día en que Gorjo había sido ahorcado, corresponden,
 exactamente, a la hora y el día en que le vi en mi delante en un temblor
@@ -19566,7 +18454,6 @@ piadosa tierra; iba a llamarle con su nombre y me poseyó la más
 dolorosa turbación. ¿Era posible esto? ¿posible cómo? ¿No constituiría
 deslealtad para con el más leal de los amigos, que de allí a suplantar su
 recuerdo había paso? El nombre de Gorjo, como tú sabes, Capitán, es
-
 el de uno de los sabuesos de Diana Cazadora, aquel de quien los poetas
 refieren más de una serga. Y yo –si durante esos días me hallaba
 anegado por el mar proteico y seductor de la mitología griega– en
@@ -19641,7 +18528,6 @@ Thumos no diferencia la relación amistosa de las relaciones familiares;
 que no diferencia el bien y el mal en cuanto mira a su hermano: el
 hombre? El remordimiento; la pesadumbre; el desconsuelo se
 manifiestan en su palabra, pues la tiene. Si alguna vez se rompe el
-
 valladar que nos separa de él podremos estudiar su gramática y acaso
 modificar de acuerdo con sus leyes la nuestra.
 
@@ -19656,7 +18542,7 @@ todos que el sordo de Bonn era de los animales que no inventó la
 carcajada. Se trata de un efugio del alma en que se manifiesta el arrobo
 de la vida.
 
- –¡Animal humano has dicho, hermano animal; y eso es de
+–¡Animal humano has dicho, hermano animal; y eso es de
 profundidad punitiva! –reflexionó Capitán.
 
 –Vieja sorite, que no menos viejos sororales tiene, aunque des el
@@ -19674,7 +18560,7 @@ hombre para echar al vuelo las campanas de la decencia y ahorcar a
 Rousseau; que de allí debió partir para edificar su teoría del salvaje
 puro.
 
- –Ahorcaremos su Chullpa-tullu, sí, sabio Capitán.
+–Ahorcaremos su Chullpa-tullu, sí, sabio Capitán.
 
     * * *
 
@@ -19683,7 +18569,6 @@ Zoo, lo refiere al Theo; y allí una sola cosa salta a la vista: sus
 deficiencias zoológicas. De donde se sigue que la razón de ser de la
 humanidad en el hombre es su inferioridad animal; por lo que de su
 pánico habrá de extraer los valores de su osadía, o sea el "coraje del
-
 miedo", de que, antes de morir, hablara el viejo Sócrates, o no bien
 parido, uno de los cachorros de EL PEZ DE ORO, que para mí es
 sólo la epopeya de la bestia en sí, si más propio no fuera caracterizarle
@@ -19710,8 +18595,8 @@ De enredos sentimentales se quejó Lulú.
 el puñal en manos del tímido. Ese, el verdadero hombre.
 
 Tiritando dentro sus andrajos pasó un transeunte; Lulú, por
-librarse de las serpentinas filosóficas de Capitán, se puso a ladrarle. Y,
-así se dio el canino gusto...
+librarse de las serpentinas filosóficas de Capitán, se puso a ladrarle.
+Y, así se dio el canino gusto...
 
 –No aguanto más –dijo–: me duele el corazón...
 
@@ -19725,7 +18610,6 @@ delirio carnavalesco siguió pirueteando en mis desolados ojos.
 –Thumos, el alma del animal, no es para Platón el alma inmortal
 del hombre –comenzó su discurso Capitán en la asamblea de la noche
 siguiente–. Y no invoco a los Platones de nuestro tiempo, porque mis
-
 pobrezas gástricas me han hecho propenso a las evulsiones tan
 particulares del avechucho de Prometeo. Es, más bien, el punto
 armónico de las funciones orgánicas que se inmoviliza y desparece con
@@ -19763,7 +18647,6 @@ presumir que Dios es. Y a Dios ni a la bestia nadie les puede originar.
 De manera muy cándida se llega a la conclusión de que el hombre ha
 hecho de su vacuidad su aseidad, por lo que para constituir alguna
 fuerza ha dado naturaleza y forma de hombres a los dioses. Por más
-
 que el pragmatismo de la antropología filosófica haya pretendido
 explicar las causas con causalidades del hombre, lo único que ha
 logrado es explicar las causas del hombre como historia (sociología); en
@@ -19843,7 +18726,6 @@ al presente histórico.
 sin alma la divinidad pascual del mito cristiano? ¿Y por qué para que
 los ángeles pudiesen trasladarse de las esferas del Incognoscible a las
 del Conocimiento, se las proveyó de alas de avutarda? Esto induce a
-
 creer que el hombre reconoció en todo tiempo la superioridad de la
 bestia; sin embargo le negó razón y le niega alma. ¿Te escandalizaría,
 Lulú, si te dijera que el Arca Santa de los hebreos es una representación
@@ -19885,13 +18767,13 @@ camino metafórico, que es el camino de su lenguaje, el hombre estuvo
 siempre más allá de sí mismo, en más que hombre, para ser; y en más
 que hombre está cuanto fiero y bestial es. Su poesía se hizo de las
 ferocidades majestuosas del león; de las argucias de la divina astuta: la
-
 serpiente; del arrullo de la tórtola... Tenía que engendrar en la bestia y
 le nació el Chacha-puma; en el Khawra de lujurias salvajes, y sobrevino
 el Koo-khena, el hombre con cabeza de auquénido; un día se
 engrandecería en el Puma, se valorizaría en el oro, y ha engendrado al
 Khori-Puma; robaríales al oro el rayo y la fertilidad al agua para reinar
-por los siglos de los siglos, y ya esplende en el Cósmos el KhoriChallwa... ¿Los hombres con cabeza de Kuntur y de Puma, de las
+por los siglos de los siglos, y ya esplende en el Cósmos el KhoriChallwa...
+¿Los hombres con cabeza de Kuntur y de Puma, de las
 simbologías matriarcales de Tiwanaku, qué son si no el reconocimiento
 de que el hombre se integra en la bestia, o de que es sublime en ella?
 
@@ -19912,7 +18794,7 @@ sobre sus propios hijos, conduciéndose con la misma impropiedad que
 el Dios del Oreb, que en el trance de elegir entre el holocausto de un
 niño candoroso como Isáac, prefirió la candorosidad de una ovejuela.
 
- En Ituata, diminuta hata de estas orillas, se dio caso muy
+En Ituata, diminuta hata de estas orillas, se dio caso muy
 particular, que, sin embargo, permite generalizar una modalidad
 psíquica.
 
@@ -19924,13 +18806,12 @@ el Achachila del Titikaka tenía hambre; por lo que para satisfacerle
 había que dejar morir al niño o al Miura. El hake sacrificó a su hijo. Las
 alternativas del hecho se pudieron conocer en su espantosa significación durante el proceso judicial a que diera origen, pues
 demostraron que el hombre aquel no había sacrificado a su hijo por
-
 avaricia, sí por la ternura con que algunos hombres miran a los
 animales. Por algo en nuestros humildes bohios andinos es donde se
 puede encontrar aún quienes lloran cuando ven sufrir a sus animales
 abatidos por enfermedad.
 
- Bellos ejemplos, maestro querido, que nos muestran al hombre
+Bellos ejemplos, maestro querido, que nos muestran al hombre
 no divorciado aún de la bestia.
 
 Entre nosotros quedan quienes sienten las ocultas relaciones
@@ -19938,7 +18819,7 @@ eróticas que unen al hombre con el animal y son capaces de desear su
 posesión. Los acoplamientos del hombre y la khawra lo dicen en forma
 explícita.
 
- –¡Ah, lucífero Satán: así es; así es, hermano!...
+–¡Ah, lucífero Satán: así es; así es, hermano!...
 
 –La mujer que se estima no permite que su marido haga viaje
 solo si debe llevar llamas hembras; tendrán que ir la hermana, la abuela,
@@ -20016,7 +18897,6 @@ sorpresa.
 
 –Lo verán. Cuando me referí al amor del hombre primitivo, o
 arcaico, por el Puma, me acordé de un sueño de que fui personaje si no
-
 principal muy cerca de tal honor. Que diga su historia Lulú: no la
 desconsolemos. Y mañana oirán mi ladriloquia de los siglos. "El Ego
 en el Mundo Primitivo". ¿Es larga tu historia, Lulú?
@@ -20024,7 +18904,7 @@ en el Mundo Primitivo". ¿Es larga tu historia, Lulú?
 –De ninguna manera... Este Capitán; yo no sé... A ratos me
 desilusiona... Nos tomará un par de ladridos cuando más.
 
- –Si ha de ser causa para que así me maltrates, Lulita mía; pues
+–Si ha de ser causa para que así me maltrates, Lulita mía; pues
 rompe ya a cantar: te oiré sorbiendo las mieles de tu lengua...
 
 Y, fijos los ojos en el risueño y condescendiente hocico de su
@@ -20076,20 +18956,20 @@ ponen en duda. Por lo que a mí hace de contadas manos que
 estrechaba sentí que pertenecieran a seres, superiores nó; pero al
 menos semejantes a Thumos y Gorjo.
 
- En mis ojos se desplegó angustiosa lontananza y en ella mis
+En mis ojos se desplegó angustiosa lontananza y en ella mis
 viejos amores fallidos.
 
- Temblábame el morrudo apéndíce.
+Temblábame el morrudo apéndíce.
 
- –La bestia no ha sido extirpada del hombre –dijo Capitán; que
+–La bestia no ha sido extirpada del hombre –dijo Capitán; que
 adivinaba mis perrunas nostalgias.
 
- –Y yo agregaré, –y en efecto agregué–, que en sueños suele
+–Y yo agregaré, –y en efecto agregué–, que en sueños suele
 vivirse la tentación de la bestia en formas lacerantes...
 
- Me dolía. Callé.
+Me dolía. Callé.
 
- –¿Por qué vacilas? Parece que en ti alguien no sólo ladra, Satán; sí
+–¿Por qué vacilas? Parece que en ti alguien no sólo ladra, Satán; sí
 que muerde. No vaciles. Ya se puede hablar en serio del documento
 que suministra el subconsciente; pues desde los filósofos presocráticos
 a Freud, se admite que sus manifestaciones, y el ensueño sería una de
@@ -20104,7 +18984,6 @@ Vencido apenas el calambre que me extenuaba, dije:
 pesudoliteraria en que se contiene. Y para ello no olviden que es el
 ensueño de un perro con preocupaciones estéticas, acaso estéticamente
 poseído por la angustia original, a mi juicio matriz de toda idea estética.
-
 Como les tengo anticipado lo anoté con el título de "El Ego en el
 Mundo Primitivo". Leílo tantas veces que se ha impregnado en la
 memoria, donde permanece todavía. Hagan ánimo de oír un poema;
@@ -20115,10 +18994,10 @@ etnológicamente considerado, ni creo que la Onirología obtuviese
 mucho tampoco. Es lógico, arbitrario, absurdo; tremendamente
 humano.
 
- –Ya, ya, Satán, prolóquico –me atizó el sabio amigo–; que nuestra
+–Ya, ya, Satán, prolóquico –me atizó el sabio amigo–; que nuestra
 impaciencia se acrecienta.
 
- Y ladré con voz que me recordó la palabra de Thumos.
+Y ladré con voz que me recordó la palabra de Thumos.
 
     * * *
 
@@ -20153,8 +19032,8 @@ Achokhallo era mudo; mas si le faltaba la misma elemental palabra de
 sus hermanos, poseía algo de que aquellos carecían: la aptitud para
 reproducir imágenes de animales, árboles, el perfil de las montañas,
 grabándolas en piedra. Fue así mismo el primero que persiguió
-domesticar a la bestia y en este su oficio días de días solía desparecer en
-el bosque.
+domesticar a la bestia y en este su oficio días de días solía
+desparecer en el bosque.
 
 Cuando el megaterio husmeaba por los contornos en busca de
 árboles de hoja tierna, y el terror poseía a hombres y mujeres, se
@@ -20174,6 +19053,8 @@ despavoridas, se detuvieron desafiándolas con la flecha de Achokhallo.
 El joven mudo parecía un dios en el clan. Indudablemente era la
 semilla del dios, puesto que fue el dominador de los amos de la
 Naturaleza.
+
+<br>
 
 Pero en Achokhallo se descubrían actitudes misteriosas, poderes
 o condiciones, no comunes, de las cuales su mudez era una, como otra,
@@ -20195,6 +19076,8 @@ grabar la piedra con sus poderosas manos.
 –Ire con él al bosque. No será poco sublime verle allí –me
 formulaba este propósito.
 
+<br>
+
 Si en presencia suya le observaba con el mayor cuidado no
 encontraba que algo le diferenciara del hombre contemporáneo; su
 "impresionante musculatura no parecía más recia que la de cualquier
@@ -20206,17 +19089,18 @@ velocidad de sus estados de ánimo.
 Dos ideas vibraban en mi cerebro con la pulsación obsesiva del
 latido:
 
+<br>
+
 ### HAYLLI
 
-¡Veo la tierra
-
-salida del cáos!
-
-¡Oh, tierra,
-
-bárbara y amada!
+> ¡Veo la tierra \
+> salida del cáos! \
+> ¡Oh, tierra, \
+> bárbara y amada! 
 
 Sentía, en efecto, que esa tierra me era entrañablemente amada.
+
+<br>
 
 Un día acompañé a Achokhallo a la entraña del bosque.
 
@@ -20226,7 +19110,6 @@ con que se deslizaba por entre los matorrales, era espectáculo de
 dinamismo sobrecogedor. El bosque que presencié entonces no carecía
 de libertad de movimiento. En mi presencia, como si se distendieran,
 crecían las plantas, los árboles recogían y alargaban las ramas; aquella
-
 tendíalas como patas de ciempies monstruoso, para luego cerrarlas
 implacablemente, atrapando aves, reptiles o mamíferos descuidados.
 Mil cataratas que vuelcan millones de toneladas cúbicas de agua
@@ -20249,7 +19132,8 @@ su presa delate sus aprehensiones, emociones, voliciones, con el
 cambiante colorido de sus retinas. En cuyo caso tendremos que
 convenir en que algunos animales –y el hombre entre ellos– poseen
 lenguaje que se expresa en los ojos. Los de Achokhallo ya eran
-púrpura, verdes, azules, opalinos, en sucesión vertiginosa y relampagueante. Y eso era Achokhallo en todos sus actos: Relámpago.
+púrpura, verdes, azules, opalinos, en sucesión vertiginosa y relampagueante.
+Y eso era Achokhallo en todos sus actos: Relámpago.
 
 ¿Cuánto tiempo pasó en esa vigilancia? Quién sabe. De pronto
 percibí crujido de hojas, vi ramas que se agitaban, y, luego, agitando el
@@ -20261,13 +19145,12 @@ que nada extraño llegó a observar, si, seguido, procedió a saciar la sed.
 
 Entonces...
 
- Achokhallo se disparó como un venado: tales fueron su rapidez y
+Achokhallo se disparó como un venado: tales fueron su rapidez y
 violencia. Atenazó la parte trasera de la bestia, que, al sentirse atrapada,
 tembló, lanzó feroz rugido, se curvó en un latigazo, y dispuestas a
 hundirse en su enemigo le brillaron las filudas y aceradas garras.
 Inútiles esfuerzos... Los brazos de Achokhallo eran metálicos; el
 forcejeo demoníaco; escalofriantes los rugidos; la mudez y el gesto del
-
 héroe feroces y sublimes. Vencido, finalmente, se derrumbó el animal;
 dobló las patas y acostó la cabeza en el suelo. El dominador hundió
 entonces el mentón en la pelambre, a lo largo del espinazo, y frotó con
@@ -20275,6 +19158,8 @@ movimientos de no sé qué mágica eficacia; que el furor de la hembra
 fue cambiando en entrecortados gemidos, hasta que al último se
 levantó, no sé si poseída de miedo o deseo; en todo caso su hipido ya
 parecía tierno.
+
+<br>
 
 Lo que luego vi fue tan pavoroso que en el mismo sueño
 temblaba ante el temor de despertar y perder la divina, o diabólica,
@@ -20291,7 +19176,7 @@ Qué espectáculo: imagínenlo quienes puedan.
 
 Yo grabé en piedra la hazaña de Achokhallo.
 
- Del suave terciopelo de la altura, descendiendo a la manigua, la
+Del suave terciopelo de la altura, descendiendo a la manigua, la
 solana infundía al paisaje modulaciones sinfónicas hasta llegar a los
 hervores verdes y estruendosos de la selva. Todo era inmenso; y yo
 mismo, enredado en los nervios de Achokhallo, tenía el espanto de un
@@ -20301,20 +19186,20 @@ Sordo hervor germinal subía de ese ovario del mundo.
 
     * * *
 
- Después de momentos, que parecían mementos, en que sólo se
+Después de momentos, que parecían mementos, en que sólo se
 oía el fatigado resuello, Lulú, picaresca e intencionada, me dijo:
 
- –¡Qué feo y qué hermoso, Satán!
+–¡Qué feo y qué hermoso, Satán!
 
- Enmudecido temblaba mi maestro; y clavando en los míos sus
+Enmudecido temblaba mi maestro; y clavando en los míos sus
 ojos, lleno de temblor...
 
- –¿Eres Achokhallo tú, Satán? –me preguntó.
+–¿Eres Achokhallo tú, Satán? –me preguntó.
 
- Y yo, como el niño que es sorprendido en pecado, resistiendo el
+Y yo, como el niño que es sorprendido en pecado, resistiendo el
 temblor de su mirada, repuse:
 
- –Perdóname, sabio hermano: soy Achokhallo.
+–Perdóname, sabio hermano: soy Achokhallo.
 
     * * *
 
@@ -20340,7 +19225,7 @@ pecados y microbios; y no es quien trague el anzuelo cándidamente.
 –Convéncete, Capitán –le consolé–: Lulú no pasa veneno ahora
 ni con agua bendita.
 
- Los hechos me dieron la razón. A poco, con media lengua afuera
+Los hechos me dieron la razón. A poco, con media lengua afuera
 apareció Lulú, dirigiéndose a nosotros en galopito galgo.
 
 –¿Qué te pasó? –fue la angustiosa pregunta de Capitán.
@@ -20355,11 +19240,11 @@ labiecitos; y que muy pronto nos daría ajo qué morder. A esta doncella
 el amor la ha tocado con su varita mágica. Eh, qué hacerle. ¡Guau!
 ¡Guau!... Así es la vida...
 
- –Bueno –dijo–; he venido por Thumos. Comienza. Ay,
-Satancillo: des que lo haz introducido en nuestro interés hago más que
+–Bueno –dijo–; he venido por Thumos. Comienza. Ay, Satancillo:
+des que lo haz introducido en nuestro interés hago más que
 pensar en él.
 
- –Si no serás romántica, Lulú –la dije con cariño–. Vamos, pues;
+–Si no serás romántica, Lulú –la dije con cariño–. Vamos, pues;
 adelante...
 
 Y ya iba a comenzar, cuando apareció un viejo cachimbo
@@ -20403,14 +19288,14 @@ Miradle. Ya le conocéis. Es él...
 
 Y, al oir nuestra voz, Thumos ladró. Es decir habló.
 
- Thumos y yo teníamos un hijo, un hijo al cual no sé si yo o él
+Thumos y yo teníamos un hijo, un hijo al cual no sé si yo o él
 adorábamos más. Pero cierto estoy que él cuidó y veló con más
 impaciente fidelidad, pues nada ni nadie habrían logrado separarle de
 su lado des el día que su trino electrizó nuestros oídos.
 
 –¡Inká! ¡Inká!...
 
- El hombrecito del ¡Inká! ya tenía ocho meses, ensayaba los
+El hombrecito del ¡Inká! ya tenía ocho meses, ensayaba los
 primeros pasos, podía mantenerse sentado, era capaz de preferencias
 musicales y de imponerlas con criqueos y hasta con lagrimitas si su
 madre en vez de las piezas de su agrado se empeñaba en poner otras en
@@ -20428,45 +19313,27 @@ Homero.
 
 ### HARAWI
 
-Que haya quien te arrastre
+> Que haya quien te arrastre \
+> a dudar, sin duda te lo creo. \
+> Mas si la oreja pones en el punto \
+> donde sus gustos toma el aire, \
+> le verás fulgiendo en el aroma. \
+> Mira que el Inka caer hizo \
+> la usuta de oro en el sillico; \
+> y lejos, para extraerla, de \
+> meter la manita, \
+> metió la planta. Y la dijo: \
+> "Usuta y usutita: cálzame \
+> "y alegra mi ardida khalapata. \
+> "Cuando sientas que oprimes \
+> "falange y falangeta, \
+> "iremos por el mundo; tú \
+> "la marcha; yo el que marcha. \
+> "Y con gérmenes de oro sembraremos \
+> "los ojos tristes de los hombres".
 
-a dudar, sin duda te lo creo.
-
-Mas si la oreja pones en el punto
-
-donde sus gustos toma el aire,
-
-le verás fulgiendo en el aroma.
-
-Mira que el Inka caer hizo
-
-la usuta de oro en el sillico;
-
-y lejos, para extraerla, de
-
-meter la manita,
-
-metió la planta. Y la dijo:
-
-"Usuta y usutita: cálzame
-
-"y alegra mi ardida khalapata.
-
-"Cuando sientas que oprimes
-
-"falange y falangeta,
-
-"iremos por el mundo; tú
-
-"la marcha; yo el que marcha.
-
-"Y con gérmenes de oro sembraremos
-
-"los ojos tristes de los hombres".
-
-Y la usuta besó la planta de oro
-
-y oro fulgió en el lodo de la vida.
+> Y la usuta besó la planta de oro \
+> y oro fulgió en el lodo de la vida. 
 
 Y, claro, como algunos de los que les oigan serán como ustedes
 mansos de corazón y de ojos khawrólatras, pagarán toda la razón a ese
@@ -20502,7 +19369,7 @@ pinkhollos, phusas, wankharas y charangos. Y si Thumos hacia el
 sacerdote, el Ungido era el hombrecito del ¡Inká!, como su padre el
 motete del mote.
 
- Le bastaba tener a Thumos en su delante mirándole con ojos
+Le bastaba tener a Thumos en su delante mirándole con ojos
 inagotables para sentirse absoluto. Nada parecía faltarle; aunque bien a
 
 las claras le contaba segundos que entre ellos faltaba aire el aire del
@@ -20510,7 +19377,7 @@ Khori-Puma.
 
 Capitán me interrumpió:
 
- –Thumos no sólo miraba al niño, como tú crees, Satán. ¿Quieres
+–Thumos no sólo miraba al niño, como tú crees, Satán. ¿Quieres
 describir a Thumos? Hasta ahora no lo has hecho; y sólo sabemos que
 era lobo. Ese linaje es relativamente moderno, si yo sé: lo ha creado el
 hombre mediante cruces del perro de ganado y el enemigo del ganado,
@@ -20548,7 +19415,6 @@ con un copo de algodón, haciendo nubes. Temblaba creyendo verme
 frente a un dios-niño que educaba a los cándidos habitantes del cielo
 para que cuando fuese un dios-hombre supiesen cómo debían
 conducirse. Y ya eran cirrus o cúmulos, astros o nebulosas, que a su
-
 alrededor evolucionaban y El seguía con misteriosa ansiedad. ¿Era el
 enternecido ciclón, Capitán hermano, dirigiendo el viaje de las nubes?
 Pregúntate, si el niño encontraba en ese juego entretenimiento acorde
@@ -20569,14 +19435,14 @@ niño, es el mismo niño quien lo dicta.
 
 –¡Hum! Pero tú qué nombre le impusiste...
 
- –Ninguno, maestro. ¿Qué nombre dará el perro a su dios cuando
+–Ninguno, maestro. ¿Qué nombre dará el perro a su dios cuando
 se derrumba en el arrobo? Le llamaba con un ladrido, o, por su cuenta,
 le nombraba mi lágrima. Para que no le confundieran en el frangollo,
 que le llamaran "El Indio", rogaba.
 
 –¿Y por qué el indio?
 
- –Verás. Si una mamala le acariciaba, así acabara de conocerla, se
+–Verás. Si una mamala le acariciaba, así acabara de conocerla, se
 lanzaba a sus brazos; mas si una emperifollada damisela lo hacía
 (paréntesis aparte, mi yoka era... Bueno, repréndeme, Capitán; que la
 ternura puede hacerme vanidoso); si una damisela quería hacer otro
@@ -20613,10 +19479,12 @@ y de una pequeñuela, en tres o cuatro meses mayor que Él; pues sus
 madres salieran a proveerse bastimentos para modesto aptapi con que
 celebrarían su encuentro me parece que des la edad del primer diente.
 
- Afeitábame, mientras la niña chillaba sin pausa. Pese a sentirlo,
+<br>
+
+Afeitábame, mientras la niña chillaba sin pausa. Pese a sentirlo,
 fui poco pacienzudo para estas gimnasias. El fastidio incubaba.
 
- –Indio: cuán incapaz tu padre –le decía– del poder de
+–Indio: cuán incapaz tu padre –le decía– del poder de
 concentración que revelas.
 
 El hombrecito, con el ¡Inká! y un periódico hacía alitas que
@@ -20681,7 +19549,7 @@ un ramo de rosas.
 flores te he traído. Estas flores no saben chillar... ¡Tú eres más linda y
 buena que ellas!...
 
- Tornó a afeitarse; la niña a ahincar su llanto; Thumos a marear
+Tornó a afeitarse; la niña a ahincar su llanto; Thumos a marear
 con su hijo. Y el Thumos que no era yo, a dolerse con la niñota.
 
 –¡Por Dios, hermosa niñota: qué es ésto!... Mira: el hombrecito
@@ -20708,7 +19576,7 @@ encolerizado; empañados los ojos del perro; llorando la niñita en los
 brazos del hombre cito del ¡Inká! y el hombrecito que miraba al
 Hombre con expresión de duda, estupor, reproche, desilusión.
 
- La madre de la niña me fustigó:
+La madre de la niña me fustigó:
 
 –¡Usted no parece hombre, señor: aprenda de su hijo!
 
@@ -20728,16 +19596,16 @@ rocoso paradojista que fue Sócrates, cuando, él que negaba al animal
 derecho a poseer alma, dice que para examinar al hombre, no hay que
 hacerlo en él solamente, sino en relación con su hermano: la bestia.
 
- –¡Satán, Satán mío de mi alma –exclamó Capitán–: fue Thumos
+–¡Satán, Satán mío de mi alma –exclamó Capitán–: fue Thumos
 quien te dio la lección! Satán: ¡cree! ¡cree!
 
- Lulú llevóse la patita a los ojos.
+Lulú llevóse la patita a los ojos.
 
- Y Satán, creyó...
+Y Satán, creyó...
 
     * * *
 
- Durante el día Lulú no se me había separado y suspiraba de
+Durante el día Lulú no se me había separado y suspiraba de
 continuo. Pero, cayó la tarde; y la noche sobrevino...
 
 –Recordar ahora –seguí, retomando el hilo del relato– las
@@ -20754,7 +19622,8 @@ dramática a que hemos llegado, aconseja, puestos ya en acción los
 elementos que precipitan al desenlace, engullimos con ellos en el
 vértigo, donde se fusionan y amasan figuras, figulinas, gritos, pasiones,
 sentidos del deber, y la violencia que sacude los átomos de la vida
-acribilla nuestros átomos... Así, pues, al hito, a la muerte... ¿Inteligencia? Eso era lo que menos tenía Thumos. La inteligencia es
+acribilla nuestros átomos... Así, pues, al hito, a la muerte...
+¿Inteligencia? Eso era lo que menos tenía Thumos. La inteligencia es
 habilidad, destreza, mañería, en todo caso algo asidero de que con
 tenacidad todos los hombres pueden disponer, y de hecho disponen,
 unos con mayor holgura que otros, ya con pergaminos o
@@ -20789,12 +19658,12 @@ melcocha, y, una hora, dos, se mantuvo hasta que el hombrecito
 despertó; y su madre acudió para brindarle nuevamente el inolvidable y
 dulce ñuñu. Sólo entonces devoró el yantar.
 
- –¡Esto animalitu; esto animalitu, werakhocha! –gimoteaba la
+–¡Esto animalitu; esto animalitu, werakhocha! –gimoteaba la
 cocinera.
 
- Capitán se había emocionado.
+Capitán se había emocionado.
 
- –¿Tal la bestialidad de la bestia? –comentó–. ¿Qué juicio merece
+–¿Tal la bestialidad de la bestia? –comentó–. ¿Qué juicio merece
 la altitud de esta alma noble para quien ni la comida canstituyó razón
 suficientemente poderosa que le desviara del cumplimiento de lo que
 había aceptado su deber? Cuán cierto es que pocos hombres son
@@ -20818,14 +19687,13 @@ Quedó voluntariamente esclavizado al hombrecito del ¡Inká!;
 hasta el día que el hombrecito se heló con el ¡Inká! ¡Inká! en la frente,
 donde, del ¡Inká! una cruz nació y se apagó mi estrella.
 
-Y aquí entramos, amigos míos, al espacio en que las paralelas desaparecen, porque han formado un ángulo agudo, agudo como un
-puñal.
+Y aquí entramos, amigos míos, al espacio en que las paralelas desaparecen,
+porque han formado un ángulo agudo, agudo como un puñal.
 
 El hombrecito pasaría unos días más del siglo sin año de su
 existencia, por tanto, él, Thumos, que era el único en saberlo, comenzó
 a vivir los hielos y llamaradas de la tragedia. Perdió memoria del
 gusto... Temblaba a todo momento. Enflaqueció. Aquél que no
-
 abandonaba a su Chio Khori, huía de Él. Su ladrido, finalmente, fue la
 bandera del pirata izada al trinquete del buque temerario.
 
@@ -20850,38 +19718,34 @@ bracitos y me obligó a alzarle. Entonces me señaló los jardines (había
 llegado fetal a ellos y su vida era vida de flor); pataleó para hacerme
 comprender que requería visitarlos.
 
- Cuando, desde ellos, fijó los ojos en la distancia, abarcando la
+Cuando, desde ellos, fijó los ojos en la distancia, abarcando la
 perspectiva del Titikaka, rompió con su trino:
 
- –¡Kharrajuska!... Criii... Criii...
+–¡Kharrajuska!... Criii... Criii...
 
- Comprendí que agitaba su pañuelito de despedida.
+Comprendí que agitaba su pañuelito de despedida.
 
 ### HARARUÑA
 
-Sólo vieja lágrima
-
-de bruñida plata eres,
-
-Titikaka,
-
-plañendo su esmeralda...
+> Sólo vieja lágrima \
+> de bruñida plata eres, \
+> Titikaka, \
+> plañendo su esmeralda... 
 
 En sus fiebrolentos ojos, dilatados dentro las órbitas, ya casi
 exhaustas, se reflejaron el lago de arriba y el cielo de abajo. Luego me
 hizo conducirle de jardín en jardín; del rosal a los khiswares; de los
 khiswares a los khollis; del manantial al torrente; y del torrente al
-
 manantial, donde, desnudo, chapoteando, acompañado de los
 hokhollos y hampatitos, las verdes khairas, que a los labios salían a
 reirle, pasara los desnudados y demudados días... Era el general de
 División Militar, que, montando su corcel favorito, revista los fieros
 escuadrones antes de la batalla...
 
- A la amanecida del día que no habría de amanecer, el hombrecito
+A la amanecida del día que no habría de amanecer, el hombrecito
 del ¡Inká! dejó de respirar.
 
- Aullaron tres carámbanos en los totorales del Titikaka.
+Aullaron tres carámbanos en los totorales del Titikaka.
 
     * * *
 
@@ -20904,15 +19768,15 @@ Ya nunca se alejaría de Él Thumos; le montaría guardia, llorando.
 
 –¿Llorando? –me lloró Lulú, que lloraba.
 
- –Ningún ser humano fue capaz de llorar, hermanita, como llora
+–Ningún ser humano fue capaz de llorar, hermanita, como llora
 Thumos. Llanto es el suyo que deja correr lágrima; pero tiene tan
 pavorosa amargura que rompería el corazón de cien hombres si fuesen
 capaces de sentirla.
 
- Sabía que le quedaba mucho por hacer, y tornó junto a su amo, y,
+Sabía que le quedaba mucho por hacer, y tornó junto a su amo, y,
 aunque silencioso, se mantuvo alerta.
 
- Sobre él había llorado el destino.
+Sobre él había llorado el destino.
 
     * * *
 
@@ -20952,10 +19816,11 @@ de parte de Thumos, intervine, y el perro se quedó con nosotros. No
 habían pasado seis minutos de la ausencia del hombrecito del ¡Inká!,
 cuando a la Imilla se le rompió el corazón.
 
+<br>
+
 Thumos, más que a perro sonaba a Hotel sin huéspedes y a cajón
 de muerto. No se movió a hacerme comprender que diera importancia
 a ese nuevo machetazo, que ya no me hizo bramar, si me gozquillaba
-
 como piojo indio y me tenía ébrio con sus españolas carcajadas... Así
 me tiré a la jarana, ma ver si la jarana llegaba a tirarme, y,
 saltimbanqueando en tiempo de khaswa, encontré tirado en un
@@ -20972,14 +19837,14 @@ en mis manos y los ñutus cayeron al suelo bailando mis añicos.
 
 Me derrumbé aplastado por el piojerío.
 
- Thumos entró en mí, ceremonioso, frío; descansó un momento
+Thumos entró en mí, ceremonioso, frío; descansó un momento
 las patas en mis rodillas; miróme de soslayo; al sesgo miró el yacente
 cuerpo de la dulce mujer; abajóse; lamióme la mano; agitó sin
 entusiasmo el rabo. Y salió.
 
 Hacia él salió la noche y le engulló.
 
- Crepitaban con microscópicos gemidos los sebos funerarios
+Crepitaban con microscópicos gemidos los sebos funerarios
 imprecnando el aire con sus acres olores; en el patio el perro traposo,
 que roncaba, reproducía con macabra exactitud el estertor de la
 finada... y, luego, nos devoraron...
@@ -21000,7 +19865,7 @@ manipulaba durante esos días?
 los gusanos de la huesa había de quedar yo para pirografiar esta historia
 en mi carne?
 
- ¿Sólo porque su leal deber era abandonarme es que trajo a su
+¿Sólo porque su leal deber era abandonarme es que trajo a su
 harapiento amigo?
 
 A la grupa de tres años vino sobre mí, tras encarcelamiento casi
@@ -21034,9 +19899,9 @@ El parecido es un medio de hallar la identidad; no se trata de
 Boby, si un parecido total puede ser otra cosa distinta; pudo venir
 arrollado a mi angustia y aquí ha soltado las amarras. En fin.
 
- Y es que de los huesos me salía esta conminatoria:
+Y es que de los huesos me salía esta conminatoria:
 
- –¡Si no es Thumos, será Gorjo! Y si es una alucinación uno de
+–¡Si no es Thumos, será Gorjo! Y si es una alucinación uno de
 ellos te alucina; por tanto, uno de ellos está...
 
 Tras de su nuevo amo el perro se perdió en enorme, oscuro, frío
@@ -21050,14 +19915,13 @@ Si no es Thumos es tan bello como Thumos.
 
 Si es Thumos, ha llegado con ese Dante inevitable, quien tomó el
 barco la noche que desapareciera, cargando con él. Y así llegó a esta
-
 ciudad; se aburrió él con el italiano (lo más probable); o el italiano al
 ver su desasimiento se hizo el italiano.
 
- ¿O ha venido porque estaba enterado que su amo se le reuniría
+¿O ha venido porque estaba enterado que su amo se le reuniría
 en esta ciudad?
 
- Cualesquiera de tales extremos fue posible. Aunque otro se me
+Cualesquiera de tales extremos fue posible. Aunque otro se me
 ofrecía obsesivo: ¿No salió del velorio: no tomó el camino, y guiado
 por el maravilloso olfato de sus nervios (que el otro le fue cuasi
 negado): no andó, andó, andó... ¡cien leguas! para detenerse en la urbe
@@ -21065,12 +19929,12 @@ en donde su pobre amigo estaba destinado a pernoctar? En todo caso
 se me hizo necesario admitir que sus pasos estuvieron movidos por
 actualidad trascendente.
 
- Por último, melancólico y resignado, me decía:
+Por último, melancólico y resignado, me decía:
 
- –¡Trapasero! He aquí que para esperarte Thumos se ha tragado a
+–¡Trapasero! He aquí que para esperarte Thumos se ha tragado a
 Gorjo en el cuerpo de Boby.
 
- Me cuidé volver a la calle fantasmal.
+Me cuidé volver a la calle fantasmal.
 
     * * *
 
@@ -21092,9 +19956,8 @@ volvió a la puerta de calle para gritar, enérgicamente:
 
 –¡Boby! ¡Boby!
 
- Tras esto se metió en la cabina; un momento después apareció
+Tras esto se metió en la cabina; un momento después apareció
 Thumos y con salto elegante, ecuestre, alcanzó la plataforma. Cerróse
-
 ruidosamente la portezuela, gruñeron los motores y la camioneta se
 movió.
 
@@ -21102,7 +19965,7 @@ Aunque temblaba, avancé decidido y a mi vez grité:
 
 –¡Thumos!
 
- Cuando avanza el vehículo, Thumos paró las orejas, tensas,
+Cuando avanza el vehículo, Thumos paró las orejas, tensas,
 sacudido por sus electrizados nervios, ladeó la cabeza, tal si dudara de
 la vieja voz que así le había roto su aire. Pero, agitando los brazos en
 medio de la calzada, más fuerte todavía, volví a gritar:
@@ -21112,7 +19975,7 @@ medio de la calzada, más fuerte todavía, volví a gritar:
 Ya no dudó. Se volvió "como un rayo"; miróme. Ya cuando la
 camioneta viraba en la esquina, se lanzó.
 
- El corazón no me había engañado: después de tres años me era
+El corazón no me había engañado: después de tres años me era
 devuelto.
 
 Excuso referir las manifestaciones de ambos en ese momento: yo
@@ -21121,7 +19984,7 @@ sólo que entre los anegados sollozos, él, o yo, decía:
 
 –Ya estás otra vez acá, trajinado trajinante...
 
- Los transeuntes se detenían a mirarnos, risueños unos, patéticos
+Los transeúntes se detenían a mirarnos, risueños unos, patéticos
 los otros. Y allí ladró y saltó en torno mío recordando sus viejas
 melodiosas danzas de Orko-pata.
 
@@ -21161,12 +20024,12 @@ necesario premio alguno (si ya rebosaba de agradecimiento); que llevara
 al perro consigo, si el perro le seguía; que sería ésa la mejor
 demostración de que, realmente, era suyo.
 
- Tras de llenarme de expresiones de gratitud, palmeó la cabeza de
+Tras de llenarme de expresiones de gratitud, palmeó la cabeza de
 Thumos; y le ordenó:
 
- –¡Vamos, Bobyto!
+–¡Vamos, Bobyto!
 
- Miróme Thumos, mas siguió al hombre. Comprendí claramente
+Miróme Thumos, mas siguió al hombre. Comprendí claramente
 que me prometía no tardar. Comprendí también que ese sutil y
 armonioso corazón no autorizaría violencia alguna con aquel hombre,
 al que, acaso, amaba ya...
@@ -21178,7 +20041,7 @@ En la tarde estaba en mi alojamiento esperándome.
 Apoyando el hocico en las rodillas, volvía a mirarme con la fijeza
 magnética con que siempre lo había hecho.
 
- –Tendremos que irnos de esta ciudad; porque, por lo que veo,
+–Tendremos que irnos de esta ciudad; porque, por lo que veo,
 ese señor no consentirá en perderte...
 
 Mi alma era presa de estado inexplicable; pues si por una parte la
@@ -21187,7 +20050,6 @@ feliz, por otro me embargaba oscuro y pesado presentimiento que
 volvía lóbrega la aurora de su retorno. Para comprender tal situación,
 hay que imaginar todo lo que amaba a Thumos; si su sola presencia era
 el oxígeno que durante tres años me regateaba la vida. Y, además, ¿qué
-
 me quedaba ya fuera del espíritu del cardo, el hálito de la rosa, el
 quebranto del agua? Podía, ciertamente, acudir a las autoridades y, con
 argumentos de la realidad, sostener mi derecho; pero Thumos, bien a
@@ -21229,9 +20091,9 @@ seguir. Ensaye usted ahora...
 Y el sujeto, tras otras atropelladas sinrazones, ensayó. Y
 volviéndose a Thumos, le ordenó, secamente:
 
- –¡Vamos, Boby!
+–¡Vamos, Boby!
 
- Y si bien Thumos volvió a mirarme significativamente, le siguió.
+Y si bien Thumos volvió a mirarme significativamente, le siguió.
 
 ¿Qué mayor derrota pude experimentar? No regresó ya, como,
 lleno de inquietud y destemplanza, esperaba. Le había atado a una
@@ -21269,24 +20131,24 @@ en la tarde por él su falso y egoísta amo, quien, ciertamente, se cansó;
 pero de verle vivo. Y, amarrándole, le obligó a tragar mendrugo
 amargo...
 
- Sólo cuando comprendió que el veneno había mordido la entraña
+Sólo cuando comprendió que el veneno había mordido la entraña
 del animal, soltó la cadena; y dándole puntapié, le echó:
 
- –¡Largo ingrato; perro al fin!
+–¡Largo ingrato; perro al fin!
 
 Thumos, sacudido por las convulsiones del envenenamiento, ya
 sin gobierno las patas traseras, arrastrándose, agónico, llegó al Hotel. Y
 llegó para tirarse a mis pies y morir.
 
- Capitán y Lulú lloraban. Yo...
+Capitán y Lulú lloraban. Yo...
 
- Encandilados, llenos aún de lágrimas los ojos, Capitán miróme
+Encandilados, llenos aún de lágrimas los ojos, Capitán miróme
 con profundidad absorta.
 
- –¡Satán! ¡Satán!... No lo veles; no lo encubras, hermano mío: ¡tú
+–¡Satán! ¡Satán!... No lo veles; no lo encubras, hermano mío: ¡tú
 eres Thumos!
 
- –¡Oh, Capitán, Mi Capitán: Soy Thumos, el Khori-Puma!
+–¡Oh, Capitán, Mi Capitán: Soy Thumos, el Khori-Puma!
 
     * * *
 
@@ -21305,7 +20167,9 @@ de él, y con él, salen cuando hiere sus cuerdas la amargura del plectro.
 pámpanos, que dentro me gorjea sólo para que se le oiga en mis
 lágrimas?
 
-No debiera exclarecer las mixtiones de mi personalidad, que a no
+<br>
+
+No debiera esclarecer las mixtiones de mi personalidad, que a no
 pocos deben desconcertar; si ya el férreo y ferviente Achokhallo; luego
 las intuiciones de Capitán me descubren en Thumos y, finalmente, me
 acomido a revelarles que Achokhallo, Thumos, Satán, son más que
@@ -21324,7 +20188,6 @@ arrastraba entre las jergas de la india, mi mama Margarita; tendría para
 entretenerles horas y hasta noches mil. El perro lo más insignificante y
 noble nacido en la tierra... Y por lo mismo que vive de revolver la
 miseria en los cenizales, su condición elevada siempre; que es para los
-
 que está abajados, no flotan en las esferas de la sublime cretinidad, que
 el derecho a elevarse sale propio.
 
@@ -21342,7 +20205,7 @@ no conoce, o adrede desconoce.
 
 –¡Largo ingrato; perro al fin!
 
- Ingrato; perro al fin. Porque en el estómago le ardían carbones
+Ingrato; perro al fin. Porque en el estómago le ardían carbones
 amorosos; porque se negó a ser hombre si había alcanzado a perro.
 ¡Qué torpe tu soberbia, Simio Sapiens! Prefirió verle muerto a saberle
 feliz. ¿Es que el hombre, es hombre sólo por su incapacidad de sentirse
@@ -21368,7 +20231,6 @@ corazón, el estallido de fulgor de tus ojos, la embriaguez de saberte
 padre de tu hijo, es el alma de la vida que abarca con su enternecida
 ebriedad a todos sus hijos. Pero si te sabes mantener en los límites del
 pentagrama de su fermento, la tuya es también la angarilla
-
 que alivia las pesadumbres del alma de tu perro, de tu gato, de tu
 canario, de tu corcel y su espumoso relincho.
 
@@ -21383,10 +20245,12 @@ Pero ya, al sustentar tan sensata, que parece inverosímil, posición,
 tienen que decidirse en forma terminante y final por una de estas dos
 posibilidades:
 
- a) el hombre fue beneficiado con el alma que hoy posee cuando
+a) el hombre fue beneficiado con el alma que hoy posee cuando
 dejó de ser mono;
 
- b) o es de mono el alma del hombre.
+b) o es de mono el alma del hombre.
+
+<br>
 
 Comprende Plato: si Dios hizo al hombre con alma, su alma nó
 Psique: Thumos. Pues es al mono a quien Dios hizo; no al hombre
@@ -21403,6 +20267,8 @@ cargada con el amor de todos los días de tu perro; pero tú también eres
 dinamita del alma de la luz y del alma de tu perro, si sabes fecundarlas
 con tu amor de todos los días.
 
+<br>
+
 Tu alma es una chispa de la vida; pero la vida es, también, una
 chispa de tu alma. En qué medida debes templar la gracia de sus arpas;
 en qué medida debes endulzar sus aristas. No es alma el resoplido
@@ -21412,7 +20278,6 @@ infinito.
 
 Amasa tu alma con el alma de tu perro; amásala con el alma de tu
 Cherekheña; con el alma de tu lago, sus peces y totorales; amásala con
-
 el dolor de tu prójimo, con la dulce constancia de los surcos, y brotarán
 alas en tu profundidad.
 
@@ -21431,7 +20296,7 @@ No es alma la del que humilla la carne del hombre y la oscurece.
 No es alma la de los mercaderes que centuplican sus ganancias
 conduciendo al rebaño hacia los destinos de la muerte.
 
- Aún allá donde la carne pudre, el alma tendrá los puses del
+Aún allá donde la carne pudre, el alma tendrá los puses del
 albañal y su misma sustancia hederá a sentinas.
 
 Cuida de bañar tu alma todos los días en el amor y sé cándido
@@ -21445,7 +20310,7 @@ rechazará siempre que las patatas requieran de semillas para
 reproducirse; por lo que la bestia, o el hombre, requieren de alma para
 ser...
 
-Como, nó... Mientras el hombre no es la pústula de la vida, su
+Como, no... Mientras el hombre no es la pústula de la vida, su
 alma es digna del alma de la bestia. Pero no digais que porque el alma
 encarnó en un bípedo dialéctico, o trascendental, es ya digna de las
 jerarquías emolientes y trascendentes y la de la bestia sólo del polvo
@@ -21512,18 +20377,21 @@ hombre puede ser malo porque puede no ser Thumos?
 
 Sólo Thumos es bueno en el hombre.
 
+<br>
+
 ¡Guau! ¡Guau! ¡Guau!
+
+<br>
 
 Mono sabio: humanízate en la bestia antes que la bestia
 desaparezca en el mono.
 
 # MORIR DE AMERICA
 
-Y tan alta vida espero,
+> Y tan alta vida espero, \
+> que muero porque no muero. 
 
-que muero porque no muero.
-
-Teresa de Jesús
+> _Teresa de Jesús_ 
 
 Una gota. Otra después. Y van cuatro, cinco, seis. Cuántas ya...
 No muchas; todavía se las puede contar.
@@ -21547,7 +20415,7 @@ caireles, fuga cabrilleante hemorragia de sutuwailas.
 
 –¡Ña phara hamunki!...
 
- Negro venablo de orificado remo rompe la ampolleta de su trino,
+Negro venablo de orificado remo rompe la ampolleta de su trino,
 hace impacto bajo el alero de la chuklla, métese al nido, una lombriz
 deja caer en el pico de su hambriento; y si el lakhatillo se retuerce
 segundos desaparece devorado por el chiuchi.
@@ -21557,20 +20425,22 @@ segundos desaparece devorado por el chiuchi.
 Se alza del nido el chaiña-guagua, sus bracitos agita, y torna a
 abrir el insaciable pico.
 
+<br>
+
 –¡Titititit!... ¡Tirol!... ¡Tirolí!... ¡Tirol! ¡Tirol!...
 
 Le mira con asombrados ojos su canoro tatalay, palmotea con el
 ala, picotéale la lengüeta; le chiuchea:
 
- –¡Chiu, chiu, chiu!... ¿Qué khuchisito tienes en el buche, khusillu,
+–¡Chiu, chiu, chiu!... ¿Qué khuchisito tienes en el buche, khusillu,
 que tamaño gusanazo te deja más hambriento?
 
- Sólo falta al retablo la guilguerita que pipia en el mojinete de la
+Sólo falta al retablo la guilguerita que pipia en el mojinete de la
 chuklla, coqueteando a saltitos con el crepúsculo.
 
- –Ña phara hamunki...
+–Ña phara hamunki...
 
- Esta la última pedancia del estío. Se disparan las thayas desde los
+Esta la última pedancia del estío. Se disparan las thayas desde los
 cerros; levantan terrales en la planicie; avientan los panojas; queman en
 los chuñuchehes; pulen las mejillas de la uka. Entre las majadas, que
 escampan pavoridas tras el refugio de los rediles, brincotean y se
@@ -21596,12 +20466,12 @@ madre. Incéndianse las nubes y el monte arde y arden los riachos.
 Tizón que yarakhakhea con pico ácido, el yarakhakha es lengua de
 cincel. Árboles flamean.
 
- Se mira en los ojos del thukhu el tembloroso escolio solar y
+Se mira en los ojos del thukhu el tembloroso escolio solar y
 zambúllese en las chinkhanas.
 
- –Ña phara hamunki...
+–Ña phara hamunki...
 
- Son mil, diez mil: todavía se los puede contar.
+Son mil, diez mil: todavía se los puede contar.
 
 Ya no se los contará: aturdidos, y dándose unos con los otros,
 ventrudos goterones comienzan a desprenderse de la nube. Son diez,
@@ -21613,7 +20483,6 @@ bobalicones y filósofos, intuyera que a causa del inmanente fenómeno
 se mojan las kurpas de los barbechos, centelleos wikuña sacuden el
 viento humedecido, bermejas viborillas serpentean en los chihis del
 hallsu. Y que si la santa tierra de las cañadas, como la guagua empapa
-
 sus pañales floridos, el giboso cornúpeto siente en los fértiles
 embriones el gozquilleo de la vaca.
 
@@ -21622,7 +20491,7 @@ embriones el gozquilleo de la vaca.
 Y es que el torito (khollke turitu imillil wawanki), ya torazo, tiene
 en el ollar provocaciones amorosas.
 
- –¡Muuu!... ¡Muuuúl...
+–¡Muuu!... ¡Muuuúl...
 
 Babeándola aún, contra el inminente chicoteo pluvial, se
 apeñusca y protege junto a las perkhas. Lo mismo hacen la vaca obesa,
@@ -21657,7 +20526,7 @@ El "Coronela":
 
 La Kharrajuskha:
 
- –¡Co! ¡Co, co!... Cocorocóóóó... Coo... co... ¿jaa?...
+–¡Co! ¡Co, co!... Cocorocóóóó... Coo... co... ¿jaa?...
 
 En la todavía ruborosa paleta de la pampa, el ¡cocorocó! del gallo
 indio, es eso: ¡kharrajuskha! hispano acribillando las postreras purpurinas de la tarde.
@@ -21668,14 +20537,13 @@ Hala de su lobezno (¡Jala, jala, hala la ala, mamitay!) la madre
 campesina; métese en la chuklla; enciende las bostas del fogón; dispone
 la olla para el yantar. Y, hasta tanto la mamala se le rinde, y se la
 entrega, el llokhallo acomete a zarpazos con la mama, que la obesa de
-
 la mama cuelga, hobachona –otro celaje ventrudo–, y el Ungido,
 ardiendo en el arrebol que la khoncha le escupe a la cara, del ñuñu se
 prende, y ñuñuña hasta atorarse...
 
 Elake: la virgen Navidad del ayllu.
 
- Elay, wirgina, que te llega el genitor de la taklla que florece lirios...
+Elay, wirgina, que te llega el genitor de la taklla que florece lirios...
 La flama de las khonchas le inflama el taparrabo, no menos que la
 ternura; y con la buena baba de su aguanoso ojo, la mamala le pule
 cobre, le ablanda los batanes... Elay, mi Navidad del cobre repujado de
@@ -21683,7 +20551,7 @@ los Yokhas y de la leche mansa...
 
 –Ña phara hamunki!...
 
- Restallan liwis de oro en la nube que estalla; a brincos y
+Restallan liwis de oro en la nube que estalla; a brincos y
 khetimbos, secos retumbos percuten en el amplificador del lago; ya en
 su entraña reverbera la escama serpentina del Huturi. Y allí zonga
 enamorado rezongo.
@@ -21702,7 +20570,7 @@ toronjil y tierra dulce.
 
 Llueve. Llueve.
 
- La pampa se anega. Se atragantan y gorgorean las llokllas. Por
+La pampa se anega. Se atragantan y gorgorean las llokllas. Por
 arteriales cañahuecas, entre pajonales, khachinas, chihis, con la thosankheyu, o los misikhus, revueltos en el fino barro que el agua escarba de
 la mama, zigzaguean oro y carbones del cielo.
 
@@ -21715,7 +20583,6 @@ polleras en su khachwa con el Pinkhollo...
 Los árboles chorrean; címbranse los ramazones; chorrean las
 techumbres; mangas enfurecidas azotan lomo, flancos, espinazo, de las
 montañas; el Titikaka ronca bajo aluvión de dardos líquidos; entre
-
 sordas varahadas puja la inmensidad planimétrica; los caminillos
 anegados hasta el topa escapan con pies indios...
 
@@ -21723,7 +20590,7 @@ anegados hasta el topa escapan con pies indios...
 
 He aquí, llegado ya lo más mamitay de la parida.
 
- Cuando aun desuellan ahogos y estruendos de la tempestad,
+Cuando aun desuellan ahogos y estruendos de la tempestad,
 arden de nuevo los tiznes, la centella diluvia, en la oquedad de los
 cúmulos coruscan ojos áureos.
 
@@ -21746,12 +20613,12 @@ descalza la uña rosa.
 Temblores cerúleos se trizan y cabecean; en la Wara-warani
 entorna el cándido párpado la estrella, y se duerme.
 
- Y no hay luna, nó ojo, nó cielo.
+Y no hay luna, nó ojo, nó cielo.
 
- ¡Sólo el colmillo que esplende, la garra que hiende, el oro que
+¡Sólo el colmillo que esplende, la garra que hiende, el oro que
 enciende!
 
- Hervorece el hueso de los Chullpas.
+Hervorece el hueso de los Chullpas.
 
 –¡Tiempo del Khori-Puma!
 
@@ -21761,9 +20628,9 @@ El día amarga en el tiniebla.
 
     * * *
 
- –¡Guá!... ¿Dónde boga la boga, la de mejillas de ayrampu?
+–¡Guá!... ¿Dónde boga la boga, la de mejillas de ayrampu?
 
- –¡Elake!... ¡Elake, mamitay: el Príncipe de los Challwas! ¡Elake,
+–¡Elake!... ¡Elake, mamitay: el Príncipe de los Challwas! ¡Elake,
 Khesti-imilla, tu Khori-Challwa!...
 
 La Sirena se adosa las caderas; se adosa los morokokos; los
@@ -21781,51 +20648,31 @@ baño con su hañachu, Titikaka Emperador.
 
 ### KHIRKHILA
 
-Allí del khori fue el árpegio.
-
-Dice la imilla al felino arisco:
-
-"¿Por qué a la vida no regresan,
-
-"el Puma, el rugido, el colmillo, la danza?
-
-"¿por qué sus khepis de oro no retorna
-
-"con el Suchi, la Khesti,
-
-"de la Sirena el wayñu?"
-
-Dice a la Khesti el Khori-Puma:
-
-"Regresaremos, querida niña,
-
-"el Suchi, la Sirena,
-
-"el rugido y la danza".
-
-Resplandor de estrellas
-
-EL PEZ DE ORO, delante,
-
-locuras es de oro,
-
-locuras de Sirena...
-
-Y a las puertas de la Vida llaman,
-
-y la entraña de la Vida, tierna,
-
-vuélveles perla el niño de su lágrima.
+> Allí del khori fue el árpegio. \
+> Dice la imilla al felino arisco: \
+> "¿Por qué a la vida no regresan, \
+> "el Puma, el rugido, el colmillo, la danza? \
+> "¿por qué sus khepis de oro no retorna \
+> "con el Suchi, la Khesti, \
+> "de la Sirena el wayñu?" \
+> Dice a la Khesti el Khori-Puma: \
+> "Regresaremos, querida niña, \
+> "el Suchi, la Sirena, \
+> "el rugido y la danza". \
+> Resplandor de estrellas \
+> EL PEZ DE ORO, delante, \
+> locuras es de oro, \
+> locuras de Sirena... \
+> Y a las puertas de la Vida llaman, \
+> y la entraña de la Vida, tierna, \
+> vuélveles perla el niño de su lágrima.
 
     * * *
 
-–¡Guá, mamay!... ¿Duermes?
-
-Duerme la mamala.
-
-–¡Thunkhu! ¡Thunkhu! ¡Thunkhu!
-
-Los thukhus espantan locuras de la Paksi.
+> –¡Guá, mamay!... ¿Duermes? \
+> Duerme la mamala. \
+> –¡Thunkhu! ¡Thunkhu! ¡Thunkhu! \
+> Los thukhus espantan locuras de la Paksi. 
 
     * * *
 
@@ -21862,7 +20709,6 @@ creérselas parientas de las fucsias de la Pasión de N. S., por los clavos,
 taparrabos, escalera y hasta el kharrajuskha... Ciertamente, magra
 horticultura, y, con todo, su economía estable. Y el mirarlo bien que
 me dejaba cojeando, como en "dezires" decimos los cholos; que cómo
-
 sería que estos indios brutos sabían eso y nuestros gordos estadistas
 astaura olisquean; que no habiendo otro productor de flores y verduras
 que el chiri –y chimús son, hasta por la cuadratura del círculo– quién
@@ -21906,7 +20752,6 @@ forma que se vuelve hasta sociológica, la enojada intransigencia de un
 aristocrático sentimiento del linaje. La institución del mitimae (de
 cómo así el lexicógrafo criollo, o curesco que dijera Sancho Panza,
 haría este latinismo, ni lo adivino, ni lo sabrá alguien), digo, que la
-
 institución del mitimae, de sistema y humano aprovechamiento de la
 tributación de trabajo que al Estado oblablan los runas, trocóse en
 servilidad, y ya el latinajo se lo aplicó sólo al forzado de las minas, en
@@ -21925,14 +20770,14 @@ dinamitas de la pankharitay que las ofrece:
 
 –¡Thika alasita, ñiiitoy!...
 
- Paliducha la pisakha; grandes, soñadores, los ojos; de chancaca el
+Paliducha la pisakha; grandes, soñadores, los ojos; de chancaca el
 hociquito; los senos pequeñines, apeñuscados, camorreros... ¿Y el
 talle?... Kharrajuskha: eso no más te lo digo: ¡asinita, vieran!, que un
 beso, asinaso, le sobraba... ¿Y entonces?...
 
 Quién nomás el bienaventurado que su melcochita se lo comiera.
 
-De esa "raza", y del Hichu-marka, a cuyo Hila obedecen los
+De esa «raza», y del Hichu-marka, a cuyo Hila obedecen los
 chimos, era la dulce imilla.
 
 Para llegar a su chuklla había más que joderse un poco en la
@@ -21947,13 +20792,12 @@ espaldas de la capilla, como quien al trepar se da con las del khoto, se
 cae en ramillete de flores, a cuyo centro, tocada con espeso monterete
 de totoras verdes, pintarrajeada sangre-sangre, se alza la musiña. Allí
 por dar recado de mi madre a su tiola, conocí a la Amapolita; y ya supe
-
 kosa que hacerme casero de la tiola.
 
 Con sonrisa llena de arrugas la vieja consentía la linlichada; y es
 que la su tiola era mi comagre por serlo de mi linda madrecita.
 
- –¡Buscala –me decía–: por ahy está to wiskhacha!
+–¡Buscala –me decía–: por ahy está to wiskhacha!
 
 Maver, dirán ustedes: retrata a tu imilla. ¿Retratarla? Es tan difícil
 retratar un recuerdo. Cuando este episodio refiero de mi vida, háme
@@ -21993,13 +20837,13 @@ hocicazos, como su anu, con ella me había de ir.
 
 –Yaa... ¿Y las gentes? ¿Y las mistichos?...
 
- –Ñerdas!... La imilla valía para mí más que cien hakhes y todas las
+–Ñerdas!... La imilla valía para mí más que cien hakhes y todas las
 borriquitas de las khechekheches. Si me tenía sorbido el seso como se
 lo sorbe al aguanoso sankhayu de Waksapata.
 
 Llegué.
 
- Acurrucada en rincón de la huertita la tiola hacia calceta; y así me
+Acurrucada en rincón de la huertita la tiola hacia calceta; y así me
 vio, sonrisa de nina-ninas arrugó más su bondadoso rostro. Les juro:
 sin haber tañido herida, restañé las del khirkhi, que lueguito se puso a
 loquear en las arrugas de la vieja. ¿Pero, la imilla? Niií... No estaba en
@@ -22035,7 +20879,6 @@ Santiago, patrón de los hichus; le vi trinchando indios con su espada de
 hojalata. Vi al Pontífice Pegro, su sarta de challwas, vílas, lo mismo que
 Miuras por el cuerno enjarretadas por la trompa; sus barbazas de crín
 de sunicho vi... ¡Vi al Tatakora!... Mas cochinadas vi ratito que pensé al
-
 verme coronado por las espinas de la Pasión... Tiré el khirkhi; en mi
 cólera le rompí su barriga contra la roca; sacudí el punzó del poncho; le
 tapé su vergüenza al taparrabo, si el muy sinberbensa parecía pendón
@@ -22108,7 +20951,7 @@ opa. Téngalo por hecho: su chullpa-tullu hablará más.
 
 –¡Guaa!... ¿Hablará?...
 
- –Es uno, cínico, o tímido, que habla sólo para adentro, y solo.
+–Es uno, cínico, o tímido, que habla sólo para adentro, y solo.
 ¿No les parece que en América hay ya otra América que este pajarraco
 entre zonzo y crucificado?
 
@@ -22123,7 +20966,6 @@ Y dicho, así, casi que se me cae el moco...
 akhollpachadita se esté en la tierra; la tinkhemos, llorando, como a las
 papas en año seco; y todos, cada uno por su camino, humo... Sacará
 sus grandotes brazos el Achachila; la mirará con sus ojos verdes,
-
 babeando; y cargará con ella al fondo del Titikaka; porque, esta
 pogresita imilla, bueno, era, como tú, su hija del Achachila. ¡Pobre
 imilla: no pinará!...
@@ -22165,11 +21007,11 @@ cuerpo, cuando, estruendo que ensordece, vuelven khellwas y lekelekes, y volteje
 de hichumarkas que llora por la imilla destripada en el suelo, a causa
 del cielo.
 
- Lindo punto final para la imilla-mistisa. ¿Qué pensará el Pegrito?
+Lindo punto final para la imilla-mistisa. ¿Qué pensará el Pegrito?
 El, nó hijo de la "señora"; sí de algún "señor" Pegro oculto en sus ojos
 azules.
 
- Pogre del Pegrito... Aunque no se ha muerto; también le mató
+Pogre del Pegrito... Aunque no se ha muerto; también le mató
 América.
 
     * * *
@@ -22185,6 +21027,8 @@ crucesitas de sangre. De sangre cruces en el cielo; cruz la luz; la sombra
 cruz; en el tañido de la campanita de la capilla en vez de ¡talanes!
 cruces... El piojo de la cruz le morderá ofendido el hocico cuando
 pretenda subir al Calvario a probar la boca de las khalas.
+
+<br>
 
 Todo sangre inocente, niña querida. Sangre en el frac, en la
 chistera, el Padrenuestro, la Mamitasantisíma, en la thatanguagua; y
@@ -22218,7 +21062,7 @@ José María Cristal: era don José María Khespe.
 
 Un día se dijo don José María Khespe:
 
- –¿A dó irás, José María, con este calandrajo de remoquete?
+–¿A dó irás, José María, con este calandrajo de remoquete?
 ¡Suprímelo!... Que no en el Imperio de los Inkas; éste el Imperio del
 Mistichu. Apellíndente las gentes: Cristal, Espejo, o Vidrio...
 
@@ -22230,45 +21074,48 @@ Chuhwa, ya no la untuosa vaselina de los pongos de levita. Por eso sus
 
 Veamos si alguna luz proyectan las castellanistas...
 
-MEMORIAS DEL DOCTOR JOSÉ MARÍA CRISTAL
+## MEMORIAS DEL DOCTOR JOSÉ MARÍA CRISTAL
 
 <hr>
 
-"A ciencia cierta [dice] no ignoro que soy indio; pero cuando a
+«A ciencia cierta [dice] no ignoro que soy indio; pero cuando a
 solas a mi conciencia encaro, me reprendo, y me digo, que bien pude
-no ser tan del todo; ya que mi madre..."
+no ser tan del todo; ya que mi madre...»
 
 Y, allí, suspensivos que nos suspenden: "Ya que mi madre..."
 ¿Qué haría su pogre madre para que este Cristal más sonara a tiesto?
 
- En otro, no menos indecente lugar, aunque pávidamente
+En otro, no menos indecente lugar, aunque pávidamente
 dantesco, agrega:
 
- "¿Por qué tiemblo ante los hombres violentos? No lo sé. Todo
+«¿Por qué tiemblo ante los hombres violentos? No lo sé. Todo
 vozarrón me suena agrio; huéleme a verga. ¿Serás más que un
 castellanisto, (doctora Crestala)? Cuando por las calles te arrastran y
 patean; te... Nó: ¡No soy Indio! Siento que cuando tratamiento tal
 disciernen al ponguito es a mí a quien buscan escarnecer y someter.
-
 ¿Es que no debo vomitar las hezes de tales estúpidos innatos estados
 de la conciencia? Vine a la vida no a llorar con los ojos de mi madre;
 sino a karrakuskear (como dicen los kharawaktas) con los ajos de mi
 padre; que ajudo debió ser lo saco de cómo a mí me ajean las
-crinolinas. ¡Si callas, sangre mía; ajea, corazón!
+crinolinas. ¡Si callas, sangre mía; ajea, corazón!»
 
 O, de nó, resígnate a ésto:
 
-"–¡Indio bribón; posma! ¡Carga! Carga, bestia...
+«–¡Indio bribón; posma! ¡Carga! Carga, bestia...»
 
-"Arre, arre, borrico. Y el borrico, lleve guantes, o sobre usutas
+«Arre, arre, borrico. Y el borrico, lleve guantes, o sobre usutas
 vaya, carga y arrea la cruz del doctor Cristal. ¿Fue, acaso, mi destino el
-del borrico? Nó; mil veces, nó.
+del borrico? Nó; mil veces, no.»
 
-"Subiré; así tenga que hacerlo de rodillas".
+<br>
+
+Subiré; así tenga que hacerlo de rodillas».
 
 Y en las rodillas se paraba el pogre.
 
-"27 de Agosto de 189... Día puerco, doctor Cristal. Era tan
+<hr>
+
+«27 de Agosto de 189... Día puerco, doctor Cristal. Era tan
 jovenzuelo entonces... Fundación del Virrey M...; escudo con sinoples,
 gules, azar y águila rampante, nobiliaria ciudad de mis querencias, en
 uno de cuyos ruines arrabales, vecino de los juanetes de cierto fidalgo
@@ -22280,85 +21127,85 @@ el demonio de la rodilla me indujo a decirla no sé qué mendicante
 palabreja de adoración. Ah, de pétalos de esa linda corola estaba tejido
 el látigo que mancilló mi lomo y ennubleció mi vida.
 
-"–¡Indio atrevido! ¡Indio de m...!
+–¡Indio atrevido! ¡Indio de m...!
 
- "Del corral de esos labios fue mi "eme"... Sólo Dios en su infinita
+"Del corral de esos labios fue mi "eme"... Sólo Dios en su infinita
 misericordia, sabe si me costó vivir dentro de "emes". Por eso, cuando
 aferré el pergamino que me volvía gringo, dos litros de pepitas de oro
 de Kutimpu, junto a bártulos sin raza, embutí en la maleta del turista, y
 me eché a hollar caminos, a manera de mi paisano el gran trotamundos
 don Bustamante (Q. D. D. G. ); y a los cosos marchéme del Africa,
 donde compré, a peso de oro, la dulce Gretchen con quien de bracero
-devolví a las gentes partes alícuotas de la corralera "eme", ya dicha".
+devolví a las gentes partes alícuotas de la corralera "eme", ya dicha".»
 
 <hr>
 
-"Mea culpa. Amigos canallas que me halagais generosos. Acabó
+«Mea culpa. Amigos canallas que me halagais generosos. Acabó
 la farsa. He muerto. Sabedlo ahora: ¡Soy Un Indio! Y vosotras,
 adoradas hijas de mi alma: perdonad a vuestro padre infeliz. Cuando
 leais estas Memorias, estaré muerto en vuestros ojos vivos. Os oigo
 reprocharme entre lágrimas: "No debiste engendrarnos, si eras indio!".
-Sí, guagüitas mías; lo sé. Pero, esa "eme" la causante de todo..."
+Sí, guagüitas mías; lo sé. Pero, esa "eme" la causante de todo...»
 
 ## EL SUEÑO DE UN VIDRIO
 
-"He soñado. Camino desnudo por desfiladero que obstruyen
+«He soñado. Camino desnudo por desfiladero que obstruyen
 dólmenes, menhires, bloques graníticos, labrados sabe Chápiro en qué
 lejanas edades y que acaso escupió la tierra debido a cataclismos
 también inmemoriales. Y, allí, súbitamente, se me presenta Su
 Ilustrísima el Señor Obispo, que al verme no sabe reprimir grito de
 alegría.
 
-"–¡Mi don José María!... Gracias, Santísimo Sacramento: nos
+»–¡Mi don José María!... Gracias, Santísimo Sacramento: nos
 hemos salvado. ¿Usted conoce el camino, verdad?
 
-"–Verdad, Ilustrísimo Señor.
+»–Verdad, Ilustrísimo Señor.
 
-"–Guíenos, por las llagas de Cristo...
+»–Guíenos, por las llagas de Cristo...
 
-"–Esto... No; no conozco el camino, Ilustrísimo Señor...
+»–Esto... No; no conozco el camino, Ilustrísimo Señor...
 
-"–Pero, si voacé es aborigen; el hidalgo conoce estos caminos.
+»–Pero, si voacé es aborigen; el hidalgo conoce estos caminos.
 
-"Debo anotar que las palabras las entendía por literación directa,
+»Debo anotar que las palabras las entendía por literación directa,
 como dicen los filólogos; y que a más las dignidades del jerarca, tenía
 perdido todo recuerdo de índole religiosa.
 
-"–Acaso vecino de Borinquen o Barquisemeto, Monseñor; que
+»–Acaso vecino de Borinquen o Barquisemeto, Monseñor; que
 nó aborigen. Pero, malhora haya (su puerco chukchu); si su Reverencia
 ha perdido el alma, o la faltriquera, sea hidalgo, y confiéselo; que le
 guiaré hasta hallarles, enjutos o en retales.
 
-"–Tú nos salvarás, Virgen Santa!
+»–Tú nos salvarás, Virgen Santa!
 
-"–¡Cargue, cargue en la jumenta, Monseñor! Si virgen le salva,
+»–¡Cargue, cargue en la jumenta, Monseñor! Si virgen le salva,
 ¿para qué el doctor Cristal?
 
-"–¡Señor; que nos abandonas!
+»–¡Señor; que nos abandonas!
 
-"–Que no quiero folloncicos, Señoría; y si me respeta, como
+»–Que no quiero folloncicos, Señoría; y si me respeta, como
 debe, el título; que en este desierto no le abandonaré, esté seguro.
 Sígame.
 
- "He aquí que el Señor Obispo me detiene cuando habíamos
+»He aquí que el Señor Obispo me detiene cuando habíamos
 avanzado no poco camino.
 
- "–¡Mi don José María de mis pecados! ¿Qué es esto, doctor
+»–¡Mi don José María de mis pecados! ¿Qué es esto, doctor
 Cristal? Por Dios, que va desnudo el cristiano... Por lo menos trata de
 cubrirse eso...
 
-"Escudriño eso, que en tanta monta escandaliza al Prelado;
+»Escudriño eso, que en tanta monta escandaliza al Prelado;
 pero... No entiendo. No faltaba más: me parece natural y de mundo.
 Iba a decirle que a él no menos le ennoblecería si pudiese ir desnudo
 como yo iba; mas ya, sacándola del mangón del hábito, me alarga una
 hoja de parra.
 
-"–Póngasela, mi don José María: es de nuestro Padre Adán.
+»–Póngasela, mi don José María: es de nuestro Padre Adán.
 
-"¡Voto a...! Maravilla, que si me sienta de perilla; y con el relente
+»¡Voto a...! Maravilla, que si me sienta de perilla; y con el relente
 de los nevados que me picaba picazas.
 
-"–Que me queda de perilla, Ilustrísima –le digo–; y gracias por su
+»–Que me queda de perilla, Ilustrísima –le digo–; y gracias por su
 amiguísima solicitud. Pero, Su Ilustrísima ¿sería gentil y revelarme de
 qué medio se ha valido para llevar consigo tan preciosa prenda? Habrá
 tenido que privar de ella a ese su Padre Adán; o acaso a su gentil
@@ -22378,18 +21225,18 @@ suciedades indignas de las suyas propias. Desnúdese, vuestra
 reverencia, y desnude a su Esposa; y nunca estareis mejor vestidos.
 Eso, si sois limpios...
 
-"Mirábame estupefacto.
+»Mirábame estupefacto.
 
-"–¡Pecador de mí!... Dé yo crédito a mis oídos ni a mis ojos... ¿Es
+»–¡Pecador de mí!... Dé yo crédito a mis oídos ni a mis ojos... ¿Es
 mi amigo José María Cristal, quien me habló, y va, así, vestido a la
 adamita? Os tuve por magistrado sabio; mas nó por lenguaraz khalato.
 
 Bien veo que vestís barba y fabla de ese fino y peregrino modo por
 algo que os sonrroja mostrar...
 
-"Sigue el footing.
+»Sigue el footing.
 
- "No ha menester le hable para que el Obispo me entienda; si, con
+»No ha menester le hable para que el Obispo me entienda; si, con
 mirarme a los ojos, en ellos le guía la espía; tanto que arrebujado en
 esta confianza deja temblores y a mi lado avanza con ánimos briosos.
 Pronto nos insumimos en la Caverna paleolítica. Oscuridad plena en
@@ -22404,18 +21251,18 @@ garras, porfiando por tan torpe modo alcanzar la bóveda. La visión es
 demoníaca pesadilla. El prelado se derrumba y clama con desesperadas
 voces.
 
-"–¡Señor!... ¡Señor!...
+»–¡Señor!... ¡Señor!...
 
-"Me ofende la astenia del infeliz.
+»Me ofende la astenia del infeliz.
 
-"–Señor doctor –le corrijo–. ¿Tan pocos ánimos, Ilustrísima? A
+»–Señor doctor –le corrijo–. ¿Tan pocos ánimos, Ilustrísima? A
 su lado estoy; que le amparo; que le velo y le acorro. Y si no me
 desdoctora (¡Jaa!), le sacaré con bien el alma, o la piel, a falta de aquélla,
 si ellas de algo le valieran aún...
 
-"Se arrastra, enloquecido, y gana el boquete.
+»Se arrastra, enloquecido, y gana el boquete.
 
-"Le sigo. Vientre revuelto de volcán sacude la Caverna paleolítica
+»Le sigo. Vientre revuelto de volcán sacude la Caverna paleolítica
 (entiéndame el discreto, que decir eso para letrado es iletradura
 manifiesta; empero, tal la percepción que de las cosas lograra en ése
 onírico transporte; no sea me juzgue sandio y analfabeto, que poseo
@@ -22427,22 +21274,21 @@ visuales. Fieras terciarias han brotado del seno de la tierra, y, jadeantes,
 a espera de aplastar a ésa de micos pareja, pues violamos su
 multimilenario secreto, impacientes y rabiosas, frente al boquete están.
 La hora de, entre los fantasmales molares, acabar, es llegada. El Prelado
-
 masculla de pecatus y pacatas, y no menos de petacas, (digo de
 pakahakhes), sobre las rodillas cae, cual si so ellas se anacimara, y ya, a
 hinojos, unce la testa, golpeando desesperado sus pechos.
 
-"¿Llora? Veo le burbujea salivilla, por la color hepática, y que
+»¿Llora? Veo le burbujea salivilla, por la color hepática, y que
 como gurugúa:
 
 –¡Miserere, Domine!... ¡Miserere, Domine!...
 
-"Bien le huelo que ante lo inevitable la postrer merced que de ese
+»Bien le huelo que ante lo inevitable la postrer merced que de ese
 Domine aguarda, es pasar, si alcanzar a los intestinos brutos no tiene
 enmienda, si no liviano, aliviando con su olor de santidad los acres que
 allí deben reinar.
 
-"¿Yo?... ¡Correr! ¡Correr!... (¿Correr, nayaba?... ¡Guá!...) ¿Adónde?
+»¿Yo?... ¡Correr! ¡Correr!... (¿Correr, nayaba?... ¡Guá!...) ¿Adónde?
 Tiemblo. ¿Herir esos bestiales blindajes de plutonio? Mientras
 rechúpanse babosas lenguas, fantasmales ojos acribillan. Todo fue
 (para la doctora Crestala) alcanzar el límite, que el planeta se
@@ -22456,61 +21302,61 @@ Santísima, la que limpia pecados, y con ellos carga, sangre de Nuestro
 Señor Jesucristo, que veo las fojas manoseadas del Divino Breviario, y
 ya su piadosa mano siento henirme en las apelmazadas entrañas...
 
-"A mi vez, como el Reverendo, clamo con angustiada contrición:
+»A mi vez, como el Reverendo, clamo con angustiada contrición:
 
-"–¡Recibe mi alma, Jesús mío! ¡Ten piedad y derrama tu
+»–¡Recibe mi alma, Jesús mío! ¡Ten piedad y derrama tu
 misericordia!... ¡Piedad, piedad, (tatay!)...
 
-"Vocesilla casi inaudible:
+»Vocesilla casi inaudible:
 
-"–¡José María!... ¡Josesmarías!...
+»–¡José María!... ¡Josesmarías!...
 
-"(¿Josesmarias?, ¿ja? ¿ja?... ¡Josesmarias!...)
+»(¿Josesmarias?, ¿ja? ¿ja?... ¡Josesmarias!...)
 
-"–¿Quién, quién eres?... ¿Tú, Jesús mío?...
+»–¿Quién, quién eres?... ¿Tú, Jesús mío?...
 
-"–¿No me reconoces, Josesmarias?...
+»–¿No me reconoces, Josesmarias?...
 
-"Las descomunales bestias se disponen al asalto. Cierro los ojos.
+»Las descomunales bestias se disponen al asalto. Cierro los ojos.
 
-"–¡Josesmarias!...
+»–¡Josesmarias!...
 
-"¿Quién se ensaliva en mi voz, Jesús mío?...
+»¿Quién se ensaliva en mi voz, Jesús mío?...
 
-"Espero la dentellada o pata ciclópea que sobre mí caiga.
+»Espero la dentellada o pata ciclópea que sobre mí caiga.
 
-"–¡Que se haga tu voluntad, Santo Cielo!...
+»–¡Que se haga tu voluntad, Santo Cielo!...
 
-"La vocesilla:
+»La vocesilla:
 
-"–¡Miserable Vidrio!... Mira: te engullirán sin percatarse que
+»–¡Miserable Vidrio!... Mira: te engullirán sin percatarse que
 tragaron hombre. ¡Alza, levanta la cabeza, Josesmarias!... ¿No me
 reconoces?... ¡Miserable Vidrio! ¡Soy la guagua de Mama-Liuka: soy
 Josesmarias Khespe!... ¡Míralos, ya, Hakhe-Runa; míralos a los ojos,
 Khala Rumi!... No tiembles: yo haré lo demás...
 
-"¡Soy Khespe! ¡Soy Khespe! ¡Soy Khespe!...
+»¡Soy Khespe! ¡Soy Khespe! ¡Soy Khespe!...
 
-"Lo comprendo.
+»Lo comprendo.
 
-"(–¡Imántame, oh, dulce cúspide del beso, que imanta las
+»(–¡Imántame, oh, dulce cúspide del beso, que imanta las
 estrellas!...)
 
- "Mi Chullpa-tullu fosforesce; y se disparan de mis ojos hazes de
+»Mi Chullpa-tullu fosforesce; y se disparan de mis ojos hazes de
 rayos que sacuden a las bestias, las hacen recular, aterrorízanlas,
 braman, y, finalmente, arrastrando las desvencijadas ancas, huyen.
 
-"¿Nayaha?... Respiro... Lejos ya, se inmovilizan: son las montañas.
+»¿Nayaha?... Respiro... Lejos ya, se inmovilizan: son las montañas.
 
-"Late vocesilla en mis trémulos labios: ¡tic-tac-tic-tac-tic-tac!
+»Late vocesilla en mis trémulos labios: ¡tic-tac-tic-tac-tic-tac!
 ¡Nayaha, Khespe! ¡Naya Khespe! ¡Khespe nayaha!...
 
- "¿Te has resucitado, vidrio sonso?".
+»¿Te has resucitado, vidrio sonso?".
 
 <hr>
 
- He aquí otra de las febricitantes páginas de esas Memorias:
-"Visito la Virreynal ciudad de los Degolladores del Tawantinsuyu; y, en
+He aquí otra de las febricitantes páginas de esas Memorias:
+«Visito la Virreynal ciudad de los Degolladores del Tawantinsuyu; y, en
 rueda de amigotes, y con no velada, declarada por tanto, volteriana y
 ricardopalmesca galanura, me refieren anécdota del sabio Lunarejo,
 barrendero que fue del Convento de Agustinos de la ciudad del
@@ -22521,53 +21367,52 @@ acaso el hablista más fino que el hispano produjo entre los cerdudos
 indios, a zaga de tantos sedeños barbones de híspido caletre, pero que
 albardearon su mesnada con lazos de trencilla ovina y sin mitones.
 
-"–Es el caso, tataku –me dicen–, que predicaba en la Basílica del
+»–Es el caso, tataku –me dicen–, que predicaba en la Basílica del
 Cuzco ante lo más linajudo de la sociedad de encomenderos coloniales,
 no menos que ante lo ferido y abatanado de la nobleza inkásika, uno de
 sus famosos sermones de las "Siete Palabras"..., famosos, de tan oídos
 que le fueron. Y, cuando, en un puño suspenso su auditorio, se
-
 arrebataba en el giro relampagueante y gorgorino, calló, tan en seco,
 que si se le quedaron mirando ojos que se saltaban de sí mesmos,
 presto se oyeron sonar sus alientos.
 
-"¡Guá!... ¡Guá!...
+»¡Guá!... ¡Guá!...
 
-"–¿Que se calló el chokllopokhocho del Inka?...
+»–¿Que se calló el chokllopokhocho del Inka?...
 
-"El Lunarejo, entanto, patético, circunflexo, y en drama, oteaba
+»El Lunarejo, entanto, patético, circunflexo, y en drama, oteaba
 hacia donde una indiesuca por abrirse paso, para allegarse al púlpito,
 hacía esfuerzos, menos a codazos que sudando entre los apretones que
 la daba hasta hacerla hipar la abigarrada barra de señoretes.
 
-"Allí, alzada su voz, abajado el señorío, El Lunarejo pidió una
+»Allí, alzada su voz, abajado el señorío, El Lunarejo pidió una
 caridad:
 
-"–Vuestras señorías, por caridad: hacedme merced de abrir paso
+»–Vuestras señorías, por caridad: hacedme merced de abrir paso
 a esa indiecita: ¡es mi madre!...
 
- "¡Flauta de cholo!... Mi madre: ésa, que si bien no entenderá
+»¡Flauta de cholo!... Mi madre: ésa, que si bien no entenderá
 palabra, quiere oirme: ¡esa indiecita, mi madre!...
 
- "Para badajos, tata Lunarejo, los tuyos; por algo eres, hoy aún,
+»Para badajos, tata Lunarejo, los tuyos; por algo eres, hoy aún,
 lunar de la cholería".
 
 <hr>
 
-"Hijas mías: Mama Liuka fue vuestra abuelita. Rezadla; no, por
+«Hijas mías: Mama Liuka fue vuestra abuelita. Rezadla; no, por
 causa alguna, la deis al olvido. Suya la fortuna que en manos de mi
 dulce gringuita, vuestra madre, para vosotras dejo. Nunca la viera nadie
 en los salones ni la mesa del hogar. La fregona fue; la cocinera
-mugrienta; la homildosa mandadera.
+mugrienta; la homildosa mandadera».
 
-"Si mi recuerdo no os inspira reugnancia, que unais al mío su
+«Si mi recuerdo no os inspira reugnancia, que unais al mío su
 nombre, y que la bendigais, para que mis tristes huesos alivien la
 amargura con que a la tumba llegan. Sólo vuestra candidez la compense
 de la (ella sí repugnante) vergüenza con que la privé el derecho de oirse
 llamar por su hijo, el doctor Cristal, como con tánta ternura por el
 llokhallo Josesmarias Khespe: ¡Mamay!... ¡Mamitay!...
 
-"–¡Vámonos, mama Liuka!..."
+»–¡Vámonos, mama Liuka!...»
 
 ¡Jüera, estamos jurirus, doctora Crestala; ya no tienes usted otra
 compañera que la pogre!
@@ -22579,16 +21424,22 @@ se postraron ante el catafalco y, a juzgar de sus t i u k e o s, elevaron
 preces al cielo por el eterno descanso del arrepentido Vidrio. Pero, tras
 la ostentosa visita...
 
- Ya las "Memorias" del doctor Cristal se crispan, retortijan,
+<br>
+
+Ya las "Memorias" del doctor Cristal se crispan, retortijan,
 rechinan, en los ensortijados deditos de las señoritas Cristal.
 
- –¿Por qué nos engendraste si eras indio?...
+<br>
 
- Repróchalas la francesita. Por su imaginación de humilde hortera
+–¿Por qué nos engendraste si eras indio?...
+
+Repróchalas la francesita. Por su imaginación de humilde hortera
 afro-hamburguesa-parisina, pasa milunanochesco relampagueo: ¡Mama
 Liuka, poseedora de fabulosa fortuna, que, avaros, retuvieron durante
 siglos los chullpares de Kutimpu; heredera de la sangre y de la ultrajada
 nobleza de Wayna Khapak, el Gran Emperador!
+
+<br>
 
 –¡Mon cuoer!... ¡Un Inka!... ¡Qué fascinante!... ¡Qué nutritivo!...
 Pero, como la francesita duerme, y duermen las Ñustas mistisas, el
@@ -22611,9 +21462,10 @@ y el olvido. El olvido más barato que el llanto del pistón.
 
 1
 
-Nó; no pudo ser así, niña querida; si mis sueños carecían de
-pestañas. Estoy acostumbrado a comer lo que me agrada; y nunca en
+<br>
 
+No; no pudo ser así, niña querida; si mis sueños carecían de
+pestañas. Estoy acostumbrado a comer lo que me agrada; y nunca en
 mis fogones se cocinó algo no gustoso a mi paladar. En la paskhana de
 los que se trajinan, todos ojos atónitos cuando la hora llegada de la
 cena era, y en chuhwa atlanta el paskhañero disponía dos esqueletos y
@@ -22634,16 +21486,20 @@ ojos, agitaban sus caudales abanicando unas lágrimas.
 –¡Este hombre –se decían– es una locura inkaika; está enlutado, y
 come muertos!
 
- Nó; no pudo ser así, querida niña.
+No; no pudo ser así, querida niña.
+
+<br>
 
 2
 
- Cuando las wankaras silenciaron, y presumían llachos y lakhos,
+<br>
+
+Cuando las wankaras silenciaron, y presumían llachos y lakhos,
 llegué punto más ni menos a tu festín.
 
- –¡Está el novio!... ¡Que el novio está! –gritaron.
+–¡Está el novio!... ¡Que el novio está! –gritaron.
 
- Y a esa voz pinkhollos y phusiris sonaron al unísono. Pero, la
+Y a esa voz pinkhollos y phusiris sonaron al unísono. Pero, la
 novia no estaba... ¡Necios! Allí estabas, niña querida. Naturalmente
 estabas allí, como en el mukhu el mucílago; y era la tuya babilla de
 enloquecer. Decirte ahora que enloquecido había, no es cantarte
@@ -22657,11 +21513,11 @@ ama, y a mí me ama tanto, a mí me dijo:
 Y del poeta la suspensiva lira no vio que ya en mí lloraban tus
 mucílagos.
 
- No olvidaré cuán bella vestida con mis sakhas estabas; si en hubo
+No olvidaré cuán bella vestida con mis sakhas estabas; si en hubo
 hay sedas para tu veste; y habrá (en hubo) candidez atlanta en ojo
 chokña.
 
- Que dije al poeta:
+Que dije al poeta:
 
 –No olvides que acostumbrado estoy en el agrado; por manera
 que suspéndete; al menos no te pongas en lágrima. Que bastaráme
@@ -22689,7 +21545,11 @@ cascos hollaron los ollares oscuros.
 
 –¡Vamos, vamos a Él, niña querida!...
 
+<br>
+
 3
+
+<br>
 
 Flotaba el alga de oro cuando el verde Achachila se enamoró de
 tus ojos, querida niña, y los metió en el lago; pero te vio llegar
@@ -22715,7 +21575,11 @@ del Espanto.
 
 En esta lágrima, querida niña.
 
+<br>
+
 4
+
+<br>
 
 Comprendo que en el cielo-lago tus ojos miren, niña querida. Yo
 te conducire sin ojos; que me son maternales sus entrañas. Verás:
@@ -22744,14 +21608,18 @@ aguas se salió chorreando; tomóme, tan sin tiempo, que tiempo me
 dejó para chillar; que ya me vi acostado en tu nidal de sakhas y millares
 de Ispis y Kharachis...
 
- –¡Tirol! –me cantaban– ¡Tirol! ¡Tirol! ¡Tirol! ¡Tirolí! ¡Tirolí!...
+–¡Tirol! –me cantaban– ¡Tirol! ¡Tirol! ¡Tirol! ¡Tirolí! ¡Tirolí!...
 ¡Tirol! ¡Tirol!...
 
- Cantaban como pheskhos; danzaban como hunkhallas.
+Cantaban como pheskhos; danzaban como hunkhallas.
 
- Nunca vieran juguete más pogre, niña querida.
+Nunca vieran juguete más pogre, niña querida.
+
+<br>
 
 5
+
+<br>
 
 Yo te digo, querida niña: le conozco y me conoce; o por
 conocerme se conoce. Y ése de la mano velluda sabe las usutas que
@@ -22775,46 +21643,36 @@ por no se cual balazo que en las montoneras de Cáceres le dieron,
 cuando de locumbas se ponía bravo, nada sabía que subirme al
 hombro, darse de cojo a cojear; y cojeando, cojeando, tirarme al lago.
 
- –¿Qué haces allá con esos Werakhochas, Khori-Puma –me
+–¿Qué haces allá con esos Werakhochas, Khori-Puma –me
 decía–; si acá estás con tus familias?
 
- Le conozco; le conozco. Si él tira de mí y yo tiro de él, querida
+Le conozco; le conozco. Si él tira de mí y yo tiro de él, querida
 niña.
 
 ### HAYLLI
 
-Hermano en dolores transparentes;
+> Hermano en dolores transparentes; \
+> hermano en coléricos fulgores: \
+> ¡que me devore, amarga, tu sed! \
+> No mi sed sacien nunca tus olas, \
+> espantoso hermano, Layka-Pillu. \
+> Ya la noche florece soles de oro; \
+> plata anochece en tus solares cálices. \
+> Estoy a una camisa reducido \
+> de cuatro piojos pétreos. Aquí me tiene \
+> reducido la camisa del piojo de tus olas.
 
-hermano en coléricos fulgores:
-
-¡que me devore, amarga, tu sed!
-
-No mi sed sacien nunca tus olas,
-
-espantoso hermano, Layka-Pillu.
-
-Ya la noche florece soles de oro;
-
-plata anochece en tus solares cálices.
-
-Estoy a una camisa reducido
-
-de cuatro piojos pétreos. Aquí me tiene
-
-reducido la camisa del piojo de tus olas.
-
-Hermano Titakaka;
-
- Layka-Pillu
+>   Hermano Titakaka; \
+>   Layka-Pillu...
 
     * * *
 
- Que el almibar de tu mucílago, niña querida, ya pone amargo el
+Que el almibar de tu mucílago, niña querida, ya pone amargo el
 pan. ¿Cómo, la pogre mamala llora, oyes?
 
- –¡Ayayay, guagüitay!
+–¡Ayayay, guagüitay!
 
- Y el inmenso aeda, yacente, la cruz entre las frías manos, los fríos
+Y el inmenso aeda, yacente, la cruz entre las frías manos, los fríos
 cirios en los crespones que arden, yacente el sublime lírida, divo mudo,
 atayachado hablante, poco tiorba y nada de pututu, en estucos, grecas y
 volutas disolutas, acurrucada el alma. Sin khepi para el viaje, sin mama
@@ -22838,44 +21696,33 @@ para él la dulce Erato? La magna Tritonia no le sabe; la próvida
 Hipocrene no le nutre... Y nunca quiso ver que en la Pakcha estaban
 las Sirenas; y en el charango de las Sirenas las canciones.
 
- –¡Ayayay, guagüitay!
+–¡Ayayay, guagüitay!
 
- Mendigo: mendigas oros y te rinde el oro.
+Mendigo: mendigas oros y te rinde el oro.
 
- Nó tuya la cupa. Fueron el miedo al indio y el miedo del indio;
+No tuya la cupa. Fueron el miedo al indio y el miedo del indio;
 miedo a tu madre y el miedo de tu madre.
 
 <hr>
 
 ### HAYLLI
 
-Lupi-tata, challwa y lago, ahóganse en destellos.
+> Lupi-tata, challwa y lago, ahóganse en destellos. \
+> Eléctrico kheñula chispea entre las olas. \
+> De pie en la thusa rauda, el challwero verde, \
+> singla; rompe el cristal; dispara la mahaña. \
+> Mas, instantáneo Khesti, con náutica maniobra, \
+> húrtale el arpón... En el chispeante cabrilleo \
+> pincelada argentea, vibra, estalla, desparece. \
+> Los verdes brazos, broncos, ya lakhos chorrean \
+> del líquido Achachila: y rojos, siniestros ojos, \
+> hipnóticos, sangrientos, entre las olas arden...
 
-Eléctrico kheñula chispea entre las olas.
+> ¡Abríguemos tu calor, Sol, Lupi-tata! \
+> ¡Consérvanos al Inka; danos tus Willkapasas! \
+> ¡Al Khawiti, los Thunupas, los huevos del Kunturi!
 
-De pie en la thusa rauda, el challwero verde,
-
-singla; rompe el cristal; dispara la mahaña.
-
-Mas, instantáneo Khesti, con náutica maniobra,
-
-húrtale el arpón... En el chispeante cabrilleo
-
-pincelada argentea, vibra, estalla, desparece.
-
-Los verdes brazos, broncos, ya lakhos chorrean
-
-del líquido Achachila: y rojos, siniestros ojos,
-
-hipnóticos, sangrientos, entre las olas arden...
-
-¡Abríguemos tu calor, Sol, Lupi-tata!
-
-¡Consérvanos al Inka; danos tus Willkapasas!
-
-¡Al Khawiti, los Thunupas, los huevos del Kunturi!
-
-Caldea la fértil khorota del Kookhena.
+> Caldea la fértil khorota del Kookhena.
 
 <hr>
 
@@ -22898,6 +21745,8 @@ porque muere...
 
 I
 
+<br>
+
 Te diré, niña querida, aquello fue descomunal; si apenas las aguas
 nos sorbieron, como si no ésa el ánfora del Titikaka, en hirvientes lavas
 mis huesos fueron sometidos a cocción, a ratos placentera, mas otros
@@ -22907,11 +21756,19 @@ tales modos, que mis formas de hombre desaparecían, y me fueron
 devueltas las del Puma; pero las que sufro hoy no; las de siempre:
 rectilíneas, de ángulos duros y lapídeos.
 
+<br>
+
 ¿Oyes? Vuelve a oir.
 
-–¡EL PEZ DE ORO!...
+<br>
 
 –¡EL PEZ DE ORO!...
+
+<br>
+
+–¡EL PEZ DE ORO!...
+
+<br>
 
 A mis oídos, que palpitaban en el hervor atómico, rompiendo la
 masa de agua, llegaban fulgores del esquilón de hidrógeno; y ya, entre
@@ -22936,13 +21793,12 @@ torrentes de luz, iluminando un vientre de cristal...
 
 Como el que cosa suya mira, y remira, y del olvido no le saca la
 traza, aunque siéntela en lo hondo de sus mostos, y sábela unida a
-
 ensordecida saliva que le gozquilla, atónito miraba que todo eso
 mecíase en mis ojos con un olor a cuna.
 
 –¡Khori-Puma! –me despertó EL PEZ DE ORO–: Mira...
 
- Y vi grupo de challwas de plata, que avanzaba, danzando,
+Y vi grupo de challwas de plata, que avanzaba, danzando,
 danzando, al són de phusas acompasadas al ritmo monotón de los
 bombos. Danzaban con lindos movimientos, a uno y otro lados,
 meneando las cabezas, meneando los remos, con un vaiven de
@@ -22957,19 +21813,14 @@ arrulla tu montaña.
 
 ### HARAWI
 
-Khaipi
+> Khaipi \
+> wañuskha \
+> llanta \
+> guaguan.
 
-wañuskha
-
-llanta
-
-guaguan.
-
-Khaipi
-
-Laykha-kota
-
-Khori-Challwa.
+> Khaipi \
+> Laykha-kota \
+> Khori-Challwa. 
 
 ¿Oyes, niña querida? En el vértigo de la Wayñusiña, se fundían el
 Agua, el Pez y el Puma.
@@ -22991,7 +21842,9 @@ melancólica ternura, danzaron el Inti Raymi del Titikaka; y era el suyo
 mítico mimo en que el hombre del agua bendecía al astro y agradecía
 su calor.
 
-¡Qué noble apostura la de los Suchis, niña querida! Los Laykhadermos se prodigaron en hacer de su piel el lujo de la pirografía. Dícenles hermanos de los Khairas; y acaso razón no les falta. Pera la del
+¡Qué noble apostura la de los Suchis, niña querida! Los Laykhadermos se
+prodigaron en hacer de su piel el lujo de la pirografía. Dícenles
+hermanos de los Khairas; y acaso razón no les falta. Pera la del
 Suchi es piel con la suavidad del vientre de la mamala cuando ya por
 sus adentros patales la guagua. Y él... ¡qué noble bestia! Si musculoso,
 el músculo enternecido, y cuando avanza cortando el agua al amor
@@ -23015,19 +21868,14 @@ no repetirían la cantiga.
 
 ### CORAL
 
-Khaipi
+> Khaipi \
+> wañuskha \
+> llanta \
+> guaguan.
 
-wañuskha
-
-llanta
-
-guaguan.
-
-Khaipi
-
-Laykha-kota
-
-Khori-challwa.
+> Khaipi \
+> Laykha-kota \
+> Khori-challwa.
 
 Acompañado de conjunto de Pinkhollos, Khenas y Khenakhenas, que inspirados maestros conducían, vibraban ya los agudos
 gorjeos de las rondallas, de quienes los ¡Whipa! ¡Whipa! son Wiphala de
@@ -23043,15 +21891,15 @@ abscónditos y transidos.
 
 ¿Es que, acaso, lo máximo es sólo en cuanto mínimo?
 
- ¿En qué intersección, en qué misterioso punto, me preguntaba,
+¿En qué intersección, en qué misterioso punto, me preguntaba,
 están la velocidad hierática, el peso ingrávido, y endulzan, sin que por
 eso dejen de ser amargura, o movimiento? Entendí, niña querida, que
 el Khori-Challwa era el instante dulce de tu hiel; y comido por el
 hambre de los chullpares, la fauce abrí, y le devoré.
 
 El en mí esté para que tú jamás me dejes; y estando en tan
-apretado estuche, para siempre será el grandor de los hombres
-<hr>
+apretado estuche, para siempre será el grandor de los hombres....
+...............................................................
 
 Sacudían de sus doradas crines el viejo lodo de aquella región de
 las aguas que nadie conoce de tan introspectiva, profunda y escurridiza,
@@ -23061,7 +21909,6 @@ Hipocampos, no como suelen en noches de luna, confundiendo sus
 crines espumosas con las babazas del totoral, sino en acordadas
 cofradías, sujetas a director de resplandeciente y melodioso casco...
 Casi extranjeros en el Titikaka, le habitan sin embargo junto a
-
 inmemoriales sueños. Quién no se detuvo ante la gallardía y el don de
 ritmo con que sus movimientos conducían. No pocos instantes
 dejamos de respirar... Así, pusiéronsenos delante; sus músicos harían el
@@ -23089,6 +21936,8 @@ Khesti-challwas, Umantus, Khonos, Kharachis, en ordenadas capillas
 coreográficas, vivo testimonio del amor con que los titikakas
 cultivamos las expresiones emotivas de nuestro pueblo.
 
+<br>
+
 Ver, cuando esperaban no verle más, dirigirse al Palacio de Oro,
 algo fue que embebía de felicidad ojos, corazones y escamas.
 
@@ -23115,6 +21964,8 @@ perdimos. Yo saludo en ti a su Emperador, el Khori-Puma.
 
 ¡Piupiu-titit!
 
+<br>
+
 Qué cosas las de tu Khori-Challwa, niña querida; si el fuego de
 los volcanes había vuelto en oro humilde el insensato lodo de P u m a.
 
@@ -23124,6 +21975,8 @@ rosa de agua, vimos al Huturi y, cerca a él, al Tata-Achachila,
 avanzando para brindarnos la danza del Chatri-Puli. El voluminoso y
 aurisolar Achachachila sería el músico, que ya embocaba y tañía el
 khenon benedicto.
+
+<br>
 
 Infante aún rendí culto al Huturi, querida niña; de él maravillados
 eyrais me cantaba Mama Margacha cuando la mascoteaba el ñuñu
@@ -23137,7 +21990,11 @@ media laguna, desgranaba primores del Chatri-puli, la serpiente del
 Titikaka tremuló con flexiones ondulantes, echaba fuego la fauce, era
 su cuerpo una llamarada, y, poniéndose vertical, comenzó a danzar...
 
+<br>
+
 II
+
+<br>
 
 Las fiestas al fin pasaron, niña querida. El Khori-Puma asumió el
 gobierno del Imperio. Y lo primero que hizo fue acercarse a su pueblo;
@@ -23145,8 +22002,8 @@ sentir de cerca su corazón; cuidar de su comida; velar su reposo;
 endulzar sus quebrantos. Y como todo pueblo tiene enemigos, por lo
 mismo que la ciénega es el tumor de las simas, y los tiene dentro como
 los tiene fuera, el Rey prudente tratará de entender al enemigo antes
-que majarlo; que a veces con sólo entenderle ya lo maja. El KhoriPuma, lo mismo que a los bajíos compadece la montaña, y los abriga y
-
+que majarlo; que a veces con sólo entenderle ya lo maja. El Khori-Puma,
+lo mismo que a los bajíos compadece la montaña, y los abriga y
 protege con su sombra, gesto airado hizo a los enemigos de su pueblo.
 Les atrajo a sus modos; penetró en el fondo de sus apetitos; descubrió
 el resorte de sus sentimientos. Su asombro no fue vil cuando se enteró
@@ -23195,6 +22052,8 @@ y suntuosas ceremonias que siguieron al arribo de EL PEZ DE ORO;
 quiero declararte una de las agudas experiencias que me brindó el
 gobierno del Titikaka.
 
+<br>
+
 Allí reinaba –y según el Hake-hake amenazaba con volver a
 reinar– un espíritu maléfico que existe sólo en la perversidad de sus
 obras. Le llamaban el Wawaku. Para mí era el pavor de la muerte que
@@ -23209,7 +22068,7 @@ pueblo, aunque sólo fuese la bestia en quien la bestia estaba
 empantanada. Si hubo quienes le concedían poderes represivos sobre
 los vicios, juzgándole un mal necesario.
 
- –El temor que inspira el Wawaku –me dijeron– es freno para la
+–El temor que inspira el Wawaku –me dijeron– es freno para la
 delincuencia.
 
 Considera la temeridad de exceso tal, si el Wawaku viniera a ser
@@ -23223,7 +22082,6 @@ devore como el medio de conseguir que la virtud domine,
 fundamentará el bien en la coexistencia de poderes que nunca tendrán
 relación, pues, si son, son precisamente porque se repelen. La vida es
 buena, y sólo buena; o no es buena, en cuyo caso es mala. La vida no
-
 puede ser buena y mala al mismo tiempo. La vida es Vida: ¿cómo
 podrá ser Muerte?
 
@@ -23245,11 +22103,11 @@ ni en el corazón, cabe, por un día, y a título alguno, la coexistencia del
 anticuerpo: permaneceremos en guerra contra él hasta suprimirlo o nos
 suprima. No podemos brindarle el amor de nuestro tálamo.
 
- En la vida y en el Imperio sólo la salud y el pueblo; el justo
+En la vida y en el Imperio sólo la salud y el pueblo; el justo
 predominio de éste es el único estado saludable para la república y para
 la vida.
 
- ¿Entiendes, Plato?
+¿Entiendes, Plato?
 
     * * *
 
@@ -23266,7 +22124,6 @@ No encaraba el arte de una Edad de Piedra, sino la edad ya crecida del
 metal; que ver columna metálica, cuadrangular, ya arbórea, en vanos de
 los lienzos, como para representar puntales del firmamento; y luego
 profusión de estatuas de línea sobria, que mantenían las manos sobre el
-
 seno, para representar la fecundidad maternal, era comprender que la
 antigüedad de tan alta construcción se perdía en lejanías del más agudo
 recuerdo, y que fue de ella que partió el sentido de la habitación,
@@ -23301,13 +22158,12 @@ palaciego, con que el viejo dignatario se había expresado, me hizo
 entender que en la nobleza de esa palabra, dignidad ancestral, hija de
 gran pueblo, volvía de oscuros senos del Pasado; que sólo los pueblos
 eminentes, aunque desaparecido hayan del haz del planeta –que no
-desaparecen–son capaces de infundir tanta majestad a la palabra.
+desaparecen– son capaces de infundir tanta majestad a la palabra.
 
 Después de nuevas reverencias nos invitó a avanzar. Que en estas
 ceremonias protocolares el pueblo no estaba comprendido pensé, no
 livianamente contrariado. Pero bien pronto mi desasosiego habría de
 disiparse; si cuando el Khori-Puma puso pata en el primer escaño de
-
 mármol que da acceso al mirífico recinto; EL PEZ DE ORO batió
 aletas, cortando las corrientes, encendíalas con su esplendor, volvieron
 a estentorear argentinas las campanas del agua, y trueno de pueblo hizo
@@ -23315,7 +22171,7 @@ temblar la enorme masa líquida.
 
 –¡Wipha! ¡Wipha!
 
-–¡Hallalla, K h o ri - Pu m a!
+–¡Hallalla, Khori-Puma!
 
 –¡Hossana al Khori-Challwa!
 
@@ -23327,17 +22183,12 @@ querida niña...
 
 ### HAYLLI
 
-¡Bon! ¡Bon!
-
-Bombos
-
-de los ayllus;
-
-latidos
-
-de la tierra...
-
-¡Bon! ¡Bon! ¡Bon!
+> ¡Bon! ¡Bon! \
+> Bombos \
+> de los ayllus; \
+> latidos \
+> de la tierra... \
+> ¡Bon! ¡Bon! ¡Bon! 
 
 Así, con la mayor solemnidad, fuimos conducidos a inmenso
 salón, donde cien amplios trapezoides absorvían dorada luz que
@@ -23355,16 +22206,22 @@ compases. Si al ingresar por ensalmo el silencio se puso de pie en la
 inmensidad del Tawantinsuyu, cuando, seguido del Khori-Challwa,
 ascendí al trono, ensordecedor estruendo lo anegó todo.
 
+<br>
+
 –¡Wipha! ¡Wipha!
+
+<br>
 
 –¡Hallalla! ¡Hallalla!
 
+<br>
+
 Un sueño soñado, niña querida.
 
- Avanzó Khesti, muy joven, de aspecto al mismo tiempo que
+Avanzó Khesti, muy joven, de aspecto al mismo tiempo que
 pulido grave; con solemne entonación, dijo:
 
- –¡Oh, Khori-Puma!, en mí te mochan los Pasados y veneran la
+–¡Oh, Khori-Puma!, en mí te mochan los Pasados y veneran la
 autoridad antigua que alumbra en tu corazón... Condenados al silencio,
 la muerte enseñoreó nuestro destino; y el dolor que estrangula fue
 comparable sólo al dolor de los Chullpares. De una sombra, que nadie
@@ -23385,16 +22242,18 @@ repugnante tirano súpose solo frente a un pueblo que tenía otra arma
 para abatirle que su odio; y con él le sitió hasta envenenarle los jugos
 de la sangre.
 
-"No te emborrache la negra lujuria (díjole ese extraño apóstol); tú
+<br>
+
+«No te emborrache la negra lujuria (díjole ese extraño apóstol); tú
 serás devorado por la bestia de zarpa de oro, si no devoras la estrella
-que late en lo más vil de tu inmundicia. Tu guerra será con la estrella".
+que late en lo más vil de tu inmundicia. Tu guerra será con la estrella».
 
 Y al pueblo, que temblaba, le anunció:
 
- "Cuando el Lago arda, bramen volcanes, y el Khori-Challwa
+«Cuando el Lago arda, bramen volcanes, y el Khori-Challwa
 regrese de la tierra a la tierra, florecerá el corazón del mundo. ¡Estad
 atentos a un rugido que sacudirá las estructuras del Universo!
-¡Temblaréis los vivos y se levantarán los muertos!".
+¡Temblaréis los vivos y se levantarán los muertos!».
 
 En el lodo de la Madre un día se estremeció estrella tan diminuta
 que sólo alcanzaba a verla quien la lloraba; pero ella prendió fogata en
@@ -23422,7 +22281,9 @@ Hespérides por lo alto y de las Atlántidas por lo bajo...
 
 –¡Ruge, ruge, Khori-Puma!
 
- Comprendí que los hijos de este hermoso país eran tan sencillos
+<br>
+
+Comprendí que los hijos de este hermoso país eran tan sencillos
 como generosos; de manera que cuando cedió el estruendo, en
 recatadas palabras agradecí la emoción con que se nos recibía, sobre
 todo la sencillez de que era hijo su afiebrado entusiasmo.
@@ -23436,7 +22297,6 @@ discurso que acabo de oir lleno de asombro. Sé que él fruto es del
 infortunio que ha sufrido nuestro pueblo; y que si de proyecciones casi
 sobrenaturales, es porque sobrehumanas fueron las penalidades que
 vivió la sagrada tierra de nuestras madres. Querría que en homenaje a
-
 mis condiciones modestas, y al fervor humilde con que mi guagua ha
 servido, y sirve, la causa de mi pueblo, se supriman algunos conceptos,
 que de darles asidero me turbarían con su misteriosa grandeza. ¡No se
@@ -23477,7 +22337,6 @@ me impediría cumplir honestamente mi Destino; y asumir su defensa.
 
 Qué tremenda responsabilidad no fue esta, querida niña. Si tres
 hijos nos quitan el sueño, dos veces quinientos millones de hijos no
-
 habrán de procurárnoslo. Y gobernar no es acudir al bien de todos,
 porque ese todos es una abstracción. El Todo se forma de Unos, y en
 el problema de ése Uno está el problema de todos; por lo que si no se
@@ -23505,7 +22364,7 @@ Inka, proclamándole padre del huérfano; y es a causa de ser así que en
 su república el wakchu existía, no podía existir, cuando tan poderoso y
 bondadoso padre le tenía cerca de su providencia.
 
- Cierto es que fríos y enérgicos se mostraron también; mas sólo
+Cierto es que fríos y enérgicos se mostraron también; mas sólo
 con aquello que va contra el bienestar del hombre o la dignidad de la
 Patria.
 
@@ -23517,12 +22376,13 @@ hay distancia insondable. Enérgico suele llamarse al Gobernante que
 disponiendo de la fuerza no vacila en emplearla contra el pueblo, que
 tiene otra arma que su corazón, y, a veces, las más, su hambre.
 Sostengo que criminal nato, digno del patíbulo. Además, necio; que la
-
 sangre del pueblo no coagula, como la pasión no razona. Y una vez en
 movimiento ésta y derramada aquélla, pararán hasta ahogar a los
 sicarios... Enérgico será el Gobernante capaz de amputar la mano del
 que pretenda hacerle gobernar sobre los cadáveres y el temblor de los
 hijos de su pueblo.
+
+<br>
 
 ¿Cómo puede dormir el Jefe de un Estado, banquetearse, holgar,
 si le hiere la angustia de hogares desguarnecidos, sin pan, sin fuego, sin
@@ -23561,6 +22421,8 @@ Sin olvidar que el enfermo puede curar si se le administran
 medicinas simpáticas, cuando es tiempo, antes que reactivos violentos
 de ésos que cuando no alivian matan, proteja con entraña de hombre al
 que delinquió.
+
+<br>
 
 Dura cosa es para el Rey obrar como un dios, como no menos
 dura para los dioses sentir como hombres; mas el Gobernante sepa que
@@ -23622,6 +22484,8 @@ alcanza a nutrirle, pronto sabe que le amasaron sin levadura. Estimará
 que le pretenden alimentar con fórmulas, y no con el pan justo y sano
 que hinche su torrente sanguíneo. El pueblo no elucubra: digiere.
 
+<br>
+
 Si hay quien puede mostrar que el mastín a quien su dueño no alimenta, vaga, por tanto, menesteroso y famélico, siente ternura por su
 propietario, aún tenida cuenta la santa magnanimidad del perro, todo
 cuanto me brindaron pasadas experiencias, y las de hoy, que son el
@@ -23634,7 +22498,6 @@ el morbo es donde atinge con mayores premuras. Han anotado los
 sabios que el tuberculoso, a medida le agosta la bacteria, sufre
 angustiosas exigencias sexuales, y lo estiman marcha galopante hacia la
 muerte. Craso error: ésa la marcha galopante a la vida; pues el enfermo,
-
 (la célula vital es inmune), siente que no la muerte, la renovación le
 habrá de redimir, y persigue transfundirse, volver a nacer. Sé que todo
 esto no es fácil de entender aún; mas por eso dejará de entendérselo al
@@ -23716,7 +22579,6 @@ Tawantinsuyu. Lo que consideraba altamente emulable.
 
 –Así aprehendido, –les dije, sintetizando mi alegato–, el valor de
 un Gobernante está en relación a su capacidad de rendimiento; de
-
 manera que cuando flaquean, ¡y por cuántos motivos puede declinar!,
 su valor flaquea también. Otorgar en este caso el Llautu al hijo, por ser
 hijo del Gobernante, la tradición secular lo autoriza, y aunque puede
@@ -23754,7 +22616,6 @@ aplicaría a la administración de los intereses públicos con juvenil osadía
 y temeridad. No. La suya experiencia secular, si es de las experiencias
 de la vida, las cuales, si quereis verlo, viven las de todas sus creaturas.
 Así –retenedlo– el hombre más viejo cuando más joven; por lo que
-
 juventud, autoridad en acción. Ese el sentido dinámico del deber, que
 es poder. La acción es el hecho del esquema; pero todo esquema
 reproduce acciones que generaron acciones. Tal vez algún día me
@@ -23790,6 +22651,8 @@ entre los gobernantes a quienes corresponde el trono, cuando ellos no
 corresponden al trono. Obtenga el Khori-Challwa el llautu por sus
 méritos; y sólo así sea el ungido para el llautu...
 
+<br>
+
 Desestimó la Ulakha mi proyecto y me impuso permanecer hasta
 tanto las energías me lo dejaran; mas sostuvo con ardimiento que entre
 los ciudadanos nábiles, con mayores títulos que Él, ninguno.
@@ -23824,6 +22687,8 @@ algo... digo... (Perdona si el corazón atropella mi palabra)... Algo que
 hube de acallar hasta hoy y fue impaciente aguijón de mi lengua y
 diario acicate de mi latido...
 
+<br>
+
 ¡EL PEZ DE ORO, no es hito terminal; es nuevo punto de
 partida para la Vida! Cuando El fulgura se rompe la tiniebla que velaba
 la crisálida en que eclosiona y crea el sentimiento. Si débiles nosotros a
@@ -23831,7 +22696,6 @@ la voz de la vida, al deber de la tierra, a las imposiciones de nuestro
 Destino, consintiéramos en preterir su nombre para darte sucesión,
 nos haríamos dignos de la befa de quienes, por que tras ellos venimos,
 tras nosotros vienen, siguiendo sus auríferas huellas; si saberle en
-
 nosotros, y pretender sustraérsele, equivaldría a (para rehuir el impacto
 de su esplendor), extraer los ojos de las órbitas y hacer que desde el
 suelo le rastreen. No hay manera de tenerle que saberle, y saberle
@@ -23855,15 +22719,17 @@ de su padre sólo en cuanto habita su naturaleza; quien en esa naturaleza
 viene tiene que mostrarnos sus credenciales. El hombre nacido, oh
 Hiliris, es el hombre que fue.
 
- –¡Sí, así es, oh, Khori-Puma: en su juvenil acento está sellada tu
+<br>
+
+–¡Sí, así es, oh, Khori-Puma: en su juvenil acento está sellada tu
 zarpa! –clamó, estentóreo, el noble Umantu.
 
- Sentíme, al fín, anonadado por las explosiones de la felicidad que
+Sentíme, al fín, anonadado por las explosiones de la felicidad que
 suelen dejar atónita la sangre.
 
- Con voz en que mis lágrimas se ahogaban, dije:
+Con voz en que mis lágrimas se ahogaban, dije:
 
- –¡Es vuestro; y nadie tiene sobre El destino sino su pueblo!...
+–¡Es vuestro; y nadie tiene sobre El destino sino su pueblo!...
 ¿Por qué es, oh, Hiliris, que los viejos chochamos con el Porvenir, y
 somos como la vieja mamala que vive de atizar con huesos su triste
 fogón? Porque el Porvenir para el viejo es la juventud que le vendrá, y
@@ -23876,12 +22742,15 @@ el Pasado, que es siempre por venir...
 
     * * *
 
-Me alcé muralla punzante para el advenimiento del KhoriChallwa, niña querida; pues le sabía el que tumba murallas. Cuando con
-El a solas, y me trinaban sus primores:
+Me alcé muralla punzante para el advenimiento del KhoriChallwa, niña
+querida; pues le sabía el que tumba murallas. Cuando con
+Él a solas, y me trinaban sus primores:
 
 –¡Piupiu-titit!...
 
- Le canté:
+Le canté:
+
+<br>
 
 –¡Ha llegado tu hora, guagualay! El trino rompe y emboca la
 trompeta. Hijo mío: el Sol nace viejo porque alumbra luz de los siglos
@@ -23910,11 +22779,11 @@ Tú eres Naya.
 
     * * *
 
- Hícele campo en las Ulakas, y cuidando su florida adolescencia,
+Hícele campo en las Ulakas, y cuidando su florida adolescencia,
 gusté la embriaguez de saberle ariwallu en que flamea el viejo fuego de
 la Patria.
 
- De una de esas sesiones conservó largo recuerdo, demostrándome con su interés que sus planteamientos le preocupaban.
+De una de esas sesiones conservó largo recuerdo, demostrándome con su interés que sus planteamientos le preocupaban.
 
 –Quien juzgare por las apariencias, Khori-Puma, –me dijo–,
 habría de llegar a la conclusión de que tus doctrinas de Gobierno se
@@ -23923,9 +22792,13 @@ sangre. Sin embargo, he reflexionado que si la sangre ha hecho la
 Historia, no es porque el hombre la vierte; sino porque es sangre
 cuanto anima y fecunda la vida...
 
+<br>
+
 Querida niña: mi guagua me sabía a mi agua.
 
- –Alabo con veneración, respetables Hiliris –en señalada asamblea
+<br>
+
+–Alabo con veneración, respetables Hiliris –en señalada asamblea
 de la Ulaka sostuviera tu Khori-Puma–; alabo la organización que
 habeis conservado de nuestros antepasados, cuya sabiduría nos obliga a
 desearles diario nido en nuestro corazón, y que en él, enternecidos, se
@@ -23954,7 +22827,6 @@ quienes representen a filósofos, técnicos, especialistas en industrias
 estractivas y fabriles. En vosotros, ciertamente, se personalizan los
 estamentos sociales y económicos de la Nación... ¿Pero, quiere decir
 que no son un varón y una varona el principio de la generación? La
-
 Nación, familia muy numerosa; no menos; no más. Por ruin trato que
 se diera a la varona, jamás será asequibla la existencia de hogar sin los
 derechos de la madre. Ved en esto que la estructura del poder
@@ -24032,7 +22904,6 @@ matriarcado el número de nacimientos era inmensamente mayor, si se
 dan casos como el de Tiwanaku cuyo radio de dominio político abarca
 todo un mundo. Bajo su hegemonía el planeta, indudablemente, se
 hallaba más poblado, y la superpoblación determinó la crisis técnica
-
 que echa por tierra el régimen, crea el gobierno varonil y la natalidad es
 férreamente regulada, como se ve aun hoy, seña inequívoca de que el
 maltusianismo fue eje dinámico de su cultura.
@@ -24071,7 +22942,6 @@ caracterizó por una inmensamente mayor prolificidad.
 El mismo fenómeno se manifiesta en otros continentes; por
 manera que la apreciación estadigráfica vendrá a comprobar que la
 natalidad regulada es el hecho en este orden característico de la
-
 sociedad testicular; como la natalidad ilimitada lo fue del matriarcado.
 Tras el velo sombrío de la ignorancia de estos hechos, que es otra de
 las particularidades de la "civilización cristiana", existe densísima
@@ -24118,7 +22988,7 @@ historia, siéntese sacudida.
 
 Responded: ¿qué decide la Ulaka?
 
- Sería innecesaria la pregunta; pero en un Estado como el nuestro,
+Sería innecesaria la pregunta; pero en un Estado como el nuestro,
 que si retiene estructuras monárquicas, es, orgánicamente, una democracia, el Khori-Puma puede sacrificar la vida de ninguno de sus
 conciudadanos sin que lo haya previamente considerado el Consejo en
 que confluye la voluntad de las naciones que forman el Imperio.
@@ -24150,7 +23020,7 @@ lado, acaso el más grávido, del complejo vital.
 
 –¡No le mateis, por Dios; que es mi entraña; dádselo: que viva!...
 
- Grito de óvulo.
+Grito de óvulo.
 
 Grito de la Madre Vida: ¡que viva!... Sí; la finalidad de la vida es
 que se viva. Estad seguros que ese grito no ha sido oido por el varón.
@@ -24161,7 +23031,6 @@ trincheras, están muertos de verdad? ¿en verdad se los ha hecho matar?
 ¿La vida ha roto sus hilos eternos en ellos?.. El estratega lo ignora; el
 Jefe del Estado no menos; el de la Iglesia, pese al ministerium
 theologicum, también lo ignora. ¿Y si no están muertos, como que –
-
 me creo con autoridad para afirmarlo– no están: a qué título se los
 lanzó al LIMBO, contra su voluntad de vida, a merodear (asaltadores
 de caminos) a caza de vida que les albergue y prohije? De hechos que
@@ -24200,10 +23069,12 @@ suprimido. En otras palabras, cuando se actúa sin maternal
 sentimiento, que ése el sentimiento de la vida, se puede estrangular al
 feto para librarle del oxígeno y del pecado.
 
-La madre nó; ¡dádselo: que viva!...
+La madre no; ¡dádselo: que viva!...
 
 Esto lo que nos corresponde defender en el Gobierno: las
 entrañas de la vida y sus guaguas.
+
+<br>
 
 Si nuestra humilde filosofía de felinos y pescaditos permeabiliza
 las aceradas caparazones de la vacua, y vaca, humanidad, pues ella
@@ -24214,10 +23085,10 @@ el frenesí de los negocios, psicosis de dominio, o abstractos principios?
 Está haciendo falta ya que el Hombre se alce de su pantano de
 sangre, enarbole "SU" cruz de "sus" brazos, y ruja: ¡Alto, asesinos!
 
- El Estado se guíe menos por la razón de estado que por la Razón
+El Estado se guíe menos por la razón de estado que por la Razón
 Genética, o seminal, como enseñó el ateo.
 
- Sólo una guerra alimenta la vida: la que se afronta contra la bestia
+Sólo una guerra alimenta la vida: la que se afronta contra la bestia
 sabia, o santa, que se atribuye el destino de esclavizar a los pueblos.
 
 ¿Hazme oído, y me entiendes ya, Federico Zaratustra?
@@ -24247,7 +23118,6 @@ su república. Así, pues, no quiero ministro de Educación poeta; os
 encarezco darme un Poeta-Ministro, que actúe en el seno de la Ulaka
 desde el campo de acción de la poesía. No negaré que buenas veces los
 madrigales tengan algo que ver con el amor, que es acción germinal;
-
 mas aquél sin ésta no se explica. De manera que cuando os pido poeta,
 quiero induciros a darme germinación sentimental.
 
@@ -24288,7 +23158,6 @@ hasta acomodarse a ganar perdiendo, y nuestro deber otro que hacerle
 perder, pues hay manera de que gane el menesteroso. Encontrar la
 sistematización saludable de este principio, de manera que no se haga
 camino para la bancarrota, es problema que acometerás con
-
 mentalidad sentimental. En otras palabras: piensa de lo que se piensa, y
 comprenderás que el pensamiento es función de la entraña, y cordial,
 no cortical. No cargues, pues, la racionalista vara del mercachifle; si en
@@ -24326,6 +23195,8 @@ configura el complejo del resentimiento; o va a formar entre los
 enemigos del Gobierno, o se torna ciudadanía indiferente a todos los
 deberes que la nación impone. En este último caso es más dañina aún.
 
+<br>
+
 Por tales causas, no obstante su competencia, tuve que privarme
 de funcionarios a quienes el uso del poder les había tornado soberbios
 e injustos. Necedad vista a la vista. Del pueblo el poder: él su fuente de
@@ -24337,6 +23208,8 @@ naturaleza y erige frente a si el patíbulo de las libertades. Estos los
 verdaderos enemigos de la República y personalísimos del Gobernante:
 labran su fosa y sólo dan tregua cuando le ven podrirse con los
 gusanos de su tumba.
+
+<br>
 
 Tibia cautela será para con ellos sustraerles al poder, como de
 prudentes guardarlos con rejas; que importan flagelo constante de los
@@ -24371,9 +23244,11 @@ Sin embargo, con el poder en las manos los gobernantes ruines
 hacen del poder del pueblo el látigo del pueblo. Nada es ya agregar que
 éstos los ratees del Erario Público.
 
- Deben ser destruidos.
+Deben ser destruidos.
 
-LA HEGEMONÍA DE LOS HERMOSOS SUCHIS
+<br>
+
+## LA HEGEMONÍA DE LOS HERMOSOS SUCHIS
 
 Viejísima rivalidad la de Suchis y Mauris. Estos precíabanse de
 más antiguos que los hermosos y atléticos Suchis; por tanto con
@@ -24390,16 +23265,19 @@ Ispis, y no se ha sabido que por disputárselos hubiesen reñido o
 confrontado dificultades, si los Ispis abundan como el oxígeno que
 nutre.
 
-Los Khausis el origen de sus desavenencias; y en ellas es de considerar que los pequeños Mauris no llevaban las de perder, si obligaron
+Los Khausis el origen de sus desavenencias; y en ellas es de considerar que
+los pequeños Mauris no llevaban las de perder, si obligaron
 al fuerte Suchi a refugiarse en los ríos, hasta donde iban a perseguirles.
 Es que se hallan en proporción tan desequivalente, que por unidad de
 Suchi deben contarse Mauris a millares. Ya a punto de estallar las
 acciones bélicas, de los Mauris, alguno sabio, o suficientemente zahorí,
-aconsejó pedir la intervención del Khori-Puma, confirmándole autoridad para zanjar la disputa con su veredicto inapelable. La delegación de
-Mauris, a la cabeza su Hiliri, se expidió en forma en extremo satisfactoria; por manera que delegué al Khori-Challwa consultar con los
+aconsejó pedir la intervención del Khori-Puma, confirmándole autoridad para
+zanjar la disputa con su veredicto inapelable. La delegación de
+Mauris, a la cabeza su Hiliri, se expidió en forma en extremo satisfactoria;
+por manera que delegué al Khori-Challwa consultar con los
 Suchis si admitían mi intervención en el arreglo de sus problemas. Los
-Sucnis no ocultaron su disgusto, pues, seguros de reducir a sus contendientes, nada deseaban como la solución por las armas. El Príncipe
-
+Sucnis no ocultaron su disgusto, pues, seguros de reducir a sus
+contendientes, nada deseaban como la solución por las armas. El Príncipe
 obtuvo que los historiados siluros del Titikaka se sometieran al fallo del
 Rey.
 
@@ -24410,6 +23288,8 @@ satisfacción, consagró mi acierto: el Khori-Challwa inspiraba confianza
 a su pueblo.
 
 En la Ulaka no todos aprobaron mi decisión.
+
+<br>
 
 –Observa, oh, Khori-Puma, que el Príncipe –dijo el Hiliri de los
 Khestis–pertenece a la raza de los Suchis. Y será exponerle a que
@@ -24429,28 +23309,32 @@ reproducía la ciencia del Antiguo.
 
 Oye; óyeme. Que en dos palabras cabe el famoso
 
-FALLO DEL KHORI - CHALLWA
+<br>
 
-"Si los Khausis pasaran a libre usufructo de ambos
-contendientes, lo que es posible, nada se habría
-fundamentado en favor de una paz estable. Los Khausis, la
-causa externa, el pretexto de la discordia; su raíz otra.
-Ataquemos la raíz y el conflicto no volverá a presentarse."
+        FALLO DEL KHORI - CHALLWA
 
-"La Marka de los Mauris se compone de cinco mil
-hatas; la de los Suchis de mil. La población de los
-pequeñitos es de cien millones; la de los poderosos y
-hermosos Suchis de cincuenta. He aquí la fuente de sus
-ancestrales incomprensiones: "espacio vital"...
+    Si los Khausis pasaran a libre usufructo de ambos
+    contendientes, lo que es posible, nada se habría
+    fundamentado en favor de una paz estable. Los Khausis, la
+    causa externa, el pretexto de la discordia; su raíz otra.
+    Ataquemos la raíz y el conflicto no volverá a presentarse.
 
-"El Juez, con la autoridad inapelable que le reconocen
-las Leyes del Imperio, y le ratifican los contendientes;
-FALLA:
+    La Marka de los Mauris se compone de cinco mil
+    hatas; la de los Suchis de mil. La población de los
+    pequeñitos es de cien millones; la de los poderosos y
+    hermosos Suchis de cincuenta. He aquí la fuente de sus
+    ancestrales incomprensiones: "espacio vital"...
 
-Los Suchis serán distribuidos proporcionalmente en
-las seis mil hatas que desde hoy forman la Marka de los
-Suchi-Mauris, cuyas autoridades habrán de elegirse conforme a los métodos que la Anfictionía ha consagrado; y tanto
-unos como los otros poseerán iguales deberes y derechos".
+    El Juez, con la autoridad inapelable que le reconocen
+    las Leyes del Imperio, y le ratifican los contendientes;
+    FALLA:
+
+    Los Suchis serán distribuidos proporcionalmente en
+    las seis mil hatas que desde hoy forman la Marka de los
+    Suchi-Mauris, cuyas autoridades habrán de elegirse conforme a los métodos que la Anfictionía ha consagrado; y tanto
+    unos como los otros poseerán iguales deberes y derechos".
+
+<br>
 
 Los razonamientos con que fundamentó su fallo hieren
 problemas que fueron comunes a los pueblos a lo largo de los siglos.
@@ -24482,14 +23366,14 @@ mayores en número, aunque de más débiles cualidades. Hoy ha
 sobrevenido la tranquilidad y los Suchis son elemento precioso en
 beneficio de su nuevo destino.
 
- Para terminar, no vaciló EL PEZ DE ORO en decir a los
+Para terminar, no vaciló EL PEZ DE ORO en decir a los
 pueblos, y en presencia de los individuos de su raza:
 
 –¡No olvidemos que los antiguos Khori-Pumas trasladaban
 pueblos íntegros para matar ambiciones despóticas! La autoridad del
 Khori-Puma estará de parte de nuestra naturaleza...
 
- Podía, querida niña, sumirme en el deleite de su sangre; porque
+Podía, querida niña, sumirme en el deleite de su sangre; porque
 este mi hijo ya era mi padre.
 
     * * *
@@ -24513,6 +23397,8 @@ obcecadamente destructor, y que ustedes han venido nó a labrar una
 Constitución sino arrancar las raíces de un pueblo. Hay para éstos
 principios que pertenecen a postulados que integran su naturaleza.
 
+<br>
+
 El sentido ancestral, y no digo la intelección del pasado, que en
 este caso podría subordinársele a flexiones temporales y aleatorias, si es
 una dirección magnética irrehuible, nos enseña que la riqueza es un
@@ -24521,7 +23407,6 @@ negar su estructura histórica en cuanto es funcional. Falacia la del
 constitucionalista que sostiene que la ley configura. No; muy al
 contrario: es principio universalmente aceptado que los pueblos se
 adecúan sólo a leyes que responden a condiciones de su naturaleza.
-
 Esto es, la ley social debe ser ley orgánica. Ustedes pretenden
 introducir un principio, revolucionario nó: subvertor, puesto que se
 disponen a aplicar al nuestro doctrinas del individualismo económico,
@@ -24531,6 +23416,8 @@ miserables y sobre nutridos. No deseo analizar tales doctrinas en
 beneficio de otros países; si no se me oculta que en ellos se imponen
 en forma implacable, y que allí donde el progreso alcanza desarrollo
 máximo, coexiste máxima miseria.
+
+<br>
 
 Si el progreso es la razón de ser de la sociedad, y no el individuo
 que la forma, esas naciones señalan el único camino a seguir. ¿Pero, en
@@ -24544,6 +23431,8 @@ te acreditan como individuo ilustrado y de botinas. La mala calidad de
 tu trigo, y su cantidad deficiente, constituyen tu drama, y bien que
 revelan que eres impúdico o necio.
 
+<br>
+
 Ese progreso es legalización de esclavitud para los pueblos que
 deben soportarlo. Ciertamente, quienes sean capaces de sostener tales
 principios no vacilarían en decirnos que la única manera de lograr
@@ -24555,10 +23444,11 @@ nuestras estructuras, que son las de la vida, que el progreso no es tal si
 no viene del pueblo y no deviene pueblo; sólo así procede de un
 organismo y es fenómeno.
 
+<br>
+
 Es que el progreso es resultante y nó finalidad; y en manera
 alguna puede responder, como hasta hoy se ve, a objetivos metafísicos,
 de evasión. Mirémoslo en la Naturaleza. Se prodiga, ¿para qué? Sólo
-
 para sustentar a sus creaturas. La finalidad son ellas; no los dioses. Si
 renunciamos a la equidad de nuestros antepasados –y nuestros
 antepasados viven en las nubes, sino en la tierra, entrañados a sus
@@ -24566,10 +23456,14 @@ raíces; y al último en nosotros– y entregamos la riqueza y el poder a
 unos pocos librando a la miseria a los más, el progreso que por este
 medio conquistemos será la máscara –si se quiere ilustre– del crimen.
 
+<br>
+
 Hemos llegado a estación peligrosa sin duda; pues ya he oído
 decir que la tierra se someta a estos principios y que su tenencia
 corresponda a quienes mejor la paguen y haga que en ella produzcan
 más... ¡los siervos! No; decididamente nó...
+
+<br>
 
 Pero quedan ahí, por desgracia, los extravíos; también debe
 estatuirse el Servicio Militar Obligatorio prestado en ejército regular e
@@ -24587,17 +23481,20 @@ superiores. Los ejércitos permanentes y las religiones únicas "tienen
 otra finalidad que esclavizar a las colectividades" en beneficio de
 quienes las explotan.
 
+<br>
+
 Muchos de ustedes, Venerables Hiliris, han tratado de
 confundirme cuando me decían, bien que con bondadosa intención:
 
 –¡Khori-Challwa !... Serás nuestro rey revolucionario...
+
+<br>
 
 Me infundían en la patria; que no hay revolución posible en los
 pueblos ni en los individuos si ella no importa regreso a las raíces. No,
 ciertamente, para inmovilizar el ritmo de la marcha; sí para adoptar su
 tronchado ritmo evolutivo. Revolución no es revolusionar. Al
 contrario, es redescubrimiento de la célula; es religar: religión: unir al
-
 individuo con su espacio. Lo que la Ulaka parece dispuesta hacer en
 todo lo contrario: negar la patria para que progrese la patria. Si se la
 niega, quien progrese en la patria será la hechiza pseudopatria, la
@@ -24606,9 +23503,13 @@ cuanto he oído, o todo se halla lindero del absurdo. ¿Creería alguno de
 ustedes que el árbol podrá crecer fuera del árbol? La patria posee un
 ámbito: ella.
 
+<br>
+
 ¡Hiliris; sabios hombres de Estado!... Si aún es tiempo, el KhoriChallwa pide que el constitucionalista observe cómo, y en qué grávida
 medida, las leyes del Khori-Puma son leyes de la tierra; y deben seguir
 siendo leyes del Imperio.
+
+    ***
 
 # LÍRICA DEL KHORI-CHALLWA
 
@@ -24622,108 +23523,73 @@ sobre la enamorada tierra de los surcos... Si en ti no acariciaran los ojos
 del Khori-Puma, jamás sabría que la tierna entraña que me hizo tu hijo
 vive de iluminarse en ellos...
 
-### HAYLLIINKÁSIKO
+### HAYLLI INKÁSIKO
 
-¡Mi pueblo, milenarios de mi sangre!
+> ¡Mi pueblo, milenarios de mi sangre! 
 
-La eternidad es tu atributo;
+> La eternidad es tu atributo; \
+> nido de tus canciones el surco. \
+> Sólo en ti germinan los amores; \
+> en ti las flores odoran bajo el Sol. 
 
-nido de tus canciones el surco.
+> ¡Mi pueblo, milenarios de mi sangre! 
 
-Sólo en ti germinan los amores;
+> Sangre vieja es la tuya \
+> que da juventud a mi alimento. \
+> Pasión eres; eres fuerza; \
+> sabiduría tienes: \
+> La sabiduría del esplendor; \
+> de la planta andariega, \
+> pasión sabia; \
+> de la sangre enardecida \
+> La fuerza pasional. \
+> El dolor es panal en tu pecho. \
+> Es hálito, eternidad, raíz, \
+> en cuanto, en ti, mis manos edifican. 
 
-en ti las flores odoran bajo el Sol.
+> ¡Mi pueblo, milenarios de mi sangre! 
 
-¡Mi pueblo, milenarios de mi sangre!
+> ¿Quién a rugir te obliga, pueblo mío? \
+> Cuando ruges tiembla el firmamento. \
+> Si acaricias, el granito echa flor. \
+> Si lloras, llora el volcán, tu hijo; \
+> llora el Lago, tu madre. \
+> La eternidad es tu atributo; \
+> nido de tus canciones el surco. 
 
-Sangre vieja es la tuya
+> ¡Pueblo: milenarios de mi sangre; \
+> lo fugaz no está en tu naturaleza! 
 
-que da juventud a mi alimento.
+> ¡Fatígate, laborero! \
+> ¡Crea, consumiendo tus ceras, creador! \
+> ¡Gobernante: \
+> tiembla como la aguja imantada, \
+> pero encuentra el Norte de tu pueblo! \
+> ¡Sólo en Él germinan los amores; \
+> en Él las flores odoran bajo el Sol! 
 
-Pasión eres; eres fuerza;
+> ¡Mi pueblo, milenarios de mi sangre! 
 
-sabiduría tienes:
+> ¿Si un pueblo hay en tu sangre, \
+> qué esperas que no florece en ti \
+> la sangre de tu pueblo? \
+> Creador, gobernante, laborero: \
+> el Sol hace más noble \
+> la severa presencia de la montaña. \
+> Y sólo en la sangre con pueblo \
+> hay semillas del Sol... 
 
-La sabiduría del esplendor;
-
-de la planta andariega,
-
-pasión sabia;
-
-de la sangre enardecida
-
-La fuerza pasional.
-
-El dolor es panal en tu pecho.
-
-Es hálito, eternidad, raíz,
-
-en cuanto, en ti, mis manos edifican.
-
-¡Mi pueblo, milenarios de mi sangre!
-
-¿Quién a rugir te obliga, pueblo mío?
-
-Cuando ruges tiembla el firmamento.
-
-Si acaricias, el granito echa flor.
-
-Si lloras, llora el volcán, tu hijo;
-
-llora el Lago, tu madre.
-
-La eternidad es tu atributo;
-
-nido de tus canciones el surco.
-
-¡Pueblo: milenarios de mi sangre;
-
-lo fugaz no está en tu naturaleza!
-
-¡Fatígate, laborero!
-
-¡Crea, consumiendo tus ceras, creador!
-
-¡Gobernante:
-
-tiembla como la aguja imantada,
-
-pero encuentra el Norte de tu pueblo!
-
-¡Sólo en Él germinan los amores;
-
-en Él las flores odoran bajo el Sol!
-
-¡Mi pueblo, milenarios de mi sangre!
-
-¿Si un pueblo hay en tu sangre,
-
-qué esperas que no florece en ti
-
-la sangre de tu pueblo?
-
-Creador, gobernante, laborero:
-
-el Sol hace más noble
-
-la severa presencia de la montaña.
-
-Y sólo en la sangre con pueblo
-
-hay semillas del Sol...
-
-¡Mi pueblo, mi sangre milenaria:
-
-yo velaré, erizado de lanzas,
-
-tu libertad, Primavera de mi corazón!
+> ¡Mi pueblo, mi sangre milenaria: \
+> yo velaré, erizado de lanzas, \
+> tu libertad, Primavera de mi corazón! \
 
     * * *
 
 ## IMPERIO Y ANFICTIONÍA
 
 Momentos hay, niña querida, que le miro no sé si presa de arrobo
-o terror. ¿Quién se blande en El, cúya voz la suya, de qué abismal laboratorio parten los destellos de su mente? Su juventud está acribillada
+o terror. ¿Quién se blande en El, cúya voz la suya, de qué abismal
+laboratorio parten los destellos de su mente? Su juventud está acribillada
 por venablos de fuego.
 
 –¿Cuál la mejor forma de organizar un país? ¿Le convendrá más
@@ -24745,7 +23611,6 @@ jovenzuelos de su edad; y todos le oían suspensos.
 
 –¿Es que tal vez te atemoriza, Khori-Challwa, –díjole uno de
 éstos más joven que Él–, y buscas escurrirte a tu destino? Nada falta
-
 para que nuestro pueblo te calce el Llautu de los Khori-Puma s; y no
 poco temor inspiran esas ideas en tus amigos. ¿No serás, acaso, el más
 noble de nuestros Emperadores, el más sabio y el más valiente? La
@@ -24766,7 +23631,11 @@ Gobierno cuando ello nos resulte inevitable... Hablo de algo que
 constituye derecho para todo patriota: buscar sistema dentro el cual el
 pueblo encuentre el mayor margen de felicidad.
 
+<br>
+
 Le interrumpió el Hiliri de los Khonos.
+
+<br>
 
 –Ante la alternativa de elegir entre dos fonnas de acción, oh,
 Khori-Challwa, da siempre preferencia a aquella a que estés habituado;
@@ -24784,12 +23653,13 @@ unidad política de que carecían, pero a la cual concurrieron en edades
 remotas, según estima tu padre, cabe el período milenario de cultura
 que él llama vulvar, esto es, de Matriarcado. La unidad es unidad en
 algo y de algunos. La de la vida en las formas de la materia; tanto que
-
 materia y vida –y nada invento– resultan la misma cosa. He aquí que,
 políticamente, las partes deben sentirse sólo en la unidad, hasta no
 descubrir linderos individuales, ni desaparecer: paradoja de la realidad.
 Y tan es así, que cuando la unidad política es facticia, rigurosamente la
 nacionalidad será ficticia. Hay muchas de ésas llamadas "nacionalidades" que pertenecen a esta condición negativa.
+
+<br>
 
 –Entonces, venerable Hiliri –repuso–, el actual Soberano ha tronchado esa naturaleza cohesiva; puesto que hoy la unidad del Imperio,
 su interna unidad, su unidad orgánica, ha sido fracturada...
@@ -24824,7 +23694,6 @@ mayor concepción política quepa que el Imperio anfictiónico para
 organismo de la vastedad planetaria del nuestro. Además, imperio que
 no deviene anfictionía está condenado a la desintegración. El del
 Khori-Puma no es ya el Imperio, en cierto modo estrecho de tus
-
 antecesores: es un mundo. Y mantener la unidad de un mundo sin la
 flexibilidad del nuestro, fuera de ser incoercible, daría margen a sistema
 despótico e inoperante que negaría el método articular de todo
@@ -24870,7 +23739,8 @@ ha hecho prolífica y bendita.
 Khori-Challwa, querida niña, oyó al viejo dignatario con respeto
 y deleite.
 
-–¡Tu sabiduría es dulce, –dijo–, venerable Hiliri y maestro! Comprendo por qué el Emperador te señale con su ternura... Pero este
+–¡Tu sabiduría es dulce, –dijo–, venerable Hiliri y maestro! Comprendo
+por qué el Emperador te señale con su ternura... Pero este
 sistema sabio conduce peligro cuya gravedad es visible ya... Dentro el
 Palacio de Oro se ha creado burocracia hereditaria con intereses cada
 vez más poderosos y que ramifican tentáculos que van a conectar con
@@ -24895,14 +23765,15 @@ Khonos–, tienes toda razón. El mal existe y es terriblemente peligroso.
 Pero ya es mucho que el Khori-Puma lo haya señalado y lo erradique a
 tiempo. Por hoy es imprescindible.
 
- –Sí; ha llegado a ser imprescindible; acabará por hacerse insustituible. Y cuando sea insustituible, estaremos estrangulados.
+–Sí; ha llegado a ser imprescindible; acabará por hacerse insustituible.
+Y cuando sea insustituible, estaremos estrangulados.
 
- –Aguza el bisturí, oh, Khori-Challwa. Esa amputación salvadora
+–Aguza el bisturí, oh, Khori-Challwa. Esa amputación salvadora
 ya no la podrá tu padre.
 
- –Además, del Palacio de Oro debe ser expulsado todo cesarismo...
+–Además, del Palacio de Oro debe ser expulsado todo cesarismo...
 
- –¿Cesarismo? No te refieres al Soberano; porque ofenderías tu
+–¿Cesarismo? No te refieres al Soberano; porque ofenderías tu
 oro. ¿No has visto que por imposición del Khori-Puma la Ulaka
 Imperial puede adoptar determinaciones aún en contra de la opinión
 del monarca, y que éste pone su conato para que contrariándole se les
@@ -24951,8 +23822,10 @@ en la Aurora de todos los días se manifiesta el corazón de la vida; y es
 precisamente en los hombres humildes que se entrega desnuda y
 fragante.
 
- Deja ya tu necia locura; y parte en la tuya la humildad de tu
+Deja ya tu necia locura; y parte en la tuya la humildad de tu
 pueblo; que si el tuyo su latido, sus corajes tu aurora...
+
+<br>
 
 Poeta: sólo el sentimiento es sabio y fuerte.
 
@@ -24980,7 +23853,6 @@ hijas que son de la Vida. ¿Pero, el criterio de Justicia se ha elaborado en
 base de este elemental fundamento? Se lo ha elaborado de
 conformidad con el criterio que del sabor conciben las sociedades. Así,
 lo repugnante a un paladar, es feo. Se dice que la mentira es fea: ¿y qué
-
 la mentira? lo contrario a la verdad. ¿Y qué la Verdad? lo que es
 contrario a la mentira. ¡Ananau!... ¿Y no más? El gran calumniado de
 este agonizante milenio, aparece diciéndonos: "¡Soy la Verdad y la
@@ -25022,12 +23894,11 @@ vida, este infeliz, además de infeliz, es repugnante.
 
 Entonces, está demás la Verdad ésa que te cuelgan, infeliz...
 
- Los sabios han rastreado siempre con poca sencillez en los
+Los sabios han rastreado siempre con poca sencillez en los
 problemas del conocimiento. La mentira que al labio aflora puede ser
 el grito del corazón, su verdad, si cuanto le aflora es su latido. Lo que
 debieran los sabios demostrar es, si corazón, sangre, hígado, no son
 reflexivos, y se desempeñan obedeciendo funciones mecánicas ciegas,
-
 si, lógico es, sólo obedece quien sabe que obedece, por tanto, si las
 imágenes y las "ideas" que ellas suponen no se originan en las vísceras,
 las cuales tienen motivo para conocer el valor de las verdades
@@ -25054,10 +23925,10 @@ sentir, digo, en eso del misterio de la muerte, dijo a su padre:
 oirles; de la misma manera los muertos deben creer que los vivos son
 los muertos, puesto que tampoco les oyen...
 
- ¡Oirles! Sí: el problema es oir, sobre todo con los ojos; oir la voz
+¡Oírles! Sí: el problema es oir, sobre todo con los ojos; oir la voz
 que se estrangula en el latido.
 
- En el calor de la sangre está, ciertamente, el color de las cosas, y
+En el calor de la sangre está, ciertamente, el color de las cosas, y
 la voz de los muertos. Eso la verdad de la vida, y sólo por vida verdad.
 
 Hermanos del remo ágil: me dirijo al hombre, y no a vosotros;
@@ -25100,6 +23971,8 @@ Escuelas.
 –¿Con qué fín quiere, EL PEZ DE ORO, reunir a los maestros
 de las Escuelas?
 
+<br>
+
 Se inmutó.
 
 –¿Yo, EL PEZ DE ORO, Khori-Puma? Dame mi dulce
@@ -25119,7 +23992,7 @@ asunto es de los primordiales de la patria.
 
 –Que seas complacido el día y a la hora que desees.
 
- A poco, niña querida, el gran salón del trono se vio colmado de
+A poco, niña querida, el gran salón del trono se vio colmado de
 maestros viejos y jóvenes; Challwas varones y Challwas varonas. Y allí,
 como había prometido tu Khori-Puma, estuvieron él y la Ulaka.
 Comenzó por someter a los maestros a minucioso interrogatorio. Y ya
@@ -25158,7 +24031,6 @@ patológica del pesimismo...
 
 Maestros: el magisterio es una profesión en cuanto se profesa un
 culto: el alma del niño. Comenzad por demostrar que sabeis en qué
-
 consiste el alma y cuáles las modalidades del alma de vuestro discípulo,
 no tanto como resultado de investigaciones sistemáticas y de
 laboratorio, cuanto como de la exploración de su personalidad por los
@@ -25219,28 +24091,27 @@ revisar a nuestro magnánimo Khori-Puma; y él, si le considera digno,
 lo entregue al juicio de la Ulaka. Es el siguiente en su forma
 embrionaria:
 
-LEYES DE EL PEZ DE ORO
+        LEYES DE EL PEZ DE ORO
 
-1º.– Sólo se admitirá en las Facultades Pedagógicas, a
-quienes, sometiéndose a minuciosas y prolongadas observaciones en orden a su vocación, demuestren ingénita aptitud
-de maestros.
+    1º.– Sólo se admitirá en las Facultades Pedagógicas, a
+    quienes, sometiéndose a minuciosas y prolongadas observaciones
+    en orden a su vocación, demuestren ingénita aptitud de maestros.
 
-2º.– El ejercicio del magisterio queda limitado, sin
-obligatoriedad, a período de cinco años, en el curso de los
-cuales el maestro podrá hacer abandono de la carrera para
-entregarse a labores que prefiera o el Estado le señale.
+    2º.– El ejercicio del magisterio queda limitado, sin
+    obligatoriedad, a período de cinco años, en el curso de los
+    cuales el maestro podrá hacer abandono de la carrera para
+    entregarse a labores que prefiera o el Estado le señale.
 
-3º.– El maestro, que vencido este período, deseare
-permanecer ejerciendo la profesión, y comprobare suficientemente que sus facultades le permitirán desenvolverse con
-el mismo interés y tensión con que completara el primer
-período, recibirá el beneficio de duplicación del haber.
+    3º.– El maestro, que vencido este período, deseare
+    permanecer ejerciendo la profesión, y comprobare suficientemente que sus facultades le permitirán desenvolverse con
+    el mismo interés y tensión con que completara el primer
+    período, recibirá el beneficio de duplicación del haber.
 
-4º.– El Estado reconoce que no hay más alta jerarquía
-en los servicios públicos que la del Profesor de Escuela, el
-cual deberá percibir haber igual al que corresponde a los
-
-Ministros de Estado. Implícitamente, gozará de todos los
-beneficios sociales reconocidos por la Carta Suprema.
+    4º.– El Estado reconoce que no hay más alta jerarquía
+    en los servicios públicos que la del Profesor de Escuela, el
+    cual deberá percibir haber igual al que corresponde a los
+    Ministros de Estado. Implícitamente, gozará de todos los
+    beneficios sociales reconocidos por la Carta Suprema.
 
 Y dirigiéndose a la Hilakatura, agregó:
 
@@ -25259,10 +24130,10 @@ categoría de Enemigo Nº 1 de la patria. Y si las leyes os facultan, os
 pediría que le mateis; si pudiera enmendarse con la muerte lo que viene
 corrompido desde la célula.
 
- Simplemente, medid en la inmensidad de estos hechos el
+Simplemente, medid en la inmensidad de estos hechos el
 tremendo deber con que os reclama la vida.
 
- Le miraba, querida niña, como el ciego cree mirar el Sol, porque
+Le miraba, querida niña, como el ciego cree mirar el Sol, porque
 tibios rayos se apiadan de sus muertas pupilas.
 
     * * *
@@ -25280,7 +24151,6 @@ arrebatamos al Titán para entregarlo a los manejos de Maritornes, sin
 haber antes pasado o Maritornes por el fuego, pretendemos hacer
 digeribles sustancias para las cuales ese órgano carece de
 conformación. Si el discurso de la ciencia médica, en todo lo que
-
 somos colectividades "civilizadas", se ha empleado en considerar el
 problema de la salud vegetativa como simples heteromorfosis de la
 digestión, me aceptareis que no pretendo deciros nada nuevo. No voy
@@ -25297,6 +24167,8 @@ heroica por defender la unidad y armonía de sus leyes; y esa lucha bien
 que se manifiesta en ésa cada vez más numerosa familia de
 enfermedades que forman vuestro árbol genealógico de la muerte.
 
+<br>
+
 Así, pues, el origen real de las enfermedades que abruman a los
 pueblos, está en la olla, si en ella sometemos a cocción frutos que
 directamente no podemos deglutir y menos digerir. Sin embargo, la
@@ -25304,11 +24176,15 @@ terapéutica que debiera ser antes higiene y dietética se dirige a eliminar
 los efectos que esta contranaturaleza de las cosas determina, sin
 considerar para nada sus causas.
 
+<br>
+
 ¿Por qué os querellais con los efectos y pactais tan consentidamente con las causas? El fuego es bello y germinal; si cuanto
 Natura brinda ha sido sazonado en sus misteriosos fogones. Aplicad
 vuestra sabiduría a descorrer el tenebroso velo del fuego, que tan
 vilmente empleamos; y ved en el fondo de sus misterios antes que en el
 misterio de sus maléficas expresiones.
+
+<br>
 
 Digo también al estadista que nada nuevo le ofrezco si afirmo
 que cuando robamos a los frutos de la tierra el fuego económico y lo
@@ -25316,7 +24192,6 @@ sellamos en láminas de metal, cometimos el mismo pecado contra la
 vida que en el caso anterior. Estábamos habituados a reconocer que el
 valor de los frutos radica en ellos; hoy hemos transferido ese valor a la
 moneda. Ella, de simple medio de cambio, se ha convertido en el
-
 déspota de los pueblos y representa la medida del valor vital. Ya no
 perseguimos producir sino ganar.
 
@@ -25362,7 +24237,6 @@ nó en su valor de cambio. No se trata de acertijos ni de soluciones
 mágicas. El mundo ha vencido mucho camino dentro la economía
 comercial; mas eso mismo demuestra que esa economía no ha
 solucionado los problemas vegetativos de los pueblos. Y que girando
-
 alrededor del valor monetario da sólo la medida de la riqueza
 monstruosa de unos y del hambre no menos monsturosa de los otros.
 
@@ -25401,6 +24275,8 @@ valores nutritivos mediante procedimientos alquímicos. Desde el punto
 de vista de la economía vital, el hombre es proclive al morbo porque
 ha sido desvalorizado.
 
+<br>
+
 Es de decir que el pueblo que no regrese a la Caverna, vivirá
 enfermo y hambriento, mientras pueda subsistir.
 
@@ -25414,20 +24290,20 @@ la balanza de la vida; si la vida es susceptible de entender la lógica de
 una medida de las cosas, como las entienden los hombres y las sienten
 los hijos del agua.
 
-Héla aquí:
+Hela aquí:
 
-"Mauris y Suchis ya no tendrán motivos de procurarse
+«Mauris y Suchis ya no tendrán motivos de procurarse
 odiosidades y su bienestar refluirá en la paz de mi pueblo. Me ratifica
 esta experiencia en el convencimiento de que en problema alguno se
 deben buscar soluciones que orillen la periferia de las causas, o
 simplemente las pongan de lado; porque, cuando se lleva ánimo
 honesto a la solución de un conflicto, lo sano es profundizar en ellas,
-hasta encontrar sus internas leyes. Los Suchis han perdido su marka,
+hasta encontrar sus internas leyes. Los "Suchis han perdido su marka,
 no meno que los Mauris; pero han ganado otra común en la cual
 desaparecen los factores de la discordia y los equivocados móviles de la
-enemistad.
+enemistad".
 
-"Ay, pero esta hazaña, que debiera llenarme de satisfacción, es
+»Ay, pero esta hazaña, que debiera llenarme de satisfacción, es
 causa de tortura que cada vez se hace más dolorosa. La paz que
 disfrutan Mauris y Suchis se ha logrado a costa de libertad y vida de
 seres indefensos. El precio de esta victoria del Derecho de Gentes lo
@@ -25440,32 +24316,33 @@ voluntad, o con tanta voluntad de conciencia, como la raíz del árbol;
 pero que si se desprenden del nódulo vegetal a su arbitrio, o al arbitrio
 de su ámbito, no le abandonan, y llevánle consigo.
 
-"Terminó el secular y dramático entrevero de Suchis y Mauris; y
+»Terminó el secular y dramático entrevero de Suchis y Mauris; y
 los Khausis son devorados sin límite, sibarítico el ojo, la fauce famélica.
 Cuando entre aquellos surgían rivalidades, les envenenaba la codicia,
 les copaba el fragor de las disputas, el Khausi gozaba períodos de
-
 inmunidad. Mas pasó el ciclo bélico para ellos, se regalan en octaviana
 negligencia, y los Khausis, no bien han surgido de sus larvas, son
 implacablemente devorados. Ya no argumenta el Suchi y se apresta; ya
 el Mauri cela ni se cuida.
 
-"La paz que he gestado, y de la que gozan, me revela que somos
+»La paz que he gestado, y de la que gozan, me revela que somos
 capaces hasta de vivir en paz, si a esa condición se nos consagra el
 derecho de triturar las vértebras del indefenso.
 
- "¿Fue destino del Khausi servir de regalo a Suchis y Mauris? Y si
+»¿Fue destino del Khausi servir de regalo a Suchis y Mauris? Y si
 cuando éstos porfiaban por imponer su mejor derecho se hubiesen
 presentado los infelices para decirme:
 
-–Mira, que el problema no consiste en que los Suchis o los
+»–Mira, que el problema no consiste en que los Suchis o los
 Mauris tengan mayor o menor derecho sobre los Khausis, validos de
 que somos humildes y de toda defensa frente a ellos carecemos, lo que
 no ocurre con el hombre, el cual, como acaso sabes, nos considera
 venenosos. Lo que antes tienes que decir es si los devoradores poseen,
 realmente, derecho para devorarnos...
 
-"¿Cuál habría sido mi actitud? Nada vacilara en proclamar que
+<br>
+
+»¿Cuál habría sido mi actitud? Nada vacilara en proclamar que
 Suchis y Mauris eran muy dueños de cultivar gastronómicamente sus
 refinamientos de animales complejos; mas no a costa de la vida de
 seres con el mismo derecho a la vida que ellos. El estrambótico Juez
@@ -25473,21 +24350,26 @@ habría sido declarado necio; y para Suchis y Mauris para repudiarle,
 sobre sus barbas, y convenidos en entente cordiale, revolcarían su
 lujuria en los criaderos de Khausis.
 
-"Cuando la vida permite que un ser se desarrolle frente a otros
+<br>
+
+»Cuando la vida permite que un ser se desarrolle frente a otros
 sin armas suficientes para cautelar sus fueros, que ha concertado buena
 prueba es que el fuerte viva de comerse al débil. ¿Pero, entonces, para
 qué invocamos una trascendente inteligencia, y mantenemos trascendente fuerza coaligada en quien concurren los derechos tras
 articulación que evite éstas, no tanto injustas, como groseras violaciones? Cómo se ve que el mito, teológico, o racionalista, mito.
 
-"Los Khausis pudieron argüir.
+<br>
+
+»Los Khausis pudieron argüir.
 
 –Si el Khori-Puma tiene poder ni autoridad para impedir que
 seamos devorados; reconozca que tampoco los tiene para mandar
-
 sobre nosotros. Desconoceremos su autoridad y nos alzaremos contra
 los que atropellan la vida en nuestra frágil naturaleza...
 
-"Pero, el Derecho sin Fuerza, ¡oh, creatura seminal!, es un
+<br>
+
+»Pero, el Derecho sin Fuerza, ¡oh, creatura seminal!, es un
 enunciado abstracto. Para que el Khausi se alzara, seríale preciso
 poseer fuerza, y fuerza agresiva, sin la cual el Derecho carece de
 santidad y la fuerza de derecho. Y eso lo sabe bien el estratega... He
@@ -25503,18 +24385,18 @@ harán más que sumarse a la coral del rebuzno. Sansón eligió del pollino
 la recia mandíbula para meter en las razones de Dios a los filisteos; y
 sólo así en las sagradas letras de él pudo decirse que fue Varón Divino.
 
-"En las manos de Juez como yo esa fuerza debería ser
+»En las manos de Juez como yo esa fuerza debería ser
 pulverizada. La verdadera y única fuerza, que el verdadero y único
 derecho crea, es la Vida; y la Vida en sí, no derecho de la fuerza, fuerza
 del Derecho. Nadie debiera morir para que otros gocen; si tal el
 principio, único saludable, que a un no menos saludable sentimiento
 cabe del Derecho.
 
-"Bien veo que disputo con la Sabiduría de la Vida; y que si ella las
+»Bien veo que disputo con la Sabiduría de la Vida; y que si ella las
 cosas hizo así, quien se le opone se alza como el lodo átono contra la
 Sabiduría Sinfónica.
 
-"¿Por qué el Lodo cobra arrestos tan impropios del Lodo? Tengo
+»¿Por qué el Lodo cobra arrestos tan impropios del Lodo? Tengo
 que admitir que en el Lodo está el embrión de la Sabiduría y en la
 debilidad la fuerza; y que tanto más de Lodo el hombre, más hombre.
 Por lo que, cuanto en mí se conserva de la naturaleza del Caos, en que
@@ -25522,9 +24404,8 @@ mi elementalidad es elementalidad de fuerza, me impele al Ser; y que
 Ser es sólo Querer Poder. No hay otro Derecho que el derecho a la
 vida; y es Fuerza sólo en cuanto es querer Derecho.
 
-"La Fuerza, en sí, carezca de Derecho... La vida está hecha de
+»La Fuerza, en sí, carezca de Derecho... La vida está hecha de
 arrancar a dentelladas retazos del vecino; es, pues, Violencia y
-
 Violación, animada en la Fuerza del Derecho, que si impele la Vida, la
 conserva, y por la Fuerza, que es su Derecho; y de nadie el derecho de
 suprimir la fuerza del derecho, ya que de él haría desecho... ¿Hay orden
@@ -25535,6 +24416,8 @@ Permanezcamos en Lodo para asistir a la Revelación".
 ## NO SEAS BUSCADOR
 
 Se dirigió a los alcabaleros de los Dioses.
+
+<br>
 
 –¿Qué es Dios? ¿Naturaleza de hombre sin la animalidad del
 hombre? Entonces, ni dios es ni hombre. ¿Naturaleza animal sin
@@ -25548,13 +24431,17 @@ Así, toda fuerza es "Ego" en cuanto "Naya". ¿Cómo se explica
 entonces que su presencia se manifieste en el Suchi y se sustraiga en el
 Hombre? El Suchi la posee y el Hombre la busca.
 
- –Le conocerás en que el Hombre ha de hundirse en él; y ser,
+–Le conocerás en que el Hombre ha de hundirse en él; y ser,
 presto, él...
 
- –Pero, Hombre de Dios: dios paquidermo, Pez, Lakhato, es
+<br>
+
+–Pero, Hombre de Dios: dios paquidermo, Pez, Lakhato, es
 Uchu-khaspa, pues en todos ellos se hunde para ser.
 
- –¡Horror!...
+–¡Horror!...
+
+<br>
 
 –Oh, creatura seminal: ¿te horroriza? Todo parece aconsejarte
 que la fuerza del hombre –de él; no la confundas con la del "otro": el
@@ -25566,7 +24453,9 @@ Como no es así, le buscas y pagas sabuesos que por ti lo hagan.
 traductores para hacerse entender; menos trocarse receta en manos de
 facultativo.
 
- –Martillo es Dios para los yunques gélidos del Diablo!
+–Martillo es Dios para los yunques gélidos del Diablo!
+
+<br>
 
 Al contrario, hijo mío: es Omnipotente, Omnisciente... Buscarle
 es conocer que no está ni es. ¿Has preguntado si alguno de los que
@@ -25580,11 +24469,13 @@ Fuerza? Es la palanca de todos los Arquímides, o nada: y eso es: Nada.
 los caminos de la vida; sustraerle a la dirección de sus violencias
 creadoras; restarle al espasmo material con que se produce.
 
+<br>
+
 ¿Ignoráis que la Ternura del Espasmo es sólo posible en la
 Fuerza, y que Fuerza es? ¿Quién os ha dicho que Dios necesita partero
 para nacer?
 
- Si Dios no es el efluvio de la Primavera, será prudente estimar
+Si Dios no es el efluvio de la Primavera, será prudente estimar
 que existe sólo en cuanto se le intuye y no en cuanto se le posee.
 
 En ese caso será Deus y no Fortis; es decir, un tropo y no un
@@ -25596,11 +24487,15 @@ hombre. ¿Quién lleva al león a lamer al león herido? ¿El hombre que
 hay en el león; o es el león que hay en el hombre quien lame la herida
 del prójimo? Es la Fuerza. No sus ahogos confundais con los negocios.
 
- Hombre: no seas buscador de Dioses; sé buceador de Ti Mismo:
+<br>
+
+Hombre: no seas buscador de Dioses; sé buceador de Ti Mismo:
 en ti están ellos en Fuerza; y tuya.
 
- Tal vez llamen a tu puerta; sea el Alba. Y, al abrirla, se te encare
+Tal vez llamen a tu puerta; sea el Alba. Y, al abrirla, se te encare
 resplandeciente peregrino.
+
+<br>
 
 –¡Bien te ría la Alborada, hermano!... Aquí me tienes: Soy Dios.
 
@@ -25608,6 +24503,8 @@ resplandeciente peregrino.
 encuentras que el auroral visitante es la Fuerza de la Vida.
 
 Abres los brazos en la Cruz; te baña su ardiente resplandor...
+
+<br>
 
 –¡Entra a mi hueso, camarada germinal!
 
@@ -25621,83 +24518,53 @@ carece de hecho!...
 
 ## SALTERIOS DEL KHORI-PUMA
 
-No recuerdo la hora ni la noche;
+> No recuerdo la hora ni la noche; \
+> mas una noche fue, querida niña; \
+> cuando temblor de estrella \
+> miróme desde la estrella conmovida, \
+> de ésa, que me dejaste, lágrima viva.
 
-mas una noche fue, querida niña;
+> Si el misterio que rompe del grano \
+> de trigo el corazón, y alumbra \
+> la espiga, que viento y Sol abrazan, \
+> conociera; ahora, por qué crepitas, \
+> estrella, por qué en mi sangre lates, \
+> conocería en el latido de mi estrella.
 
-cuando temblor de estrella
+> Sólo dulce pavor fue tu destino. \
+> Si por mi guagua la vida toda diste, \
+> y esa guagua no es Tu Hijo. Tu Hijo \
+> es el Padre del Hijo, que Tú, estrella, \
+> alumbras en centella, en lágrimas y en beso.
 
-miróme desde la estrella conmovida,
+> Que de estrellas amor el cielo labre; \
+> que fecunde mi llaga y la cascada; \
+> se haga aceite, y miel, y cante, \
+> como Tú, que cantas en mi lágrima, \
+> me embriagas con tus lumbres, estrella, \
+> es misterio que ahoga con arrobos.
 
-de ésa, que me dejaste, lágrima viva.
+> Oh, estrella, le cantan las Estrellas. \
+> Tú, que unida a El estás, y con su luz \
+> me bañas, dile, que el Khori-Puma ruge ya. \
+> Y que su rugido incendio y guerra es, \
+> horno donde crepita y cabrillea \
+> tu resplandor, y su Esplendor me ciega.
 
-Si el misterio que rompe del grano
+> Con tu aroma tremulan las Auroras; \
+> ellas del viento son tu aroma; \
+> con hielo aroma son del ascua. \
+> Y son taladros del muro de la sombra, \
+> ardiente incendio en mi clamor de luz...
 
-de trigo el corazón, y alumbra
-
-la espiga, que viento y Sol abrazan,
-
-conociera; ahora, por qué crepitas,
-
-estrella, por qué en mi sangre lates,
-
-conocería en el latido de mi estrella.
-
-Sólo dulce pavor fue tu destino.
-
-Si por mi guagua la vida toda diste,
-
-y esa guagua no es Tu Hijo. Tu Hijo
-
-es el Padre del Hijo, que Tú, estrella,
-
-alumbras en centella, en lágrimas y en beso.
-
-Que de estrellas amor el cielo labre;
-
-que fecunde mi llaga y la cascada;
-
-se haga aceite, y miel, y cante,
-
-como Tú, que cantas en mi lágrima,
-
-me embriagas con tus lumbres, estrella,
-
-es misterio que ahoga con arrobos.
-
-Oh, estrella, le cantan las Estrellas.
-
-Tú, que unida a El estás, y con su luz
-
-me bañas, dile, que el Khori-Puma ruge ya.
-
-Y que su rugido incendio y guerra es,
-
-horno donde crepita y cabrillea
-
-tu resplandor, y su Esplendor me ciega.
-
-Con tu aroma tremulan las Auroras;
-
-ellas del viento son tu aroma;
-
-con hielo aroma son del ascua.
-
-Y son taladros del muro de la sombra,
-
-ardiente incendio en mi clamor de luz...
-
-No recuerdo el día ni la noche.
-
-Pero, una noche fue, niña querida,
-
-que con la dulce podre de tu podre,
-
-ardió en aromas el oro de Su luz...
+> No recuerdo el día ni la noche. \
+> Pero, una noche fue, niña querida, \
+> que con la dulce podre de tu podre, \
+> ardió en aromas el oro de Su luz... \
 
 <hr>
 
-## ¡ELWAWAKU! ¡ELWAWAKU!
+## ¡EL WAWAKU! ¡EL WAWAKU!
 
 –No creo sensata, oh, Khori-Puma –me dijo–, la despectiva
 actitud con que miramos en qué medida alcanzan proporciones
@@ -25716,12 +24583,12 @@ padre. El miedo no es de generación espontánea. El pueblo le ha
 denominado El Wawaku. El Gobernante no puede destruir al Wawaku
 con sólo ignorarle.
 
- –Desde luego. Pues bien; procedamos a la disección del Wawaku.
+–Desde luego. Pues bien; procedamos a la disección del Wawaku.
 ¿Qué es el Wawaku? ¿La Muerte?
 
- –¡La Muerte!
+–¡La Muerte!
 
- –¿O el Despotismo que nos amenaza con el ricorsi? No se puede
+–¿O el Despotismo que nos amenaza con el ricorsi? No se puede
 destruir lo que no existe, hijo mío, como no es prudente crear el mal
 para convertirlo en bien. Hemos convenido en que si la muerte
 existiera no existirías tú, ni yo existiría, ni existiría nuestro pueblo.
@@ -25734,7 +24601,7 @@ Wawaku no existe.
 
 –Y no existe.
 
- –A tu advenimiento, hijo mío, sentí el horror de la Muerte que
+–A tu advenimiento, hijo mío, sentí el horror de la Muerte que
 entristece la vida; pues fue verte, y sentirte, y saberte, para que en la
 entraña del hueso me latiera la Eternidad. Tú acabaste con esa
 horrenda pesadilla.
@@ -25746,15 +24613,15 @@ Estado. Eso lo que te pido considerar, padre.
 para disparar y hacer puntajes es previo conocer el blanco de tiro;
 tenerle al frente. Supón que no a tu padre; a la vida le dices: "Vida: la
 Muerte existe porque mi pueblo tiembla ante ella y juzga que le sustrae
-a tu dulce imperio"
+a tu dulce imperio"...
 
- –Padre: la Vida respondería que si juzgo que le sustrae existe la
+–Padre: la Vida respondería que si juzgo que le sustrae existe la
 Muerte, sea en forma de miedo o de ficción con raices complejas.
 
- –Bien. Ya la tienes en el campo de batalla. Tu deber de Jefe del
+–Bien. Ya la tienes en el campo de batalla. Tu deber de Jefe del
 Estado es abatirla. ¡Acomete!...
 
- –Acometo.
+–Acometo.
 
 –Pero haz acometido contra una sombra. Dudo que tu batalla te
 produzca beneficio alguno. La batalla se plantea allí donde hay cuerpos
@@ -25800,14 +24667,16 @@ en la cima del Palacio de Oro la gloriosa Wiphala del Arco Iris.
 
 Y dijo a su pueblo:
 
-–Seguidme a la profundidad... La Nación, Creatura de Naturaleza. La nacionalidad es, pues, nacionalidad por la Naturaleza, de la
+<br>
+
+–Seguidme a la profundidad... La Nación, Creatura de Naturaleza. La
+nacionalidad es, pues, nacionalidad por la Naturaleza, de la
 Naturaleza y en la Naturaleza. Si nación supone población, población
 arguye mayorías, y si así, las mayorías constituyen nación por
 naturaleza y en fuerza de Naturaleza. Son ellas, entonces, la fuerza de la
 Naturaleza y la nacionalidad. Nadie puede gobernar sin que ellas lo
 consientan. Oigo a las minorías afirmar que ellas incorporarán a las
 mayorías a la nacionalidad... Argucia de tramposos: que tanto
-
 equivaldría a que la fontana, que se contiene en un cuenco de la mano,
 pretenda que ella incorporará la inmensidad de los océanos.
 
@@ -25834,7 +24703,7 @@ Derecho de Naturaleza.
 
 Pueblo sin Naturaleza, hato.
 
- Escarpada o roma, lisa o aguda, si un país tiene alma nacional,
+Escarpada o roma, lisa o aguda, si un país tiene alma nacional,
 ella es alma de las mayorías. Alma colectiva: naya. Corporación
 multánime en que las unidades encuentran la unidad.
 
@@ -25845,13 +24714,12 @@ no les resulte en daño). Sólo en la espesura de la fronda teje nido
 seguro el pajarillo; y si sólo las mayorías el hogar de la misteriosa
 estanciera, es de necesidad sostener que cuando un país se rige
 sometido a sus minorías, ese país carece de alma nacional; y nada
-menos admisible que patria sin alma
+menos admisible que patria sin alma...
 
 Por tanto, Runa-Hakhes, patria no es colonia.
 
- Patria y Vida son ámbito. Esta universal; aquélla social. Y, en
+Patria y Vida son ámbito. Esta universal; aquélla social. Y, en
 ambos casos, óvulo en que el alma conforma y fisonomiza. El instinto
-
 de unidad actúa por atracciones moleculares. En el alma viene de la
 vida, y sustancia familia, tribu, o nación. Y si le rige instinto de unidad,
 es porque toda necesidad vital es arquitectónica.
@@ -25872,7 +24740,7 @@ El nidal de la Patria está tejido del universo de sus raíces; y en ella
 conjuga sólo cuanto la afirma en lo que es: en fuerza de Naturaleza.
 
 He aquí que si sacais al estruendoso Marañón de su cauce, ya no
-será Maranón, aunque siempre agua, y acaso río. No transvasareis el
+será Maranón, aunque siempre agua, y acaso río. No transvasaréis el
 Titikaka de su copel para verterlo en otro, que adonde le lleveis será
 lago, mas no ya Titikaka.
 
@@ -25888,14 +24756,16 @@ semillar del Tawantinsuyu, su óvulo, funcionan aferrados a sus
 breñales: tendría que arrancárselos desde el centro de la tierra y con las
 entrañas de la tierra.
 
- Volvamos al alma multitudinaria de las mayorías nacionales,
+Volvamos al alma multitudinaria de las mayorías nacionales,
 Runa-Hakhe-Challwas; al óvulo de la Patria.
 
- ¡Allí el Inka, espera!
+¡Allí el Inka, espera!
 
 ## LA BATALLA DEL ESPANTO
 
 III
+
+<br>
 
 ¿Me quedaría algo por hacer aún, querida niña? Presiento –me
 decía– que de la sombra se animan los tropeles. La paz ha huído. El
@@ -25912,7 +24782,7 @@ figura del espanto.
 su atrás. Donde pina su pichikha la Mama-Paksi.
 
 La Ulaka Imperial ha tenido que admitir que los temores del
-pueblo poseen fundamento. Pero, es que pasan cosas raras Después
+pueblo poseen fundamento. Pero, es que pasan cosas raras... Después
 de la Coronación volvió a saberse nada de él; y hoy en qué labio no
 estalla.
 
@@ -25925,12 +24795,18 @@ permanecer rumiando el miedo de nuestro pueblo.
 
 Los Suchis pretendieron impedírselo.
 
- –¡Oh, nunca, Khori-Challwa; los Suchis estamos para eso! ¿Has
+<br>
+
+–¡Oh, nunca, Khori-Challwa; los Suchis estamos para eso! ¿Has
 olvidado que vio en ti el mayor obstáculo en el camino de su tiranía?
 Nuestro deber rodearte sin descanso; ahora, o nunca.
 
+<br>
+
 En efecto, rastrearon las misteriosas huellas, incansables. Mas
 nunca pudieron decir: ¡Le hemos visto!
+
+<br>
 
 Al contrario:
 
@@ -25943,10 +24819,12 @@ mentimos, tatay...
 
 –¡Sacuden la Caverna, Puma!
 
-–¡Tienes que ir, oh, P u m a; y enfrentarlos!
+–¡Tienes que ir, oh, Puma; y enfrentarlos!
 
 –¡En su más nengro tienen su Laykhakuy; de ahy salen gritos
 desesperados!
+
+<br>
 
 Volcábase espantoso silencio.
 
@@ -25957,13 +24835,19 @@ nuestra cobardía; y no más...
 
 –A lo mejor.
 
+<br>
+
 Fue inevitable. No se ha decretado el estado de guerra y sin
 embargo el pánico empavorece las aguas. Nadie piensa sino en la
 batalla inminente, la carnicería, la muerte. Me sacudía maléfica desazón.
 Campo de aprestos bélicos es el lago; y la angustia a que ha dado vida
 la misteriosa amenaza, polvorín a punto de estallar en los corazones.
 
+<br>
+
 ¿Qué hacer?
+
+<br>
 
 Niña querida: enemigo que no se ve; enemigo que se nos revuelca
 en la sangre.
@@ -26004,10 +24888,10 @@ tormento.
 Absorbiendo en el phuyu bocanadas del agua dulce que no acaba
 de salar el caliche de las corrientes... ¿lloraba?...
 
- –¡Oh, tú, Miski-mama; más feliz que yo: te endulzas con su
+–¡Oh, tú, Miski-mama; más feliz que yo: te endulzas con su
 lágrima...
 
- ¿Por quién su tierna queja, querida niña? ¡Ah!... Cruel
+¿Por quién su tierna queja, querida niña? ¡Ah!... Cruel
 presentimiento le había herido con su dardo.
 
     * * *
@@ -26015,7 +24899,8 @@ presentimiento le había herido con su dardo.
 Tanto su delicada insistencia forzó en mi voluntad y amanecer
 hubo que habría de satisfacerle. Acompañados del Hiliri de Palacio,
 salimos al encuentro del Suchi Viejo, a todo su largor hendido el
-corpachón del Titikaka. Nunca, en día de agua, me alejara de la Khoriwasi a semejante distancia. Pero, a causa del extenso crucero, pude
+corpachón del Titikaka. Nunca, en día de agua, me alejara de la Khoriwasi
+a semejante distancia. Pero, a causa del extenso crucero, pude
 comprobar que la guerra con sus estruendosas premuras ebullía hasta
 en los soterraños lacustres; lo que si me fue motivo de cívico
 enternecimiento, también constreñía con aflicción muda el prometido
@@ -26032,18 +24917,22 @@ Wawaku.
 
 Díjome el Khori-Challwa:
 
-–Tiraré del carro, Khori-Puma :
+–Tiraré del carro, Khori-Puma:
 
 Cuasi ofendido le atajó el Suchi de color de acero.
+
+<br>
 
 –¿Tú, Khori-Challwa ? ¿Acaso no los sirvientes los llamados a
 poner el hombro a la tiana de sus amos? ¡Alceme yo acémila para tu
 fuego!...
 
- Mas ya nada les permití decir, ni hacer. Dispuse las fuertes
+<br>
+
+Mas ya nada les permití decir, ni hacer. Dispuse las fuertes
 colleras; pedí al anciano atarlas y a ambos subir al bólido impaciente.
 
-–¿Cómo –díjeles–: el P u m a permitirá que el anciano Hiliri del
+–¿Cómo –díjeles–: el Puma permitirá que el anciano Hiliri del
 Palacio de Oro, su joven Príncipe y discípulo, contraríen la sabiduría de
 la vida; si ella manda que el Rey, noble, más noble si lacayo de su
 pueblo? Aun mandando el Rey sirva sólo para servir. ¡Ea, EL PEZ DE
@@ -26054,96 +24943,64 @@ mordió en el Lago su diamantino rayo...
 
 Obedecieron.
 
+<br>
+
 Hecho espolón el ojo, niña querida el P u m a, con la humildad
 del dios que sirve, ardió en el hervor verde de las aguas; y ya ya tizón
 de Aurora violó la entraña de la Muerte.
 
 ### HAYLLI
 
-Alzóse el Puma,
+> Alzóse el Puma, \
+> del Khori-Challwa \
+> bestia de tiro, \
+> canción de fuego, \
+> ascua del oro, \
+> su oro en ascuas; \
+> y en fértil óvulo \
+> de su Relámpago \
+> la chispa ardió.
 
-del Khori-Challwa
+> ¡Singla la espada \
+> de nuevo Sol!
 
-bestia de tiro,
+> Hoy, por las aguas \
+> del viejo Lago, \
+> el oro clama, \
+> crepita el hueso, \
+> el ojo hiende. \
+> Y es el rugido \
+> del Khori-Puma, \
+> khepa sonora, \
+> zarpa augural. \
+> ¡El fuego incendia \
+> de nuevo Sol!
 
-canción de fuego,
+> Boga, balsero \
+> del Titikaka; \
+> bogue la thusa \
+> de EL PEZ DE ORO. \
+> Muestre en la zarpa \
+> su khawa el Puma. \
+> Ya la ñukheña \
+> traza la huella \
+> del viento vivo. \
+> ¡Viven los Chullpas! \
+> ¡Canta la luz!...
 
-ascua del oro,
+> ¡El Sol se inflama. \
+> con nuevo Sol! \
 
-su oro en ascuas;
-
-y en fértil óvulo
-
-de su Relámpago
-
-la chispa ardió.
-
-¡Singla la espada
-
-de nuevo Sol!
-
-Hoy, por las aguas
-
-del viejo Lago,
-
-el oro clama,
-
-crepita el hueso,
-
-el ojo hiende.
-
-Y es el rugido
-
-del Khori-Puma,
-
-khepa sonora,
-
-zarpa augural.
-
-¡El fuego incendia
-
-de nuevo Sol!
-
-Boga, balsero
-
-del Titikaka;
-
-bogue la thusa
-
-de EL PEZ DE ORO.
-
-Muestre en la zarpa
-
-su khawa el Puma.
-
-Ya la ñukheña
-
-traza la huella
-
-del viento vivo.
-
-¡Viven los Chullpas!
-
-¡Canta la luz!...
-
-¡El Sol se inflama.
-
-con nuevo Sol!
-
-Dulce coyunda me impuso, querida niña; si cuando la pelton de
-la zarpa mordía el agua, en las suyas secretaban mieles tus estrellas.
+Dulce coyunda me impuso, querida niña; si cuando la pelton de la zarpa
+mordía el agua, en las suyas secretaban mieles tus estrellas. 
 
 ### CORAL
 
-Pulso del rayo.
-
-Lumbre de asombros.
-
-Viril centella.
-
-Oro en el oro;
-
-Sol en el Sol.
+> Pulso del rayo. \
+> Lumbre de asombros. \
+> Viril centella. \
+> Oro en el oro; \
+> Sol en el Sol. 
 
     * * *
 
@@ -26158,13 +25015,13 @@ Emana contagio de arrobo. Parece humilde; pero su humildad es sólo
 transparencia. El Suchi Viejo es el viejo retenido en vibración infantil
 que debe ser la vibración de la Vida...
 
- Trémulo, efusivo, poquitín tropezando en guijarros, no bien nos
+Trémulo, efusivo, poquitín tropezando en guijarros, no bien nos
 presentamos, me dijo:
 
- –Para conocer a este anciano has dejado el Palacio de Oro, ¡oh,
+–Para conocer a este anciano has dejado el Palacio de Oro, ¡oh,
 Khori–Puma!...
 
- Y su pupila se dilataba como la del niño ante un juguete
+Y su pupila se dilataba como la del niño ante un juguete
 deslumbrante.
 
 –Te presentas a él sin escoltas; tiras del carro de este Relámpago;
@@ -26178,30 +25035,36 @@ que el pueblo conducido por la autoridad de un animal superior, se
 acrecienta; de la misma manera que se envilece cuando le gobierna el
 hombre depravado...
 
+<br>
+
 Quédame aún la sensación de esplendor que produjo en nosotros
 este ser excepcional. Hablónos de tantas cosas... De las antiguas
 costumbres; de los gobernantes ilustres; de las viejas luchas de Khestis
 y Kharachis; de la milenaria rivalidad de Suchis y de Mauris; de su
-asombro por la solución que les alcanzara tu Khori-Challwa
+asombro por la solución que les alcanzara tu Khori-Challwa...
 Hablónos, finalmente, del Wawaku. Un cuentito de achachi-guagua,
 niña querida.
 
+<br>
+
 –No he vuelto a verle –dijo– des no poco lejanos tiempos. Ignora
 que permanezco en el teatro de sus crímenes y anoto sus irredimibles
-
-perversidades. ¡Cuenta con su implacable aversión por mi KhoriChallwa! El Wawaku es el monstruo del complejo. No nacido en el
+perversidades. ¡Cuenta con su implacable aversión por mi KhoriChallwa!
+El Wawaku es el monstruo del complejo. No nacido en el
 Titikaka, es en el Titikaka el que la vida quita a cuanto toca con mal
 humor. Sometió al Anchancho, al Achachila, al Huturi, al Haipuñi;
 arrojó del Lago al Supay; al Aukhakhallu le obliga a ocultarse en alguna
 cueva de las montañas, en fin, ni el mal permite si no suyo. Bien que
-conviene ya te acuerdes que destruyó el Imperio de los viejos KhoriPumas, reinando el Emperador que hoy le gobierna, pese a la siniestra
+conviene ya te acuerdes que destruyó el Imperio de los viejos KhoriPumas,
+reinando el Emperador que hoy le gobierna, pese a la siniestra
 amenaza... Pero está pronosticado, ¡oh, padre de los huérfanos!; que
 EL PEZ DE ORO, nacido de su sangre, dará fin a sus crueldades.
 Tiene la virtud de hallarse en muchas partes al mismo tiempo, y en las
 formas más engañosas. Y así como para enloquecer a los balseros toma
 figura de Ñusta de hermosura sobrehumana; veces aparece en estrella
 que mana sangre; es ya la Paksi que multiplicándose ante sus víctimas
-aterroriza y comunica la idea de que el planeta detonará, desapareciendo del Universo; velado entre los totorales, las más lagarto, o
+aterroriza y comunica la idea de que el planeta detonará, desapareciendo
+del Universo; velado entre los totorales, las más lagarto, o
 carbunclo, cuyos ojos despiden hollinosas llamaradas, y, así, cuando los
 challweros en la oscuridad de la noche disponen la Khencha para la
 pesca, les asalta, por huirle los infelices se lanzan al agua, y se ahogan.
@@ -26215,7 +25078,7 @@ triste destino... Pero, larga historia es.
 
 Oíale EL PEZ DE ORO con fatigado aliento.
 
- –Nos das a probar la miel de tu hospitalidad, sabio maestro –le
+–Nos das a probar la miel de tu hospitalidad, sabio maestro –le
 dijo–; y no bien adviertes que con ella nos deleitamos la quitas de nuestros labios.
 
 Tan gentil y acucioso el interés del llokhallo, querida niña; tan
@@ -26225,7 +25088,8 @@ le bañó en ternísima mirada; y sólo atinó a suspirar:
 –¡Ah, Khori-Challwa!... ¡Mi Khori-Challwa!...
 
 Luego, asistido por orquestina de pinkhollos, se dispuso a cantar
-el Romance.
+el
+Romance.
 
     * * *
 
@@ -26253,7 +25117,9 @@ Hembra de Dios... ¡Degollad otro Orejón; y colmad de sus hidromieles
 mi crátera!... ¡Sicio!... ¡No me deis tregua a la espada, mis cachorritos
 fieros!...
 
-Ese su mosaismo.
+Ese su mosaísmo.
+
+<br>
 
 En alguna de sus rabiosas orgías había engendrado a la más linda
 Sirenita del Titikaka. Cómo en ella adoraba nuestro pueblo... Babeando
@@ -26268,10 +25134,11 @@ suspiros.
 
 Tenía que ofenderse el rey. La recluyó en palacio que se pierde
 por adentro los barros del lago; alzóle ventrudos murallones; en el
-
 portal de entrada paró su olor como una espada. Y guardianes dejó
 lagartos que para hacerse el amor en los días del celo debían ponerse
 en cruz. Nadie llegaría, que olor y Lagartos de la Cruz eran insufribles.
+
+<br>
 
 –¡Sólo un medio: matar al rey! –se decía el Khori-Puma.
 
@@ -26287,10 +25154,12 @@ pueblo...
 Cierta noche, burlando, como sólo él podía, las fieras guardias,
 llegó al cubil de la sierpe que retenía a su paloma.
 
- La Sirena tembló sacudida por el espanto.
+La Sirena tembló sacudida por el espanto.
 
- –¿Cómo has llegado, mi Khori-Puma?... Si el rey lo sabe qué hará
+–¿Cómo has llegado, mi Khori-Puma?... Si el rey lo sabe qué hará
 de ti...
+
+<br>
 
 –Cuanto quiera, imillay... Lo que no podrá, arrancarte de mis
 ojos.
@@ -26324,7 +25193,9 @@ Pronto, hasta en incógnitas lejanías del Titikaka, se agitó invasión
 de víboras venenosas. El pueblo lloraba. Pero el rey lanzó enfurecidos
 sabuesos, y aunque debieron esforzarse mucho, al fin con ellos dieron.
 
- Todo había terminado.
+Todo había terminado.
+
+<br>
 
 Sin que a nadie cediera ese deleite, en presencia del adolorido
 pueblo, el rey degolló al Khori-Puma. Y, tras rejas viles como su
@@ -26333,108 +25204,81 @@ enloqueció... Su guagüíta es EL PEZ DE ORO... ¿Qué otra guagüíta
 podía nacer de una Sirena del Titikaka? Mas apenas trinara el pecesito;
 que era de los challwas trinadores:
 
- –¡Piupiu-titit!... ¡Piupiu-titit!...
+–¡Piupiu-titit!... ¡Piupiu-titit!...
 
- Cuando ya su trino agonizaba... Una pepita de oro muerto añuña
+Cuando ya su trino agonizaba... Una pepita de oro muerto añuña
 la Sirena y le arrulla con sus locas tonadas:
 
 ### EYRAI
 
-¡Arrurrú! ¡Arrurrú!
+> ¡Arrurrú! ¡Arrurrú! \
+> ¡Arrurrú, guaguay! \
+> Era tu padre el Puma \
+> de ojos de añil. \
+> Y si dormías \
+> rugía así: \
+> «¡Trina, \
+> mi Suchi de Oro; \
+> trina, \
+> mi amor... \
+> ¿Porque si tú \
+> no trinas, \
+> qué como \
+> yo?»...
 
-¡Arrurrú, guaguay!
+> ¡Arrurrú! ¡Arrurrú!
 
-Era tu padre el Puma
-
-de ojos de añil.
-
-Y si dormías
-
-rugía así:
-
-"¡Trina,
-
-mi Suchi de Oro;
-
-trina,
-
-mi amor...
-
-¿Porque si tú
-
-no trinas,
-
-qué como
-
-yo?"...
-
-¡Arrurrú! ¡Arrurrú!
-
-¡Pobre Khori-Puma!... ¡Ay, la Sirenita del Laykhakota!...
-
-Viejas melodías la khachinaban en los ojos; viejo trino trajinábala
+¡Pobre Khori-Puma!... ¡Ay, la Sirenita del Laykhakota!... 
+Viejas melodías la khachinaban en los ojos; viejo trino trajinábala 
 el corazón. Y, sacando arpegios a la musgosa peñolería, a través de la
 sorda oreja del agua, los arpegios hacíanse espuma entre las olas...
 
 ### HARAWI
 
-Khaipi
+> Khaipi \
+> Wañuskha \
+> Llakta guaguan.
 
-Wañuskha
+> Khaipi, \
+> Laykha-kota \
+> Khori-Challwa... 
 
-Llakta guaguan.
-
-Khaipi,
-
-Laykha-kota
-
-Khori-Challwa...
-
-He aquí, y he aqui, que el pecesito muerto siente que dentro la
+He aquí, y he aquí, que el pecesito muerto siente que dentro la
 mama de su mama le llora su Tata-Puma:
 
 ### HARAWI
 
-¿Aleteas en la Khesti loca,
+> ¿Aleteas en la Khesti loca, \
+> guagualay?
 
- guagualay?
+> ¿Trinan ya tus oros locos, \
+> guagualay?
 
-¿Trinan ya tus oros locos,
+> ¡Pero si el loco es tu Puma, \
+> guagualay!
 
- guagualay?
+> Y su oro loco es tu Khesti, \
+> guagualay ...
 
-¡Pero si el loco es tu Puma,
-
- guagualay!
-
-Y su oro loco es tu Khesti,
-
-guagualay ...
-
- Decía la Sirenita loca que a ella, ¡también, también en los ojos
+Decía la Sirenita loca que a ella, ¡también, también en los ojos
 vivos de su guagüíta muerta la lloraba su Tata-Puma:
 
 ### HARAWI
 
-¿Enloquecieron tus pichikhas,
+> ¿Enloquecieron tus pichikhas, \
+> imillay?
 
- imillay?
+> ¿Suchis locos, tus ojos, \
+> imillay?
 
-¿Suchis locos, tus ojos,
+> ¿Que enloquecen tus ñuñus, \
+> imillay?
 
- imillay?
+> En la cruz de tus besos, \
+> imillay;
 
-¿Que enloquecen tus ñuñus,
-
- imillay?
-
-En la cruz de tus besos,
-
- imillay;
-
-déjame llorarle con tus ñuñus,
-
- imillay...
+> déjame llorarle con tus ñuñus, \
+> imillay... 
 
 Y tu Sirenita loca, porque busca el barro del Puma en el Cielo de
 Abajo, te llora con el oro del Lago de Arriba...
@@ -26446,11 +25290,16 @@ nuevamente oiremos su trino:
 
 –¡Piupiu-titit! ¡Piupiu-titit!...
 
-Tu Sirenita será el aroma con que cintilen las estrellas y tu KhoriPuma, rugirá, rugirá, que temblarán los vivos y los muertos...
+Tu Sirenita será el aroma con que cintilen las estrellas y tu Khori-Puma,
+rugirá, rugirá, que temblarán los vivos y los muertos...
+
+<br>
 
 IV
 
- Habría de vestir cota de hielo al brasero de mi corazón. Los
+<br>
+
+Habría de vestir cota de hielo al brasero de mi corazón. Los
 pobres Khestis no cesaban de fatigarme:
 
 –¡Tienes que ir, oh, Puma!... Por lo menos que lo veas de tus
@@ -26467,7 +25316,7 @@ para dominar sobre nosotros...
 
 –El Anchancho es el más activo y peligroso...
 
- –¡Ay, sí, vieras, tatay!... Se echa su sangre nengra y lo tapa sus
+–¡Ay, sí, vieras, tatay!... Se echa su sangre nengra y lo tapa sus
 brillos del lampa-lampa... Redepente parece el tata-Waksallu muerto...
 
 –¡Guá, más mejor el Layka-Khuchi, tatay!... Se hincha y se lo llena
@@ -26481,6 +25330,8 @@ con su boca cerrado: ¡Ouiii! ¡Ouiii!...
 –El Wawaku, vieras, Khori-Puma, se apesta, pero no fio; más
 mejor se apesta a las florecitas de la Mamita-wirgina y a su insinso del
 Tatakora...
+
+<br>
 
 –Te lo rondan al Khori-Challwa, Khori-Puma; se cuentan sos
 gracias; su jüersa; cómo es walinti...
@@ -26504,7 +25355,7 @@ si disi gosto nu más y las Hotoris nu si has dadu cointa; y si ti lo has
 ualado purqui turus si has ualaru. Y íl dansiri, hina, vieras, sin qui ti
 poidis rimidiar...
 
- Desbordó el límite de mis cálculos cuanto desde ese momento
+Desbordó el límite de mis cálculos cuanto desde ese momento
 comenzó a suceder en el Imperio.
 
 Las maniobras del Ejército, que al mando del Khori-Challwa se
@@ -26580,7 +25431,7 @@ resuelto. Cruzáronse miradas risueñas, que decían muy significativamente:
 
 Intervine:
 
- –Permaneceré en retaguardia cuidando de los elementos que
+–Permaneceré en retaguardia cuidando de los elementos que
 contribuyan a la victoria. El enemigo es peligrosísimo, posee fuerza
 inmensa y carece, o poco menos, de volumen militarmente físico. Si la
 violencia del ataque fuese superada por su poderío, lo que, momento
@@ -26680,20 +25531,21 @@ Tirabuzón; descargar en su retaguardia la suficiente fuerza impulsiva
 capaz de tirarle más allá del primer boquete.
 
 La N° 1 es la Operación Tirabuzón; la N° 2 la Anillo sin Fin; la
-N° 3 Operación Embolo. Creyóse que todas las providencias imprescindibles habían sido tomadas.
+N° 3 Operación Embolo. Creyóse que todas las providencias imprescindibles
+habían sido tomadas.
 
 –Así, pues, oh, Khori-Puma –prosiguió el bizarro Suchi–, una de
 las distinguidas unidades de tu Ejército, la de los Suchis, con diez
 millones de soldados, perfectamente instruídos, se incrustó en la
 Caverna; y con ella otra de aguerridos Humantus, mayor en número,
-audaz y expertísima. Estos debían realizar la N° 2 y, consecuentemente, la N° 3. Correspondería a la de Suchis, que integro, la más
+audaz y expertísima. Estos debían realizar la N° 2 y, consecuentemente,
+la N° 3. Correspondería a la de Suchis, que integro, la más
 dinámica y peligrosa: la N° 1. En ella se me distinguió con el mando
 del Regimiento de vanguardia. Por eso mismo fui el primero en
 advertir que la concepción, teóricamente original, tácticamente
 audacísima, confrontaba error de magnitud tal que habría determinado,
 sin la intervención personal de mi General en Jefe, no su fracaso solo,
 sí consecuencias antipódicas. Malos informes hicieron, malos o
-
 deficientes, que para el caso es lo mismo, que no se consideraran dos
 factores fundamentales: la velocidad del movimiento de las aguas
 dentro la Caverna y la Impenetrable tiniebla. De ésta se ofrece
@@ -26730,12 +25582,15 @@ contra los otros; y ya eran arrastrados a las galerías altas de la cavidad, o
 se internaban por ranuras que debían perderse al centro del planeta.
 Aquello nebulosa de agua enloquecida moliendo masas de carne.
 Pocos, por casualidad, que por otra razón no, lograron escapar. Y
-
 fueron ellos quienes anoticiaron al General en Jefe de la catástrofe
 sobrevenida.
 
+<br>
+
 Ese no nuestro mundo; nos devoraría el rencor de la tiniebla; un
 rencor que se ve porque aulla.
+
+<br>
 
 Con la sublime rapidez para la aprehensión de los hechos, que
 hace del Khori–Challwa un genio de la Vida, todo lo comprendió. ¡El
@@ -26770,7 +25625,6 @@ alzó el Wawaku, o porque se había distendido saliendo de alguno de
 sus misteriosos cubiles, o porque se arrastraba supino por el lodo y se
 incorporó... El agua fue impelida contra grietones y farallones; al
 escapar, por quién sabe qué laringe, produjo espantoso ronquido, y
-
 aventó contra las rocas el ya espeso cenegal de combatientes y su caldo
 de sangre. Pero el reflujo pudo ser menos violento. Ese cardumen
 denso regresó con fuerza demoníaca, anególo, y poco que no le
@@ -26794,7 +25648,7 @@ corpachón, embreándolo. El suelo donde paraba, barro de sangre y
 cadáveres; el aire que le rodeaba, espesa agua, y cadáveres, y sangre; el
 cebo que engullía, estertor en forma de barro y de víscera.
 
- Se apropiaba de él, cada vez más, sinapismo de materias tibias,
+Se apropiaba de él, cada vez más, sinapismo de materias tibias,
 pegajosas y corrosivas.
 
 Lo que no habría de fatigarse, ni ceder, las Operaciones 1-2, 1-2,
@@ -26811,7 +25665,7 @@ notomías, sentía que toda posibilidad era ya común a ambos. Aquella
 masa cada vez más dura, a punto de cementarse, acabaría por asfixiarlo,
 empaderándolo entre su masacote.
 
- Absorbía miriadas de peces; entre cascajeos de enmohecidos
+Absorbía miriadas de peces; entre cascajeos de enmohecidos
 hierros, triturábalas; tornaban a despedazar los calludos cocharones de
 la zarpa, para escupir, presto, carnaza que iba a estampar aullando entre
 las rocas.
@@ -26838,6 +25692,8 @@ Semilla de podre, al fín, si esta negación fue capaz de embriones.
 
 Era Él, tu guagua, Khori-Puma.
 
+<br>
+
 Atoróse el estertor; en las ensangrentadas pupilas se dibujó la
 monstruosa figura, y los agonizantes nos lanzamos sobre ella con el
 furor de un huracán de arena.
@@ -26854,7 +25710,7 @@ Y en la erupción del estrangulado fuego:
 
 –¡Wipha, Khori-Khana!
 
-Era El: el oro de la luz... Igneo venablo infundía oropel en el
+Era Él: el oro de la luz... Igneo venablo infundía oropel en el
 cenagoso vértigo.
 
 Sacudióse el enorme corpachón; abrió la babosa fauce en
@@ -26873,11 +25729,17 @@ daban impresión de volcán a quien ahorcaran las entrañas.
 
 –¡Suchi! ¡Suchi! ¡Suchi!...
 
+<br>
+
 ¡¡Llegó, llegó, oh, Khori-Puma!
 
+<br>
+
 –¡EL PEZ DE ORO!...
 
 –¡EL PEZ DE ORO!...
+
+<br>
 
 Germen fúlgido se dirigió hacia el bruto con velocidad de estrella.
 Al sentir el áureo aletazo, lanzó cavernoso alarido, acudiendo, las
@@ -26895,6 +25757,8 @@ herrumbrosos.
 
 La estrella estaba al alcance de su diente.
 
+<br>
+
 Abortó la visión en el vertiginoso ovario. Suchis y Umantus, que
 agredíamoslo para despedazarle a mordiscos, y suprimirle por aplastamiento, helados con el espanto suspendíamonos y hasta el remolino
 sangriento dejó de resollar. Tiempo de un latido cristalizó la tumba.
@@ -26905,6 +25769,8 @@ Le incrustaba las garras, Khori-Puma; le aferraba ya... Cuando se
 inflamó el Relámpago, y la deforme cabeza estalló, cayendo abatida
 sobre el lomo; y luego el corpachón, escupida piltrafa, fue a dar sobre
 las grietas.
+
+<br>
 
 –¡Wipha! ¡Wipha!
 
@@ -26920,7 +25786,7 @@ hubo ciencia. Manoteaba, bramaba, trazaba atontados círculos...
 
 Los vertiginosos remolinos volvieron a moler masas de oro.
 
- Allí operóse la consumación de ese duelo de los milenios: la
+Allí operóse la consumación de ese duelo de los milenios: la
 cabeza del Wawaku miraba por el lado del lomo. Des tal momento la
 suya sería guerra consigo mismo, si, buscando acometer, hacía más que
 presentar la nuca, a tiempo de golpearse dolorosamente los pectorales.
@@ -26930,10 +25796,14 @@ mirar, en segmento de sus disfuerzos, imbecilizado, abrió los ojos
 frente a El, profirió pavoroso gemido, lo mismo que sierpe herida por
 el rayo se contrajo y derrumbó.
 
- ¡El rayo, Khori-Puma, el rayo, tu rayo, nuestro rayo: su
+¡El rayo, Khori-Puma, el rayo, tu rayo, nuestro rayo: su
 Relámpago!...
 
- –¡Wipha! ¡Wipha!
+<br>
+
+–¡Wipha! ¡Wipha!
+
+<br>
 
 Los ojos de la mala bestia estaban carbonizados.
 
@@ -26942,7 +25812,6 @@ en el lodo encharcaba garras; la charca en él hundía las suyas. Luego,
 como el esqueleto de la montaña cuando el sismo sacude, y montaña
 de carne encolerizada, trasfundida por el oro, nosotros, sobre él
 caimos, le habíamos privado de movimiento, nos disponíamos a
-
 atomizarlo, tremuló con sordo calambre, y se desparramó en barro
 acuoso, desapareciendo ante nuestro asombro con un ronquido que se
 estrangula.
@@ -26950,6 +25819,8 @@ estrangula.
 Gangoso quejido comenzó a borbotar dentro las grietas, y la
 tiniebla, desde ellas, a mover, distendiéndolas, más oscuras cimpas de
 humo, o de brea.
+
+<br>
 
 Todo había durado el guiño de la estrella.
 
@@ -26974,7 +25845,8 @@ ejército de Khausis, al no menos belicoso de los dorados Hipocampos,
 ponte a su cabeza, y, dirigiéndote a la Caverna, suplica al Príncipe, que
 su padre le manda regresar con sus tropas, rogándole disponer se
 entreguen a sus diarios quehaceres para regocijo de sus esposas e hijos,
-a quienes mandará dedicar fuertes memorias a su humilde Emperador... Mía la Batalla del Espanto, Suchi de color de acero... Mas si ella
+a quienes mandará dedicar fuertes memorias a su humilde Emperador... Mía
+la Batalla del Espanto, Suchi de color de acero... Mas si ella
 desbordara de la Caverna, tenlo como seña de que fue segada mi
 existencia; y, entonces, con las reducidas fuerzas que haya el Príncipe,
 le asistirás indomeñable, alimentando el combate en la violencia del
@@ -26982,15 +25854,14 @@ agua y la frialdad del fuego, cual a su ayo y maestro corresponde... Esto
 en tanto no force el enemigo con su mayor poder; pues cuando tal
 ocurra, sin heroicas sonajerías, pero con escolta férrea, conducirásle al
 escondrijo del Suchi Viejo, desde donde, El, sustentará a su pueblo
-hasta que devuelta sea la Batalla, y le instruirás con estas palabras: "¡El
+hasta que devuelta sea la Batalla, y le instruirás con estas palabras: «¡El
 Khori-Puma, dice, que mientras el enemigo no ha vencido en tus
-
 riñones, ha vencido; por lo que el vencido cuide de los del vencedor, y
-el vencedor no duerma acariciando los riñones del vencido!"... Tras
+el vencedor no duerma acariciando los riñones del vencido!»... Tras
 esto, arrastrarás mis tristes despojos por el barro para que el barro los
-redima, allegándote, finalmente, al Príncipe con estas palabras: "¡Tu
+redima, allegándote, finalmente, al Príncipe con estas palabras: «¡Tu
 padre te llora dar sepultura a estos huesos en la tierra sobre quien tus
-almohadas querrán apoyarse desde hoy!"...
+almohadas querrán apoyarse desde hoy!»...
 
 Pago tu noble lealtad, oh, Suchi de color de acero, con mi afecto
 y gratitud.
@@ -27029,16 +25900,20 @@ eran ellos quienes encendían el anheloso fuego de mis hogueras.
 
 Mas, además de su estancia, ya nó: ¡nadie!...
 
- Contraríabame la desatención del Wawaku, chirote de capirote,
+Contraríabame la desatención del Wawaku, chirote de capirote,
 que así se perdía de copar a su mayor enemigo, caer sobre él con sus
 aliados, reducirle a la impotencia, pulverizarle, y no que le dejaba el
 ambulatorio desesperar de esa soledad...
+
+<br>
 
 Después de tiempo, en ningún caso breve, si llegado al Alba, la
 nueva ya lamería las pieles del Lago Arriba, uno tras otro, lancé tres
 rugidos, que, cierto estoy, me oyeron los muertos (si por su causa allí
 estaba); pero cuyas crispadas vibraciones habrían de atragantarse en ese
 duro ojo de agua pesada que no ebulliría más...
+
+<br>
 
 Invitando a la batalla ya; en silencio, luego, permanecí, mucho,
 mucho tiempo. Apenas si respiraba mi impaciencia; y nada, ni nadie.
@@ -27054,7 +25929,9 @@ Había punto donde no se aguzase el corazón para merecer la
 libertad. El conmovido mundo del Challwa sacudíase electrizado.
 Volvieron los fieles Khestis.
 
-–Allí estuvieron, P u m a; temblando de pavor... El Wawaku no
+<br>
+
+–Allí estuvieron, Puma; temblando de pavor... El Wawaku no
 mira ya... Le arrastra una sapa leprosa... Que se va a comer tu tomatada
 de Suchi; eso no más dice... Vuelve, oh, P u m a; hazte el muerto. Al
 verte así te acometerán; y podrás destruirlos...
@@ -27069,6 +25946,8 @@ acerca el fuego.
 
 Avanza otro, sonoro, orquestal, además del Khori-Puma, en el
 destino del Khori-Puma.
+
+<br>
 
 Llegué al fondo de la Caverna; y me tiré en el último aliento. Se
 diría el Wawaku: "¡El Khori-Puma ha venido a morir como un Rey de
@@ -27090,6 +25969,8 @@ Mi corazón, volcán con ahogos de fuego; fuego armado con
 garra amarga y ácida; dolor seco en su lágrima; dolor espina; dolor
 arena; dolor que a sí mismo se corroe...
 
+<br>
+
 Bien sé que este hedor que violenta en la luz se ha hecho sólo
 para abatirle; es contra Él que se dirige desde el fondo sin principio del
 Espanto. Y por que así, debo permanecer tirado en el barro, ahorcando
@@ -27108,9 +25989,14 @@ la amarga borra, angustiosas, lloraron en mi oreja:
 
 –¡Tatay!... ¡Tatalay!...
 
+<br>
+
 Apestaron solfateras en mis venas; solfateras y lava azotaron los
 ojos del Achachi-guagua-Puma. Cuando, soltando fuego por ellos y
-fauce, rompía el agua, empantanadas, me dolieron otras, más angustiosas y duras:
+fauce, rompía el agua, empantanadas, me dolieron otras, más angustiosas
+y duras:
+
+<br>
 
 –¡Cierran la Caverna, Puma!...
 
@@ -27124,12 +26010,14 @@ fauce, rompía el agua, empantanadas, me dolieron otras, más angustiosas y dura
 
     * * *
 
- ¡Piensa, niña querida! ¡Llora, querida niña!... Cuando llegué,
+¡Piensa, niña querida! ¡Llora, querida niña!... Cuando llegué,
 peñón de plomo obstruía la entrada de la Caverna... Rugieron volcanes
 en mis ojos; en mis garras lloraban los volcanes. Y aunque con rugiente
 y lloradora zarpa incrusté mis lloros en la ardiente mole, la roturé
 surcos, como a tierra tierna, ni se derritió el peñón, ni se hundió la
 gelatina de la vida.
+
+<br>
 
 Era prisionero del Wawaku; EL PEZ DE ORO, tomatada para
 su hartazgo.
@@ -27172,6 +26060,8 @@ El oportuno ataque de EL PEZ DE ORO habíale frustrado el
 viaducto que practicaba bajo las aguas y al amparo de su definitiva
 tiniebla veíase obligado a desplazarse sobre rutas solares.
 
+<br>
+
 Estruendo ululante sacudía la masa de agua. Enfurecido rebato
 de olas, las campanas; áspides que saeteaban, las khepas; batiendo el
 torax de las montañas, el estruendo llenaba la inmensidad con lúgubres
@@ -27183,10 +26073,14 @@ Cuando al joven Emperador llegó la tremenda noticia...
 de mi persona; puesto que si el Khori-Puma es prisionero del Wawaku,
 el Emperador del Titikaka...
 
+<br>
+
 –¡Oh, Khori-Challwa –respondió–: mientras a mi alcance esté
 obedecer las órdenes de mi hijo, permaneceré a tu lado a riesgo de la
 vida!... Mi última lección será ésta: morir obediente a quien ambos
 amamos con igual ternura.
+
+<br>
 
 Guiado por la sapa leprosa, su asqueroso lazarillo, avanzaba el
 Wawaku, inmovilizados los ojos, fijos al opuesto destino de sus pasos,
@@ -27226,11 +26120,10 @@ ellas, arengólas.
 
 ## ARENGA DEL INKA
 
-"Soldados de la Patria: el enemigo, que hizo de las cadenas de
+«Soldados de la Patria: el enemigo, que hizo de las cadenas de
 nuestro pueblo la necesidad de su existencia, avanza, ciego y
 enloquecido, con el siniestro designio de borrar de la faz del planeta
 cuanto ha bautizado libre el derecho a la vida: y es su carnicero y necio
-
 propósito arrancar de raíz el alma de nuestro glorioso pueblo. Nó los
 siglos, los milenios, se alzan a nuestras espaldas, sobrecogidos ante su
 voraz insolencia. No le ha bastado la derrota que le habeis infligido en
@@ -27244,10 +26137,14 @@ reclama, Soldados de la Patria; os reclama desde el fondo de la tumba:
 oid su voz; que os quemen el corazón sus lágrimas y su indignación
 desesperadas!
 
- "¡Arremeted, tromba gloriosa: los milenios os aclaman ya
-sublimes vencedores de la Muerte!"
+<br>
 
- Y, luego, en el vértice de ángulo, que rompía en espolón,
+¡Arremeted, tromba gloriosa: los milenios os aclaman ya
+sublimes vencedores de la Muerte!»
+
+<br>
+
+Y, luego, en el vértice de ángulo, que rompía en espolón,
 mientras alas potentes se abrían en movimiento de tenaza, fulgió,
 deslumbrante.
 
@@ -27270,7 +26167,6 @@ Duende carecía, la enormidad de ese turbión de diminutas existencias,
 células del orgasmo vital, cuasi microscópicos seres, que si bien
 despojados de crueldad para enfrentar al hijo natural de la soberbia,
 traían la fuerza caótica del átomo desintegrado y se descargaban en
-
 nebulosa de fauces que habrían de atomizarlo con arrancarle –de
 hallársela– partículas de materia.
 
@@ -27280,7 +26176,8 @@ obstáculo encontraban.
 
 El lomo giboso, grande como la giba de cordillera planetaria, si
 en él se dieron todas las batallas de la Guadaña. Cuellicorto. Tórax
-plutoniano, que otrora tropezara con el mentón. Aceradas extremidades de antropomorfo, de uñas repulidas al tono y la color del
+plutoniano, que otrora tropezara con el mentón. Aceradas extremidades de
+antropomorfo, de uñas repulidas al tono y la color del
 Andrógino; dedos, que entre uno y el otro, perdían las membradas del
 palmípedo. Velludo, con la verdosa color del animal marino. A juzgar
 de las protuberancias del esqueleto, debíale articular en morrocotudas
@@ -27310,9 +26207,10 @@ flanco; y sucedíanse con irrumpiente violencia, magistral sentido de la
 maniobra, más admirable conciencia del factor soldado y del factor
 instrumento bélico, sin considerar ahorro de vidas en tributación de
 violencia sin ahorros. Ante esta creatura impasible salida de los
-
 seminales de Belial, las fuerzas microscópicas del Titikaka tenían medio
 de vencer que su masa espesa e inmensa como el lago mismo.
+
+<br>
 
 Presto cerróse la implacable tenaza, y el Wawaku sintió que le
 batían, y le abatirían, alas coléricas que agitaban Niágaras de escamas,
@@ -27339,12 +26237,16 @@ se veló para no mirarle. Le estrangulaban las oleadas masivas; y lanzó
 alarido de bruto a quien amputan el sexo. Mas ya no pisaba lodo, sino
 mazmorra de peces que le hacía alfombra babosa y resbaladiza.
 
+<br>
+
 ¿Cuál, en tal etapa de la Batalla, el resultado del inverosímil duelo
 entre ese turbión de carne dolorosa, frágil, impelida por ardiente
 sentimiento de Vida, y de Patria, decidida a quebrantar la amenaza de
 las cadenas, y trasgos, mitad bestias, mitad animación diabólica de un
 rencor divino, festonada por barbas rojizas y armada con mortales
 colmillos?
+
+<br>
 
 Estruendo de convulsión estelar revulsionaba millones de
 cadáveres en la masa de sangre, tibia y densa, en que estaba convertida
@@ -27363,6 +26265,8 @@ enconos de guadaña y el inocente tinte de la sangre...
 
 La tremenda batalla ardía en óvulos y chullpares.
 
+<br>
+
 ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku!
 
 ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku!
@@ -27380,9 +26284,13 @@ vivía de aventar fuera de sí aquella parte indomeñable de su naturaleza,
 que sin estar a su lado, estaba en Él con pasión de pólvora, con frío
 temple de espada.
 
+<br>
+
 ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku!
 
 ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku!
+
+<br>
 
 ¡El Wawaku! Sí; era el Wawaku, con naturaleza, con músculos,
 con realidad; el Wawaku que demolía al débil hijo del agua; que le
@@ -27392,7 +26300,6 @@ y ama. El Wawaku, que rompiendo los extremos de su propio ser,
 alcanzaba los del hombre y se lanzaba con infernal encono sobre la
 Vida y que devoraría a la Estrella áurea amanecida en el seno caliginoso
 de su terror. El Wawaku, a quien me había negado a reconocer, cuya
-
 existencia se me ofrecía quimérica y gaseosa; y hoy sacudía el mundo
 con garra garrafal; arrancaba con ella, a redaños, sin piedad, con
 famélica complacencia, las vísceras de la vida. El Wawaku, que era
@@ -27400,13 +26307,19 @@ resuello satánico en la quietud sedeña de la flor; vómito letal en la
 euforia de los surcos; espanto de la luz que se orea en los ojos
 límpidos.
 
+<br>
+
 ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku!
 
 ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku!
+
+<br>
 
 Por mis ojos, que eran llagas de lágrimas, pasaba visión horrible;
 el Wawaku, devorando en su inmunda fauce las estrellas de oro de mi
 guagua...
+
+<br>
 
 Después de tiempo, del Tiempo ése, que es pegajoso khawsillu en
 los ojos que lloran, secos, y en ascuas, que fue todo el tiempo de mis
@@ -27437,7 +26350,6 @@ desgastaban la roca, pretendiendo descuajar el tapón y devolverme la
 libertad, entraron en acción con violencia que hacía retemblar la
 inmensa osatura de esa cadena de lomos graníticos, que yo, entre
 gemidos de angustia y coléricos bramidos, me figuraba tempestad que
-
 desuella la tierra... Más no podría esperar sin que en los ojos se
 rompieran las venas.
 
@@ -27452,14 +26364,18 @@ enarqué el lomo; entre su dolor y el mío mi desesperación rompió el
 cilicio; y me lancé sobre el peñón para estrellarme en la noche de la
 muerte antes que soportar dos latidos el infierno de la tumba.
 
- El tapón crujió, gimió... Pero, zafó la masa, y cayó, pesada,
+El tapón crujió, gimió... Pero, zafó la masa, y cayó, pesada,
 babosa, roncando.
 
 Como debe caer la cabeza de la inmunda alimaña.
 
+<br>
+
 ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku!
 
- ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku!
+¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku! ¡El Wawaku!
+
+<br>
 
 Lo mismo que el rayo de la nube revienta, y fulmina, y hiende, y
 abrasa; fulminé la podre, y rompí con fuego los pedernales
@@ -27473,33 +26389,46 @@ retaguardias, al verme...
 
 –¡EL PEZ DE ORO lucha con el Wawaku, Khori-Puma!
 
+<br>
+
+
 Pronto mis desesperados ojos ubicaron el centro de la batalla. Y
 allí vi a tu Khori-Challwa, querida niña, que azotaba la monstruosa
 cabeza, ciega para los brillores de su oro, y que enloquecida por las
 furiosas marejadas de combatientes, desesperaba por aferrarle,
 lanzando aullidos sepulcrales.
 
+<br>
+
 Poco, poco me faltaba para caer.
-
 Y entonces...
+Reventó volcán de espanto. 
 
-Reventó volcán de espanto.
+<br>
 
 ¡El asqueroso endriago mordió con las diez garras fieras el dulce
 resplandor!
+
+<br>
 
 Tumulto estalló despavorido; y las desbandadas fuerzas cayeron
 sobre mí en masa densa, ciega, impenetrable, que no me permitía
 avanzar, y, al contrario, hundiéndome en abismos de locura, me
 alejaba.
 
+<br>
+
 Tuve que ver el zarpazo de la bestia...
 
 ¡Tuve que ver que le engullía ya!
 
+<br>
+
 Rugí. Rugí. Imploré; rugí, de rodillas. Con qué furor de trueno,
 de aludes que llorando se derrumban desde el nevado. La enloquecida
 masa recobró la conciencia; y abriéndose...
+
+<br>
 
 Cuando llegué, el inmundo basilisco, babeaba, y gruñía, porfiando, por librarse de los desesperados ataques, alargar los brazos hasta la
 fauce, abierta sobre el lomo, y clavar el colmillo en ese fragor del Sol.
@@ -27514,28 +26443,29 @@ carne, nervios, huesos...
 
 Con la ensangrentada fauce, temblando aún de ansiedad y de
 cólera, el belfo que gimoteaba su ternura, lamí las dulces heridas,
-levanté del barro su esqueleto, pude acariciarle en el último relampagueo de mis ojos, apenas a entregarle a su pueblo; cuando sentí que
-el Wawaku muerto me había matado...
+levanté del barro su esqueleto, pude acariciarle en el último
+relampagueo de mis ojos, apenas a entregarle a su pueblo; cuando
+sentí que el Wawaku muerto me había matado...
+
+<br>
 
 Aquél no fue morir de América, niña querida.
+
+<br>
 
 En una lágrima le puse; en una lágrima vendrá.
 
     * * *
 
- Vamos, pues, querida niña: aquí le dejé, aquí tiene que estar.
+Vamos, pues, querida niña: aquí le dejé, aquí tiene que estar.
 
 # EL PEZ DE ORO
 
-Bajo nublas de cieno
-
-en el desconsuelo de la tarde,
-
-la flor se desgaja,
-
-cae en la linfa;
-
-y se va llorando...
+> Bajo nublas de cieno \
+> en el desconsuelo de la tarde, \
+> la flor se desgaja, \
+> cae en la linfa; \
+> y se va llorando... 
 
 Tal los muertos lloran, y se van, aun que no de ellos.
 
@@ -27567,7 +26497,6 @@ funcionales de la materia; lo que demuestra que poseía intuición segura
 de la inmortalidad de la célula; mientras el moderno hombre de ciencia
 (el oficial al menos) tiene conciencia de su inevitable mortalidad. De
 ellos hay quien –que sepamos– al autorizar el óbito exprese que sólo
-
 "aparentemente" su enfermo ha fallecido; por lo que, con muchas
 probabilidades de no incurrir en delito, podíasele cremar o sepultar.
 Con apretada entraña el brujo sigue tras el lloro de los deudos, y siente,
@@ -27581,13 +26510,17 @@ afecto y el avío que sustenta. Ya es fácil descubrir que el hombre de
 ciencia no ve que la huesa es, por lo menos, símbolo patibular del
 hombre.
 
- Si no hay abismo de ignorancia científica entrambos, que lo
+<br>
+
+Si no hay abismo de ignorancia científica entrambos, que lo
 demuestre Platón.
 
 Acaso todo esto sepa a paradoja. Por eso mismo correspóndenos
 buscar los medios que permitan decidir de manera concreta e
 inobjetable, si la célula muere, cómo muere y cuáles las formas en que
 tal fenómeno se manifiesta.
+
+<br>
 
 Sostiene el miólogo que ciertos sistemas musculares suelen sufrir
 endurecimientos que impiden el normal riego sanguíneo, o se linfatizan
@@ -27601,12 +26534,13 @@ La semilla que se desprendió de su yema no apesta; sabe a gusto
 de tálamo, olores seminales, eróticos, amativos. Y no el pobre viejuco
 que es sólo madura semilla.
 
+<br>
+
 En el organismo viril los sartorios afectados, y muertos al fin,
 presto se reemplazarán por otros que elabora (cómo, no lo sabemos) el
 músculo vivo. De suma importancia observar que, en efecto, así es:
 pero, ¿cuáles los medios y normas de ese proceso? Teníamos que
 habérnoslo planteado como previa cuestión, pues allí se incorporan
-
 dos fenómenos que polarizan el drama de la materia: por una parte la
 célula que muere y por otra la que la sustituye; y determinarlo será
 tanto como haber dado con la clave de la vida y no menos que con la
@@ -27619,6 +26553,8 @@ es andrógina, como Jehová; si de otra manera lograría proliferar. Y, así,
 desde el prendimiento de la semilla en el óvulo la materia se
 desarrollará por proceso genésico, creciendo hasta sus límites debido a
 tales funciones. Vivir será germinar.
+
+<br>
 
 Ahora bien, la célula enferma para que pueda morir tendrá que
 ser privada de sus nódulos dinámicos. ¿Entonces, se circunscriben a
@@ -27635,15 +26571,18 @@ ver con los ojos, demostrando sólo que las células ópticas no le
 abandonaron y viven con el tremante sentimiento de la visualidad. ¿Es
 que, al último, el ciego alcanza a sentir l os colores?
 
+<br>
+
 Ciertamente, para tal hambre tal pan. Esa es la ley. Los organismos toman la forma que a las necesidades creadas por el habitat, sus
 medios y oposiciones, conviene. La naturaleza débil suscitará al
 hombre fuerte. A la inversa, la naturaleza fácil al hombre basto y difícil.
+
+<br>
 
 De todo esto se desprende conjetura admisible; y es la de que en
 la célula está el cósmos; por tanto su potencialidad genésica resulta
 absoluta. Al relajarse infundirá su módulo individual en celula
 femenina, y, transfundida por ese medio, rebrotará. Esto es, que no
-
 puede morir quien ya vive. Mirado así el proceso de la arquitecturación
 celular es una permanente germinación; a medida que vivimos
 perdemos cáscara mas no células. Cuando muere el individuo –animal
@@ -27684,7 +26623,6 @@ en esos que son tan artificiosa manufactura del hombre? Allí donde,
 como en América, porque se quiso, o se le impuso otro idioma sobre el
 ya celular, las células no velarán su desagrado, y el hombre se expresará
 sin emotividad, haciendo su lengua crispatura y violencia? No se
-
 explica de otra manera que reconociendo personalidad a la célula la
 frialdad sexual en algunos matrimonios, como se explica por otro
 medio la gelidez e infecundidad de algunos estilos literarios. El escritor
@@ -27709,12 +26647,12 @@ extrae. De saber extraerlo, bien pueda que no sea hispano lo que se
 obtenga. De ahí el miedo, que se disfraza de menosprecio, por las
 lenguas del indio.
 
-Tampoco se ha decidido si aquello que "raza" se llama, proviene
+Tampoco se ha decidido si aquello que «raza«» se llama, proviene
 de morfologías celulares y que, desde ellas, se particularizan los
 hombres; que si el hispano, p. e., se forma por cuarenta millones de
 células, el americano de América sólo por treinta millones, lo cual,
-determinando diferencias raciales, autorizaría conceptos de "raza
-superior" y de "nativas razas inferiores", como sostienen, no
+determinando diferencias raciales, autorizaría conceptos de «raza
+superior» y de «nativas razas inferiores», como sostienen, no
 pensadores hispanos, cuarterones de América.
 
 La superioridad de los pantalones con flautones no puede ser
@@ -27725,27 +26663,19 @@ conciencia.
 Las vivencias de la célula están en el paisaje: eso patria y cultura
 celular. ¿Que el aymara es de la roqueña rudeza de una erizada costilla
 de granito; que el kheswa mansurrón como babosa brisa que babean
-
 sus maizales? Sí, porque son idiomas de montañas y cielo, vivencias de
 célula, sus paisajes.
 
 Extraigo del "Incipit" de PUMA-KHAPAK, esta exaltación del
 Inka:
 
-"TÚ HACES EL MUNDO;
-
-TÚ ANIMAS LA TIERRA;
-
-TÚ ERES LA GRASA DE LOS MARES... "
-
-Traducidas, así, libremente, estas palabras de la Runa-Simi, serían
-su mejor elogio:
-
-"Pacharurak;
-
-Pachakamak;
-
-Wirakhocha..."
+> «TÚ HACES EL MUNDO; \
+> TÚ ANIMAS LA TIERRA; \
+> TÚ ERES LA GRASA DE LOS MARES... " \
+> Traducidas, así, libremente, estas palabras de la Runa-Simi serían su mejor elogio: \
+> Pacharurak; \
+> Pachakamak; \
+> Wirakhocha...» \
 
 Al último, el Kheswa de las edades mázdicas, tiene salivaciones
 de hoy.
@@ -27753,13 +26683,10 @@ de hoy.
 Y éste, de Timota Aliaga, arrobo verbal y embriaguez de la célula
 aymara:
 
-¿Unktati urpanaka hiwañan
-
-akiri orasionana llaki?
-
-Pankara kalaktiw hawiraru
-
-hachjasin sarjew...
+> ¿Unktati urpanaka hiwañan \
+> akiri orasionana llaki? \
+> Pankara kalaktiw hawiraru \
+> hachjasin sarjew... 
 
 En pueblos americanos con raices vivas se dan con no poca
 frecuencia casos como éstos, y ello nó por decisiones intelectuales, sí
@@ -27787,8 +26714,10 @@ Incognoscible, juzgándose límite de toda sabiduría. Células adiposas.
 
 Hay político en esta Sub-América que no lleve en el meollo
 montoneras, tremolina y garrote; y de la "historia" de sus democracias
-–lo saben todos en el mundo inmundo–asuntos son de la patología
+–lo saben todos en el mundo inmundo– asuntos son de la patología
 más absoluta. Célula.
+
+<br>
 
 ¡Y éstos, en Germania y la pobre América, los sucedáneos
 "civilizados" del antropófago de "raza inferior"! En algo sí son
@@ -27804,8 +26733,10 @@ los pueblos americanos –y otros como ellos– magüer la Revolución
 independentista, no son libres: siguen siendo colonias, y colonias de los
 mismos que despanzurraron inkas con la cruz y en la cruz.
 
- No sólo no muere la célula genésica; sí que se niega a toda
+No sólo no muere la célula genésica; sí que se niega a toda
 suplantación.
+
+<br>
 
 He aquí caso en plano eminente, que puede multiplicarse. Le
 tomamos porque se trata de amigo dilecto y escritor de los más
@@ -27856,7 +26787,6 @@ podamos decir: he aquí el connubio indio-hispano.
 
 El hibridismo tampoco pudo cristalizar –ni puede– en la sangre;
 pues es en ella, precisamente, donde se oye el ¡Kharrajuskha! del
-
 caballero español y el lloro del indio. El lloro, lo que en el hombre
 llora, empero, es él, ÉL, que no tiene otra patria que la suya, de la cual
 fue echado.
