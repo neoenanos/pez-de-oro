@@ -18,17 +18,15 @@ jobs:
 
       - name: Install pandoc
         run: sudo apt install -y pandoc
-
-      - name: Parse metadata
-        id: metadata
-        run: |
-          echo "title=$(grep '^title:' meta/metadata.yml | cut -d ' ' -f2- | xargs)" >> $GITHUB_OUTPUT
-          echo "author_name=$(grep '^  - name:' meta/metadata.yml | cut -d ':' -f2- | xargs)" >> $GITHUB_OUTPUT
-          echo "author_lastname=$(grep '^  - lastname:' meta/metadata.yml | cut -d ':' -f2- | xargs)" >> $GITHUB_OUTPUT
         
       - name: Get epub name
         id: epub_filename
-        run: echo "filename=${{ steps.metadata.outputs.author_lastname }}, ${{ steps.metadata.outputs.author_name }} - ${{ steps.metadata.outputs.title }}" >> $GITHUB_OUTPUT
+        run: |
+          title=$(grep '^title:' meta/metadata.yml | cut -d ' ' -f2- | xargs)
+          author_name=$(grep '^  - name:' meta/metadata.yml | cut -d ':' -f2- | xargs)
+          author_lastname=$(grep '^  - lastname:' meta/metadata.yml | cut -d ':' -f2- | xargs)
+          filename="$author_lastname, $author_name - $title"
+          echo "filename=${filename// /_}" >> $GITHUB_OUTPUT
 
       - name: Compile Epub
         run: |
