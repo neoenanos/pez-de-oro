@@ -31,7 +31,10 @@ jobs:
       - name: Compile Epub
         run: |
           mkdir -p out
-          pandoc md/* -o "out/${{steps.epub_filename.outputs.filename}}.epub" --metadata-file=meta/metadata.yml
+          pandoc md/* \
+          -o "out/${{steps.epub_filename.outputs.filename}}.epub" \
+          --metadata-file=meta/metadata.yml \
+          --toc-depth 2 
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
