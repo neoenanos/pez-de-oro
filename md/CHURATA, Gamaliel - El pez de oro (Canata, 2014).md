@@ -1,4 +1,4 @@
-# PREVIAS sean dos palabras.
+# PREVIAS sean dos palabras
 
 PREVIAS sean dos palabras. EL PEZ DE ORO cursó no breve génesis editorial
 debido a causas –algunas de ellas– casi fantasmales, si
@@ -64,7 +64,7 @@ G. Ch.
 > El Visorrey de los Muertos \
 > Esqueletos en el Infierno \
 > Bacterias, Sueños, Versos. \
-> Etc., etc. 
+> Etc., etc.
 
 # HOMILÍA DEL KHORI-CHALLWA
 
@@ -74,7 +74,7 @@ G. Ch.
 > Me enterraron con mortaja negra, \
 > he visto crecer hongos, he partido \
 > calabazas en sueños. \
-> (Onirólogos Inkaikos) 
+> (Onirólogos Inkaikos)
 
 ### HAYLLI
 
@@ -592,7 +592,7 @@ tudescas.
 > los ecos de titánicos lamentos. \
 > Mis plantas huellan como polvo vívido \
 > pavesas áureas de apolínea hoguera. \
-> Conozco las proezas del Lirófobo. 
+> Conozco las proezas del Lirófobo.
 
 No es un reproche a Tamayo, ni a los excelsos poetas
 hispanoamericanos que son lustre de la hispana literatura; pero de estos
@@ -1939,13 +1939,13 @@ tempestades de tu trino.
 > es trino sólo, \
 > y como trino \
 > con que arde su caverna, \
-> ni comienza ni acaba. 
+> ni comienza ni acaba.
 
 # EL PEZ DE ORO
 
 > Mira, el olor de mi hijo \
 > como el olor del campo. \
-> _La Torah_ 
+> _La Torah_
 
 ### TRENO
 
@@ -2054,7 +2054,7 @@ Siento que si la luz trina, todo me empuja al gruñido lívido.
 > Pero, es que ahora eres chinkana; \
 > eres campo con cielo y con estrella. \
 > Ahora en tus ojos Thumos lagrimea. \
-> Ahora es que pesa en oro tu latido. 
+> Ahora es que pesa en oro tu latido.
 
 III. ¡Mi Diario!... Toda la razón a quienes te llamaban, cuando
 por jumencia, cuando por piedad: ¡el niño loco! Tu Diario... No; no
@@ -2317,7 +2317,7 @@ de mis veinte años.
 ### HAYLLI
 
 > Ahayu del chullpar; \
-> oro del lloro... 
+> oro del lloro...
 
 XVII. Este, el más viejo de mis estratos. Cuando forcé a la
 Virgen María a revelarme por cuáles razones no me alimentó de su
@@ -2678,7 +2678,7 @@ cuerpo se abandona, nos poseen aires azules y fluye la paz del agua.
  > Y si thikchan un chocho \
  > con la vida; \
  > también thikchan chochitos \
- > con la muerte... 
+ > con la muerte...
 
 XXXVIII. En medio a una explosión de retamas y cedrones de
 verdes undívagos, que invadían las haldas de las colinas,
@@ -2786,7 +2786,7 @@ santidad de la sustancia: limpio, terso, cristalino.
 > Sólo vieja lágrima \
 > de bruñida plata eres, \
 > Titikaka, \
-> plañendo su esmeralda... 
+> plañendo su esmeralda...
 
 No sé; no lo sé. Algo susurra la brisa. ¿Es que ya traduzco la vieja
 lengua del Arun-thaya porque animal humanidad afina mis sentidos? El
@@ -2861,7 +2861,7 @@ cortinas tenues. Las vacas mugen desde el establo.
 > Bajo los kollis \
 > baila el Anchancho; \
 > baila el Anchancho rojo \
-> de los sankayus. 
+> de los sankayus.
 
 El rito coreográfico y la llovizna adormecen sus ojos, momentos
 de arrullo del cedrón, los cherekeñas, los chaiñas, de las manzanitas
@@ -2872,7 +2872,7 @@ que le gorjean desde el árbol.
 > El viento sus flautas finas \
 > consuena el tierno són; \
 > junto a imillas clavelinas, \
-> el pututu del español. 
+> el pututu del español.
 
 El violón del moscardón crepuscular persigue los gruñidos del
 río, que abre su fauce verde, y en ella titilea su dentadura de moluscos y
@@ -2897,7 +2897,7 @@ que se vierte! Si permaneces vivo, desnudaremos la espada muerta...
 > en el desconsuelo de la tarde? \
 > La flor se desgaja, \
 > cae en la linfa; \
-> y se va, llorando... 
+> y se va, llorando...
 
 ### TRENO
 
@@ -2934,7 +2934,7 @@ El jadeo multiplica obstáculos.
 > como espigas; \
 > ya siega espigas \
 > como estrellas. \
-> ¡Él nos espera! 
+> ¡Él nos espera!
 
 XLVIII. Cumplo como puedo mi decoroso voto: no he vuelto a
 abrir un libro. Para qué, si a través de las nubes se ciernen las estrellas.
@@ -3111,7 +3111,7 @@ y morir en la cruz de la estrella, gritando: ¡Sicio!
 > le arrullan las Sirenas. \
 > Y tú sólo sabes marrullar \
 > sus ojos \
-> y su arrullo. 
+> y su arrullo.
 
 LV. No me cabe más. A medida su día crece, crece terrible
 hermosura.
@@ -3123,7 +3123,7 @@ hermosura.
 > ¿Qué idioma hablas, \
 > killi-killi? \
 > ¿Qué música haces sonar, \
-> puku-puku? 
+> puku-puku?
 
 LVI. Cuando el día que no se irá, esté, porque regrese, y no se ha
 ido, el viejo se hará niño, y el niño será el viejo.
@@ -3186,7 +3186,7 @@ resinas y adorarle.
 > ¿Amasarás un hombre \
 > con tu lágrima? \
 > ¿Cobrarás tu lágrima \
-> en el hombre? 
+> en el hombre?
 
 LIX. ¡Elake! ¡Elake! Y le puse en su hornacina de diamante bajo
 el torrente menudo y suave; de manera que quienes en llegando le
@@ -3256,7 +3256,7 @@ empapado en el trino del pinkollo.
 > He aquí \
 > EL PEZ DE ORO \
 > del lago \
-> de los brujos... 
+> de los brujos...
 
 ### TRENO
 
@@ -3401,7 +3401,7 @@ lepra hasta sudar el pus!...
 > El indio es un dios humillado. \
 > Los hombres ocultan un indio dentro. \
 > Arco y flecha es el indio. \
-> Bestia: te llaman indio. 
+> Bestia: te llaman indio.
 
 ### HAYLLI
 
@@ -3411,7 +3411,7 @@ lepra hasta sudar el pus!...
 > puede más. \
 > ¡Más no podemos ya! \
 > El Inti-raymi \
-> llegó al garguero... 
+> llegó al garguero...
 
 ### TRENO
 
@@ -3448,7 +3448,7 @@ el khorikancha del Alba...
 > de la mañana! \
 > ¿Que no veis \
 > sus hozes? \
-> ¡Esperad! ¡Esperad! 
+> ¡Esperad! ¡Esperad!
 
 LXX. Es ley que del vientre de la noche brote el día. Es ley que
 en el seno de la muerte la carne ame. Es ley que el dolor suture los
@@ -3618,7 +3618,7 @@ bronquios del Alba...
 > de uvas vivas \
 > del sarmiento, \
 > en que trinaba \
-> el pajarito muerto... 
+> el pajarito muerto...
 
 ### TRENO
 
@@ -3655,10 +3655,10 @@ relicario de ovarios turbios...
 > Kaipi \
 > wañuska \
 > llakta \
-> guaguan. 
+> guaguan.
 
 > Kaipi \
-> Layka-kota \ 
+> Layka-kota \
 > KORI \
 > CHALLWA...
 
@@ -3725,7 +3725,7 @@ Entonces: ¡llegó el incendio!
 > Elake: madre e hijo \
 > se han fundido en la raíz; \
 > y atrapado el cherekheña, \
-> le atraparon sus trinos... 
+> le atraparon sus trinos...
 
 CII. No estoy solo; están conmigo el rayo y la tormenta. Están el
 Cherekheña y el suspiro. Gruñen dos Pumas en mi puerta. Flamea en
@@ -3770,7 +3770,7 @@ Mira, el dolor de América, como el olor de mi hijo...
 > Esa luz trinará, \
 > no lo dudeis; \
 > porque de garra y trinos \
-> los khoskhos fueron hechos. 
+> los khoskhos fueron hechos.
 
 ## PARALIPÓMENO ORKO-PATA
 
@@ -4458,7 +4458,7 @@ llagas que ella hace, pues son nada más que el nido de la vida.
 > La dolorosa ánfora de tu madre \
 > amo, pues sólo en ella estoy. \
 > Y dame el jugo de tu sangre, \
-> que es tiempo, guagüitay... 
+> que es tiempo, guagüitay...
 
     * * *
 
@@ -5041,7 +5041,7 @@ los derechos del tálamo...
 Gana de hurgar el chullpa-tullu de don Miguel: ¡el teólogo
 poniendo en orden el cerebro de Dios!
 
-Esto se parece al infinito-finito de Einstein. El cuerpo desintegrado, vuelto podre y tierra de surco, 
+Esto se parece al infinito-finito de Einstein. El cuerpo desintegrado, vuelto podre y tierra de surco,
 al último se insume en el
 abdomen del humus, y huesos acá y huesos allá, la triste carne,
 calumniada y befada, vuelve a la unidad geológica del estrato, si no
@@ -5235,7 +5235,7 @@ perder estuvo tu color...
 > ¡Atlanta eres!, dirá el fuego. \
 > Y tú, desde el erizado kurmi, \
 > cantarás: ¡Soy el Puma; \
-> y tengo al Pez!... 
+> y tengo al Pez!...
 
 CXXVII. Lo haré; si ya la fértil poesía me lleva la mano a la
 paleta. Y con ella, y con Él, estuve, estuvimos, estamos y estaremos,
@@ -5251,7 +5251,7 @@ que pinta?
 > Está de las Atlántidas \
 > por lo bajo \
 > y de las Hespérides \
-> por lo alto... 
+> por lo alto...
 
 No hablo yo; quien pinta es Él.
 
@@ -5457,7 +5457,7 @@ alimentaba.
 > churrascos del hígado divino, \
 > ¿te moznarán diente y colmillo \
 > y la moral de hisopo y diente? \
-> ¿Entiendes, Poncio, que aquí estás? 
+> ¿Entiendes, Poncio, que aquí estás?
 
 CXXXI. Nunca será despreciable el empeño que se ponga en
 decidir cómo debe alimentarse el Hijo de Dios, si hasta ahora ha hecho
@@ -5927,26 +5927,26 @@ romperse desde el antropomorfo y con el antropomorfo.
 
 Es que ser en nacer.
 
-### TOKHAÑA 
+### TOKHAÑA
 
 > –¿Por qué la mujer bella, \
 > si su belleza ignora, \
-> más bella? 
+> más bella?
 
-> –Porque está en madre. 
+> –Porque está en madre.
 
 > –¿Por qué a sí misma \
 > la vida no se siente, \
-> y en nosotros arde? 
+> y en nosotros arde?
 
-> –Porque es la parida. 
+> –Porque es la parida.
 
 > –¿Pero, entonces, di: \
 > algo más púdico hay \
-> que la tempestad del genio? 
+> que la tempestad del genio?
 
 > –¡No!... Porque es \
-> tempestad de partos. 
+> tempestad de partos.
 
 > –¡Bha! ¡Bha! Todo lo sabes. \
 > Mas sabrás si el abrazo \
@@ -5958,12 +5958,12 @@ Es que ser en nacer.
 > fundador de ciudades: \
 > bebe, vive al día!... \
 > O es del que "sospechó \
-> que los dioses lloran?"... 
+> que los dioses lloran?"...
 
 > –También llorando \
 > las mechachuwas \
 > fecundan el embrión \
-> de la Chinkhana. 
+> de la Chinkhana.
 
 > –Entonces, abre el pico, \
 > Waksallu, y cátanos \
@@ -5972,7 +5972,7 @@ Es que ser en nacer.
 > ¿Treno es de tu alma? \
 > ¿Su matinata puerperal? \
 > ¡Símbolo de símbolos \
-> haces de Él... 
+> haces de Él...
 
 CXLII. En parto le dibujo porque vivo del parto y el suyo es
 parto de oro. Y si de Él vengo, es que a Él voy; lo mismo que el lloro
@@ -5980,14 +5980,14 @@ va del lodo a todo...
 
 Te instruirá.
 
-### LA TOKHAÑA DEL PARTERO 
+### LA TOKHAÑA DEL PARTERO
 
 > En el punto, maestro, en que tu Dolor moría, \
 > alzóse en mi su llamarada de oro. \
 > "Me ahogo –con angustiado acento me decía–: \
 > que el Khori-Puma al Titikaka me devuelva". \
 > Y des el chiara de aquel día, \
-> en el Lago semilla de su oro fue mi lloro. 
+> en el Lago semilla de su oro fue mi lloro.
 
 Y acá se mire, en esta mi nutrida llaga, cómo el poeta kheswa que
 le cantó con abejas indias, ha olvidado que rápsoda de su
@@ -6155,7 +6155,7 @@ Vers. 18. La Coral del Hallu-grito entanto haruñaba:
 > ¡Ellas, y el ojo \
 > de las Khawras, \
 > serán para mi guagua, \
-> que ya viene... 
+> que ya viene...
 
 Vers. 19. Día en el lacrimal peinó pestaña el iris de sus ojos...
 Cintarajos esmeralda crecían en los bofedales; en el bofedo anidaron la
@@ -6205,7 +6205,7 @@ Y majestuosa se alzó la artillería del Hallu-grito:
 > si en el ojo del Lodo es trino el Oro? \
 > Y, cabe el Lago que guarda los Chullpares, \
 > el Príncipe Suchi de los Challwas, \
-> incendia garras del Puma con su oro... 
+> incendia garras del Puma con su oro...
 
 Vers. 25. Diluvia urpilas el Lago de Arriba; aflora en beso la
 Ardiente Niña en el Cielo de Abajo.
@@ -6216,7 +6216,7 @@ Ardiente Niña en el Cielo de Abajo.
 > ¡Piupiu-titit! \
 > ¡Piupiu-titit! \
 > ¡Piupiu-titit! \
-> ¡Piupiu-titit! 
+> ¡Piupiu-titit!
 
 ### HAYLLI
 
@@ -6229,7 +6229,7 @@ Ardiente Niña en el Cielo de Abajo.
 > lágrima viva. \
 > ¡Khocha, Khocha-mama: \
 > abre tu ñuñu verde \
-> al oro de su lloro! 
+> al oro de su lloro!
 
 Vers. 26. "¡Bendito serás (díjole la Madre Tierra, y al són de sus
 tímidas lenguas); bendito serás por los Siglos de los Siglos, KhoriPuma, porque en tus ojos ha parido la Niña de mis Oros!".
@@ -6254,7 +6254,7 @@ danzando al encuentro del Challwa de Thokhes y Kheñulas...
 > muerta! \
 > ¡Khaipi, \
 > Khori-Challwa, \
-> guagua-chullpa!... 
+> guagua-chullpa!...
 
 Vers. 28. Gracia de ola rizaba el totoral; tiernos plañidos besaban
 en la espuma...
@@ -6408,7 +6408,7 @@ tiempo. Alguien en tu corazón porque le oigas llora... ¡Óyele!...
 > Pues, en ti, el discontinuo, no bien \
 > cierra el Lago de Arriba ventanales, \
 > abre el Cielo de Abajo su ventalle. \
-> Tu monodía múltiple, porque es eje... 
+> Tu monodía múltiple, porque es eje...
 
 La nota sólo en cuanto vibra; el hombre sólo en cuanto vibra; el
 hombre sólo en cuanto vive. Nunca el paso pasa: traspasa. Pisa y pasas;
@@ -6536,7 +6536,7 @@ tu Señor ha matado al Santo Leproso.
 > Y se leerá, además, \
 > que si el dolor las átomos de la chullpa \
 > destroza, es porque en ella, \
-> el Hijo llora, y se sustancia... 
+> el Hijo llora, y se sustancia...
 
 <hr>
 
@@ -6576,12 +6576,12 @@ Trinos que rizan arreboles.
 > el que si se va se ha ido nunca? \
 > En sangre, en oro y lágrimas, \
 > aflore de su flor EL PEZ DE ORO \
-> ¡Vuélvame su relámpago!... 
+> ¡Vuélvame su relámpago!...
 
 # PACHAMAMA
 
 > Creen que vine del cielo. \
-> _Colón_ 
+> _Colón_
 
 ¿Y si de allí nó, Cristóforo: de dónde? Qué genial el marino... Los
 Kanibas le habían dicho que vino del cielo, y era lo sensato, silogístico,
@@ -6807,7 +6807,7 @@ Almirante habían de venir.
 > ta ha cabido ahayu atlanta. \
 > que en los entresijos no se pierda; \
 > si descubrir descubridores, \
-> fue todo el laykakuy de los Laykas. 
+> fue todo el laykakuy de los Laykas.
 
 Y adelante con la Pachamama, y osados con ella, que es mujer y
 ama la violencia.
@@ -6985,16 +6985,16 @@ Y la adoré en runrunes:
 > ¡Qué bien lo haces, \
 > mama Margacha! \
 > ¡Qué bien lo haces, \
-> María, madre mía! 
+> María, madre mía!
 
-Y ya ella me arrullaba: 
+Y ya ella me arrullaba:
 
 ### EIRAY
 
 > Puma-yunta! \
 > ¡Arrurrú, \
 > Komer-khenti! \
-> ¡Arrurrú, 
+> ¡Arrurrú,
 
 Y brindóme el pezón, donde, un día (días, ay, que no olvidará el
 lobezno), para mí, de su ñuñu, fluyó la miel.
@@ -7006,7 +7006,7 @@ lobezno), para mí, de su ñuñu, fluyó la miel.
 > mi corazón? \
 > ¿Te toreaban \
 > waka-tokoris, \
-> sonkoimi? 
+> sonkoimi?
 
 Y, como, desmelenado, no respondiera a tan dulce complicidad,
 que no hay quien responder pueda preguntas como ésas, si nacieron
@@ -7056,7 +7056,7 @@ que contiende ya es en ella.
 > Ellos lujuria; \
 > Somos lo estático yo la esperma \
 > que late que incendia \
-> estético. la caverna... 
+> estético. la caverna...
 
 ¿Esta fuerza se gobierna por quién, y hay gobierno; y Naya es
 Nada, o es Todo ? ¿Naya es causa? ¿Algún día reflexionará al átomo y
@@ -7159,7 +7159,7 @@ vertiginosos giraba la phuiska de fibra menuda.
 > fuertes serán tus kaitus. \
 > ¡Hila; hila, guagualay! \
 > ¿Acaso de tu corazón \
-> Kaitu no soy? 
+> Kaitu no soy?
 
 Hilar, hilar en la rueda de la estrella, de que procedo, y en que me
 contengo. Un día, para volver a la Warawarani, fugaré de la
@@ -7172,7 +7172,7 @@ chullpares.
 > ¡Nunca mirarás, \
 > guagualay, \
 > si no es con tus ojos, \
-> guagualay! 
+> guagualay!
 
 Con los ojos terrizos en que toda visibilidad es agua, con los que
 ahora me limpias en la sangre, madre.
@@ -7183,7 +7183,7 @@ ahora me limpias en la sangre, madre.
 > fogón de brasa fría. \
 > ¿Cuántas marró mi estrella \
 > sus fuegos \
-> sin saber que eras la brasa? 
+> sin saber que eras la brasa?
 
 ### KHATARI-PAKA
 
@@ -7194,7 +7194,7 @@ ahora me limpias en la sangre, madre.
 > y del chaiñita \
 > muerto. \
 > Fulges, sierpe luminosa, \
-> y no agosto tus agostos. 
+> y no agosto tus agostos.
 
 ### WIPHALATAKATA
 
@@ -7209,7 +7209,7 @@ ahora me limpias en la sangre, madre.
 > Ya cota de sangre al Chullpa-tullu \
 > le arma, y su pupila late. \
 > Que ondee tu oriflama \
-> y rompan su grito los volcanes. 
+> y rompan su grito los volcanes.
 
 Los que veis ahora son los ojos del Khawra, el de mirada
 fosforescente. No el Caballo del Centauro; es el enterrador que volvió
@@ -7228,7 +7228,7 @@ cintila la Corona Austral en la frente del brujo: Layka-pillu.
 > que ya los surcos \
 > se colman de flores, \
 > ya los frutos se colman \
-> de trinos... 
+> de trinos...
 
 Madre me ordenó henchir el santo germen del silencio, pues el
 que germina debe ser silencioso. Así su telepatía fue tokaña de estrellas,
@@ -7239,7 +7239,7 @@ una para cada día de la noche.
 > El oro \
 > que vuela \
 > es oro \
-> que trina. 
+> que trina.
 
 ### SONKOIMI
 
@@ -7249,51 +7249,55 @@ una para cada día de la noche.
 > mi corazón \
 > más tuyo \
 > que mío. \
-> ### KHORI-CHALLWA \
+
+### KHORI-CHALLWA
+
 > Si el agua no arde \
 > no es oro, \
 > guagualay... \
 > Ya en ti el oro arde, \
 > y en el agua, \
-> guagualay. 
-    
+> guagualay.
+
 ### KHOMER-KHENTI
 
 > La pluma se pulverice \
 > para que trine el oro; \
 > que pluma que no trine, \
 > trino será sin oro. \
-> ### LLOKALLAGUAGUAN \
+
+### LLOKALLAGUAGUAN
+
 > Te parieron con barbas, \
 > y aunque pareces guagua, \
 > eres la guagua de las barbas \
-> y las barbas de la guagua. 
+> y las barbas de la guagua.
 
-### SACHA-RUNA 
+### SACHA-RUNA
 
 > En un árbol te acunaron; \
 > sus ñuñus te nutrieron. \
 > Un árbol fue tu padre, \
 > una raíz tu madre. \
-> En este punto hablóme de los fieros orígenes: 
+> En este punto hablóme de los fieros orígenes:
 
-### EYRAY 
+### EYRAY
 
 > No escuches las consejas \
 > del sabio borreguil; \
 > era tu padre el Puma \
-> de ojos de añil. 
+> de ojos de añil.
 
 Y como sintiera un ñuñu en el gobernalle de mis ojos, en sus \
-entrañas me acune y con mis rugidos la cubrí. 
+entrañas me acune y con mis rugidos la cubrí.
 
-### EYRAY 
+### EYRAY
 
 > Mientras hilo, \
 > duérmete, guaguay. \
 > Kaitu de mi puiska, \
 > duérmete, \
-> papay... 
+> papay...
 
 De ahí que en la alborada una boquita babee la espuma de su
 leche.
@@ -7315,7 +7319,7 @@ La paridora te clama, y te aclama:
 > Pura entre \
 > vírgenes, \
 > pura madre. \
-> ¡Wipha! 
+> ¡Wipha!
 
 Sublime araña casera.
 
@@ -7389,7 +7393,7 @@ sueño, allí encontraré su manantial de urpilas...
 > Al volcán que dormita: ¡Fuego! ¡Fuego! \
 > Entiendo, te entiendo, Pacha-mama. \
 > Nó idioma me pides; idilio me das. \
-> ¡Ah, divino fuego! 
+> ¡Ah, divino fuego!
 
 Y volé del seno de la constelación al seno de las constelaciones.
 Allí, redondos, ovoides, opacos unos, centellantes otros, tensos,
@@ -7408,7 +7412,7 @@ saltando tras la ubre de la cabra.
 > te suprimen, la huella de la usuta \
 > no dejará la huella del camino. \
 > Que destino del camino es el parto, \
-> y parto es todo camino... 
+> y parto es todo camino...
 
 El Sol ofuscaba; y le increpé:
 
@@ -7488,7 +7492,7 @@ Hatan y lo hizo prolífico, fueron urgencia, apremio, impaciencia.
 > No se habrá \
 > pasado \
 > nunca... \
-> ¡Hisa! 
+> ¡Hisa!
 
 –¡Cómo! ¿Tú, aquí, Almirante?
 
@@ -7595,7 +7599,7 @@ padre de la radiación cósmica y en sí la misma proyección radial?
 > Y cuando trémulo en el viento tiritaba, \
 > le fungieron mis bronquiales alaridos. \
 > Trinó, y ardió el chochito: ¡Una Nova! \
-> ¡Piupiu-titit! Viejo trino, trinó, nuevo... 
+> ¡Piupiu-titit! Viejo trino, trinó, nuevo...
 
 Y de la manera que se toman las mamas a toda mujer jacinta,
 tomé las órbitas de una de las Osas, y las elastiqué a la anchura de mis
@@ -7615,7 +7619,7 @@ Kanidia.
 > Lluvia \
 > de estrellas \
 > en las florestas \
-> de sus ojos... 
+> de sus ojos...
 
 Pero, fuíme más adentro aún; al silencio poblado de partos; al
 duro abdomen donde la tiniebla parpadea; a la esperma que torna al
@@ -7632,7 +7636,7 @@ amontonada en su trino.
 > guagualay. \
 > Hila, hila, \
 > que tu hielo \
-> arde ya, guagualay... 
+> arde ya, guagualay...
 
 Nada está más allá de tu fuerza. Los soles están en ti. Las
 nebulosas son tus formas. Los Colones, los Kanidios, los KhoriChallwas, "desnudos como su madre los parió", te conforman en tus
@@ -7658,7 +7662,7 @@ y así en su fuego te proyectas.
 > esperan nuestras guaguas. \
 > Madre amorosa. \
 > que por amada mata \
-> y por amante alumbra. 
+> y por amante alumbra.
 
 Pero, si algo ha de obligarnos a bendecirte en la ternura de los
 surcos, es que haz puesto en la carne la presencia de tu pasado, que no
@@ -7689,7 +7693,7 @@ somos proyección sin límite...
 > Maríaja: te tributaré la coca \
 > que de mi sangre extraigo; \
 > si ella es la parte \
-> enamorada de tu naturaleza. 
+> enamorada de tu naturaleza.
 
 # ESPAÑOLADAS
 
@@ -8068,7 +8072,7 @@ Tenorios sin arrepentimiento que se aferran a las telarañas de sus ojos.
 > látigo es el oro en Khori-kancha y lloro. \
 > Mas presto encréspase la mar balbólica \
 > y Pizarro ajos hiperbólicos sofríe. \
-> Que allí, y en la cruz, purrula el ñuñu. 
+> Que allí, y en la cruz, purrula el ñuñu.
 
 ¿Nosotros no phusaremos? Gua... El indio ñerdea y karrajuskea.
 Bien se ve que, ni con mucho, hay algo más español que ese cholo,
@@ -8362,7 +8366,7 @@ Ya le gritaban.
 > Mira: ha la guerra llegado a los \
 > rincones neumáticos de tu sangre. \
 > y en ella micos sarnosos te estropean. \
-> ¡Tienes que pelearnos, o partirte! 
+> ¡Tienes que pelearnos, o partirte!
 
 ¿Las voces con que desafinó hostias y muerte, con que rompió
 turbamultas, salían a pelearle desde los horacos de la ciénega? ¿Es que,
@@ -8408,7 +8412,7 @@ para reventar de pulgas y de epítetos.
 > Ca que por ser, y por saberse \
 > sembradores de la simiente, nunca \
 > diarreas del cuesco lamentaron. \
-> ¡Tienes que parirnos y parirte! 
+> ¡Tienes que parirnos y parirte!
 
 Mira: un virtuoso salvaje (y si además hermoso fue colige de que
 hermana decíales a tu madre), a khiños amasamó el espinal hispánico,
@@ -8460,7 +8464,7 @@ pongo.
 > apu dioswa humanpiski, \
 > warwinakan taypipan kollanatawa, \
 > purakaman achupa Jesusa, \
-> wawamastin kollaranakiwa. 
+> wawamastin kollaranakiwa.
 
 ¡Bendito sea el vientre de toda mujer! ¡Bendito el vientre de la
 mujer que nació parida! ¡Wawamasti kollaranakiwa!
@@ -8472,7 +8476,7 @@ mujer que nació parida! ¡Wawamasti kollaranakiwa!
 > Pacha-mama; \
 > porque eres madre \
 > de toda hostia. \
-> Dos garras le sujetaban los omóplatos. 
+> Dos garras le sujetaban los omóplatos.
 
 (¡Ciña! ¿Habéis oído, Marqués, qué ruín bestia profana el nombre
 de la madre del cielo?).
@@ -8504,7 +8508,7 @@ arrodillaba en su lágrima.
 > Lupi-tata le incendiará en mi lágrima. \
 > Khuno-tata, le hará carámbano en mi lágrima. \
 > Le escoltarán khenayas en mi lágrima. \
-> ¡Ya del Khori-Puma le bautizaron lágrimas!... 
+> ¡Ya del Khori-Puma le bautizaron lágrimas!...
 
 Dejaron el poblado a vuelo de kuntur y ya EL PEZ DE ORO
 pirueteaba en los trapecios de la pampa. De la cóncava inmensidad se
@@ -8595,14 +8599,14 @@ Eran sólo esquirlas de su trino.
 
 # PUEBLOS DE PIEDRA
 
-> Wirakocha hizo a los hombres de piedra. 
+> Wirakocha hizo a los hombres de piedra.
 
-> (Leyenda Inkaika) 
+> (Leyenda Inkaika)
 
 > ¿Qué es el fuego? \
 > principio de piedra \
 > ¿Qué es la piedra? \
-> principio de beso. 
+> principio de beso.
 
 La fina cúspide que besa imantaba el vientre de la noche.
 
@@ -9037,7 +9041,7 @@ Suchi del Titikaka miraba al mundo con los diamantes de sus ojos y el
 mundo se besaba en ellos. Bramaba, bramaba el Khori-Puma mientras
 Wirakhocha cantaba... cantaba...
 
-### HAYLLI DE EL PEZ DE ORO 
+### HAYLLI DE EL PEZ DE ORO
 
 > ¡Khori-Challwa!... ¡Khori-Challwa!... \
 > ¡Rompe ya los trinos y emboca la trompeta! \
@@ -9063,7 +9067,7 @@ Wirakhocha cantaba... cantaba...
 > Mas no pude a la vida negarle mi gusano, \
 > y aunque de piedra bondadosa, \
 > mortal la hice, \
-> como somos mortales los dioses inmortales. 
+> como somos mortales los dioses inmortales.
 
 > ¡Khori-Challwa! ¡Khori-Challwa! \
 > En ti no se cansará la vida, Khori-Challwa. \
@@ -9074,7 +9078,7 @@ Wirakhocha cantaba... cantaba...
 > en la humildad de harapo del soberbio. \
 > Cristales tuyos refulgen en el Alba; \
 > y si tu fulgor da ojo al ciego, \
-> cegará tu fuego al ojo cruel... 
+> cegará tu fuego al ojo cruel...
 
 > ¡Sólo Wirakocha sabe, Khori-Challwa, \
 > de cuál centella destella tu palabra, \
@@ -9094,9 +9098,9 @@ Wirakhocha cantaba... cantaba...
 > el Universo se besa en tu aleluya! \
 > ¡Khori-Challwa!... ¡Khori-Challwa!... \
 > Cuando se crispe en oros el aire de los hombres, \
-> ya el hombre cargará en la sangre tu aleluya... 
+> ya el hombre cargará en la sangre tu aleluya...
 
-> Y EL PEZ DE ORO fungióse en el granito. 
+> Y EL PEZ DE ORO fungióse en el granito.
 
 Siguió el silencio que habita en la carroña y en el Sol.
 
@@ -9118,7 +9122,7 @@ oro. En ti debe pesar algo, que nó, tu gentil airón. ¿Qué es? Dilo.
 
 <br>
 
-–¡Wakak! ¡Wakak! 
+–¡Wakak! ¡Wakak!
 
 <br>
 
@@ -9149,30 +9153,30 @@ mujer.
 > ¿Quién, los del árbol pies ligeros \
 > sorprendió, cuando en la corriente \
 > del riachuelo mira su ramaje, \
-> esclavizada la raíz a la ribera? 
+> esclavizada la raíz a la ribera?
 
 > ¡El beso! \
 > ¿Los impacientes pies del agobiado \
 > pueblo, quién sujetos a las cadenas \
-> vio del amo rudo y sanguinario? 
+> vio del amo rudo y sanguinario?
 
 > ¡Pekhañayok! \
 > ¿Quién del hambre el gesto; \
 > quién, que más calla cuando \
-> más devora y se devora? 
+> más devora y se devora?
 
 > ¡El beso! \
 > ¿Quién vió que el hombre \
 > es hechura del miedo \
-> y del miedo su tábano? 
+> y del miedo su tábano?
 
 > ¡El hielo! \
 > El fuego te pide que le mires, \
 > que le oigas te pide cuando besa. \
 > Si la raíz es del trino que anda; \
-> si anda en tí es que en tí besa. 
+> si anda en tí es que en tí besa.
 
-> ¡Busca su huella en el beso de tu alma! 
+> ¡Busca su huella en el beso de tu alma!
 
     * * *
 
@@ -9549,7 +9553,7 @@ los cadáveres que ahí tengo!
 > y no rula... Por lo menos que la muerte \
 > sepa que vive; y que en sus mamas \
 > me ñuñuñe: ¡Khusillu!... ¿Dónde estás, \
-> si del árbol eres y de él me faltas? 
+> si del árbol eres y de él me faltas?
 
 <hr>
 
@@ -9597,7 +9601,7 @@ la perkha. Y otra vez el celaje en el viento.
 > Endulzan las khenayas, \
 > le escoltan warawaras. \
 > Las serpentinas thayas \
-> khaswan para los ayllus. 
+> khaswan para los ayllus.
 
 Warawaras, thayas y khenayas, le coquetean desde el cielo; desde
 él le avientan suspiros de hielo. Y él, desde el peñón de hielo, enreda en
@@ -9625,10 +9629,10 @@ copiosas las cosechas que faltan khawras para la khumunta...
 > Lomo para cargar nube o montaña. \
 > Volcán el puño; acero rojo el ojo. \
 > Pierna de thesko pero de jeta frágil. \
-> Iracundia del fuego en la alborada. 
+> Iracundia del fuego en la alborada.
 
 > Su cabeza de Khawra, blanca y hermosa, \
-> es triste: ¡la entristece el hombre! 
+> es triste: ¡la entristece el hombre!
 
 ## HILOS DE HIELO
 
@@ -9670,7 +9674,7 @@ consumido el fuego. ¿No te imanta?
 > Tu ley fue arder: ¡arde! ¡arde! \
 > Y cuando la nieve me amortaje, \
 > sé carbón para el fuego de la nieve. \
-> Sé la brasa que imante mi carroña... 
+> Sé la brasa que imante mi carroña...
 
 Ten la amorosa fuerza del Koo-khena; mas corre de su dura
 soberbia. La ley, ley, porque es simple, porque tiene la facilidad del aire
@@ -9771,7 +9775,7 @@ obedecer a su piedra que besa el sonko.
 > Si a la khawra se le ayunta \
 > hombre es; khawra y fuego cuando \
 > en flor la flor desflora \
-> de la mama de los ayllus. 
+> de la mama de los ayllus.
 
 <hr>
 
@@ -9793,7 +9797,7 @@ Y el Antiguo se llevó en el sonko la montaña que besa.
 
 > Cuanto vimos y cogimos lo soltamos; \
 > y traemos cuanto ni vimos ni cogimos. \
-> _Heráclito_ 
+> _Heráclito_
 
 Mi Wayñusiña era un ababol de parlanchinas corolas abiertas al
 liliputiense cielo que la diera por patria, para que en tanto kurukuteaban sus rubores no recordara a la Amapolita que no lejos de la
@@ -10083,7 +10087,7 @@ tiempo es que enrieles al redil de este cenobio?
 > "para ganarte, perderte; \
 > "venga ya la dulce muerte, \
 > "el morir venga ligero, \
-> "que muero porque no muero". 
+> "que muero porque no muero".
 
 –Que enloqueces, pastoruelo, de no besarla con devoción, así
 fríos sientas sus labios. Quieres meter oveja a tu redil; y eres awatiri
@@ -10447,7 +10451,7 @@ emplean los Laykas:
 > Lucero de la Aurora, \
 > el que mira magnánimo; \
 > báñame con tu luz, \
-> y ella alegre mi corazón... 
+> y ella alegre mi corazón...
 
 Salmodia fue que el brujo dirigió a la estrella en nombre del
 enfermo debatiéndose en los estertores, seguro de que el poético
@@ -10568,7 +10572,7 @@ La sorda inmensidad se hizo sonora.
 
 > Para qué me hiciste... \
 > Para qué me hiciste... \
-> Para qué me hiciste... 
+> Para qué me hiciste...
 
 Ciertamente, esa desesperante angustia que tañía, era la de la
 célula que experimenta la desintegración.
@@ -10729,7 +10733,7 @@ pelliz del trino.
 > ¡Piupiu - titit! \
 > ¡Piupiu - titit! \
 > ¡Piupiu - titit! \
-> ¡Piupiu - titit! 
+> ¡Piupiu - titit!
 
 27 ¿Salió él de la niña? ¿La niña saliera de Él?
 
@@ -10757,7 +10761,7 @@ amargura secreta hieles; sus mimos manan panales".
 > ¡O en el ardiente polvo \
 > en que tu amor ardió, \
 > haremos con tu beso \
-> para tu amor cremor... 
+> para tu amor cremor...
 
 30 Tornáronse felinas, y, con pétalos, devoraron a la niña
 cincopétala.
@@ -10789,7 +10793,7 @@ dijo:
 > arropa oro y miel. \
 > Rondará tu guarida la muerte veces nueve; \
 > pero, a la décima, el colmillo \
-> del Puma quebrantará la muerte, 
+> del Puma quebrantará la muerte,
 
 33 Y, sabiéndose la fuerza, era sólo el deseo.
 
@@ -10823,10 +10827,10 @@ pentatónico.
 ### HARAWI
 
 > Kancharani Achachila, \
-> hina, hina, achachilay. 
+> hina, hina, achachilay.
 
 > El mejor de los ancianos, \
-> es el jefe viejo de la montaña. 
+> es el jefe viejo de la montaña.
 
 43 "¿Te quieres, tatalay?"... "¿Si te quiero, imillitay?"... "¿Quieres
 mirar tus ojos, achachilay?"...
@@ -10999,7 +11003,7 @@ frágil y tierno, así lo tierno y frágil sea tu Wayñusiña.
 > ¡Tiembla, tiembla, \
 > si, amargo, \
 > su diente \
-> te akullika! 
+> te akullika!
 
 Como yauris el rayo en las Khenayas, el Hombre Placentero
 hendía lihwanas en la tierra...
@@ -11016,7 +11020,7 @@ Entre dientes, a pedacitos, lloraba en los surcos Oka-mama.
 –¡Ya no serás digno de los caramelos de Oka-mama, vejete sin
 entraña! Y, luego:
 
-–¡Está rezongando; y no tardará en caer! –con la pudorosa florecilla silvestre, cuchicheaba Mama-Oka- ¿Le entiendes, Mamitathosankheyu? 
+–¡Está rezongando; y no tardará en caer! –con la pudorosa florecilla silvestre, cuchicheaba Mama-Oka- ¿Le entiendes, Mamitathosankheyu?
 Qué es el hombre en sus manos...
 
 Y la llorona Mama-Oka, conoce que el Achachila es el tiempo fementido y rastrero, padre, entre otras porquerías, del chivolara de TataPegro.
@@ -11045,9 +11049,9 @@ fulmínea. El Hombre Placentero, se amainó...
 > oyes aún? \
 > ¿Mi espanto, \
 > te espanta, \
-> todavía? 
+> todavía?
 
-> ¡Waspeame! 
+> ¡Waspeame!
 
 > La muerta tiembla, \
 > como su olor \
@@ -11060,12 +11064,12 @@ fulmínea. El Hombre Placentero, se amainó...
 > Rígida, \
 > como un temblor, \
 > calladito, \
-> mamitay... 
+> mamitay...
 
 > ¡Mamay: \
 > que la traiga \
 > tu parida, \
-> mamitay! 
+> mamitay!
 
 <hr>
 
@@ -11210,7 +11214,7 @@ de regalías y sí de beneficio de la realidad. De esto tendríamos mucho
 que hablar. Explícase así que el Inka pudiese servirse en el Kosko
 pescado del día traído del océano, sin más que su maravilloso motor de
 explosión sanguíneo, el cual, como todos sabemos, no se alimentaba
-con destilaciones dionisíacas: con hierba en estado de virginal naturaleza: 
+con destilaciones dionisíacas: con hierba en estado de virginal naturaleza:
 la coca. He aquí que si de trasladar las moles de sus gigantescas
 fortalezas se trataba, regía la música (alcaloide también para algunos
 moralistas); mas ella el petróleo. Indudablemente, el Inka era un
@@ -11502,7 +11506,7 @@ de carbonario. Creo que fue William Hammilton, quien dijo que el
 hombre es el animal que se opone. Yo modestamente agrego que se
 opone hasta en la hora del cóctel...
 
-–Doctor Fausto: si el cuerpo muere, y no así el alma, ¿cuál el destino de ésta 
+–Doctor Fausto: si el cuerpo muere, y no así el alma, ¿cuál el destino de ésta
 cuando el organismo se ha inmovilizado? Prescindamos
 por ahora de la bienaventuranza prometida al justo.
 ¿Será inmovilizarse, como él? Si la ciencia lo sostuviese revelaría que se mueve en
@@ -11609,8 +11613,8 @@ pregunta del místico:
 
 <br>
 
-> ¿A dónde van los muertos, 
-> Señor; a dónde van?... 
+> ¿A dónde van los muertos,
+> Señor; a dónde van?...
 
 <br>
 
@@ -12327,7 +12331,7 @@ trinidad! ¡Vuelo, al hijo, al hijo!
 > Ipsum quod fuit. \
 > ¿Quid quod est fuit? \
 > Ipsum quod. \
-> _Eclesiastés_. 
+> _Eclesiastés_.
 
 Primavera fue el hurón de mis chullpares; nó porque en ellos
 buscara regodeos, cuanto porque estaba seguro que unas tortuosas
@@ -12346,7 +12350,7 @@ abroquelaba:
 <br>
 
 > O gennius attonitum \
-> gelidade formidine mortis... 
+> gelidade formidine mortis...
 
 <br>
 
@@ -12357,7 +12361,7 @@ dolorosa calandria castellana, esforzábase por instilar en mi chullpa sus
 <br>
 
 > Veo secretos en nosotros mesmos \
-> que me tray espantada... 
+> que me tray espantada...
 
 <br>
 
@@ -12367,7 +12371,7 @@ trasgos?
 <br>
 
 > Son deseos tan vivos y delgados \
-> que no se pueden decir. 
+> que no se pueden decir.
 
 <br>
 
@@ -12525,7 +12529,7 @@ En madre, desde el éter, me guiñaba el lucero.
 Me detengo ante la puerta fantasmal; y aunque reprimo el
 
 > Lasciate ogni speranza \
-> voi che entrate 
+> voi che entrate
 
 del florentino, en són humilde, que absorbe en su aymara el venerable
 Hiwa-Hila, depongo mi empeño.
@@ -13302,7 +13306,7 @@ Juicio del Creador?
 ### HARAWI
 
 > –¿Kakauuu?... ¿Khunas, mistisito \
-> me dio la gran flau?... 
+> me dio la gran flau?...
 
     * * *
 
@@ -13373,7 +13377,7 @@ sabidurías...
 > Sé ya que no lo quieres, \
 > hijo; pero me interfieres. \
 > Y si de mí difieres, \
-> es que mi guerra eres. 
+> es que mi guerra eres.
 
 Tal la condición. No basta que seas vasto en ser; se es contra
 algo. La idea de justicia cabe en dialéctica. Y es que se nace a
@@ -13415,7 +13419,7 @@ gota sulfúrica: soy yo; hijo mío, tu padre y tu madre.
 > me danzaban mujeres \
 > entre los cañamerales \
 > de las venas. \
-> ¡Ay, ayayay, khara juskita! 
+> ¡Ay, ayayay, khara juskita!
 
 Soy tu andrógino, guaguay. Pudieron ser esta o aquella; y en nada
 se habría modificado tu naturaleza; que en mí ella estaba, no sólo
@@ -13520,14 +13524,14 @@ duermes!... Duerme, guaguay... Acúnate en mi corazón...
 ### EYRAY
 
 > ¡Rrorró, mi guagua! \
-> ¡Duerme, guaguay! 
+> ¡Duerme, guaguay!
 
 > Tú, que no solo. \
 > mi llokhallito; \
 > si ya te cantan \
-> los Duendecitos. 
+> los Duendecitos.
 
-> ¡Rrorró! ¡Rrurrú! 
+> ¡Rrorró! ¡Rrurrú!
 
 > Lindos eyrayes \
 > te cantaremos. \
@@ -13538,10 +13542,10 @@ duermes!... Duerme, guaguay... Acúnate en mi corazón...
 > llautu de Inka, \
 > te labraremos. \
 > Ya viene el Inka: \
-> rrurrú, papay... 
+> rrurrú, papay...
 
 > ¡Rrurrú, mi guagua! \
-> ¡Guaguay, rrurrú! 
+> ¡Guaguay, rrurrú!
 
 > Oye mi cuento... \
 > ¡Rrurrú, tatay! \
@@ -13550,9 +13554,9 @@ duermes!... Duerme, guaguay... Acúnate en mi corazón...
 > Si tú rrorró; \
 > rrurrúes él... \
 > ¡Duerme, mi guagua; \
-> dormí, guaguay!... 
+> dormí, guaguay!...
 
-> ¡Rrorrú! ¡Rrurró! 
+> ¡Rrorrú! ¡Rrurró!
 
 > En thusa de oro \
 > vienen del Lago: \
@@ -13569,9 +13573,9 @@ duermes!... Duerme, guaguay... Acúnate en mi corazón...
 > ¡Rrurrú! ¡Rrurrú! \
 > Mirá, mi guagua \
 > que el Puma de oro \
-> te va a rugir. 
+> te va a rugir.
 
-> ¡Alzá, guaguay! 
+> ¡Alzá, guaguay!
 
 Vengan quienes sostienen que el Chullpa-tullu no vive. Conserva
 oro y barro, himplar de hiena, trino de canario, ferocidad y ternura,
@@ -13694,7 +13698,7 @@ cañazo babea sus amorosos cosquilleos...
 
 > ¡Bon! ¡Bon! ¡Bon! \
 > Bombos de los ayllus; \
-> latidos de la tierra. 
+> latidos de la tierra.
 
 Cómo nos abrazas, sedencia de la Pacha-mama, y melificas los
 tarazones de la muerte con tu lujuria láctea.
@@ -13710,7 +13714,7 @@ archivolta de la arcada de acceso, podía haberse escrito:
 > Aquí del Hake el Sol se nubla \
 > y del chulo la nubla se despeja. \
 > Aquí, la del Inka, sangre de oro, \
-> lodo volvió el saqueador del oro. 
+> lodo volvió el saqueador del oro.
 
 Es la república de mulatos, lobos, cambujos, torna-atrases,
 albarizados, barainos, coyotes, tente-en-el-aires, no-te-entiendos...
@@ -14046,7 +14050,7 @@ arboledas, siguieron el paseo, llorando; acaso de hambre.
 > ¡Gú! ¡Gú! ¡Gú! \
 > Mirad: os sigue el Khori-Puma. \
 > Andar... Andar... \
-> Saj, saj, saj... 
+> Saj, saj, saj...
 
     * * *
 
@@ -14782,7 +14786,7 @@ espíritu.
 
     * * *
 
-## ANDAR... ANDAR...
+## ANDAR... ANDAR
 
 Llegóseme Sankhayu, flor del Hiwa-Hila, en sangre florecido el
 labio, dos sankhayus túmidos el seno; y cimbrando un talle de avispa,
@@ -14822,7 +14826,7 @@ trajinar mundo.
 
 ### AMAYA TOKAÑA
 
-> Ay, candela, candelita. 
+> Ay, candela, candelita.
 
 > De amor lates con hambre; \
 > tu lujuria late; con la \
@@ -14831,9 +14835,9 @@ trajinar mundo.
 > Por ti la noche late, \
 > Hampuñis son tus chispas. \
 > Late, volátil nina-nina, \
-> tu beso volátil. 
+> tu beso volátil.
 
-> Candela, ay, candelita. 
+> Candela, ay, candelita.
 
 > Chispa del cielo eres; \
 > del viento barcarola \
@@ -14844,18 +14848,18 @@ trajinar mundo.
 > y, des ignotas lindes \
 > de mares amargados, \
 > de amores traes carga \
-> das tus aguas amargadas. 
+> das tus aguas amargadas.
 
 > Ay, candela, candelita. \
-    
+
 > De amor la enamorada, \
 > esperas al que amaste; \
 > y cuando llega y besa \
 > un beso sin tu beso, \
 > beso que incendia el aire \
-> es beso de tu beso. 
+> es beso de tu beso.
 
-> Candela, ay, candelita. 
+> Candela, ay, candelita.
 
 > ¿Por qué del KHORI-PUMA \
 > no oyes el rugido, del \
@@ -14869,7 +14873,7 @@ trajinar mundo.
 > candela, candelita; \
 > y el KHORI-CHALLWA prende \
 > tu beso con su flor. \
-> ¡Candela, ay, candelita! 
+> ¡Candela, ay, candelita!
 
 Ensartadas en el yauri, Chuima-urpillas, de los esqueletos
 voladores tres se detuvieron antes de volver al seno de la Pachamama;
@@ -14959,7 +14963,7 @@ cantando por las calles.
 > el khuchi, \
 > khorokutay! \
 > ¡Khoro, \
-> khorokutay!... 
+> khorokutay!...
 
 De las Tres Gracias del Chullpa-tullu, una, que como aquéllas
 mal hora escapó al pincel del divino Sandro, no menos que a las tintas
@@ -15626,7 +15630,7 @@ engendró de nuevo. ¿No fue Dios mi padre? Que los hombres lo
 sepan: la muerte vive en la carne de los dioses: que en la carne se
 pudran... ¡No te vayas, padre: espera; espera, tatalay!...
 
-–¡Álzame en tu carne; y llévame! 
+–¡Álzame en tu carne; y llévame!
 
 <br>
 
@@ -15908,7 +15912,7 @@ dale a tu joven mujer, que es de ella de quien está enamorado. \
 
 >*Eraristrato de Ceos* \
 
->Y el Rey se la dio. 
+>Y el Rey se la dio.
 
 ¡Padre!
 
@@ -16025,7 +16029,7 @@ manija.
 > a crucificarte \
 > mi alma \
 > bestia \
-> vino?... 
+> vino?...
 
 De este ángulo; de aquel ángulo; del otrito ángulo. Del ángulo, de
 la anguila, la animula, la mulina. De éste, de aquél, del otrito, los
@@ -16096,7 +16100,7 @@ para su coleto: ¡No he sido invitada; y, allí, dentro, hay quien envita!...
 > Cuando oliveáceas \
 > las úvulas \
 > están maduras \
-> en tu uva... 
+> en tu uva...
 
 ¡Cuánta, fijo, razón el enquiridón de Memnón!... El beso de esa
 vampiresa (haz la cruz) reza pus: sarna; sarna karka... (Malhaya este
@@ -16493,7 +16497,7 @@ guagua?...
 > mama Pitita? \
 > –¡Kunas, kaukisa, mamani! \
 > –¿Por qué, así, mamay, \
-> a tu águila lo engañas? 
+> a tu águila lo engañas?
 
 La mamala que me crió; crió la guagua, y hubiese criado a mis
 nietos. Pero, ya veo: no tendré nietos.
@@ -16549,7 +16553,7 @@ consuelo...
 > ¡Ay, ayayay, papay, papay!
 
 > Andáte pues por delante; \
-> por tu atrás tus sapos van. 
+> por tu atrás tus sapos van.
 
 Wiphando sus ¡ayayaes!, biscos de chispos, los chacareros de mi
 cobriza tierra son más que parvada de kunturis que por no saber
@@ -16908,17 +16912,17 @@ Bramo.
 > mi lonja; el zurrón \
 > de sus trinos se esponja.
 
-> (¡Kiii! ¡Kikikikikikikí!) 
+> (¡Kiii! ¡Kikikikikikikí!)
 
 > Mamífero astral: ¿adónde \
 > arrastras mi guagua \
-> y su ala y su trino? 
+> y su ala y su trino?
 
-> (¡Kiii! ¡Kikikikikikiki! 
+> (¡Kiii! ¡Kikikikikikiki!
 
 > En la chuklla su trino \
 > adivino; de mi chullpa \
-> se alzará su canción. 
+> se alzará su canción.
 
 > ¡Piupiupiupiupiu-titit!
 
@@ -17300,7 +17304,7 @@ llema se hará yema").
 > el genio de la nube; \
 > el tú-multo del viento; \
 > la genésica del agua; \
-> la gracia sonora del vuelo. 
+> la gracia sonora del vuelo.
 
 Áurea burbuja, EL PEZ DE ORO ha insurgido; y es lo mío que
 esplende.
@@ -17337,7 +17341,7 @@ microscópica de astros. \
 > Penetro un mar sin fondo; \
 > penetro un pelícano sin fondo; \
 > penetro un relincho sin fondo. \
-> Grado a grado le penetro y me penetra. 
+> Grado a grado le penetro y me penetra.
 
 No puedo escurrir la dentellada de famélicas tenazas; aferran mis
 neuronas y ordéñanles el piro-lácteo-látex.
@@ -17480,7 +17484,7 @@ aromas estelares nos conduce a la Tierra.
 
 ### HAYLLI
 
-> ¡Pacha-mama, Pacha-mama! 
+> ¡Pacha-mama, Pacha-mama!
 
 > Temperatura en madre; \
 > entraña de las flores; \
@@ -18056,7 +18060,7 @@ Esa la raíz emotiva de su inefable embriaguez.
 > aférrale entre las garras tiernas, \
 > yo la ternura soy, que adoba con arrobos, \
 > el pan, la flor, la guija, y el sustento. \
-> que sólo con sustentarle se sustenta... 
+> que sólo con sustentarle se sustenta...
 
 He aquí que a su corazón se allega, y musita para que nadie sino
 el corazón le oiga:
@@ -19096,7 +19100,7 @@ latido:
 > ¡Veo la tierra \
 > salida del cáos! \
 > ¡Oh, tierra, \
-> bárbara y amada! 
+> bárbara y amada!
 
 Sentía, en efecto, que esa tierra me era entrañablemente amada.
 
@@ -19333,7 +19337,7 @@ Homero.
 > "los ojos tristes de los hombres".
 
 > Y la usuta besó la planta de oro \
-> y oro fulgió en el lodo de la vida. 
+> y oro fulgió en el lodo de la vida.
 
 Y, claro, como algunos de los que les oigan serán como ustedes
 mansos de corazón y de ojos khawrólatras, pagarán toda la razón a ese
@@ -19730,7 +19734,7 @@ Comprendí que agitaba su pañuelito de despedida.
 > Sólo vieja lágrima \
 > de bruñida plata eres, \
 > Titikaka, \
-> plañendo su esmeralda... 
+> plañendo su esmeralda...
 
 En sus fiebrolentos ojos, dilatados dentro las órbitas, ya casi
 exhaustas, se reflejaron el lago de arriba y el cielo de abajo. Luego me
@@ -20389,9 +20393,9 @@ desaparezca en el mono.
 # MORIR DE AMERICA
 
 > Y tan alta vida espero, \
-> que muero porque no muero. 
+> que muero porque no muero.
 
-> _Teresa de Jesús_ 
+> _Teresa de Jesús_
 
 Una gota. Otra después. Y van cuatro, cinco, seis. Cuántas ya...
 No muchas; todavía se las puede contar.
@@ -20672,7 +20676,7 @@ baño con su hañachu, Titikaka Emperador.
 > –¡Guá, mamay!... ¿Duermes? \
 > Duerme la mamala. \
 > –¡Thunkhu! ¡Thunkhu! ¡Thunkhu! \
-> Los thukhus espantan locuras de la Paksi. 
+> Los thukhus espantan locuras de la Paksi.
 
     * * *
 
@@ -21820,7 +21824,7 @@ arrulla tu montaña.
 
 > Khaipi \
 > Laykha-kota \
-> Khori-Challwa. 
+> Khori-Challwa.
 
 ¿Oyes, niña querida? En el vértigo de la Wayñusiña, se fundían el
 Agua, el Pez y el Puma.
@@ -22188,7 +22192,7 @@ querida niña...
 > de los ayllus; \
 > latidos \
 > de la tierra... \
-> ¡Bon! ¡Bon! ¡Bon! 
+> ¡Bon! ¡Bon! ¡Bon!
 
 Así, con la mayor solemnidad, fuimos conducidos a inmenso
 salón, donde cien amplios trapezoides absorvían dorada luz que
@@ -23525,14 +23529,14 @@ vive de iluminarse en ellos...
 
 ### HAYLLI INKÁSIKO
 
-> ¡Mi pueblo, milenarios de mi sangre! 
+> ¡Mi pueblo, milenarios de mi sangre!
 
 > La eternidad es tu atributo; \
 > nido de tus canciones el surco. \
 > Sólo en ti germinan los amores; \
-> en ti las flores odoran bajo el Sol. 
+> en ti las flores odoran bajo el Sol.
 
-> ¡Mi pueblo, milenarios de mi sangre! 
+> ¡Mi pueblo, milenarios de mi sangre!
 
 > Sangre vieja es la tuya \
 > que da juventud a mi alimento. \
@@ -23545,9 +23549,9 @@ vive de iluminarse en ellos...
 > La fuerza pasional. \
 > El dolor es panal en tu pecho. \
 > Es hálito, eternidad, raíz, \
-> en cuanto, en ti, mis manos edifican. 
+> en cuanto, en ti, mis manos edifican.
 
-> ¡Mi pueblo, milenarios de mi sangre! 
+> ¡Mi pueblo, milenarios de mi sangre!
 
 > ¿Quién a rugir te obliga, pueblo mío? \
 > Cuando ruges tiembla el firmamento. \
@@ -23555,10 +23559,10 @@ vive de iluminarse en ellos...
 > Si lloras, llora el volcán, tu hijo; \
 > llora el Lago, tu madre. \
 > La eternidad es tu atributo; \
-> nido de tus canciones el surco. 
+> nido de tus canciones el surco.
 
 > ¡Pueblo: milenarios de mi sangre; \
-> lo fugaz no está en tu naturaleza! 
+> lo fugaz no está en tu naturaleza!
 
 > ¡Fatígate, laborero! \
 > ¡Crea, consumiendo tus ceras, creador! \
@@ -23566,9 +23570,9 @@ vive de iluminarse en ellos...
 > tiembla como la aguja imantada, \
 > pero encuentra el Norte de tu pueblo! \
 > ¡Sólo en Él germinan los amores; \
-> en Él las flores odoran bajo el Sol! 
+> en Él las flores odoran bajo el Sol!
 
-> ¡Mi pueblo, milenarios de mi sangre! 
+> ¡Mi pueblo, milenarios de mi sangre!
 
 > ¿Si un pueblo hay en tu sangre, \
 > qué esperas que no florece en ti \
@@ -23577,7 +23581,7 @@ vive de iluminarse en ellos...
 > el Sol hace más noble \
 > la severa presencia de la montaña. \
 > Y sólo en la sangre con pueblo \
-> hay semillas del Sol... 
+> hay semillas del Sol...
 
 > ¡Mi pueblo, mi sangre milenaria: \
 > yo velaré, erizado de lanzas, \
@@ -24564,7 +24568,7 @@ carece de hecho!...
 
 <hr>
 
-## ¡EL WAWAKU! ¡EL WAWAKU!
+## ¡EL WAWAKU! ¡EL WAWAKU
 
 –No creo sensata, oh, Khori-Puma –me dijo–, la despectiva
 actitud con que miramos en qué medida alcanzan proporciones
@@ -24992,7 +24996,7 @@ de Aurora violó la entraña de la Muerte.
 > con nuevo Sol! \
 
 Dulce coyunda me impuso, querida niña; si cuando la pelton de la zarpa
-mordía el agua, en las suyas secretaban mieles tus estrellas. 
+mordía el agua, en las suyas secretaban mieles tus estrellas.
 
 ### CORAL
 
@@ -25000,7 +25004,7 @@ mordía el agua, en las suyas secretaban mieles tus estrellas.
 > Lumbre de asombros. \
 > Viril centella. \
 > Oro en el oro; \
-> Sol en el Sol. 
+> Sol en el Sol.
 
     * * *
 
@@ -25228,8 +25232,8 @@ la Sirena y le arrulla con sus locas tonadas:
 
 > ¡Arrurrú! ¡Arrurrú!
 
-¡Pobre Khori-Puma!... ¡Ay, la Sirenita del Laykhakota!... 
-Viejas melodías la khachinaban en los ojos; viejo trino trajinábala 
+¡Pobre Khori-Puma!... ¡Ay, la Sirenita del Laykhakota!...
+Viejas melodías la khachinaban en los ojos; viejo trino trajinábala
 el corazón. Y, sacando arpegios a la musgosa peñolería, a través de la
 sorda oreja del agua, los arpegios hacíanse espuma entre las olas...
 
@@ -25241,7 +25245,7 @@ sorda oreja del agua, los arpegios hacíanse espuma entre las olas...
 
 > Khaipi, \
 > Laykha-kota \
-> Khori-Challwa... 
+> Khori-Challwa...
 
 He aquí, y he aquí, que el pecesito muerto siente que dentro la
 mama de su mama le llora su Tata-Puma:
@@ -25278,7 +25282,7 @@ vivos de su guagüíta muerta la lloraba su Tata-Puma:
 > imillay;
 
 > déjame llorarle con tus ñuñus, \
-> imillay... 
+> imillay...
 
 Y tu Sirenita loca, porque busca el barro del Puma en el Cielo de
 Abajo, te llora con el oro del Lago de Arriba...
@@ -26402,7 +26406,7 @@ lanzando aullidos sepulcrales.
 
 Poco, poco me faltaba para caer.
 Y entonces...
-Reventó volcán de espanto. 
+Reventó volcán de espanto.
 
 <br>
 
@@ -26465,7 +26469,7 @@ Vamos, pues, querida niña: aquí le dejé, aquí tiene que estar.
 > en el desconsuelo de la tarde, \
 > la flor se desgaja, \
 > cae en la linfa; \
-> y se va llorando... 
+> y se va llorando...
 
 Tal los muertos lloran, y se van, aun que no de ellos.
 
@@ -26686,7 +26690,7 @@ aymara:
 > ¿Unktati urpanaka hiwañan \
 > akiri orasionana llaki? \
 > Pankara kalaktiw hawiraru \
-> hachjasin sarjew... 
+> hachjasin sarjew...
 
 En pueblos americanos con raices vivas se dan con no poca
 frecuencia casos como éstos, y ello nó por decisiones intelectuales, sí
