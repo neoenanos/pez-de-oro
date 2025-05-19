@@ -4,7 +4,7 @@ PREVIAS sean dos palabras. EL PEZ DE ORO cursó no breve génesis editorial
 debido a causas –algunas de ellas– casi fantasmales, si
 cuando iba por la mitad la impresión de sus pliegos, y éstos se
 arracimaban en respetable volumen cabe sigiloso rincón, la imprenta de
-la SPIC fue asaltada por marejada fascista, que incendió lo incendiable
+la SPIC[^1] fue asaltada por marejada fascista, que incendió lo incendiable
 y destrozó lo que no habría de ceder a la acción del fuego, respetando
 rincón sigiloso y montón de pliegos por obra acaso de la presciencia y
 el numen del Siluro, cúya es la epopeya. Lo cual, en no ligera monta,
@@ -66,3 +66,4 @@ G. Ch.
 > Bacterias, Sueños, Versos. \
 > Etc., etc.
 
+[^1]: Subsecretaría de Prensa, Información y Cultura, La Paz.
