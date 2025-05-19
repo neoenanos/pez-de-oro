@@ -1,17 +1,25 @@
 # ESPAÑOLADAS
 
-    –Construye una torre alta con ventanas
-    que se iluminen a sí mismas.
+> –Construye una torre alta con ventanas
+> que se iluminen a sí mismas.
 
-    –¿Cómo construiré, oh, grande Aura
-    Mazda, un tal recinto según tus instrucciones?
+<br>
 
-    –Golpea la tierra con tus talones y amásala
-    con tus manos.
+> –¿Cómo construiré, oh, grande Aura
+> Mazda, un tal recinto según tus instrucciones?
 
-    _Zend Avesta_
+<br>
 
-    ¡Karrajuska! ¡Ñerdas!
+> –Golpea la tierra con tus talones y amásala
+> con tus manos.
+
+<br>
+
+> **Zend Avesta**
+
+<br>
+
+> ¡Karrajuska! ¡Ñerdas!
 
 ¿Quién eres hoy, maestro? No eres Teofrasto, el atracador que
 anduvo en pleito con la justicia por el asesinato del santo Timoteo.
@@ -686,7 +694,7 @@ cuídate, en cambio, que somos los kheche - kheches.
 En la oscuridad, en su ojo bailaba jotas aragonesas; el otro molía
 khaswas en pekhañas.
 
-–Vienes ahora con ese Vox clamatin in deserto; y son tus viejas
+–Vienes ahora con ese **Vox clamatin in deserto**; y son tus viejas
 excertas. ¿Acaso el verbo regalo de pusilánimes y resentidos? El verbo
 es laurel para el pensador genuado. El verbo quiere amor, verde de
 bledos, humedad de entraña. Su patria es el halsu. Tus laureles están ya
@@ -899,4 +907,3 @@ pukaras, es preciso encontrar primero la raíz de EL PEZ DE ORO...
 –¡Karrasjuska! ¡Ñerdas!
 
 Eran sólo esquirlas de su trino.
-

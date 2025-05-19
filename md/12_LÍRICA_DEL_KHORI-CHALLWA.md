@@ -579,21 +579,21 @@ lo entregue al juicio de la Ulaka. Es el siguiente en su forma
 embrionaria:
 
         LEYES DE EL PEZ DE ORO
-    
+
     1º.– Sólo se admitirá en las Facultades Pedagógicas, a
     quienes, sometiéndose a minuciosas y prolongadas observaciones
     en orden a su vocación, demuestren ingénita aptitud de maestros.
-    
+
     2º.– El ejercicio del magisterio queda limitado, sin
     obligatoriedad, a período de cinco años, en el curso de los
     cuales el maestro podrá hacer abandono de la carrera para
     entregarse a labores que prefiera o el Estado le señale.
-    
+
     3º.– El maestro, que vencido este período, deseare
     permanecer ejerciendo la profesión, y comprobare suficientemente que sus facultades le permitirán desenvolverse con
     el mismo interés y tensión con que completara el primer
     período, recibirá el beneficio de duplicación del haber.
-    
+
     4º.– El Estado reconoce que no hay más alta jerarquía
     en los servicios públicos que la del Profesor de Escuela, el
     cual deberá percibir haber igual al que corresponde a los
@@ -1411,7 +1411,7 @@ Cuasi ofendido le atajó el Suchi de color de acero.
 <br>
 
 –¿Tú, Khori-Challwa ? ¿Acaso no los sirvientes los llamados a
-poner el hombro a la tiana de sus amos? ¡Alceme yo acémila para tu
+poner el hombro a la **tiana** de sus amos? ¡Alceme yo acémila para tu
 fuego!...
 
 <br>
@@ -2877,6 +2877,7 @@ retaguardias, al verme...
 –¡EL PEZ DE ORO lucha con el Wawaku, Khori-Puma!
 
 <br>
+
 
 Pronto mis desesperados ojos ubicaron el centro de la batalla. Y
 allí vi a tu Khori-Challwa, querida niña, que azotaba la monstruosa

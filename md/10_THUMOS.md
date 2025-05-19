@@ -66,7 +66,7 @@ Por mi parte desembuché mis secretos. De tal guisa nos
 conocimos y estrechamos fraternales vínculos. Ya la pareja se había
 reproducido; y des entonces iban tres perros por el mundo: los dos
 enamorados, y el solitario que había hecho más que ambular pisando
-su doliente sombra de wakchitu. Frecuentábamos cenizales; nos
+su doliente sombra de **wakchitu**. Frecuentábamos cenizales; nos
 deteníamos en las chicherías; tratamos de amistuarnos con sirvientes de
 casas ricas. En fin, hociqueábamos la vida.
 
@@ -111,7 +111,7 @@ ciertamente rico en drama, rico en ebriedad mental y no pobre en
 tónica tragedia. Gorjo era un pequeñín de pelo endrino y de ojos que
 tiraban a un azul plomo, demostrando bien a las claras que en la suya
 se entretejían asaz las estirpes, y que pese a su talante señoril y
-aristocrático carecía de pedrigree. Acaso por tal razón a ratos menos
+aristocrático carecía de **pedrigree**. Acaso por tal razón a ratos menos
 perro que hombre parecía: un hombrecito de cuatro patas, como el de
 dos, lleno de arrestos y veleidades, tan capaz como él de transportes
 heroicos y de abatimientos y astenias sentimentales. Que llegó a
@@ -129,7 +129,7 @@ bejarana calva, o acaso como pleito homenaje a Cyrano, no menos que
 a su famoso gallo, de quienes si llevaba a guisa de nariz pico
 descomunal y las poéticas bribonerías, nada diré de los pedantescos y
 filudos espolones, que eran gemelos del gran otomano del célebre
-gallinero. Pues bien; de Chantecler, que era prima-sang de famoso
+gallinero. Pues bien; de Chantecler, que era **prima-sang** de famoso
 campeón de los valles de Majes, y que me llegó por generoso regalo de
 mi hermano el gran don Isáac Guillén, catedrático en gallináceos
 pugilatos, no pensaba obtener otro, ni siquiera había buscado en la
@@ -146,11 +146,11 @@ atleta embutido en músculos de líneas atléticas y gráciles. Aquello de
 negarse a fecundar a gallinitas de poca monta (hecho innegable para
 quienes conmigo vivían), no podía ser estimado sino como principio
 del sentimiento de jerarquía; y si no estoy equivocado el único animal
-que cultiva ese sentimiento es el Simio Sapiens. Es un gallo, se dice
+que cultiva ese sentimiento es el **Simio Sapiens**. Es un gallo, se dice
 del hombre afortunado en amores, y que logra lo que persigue el gallo,
 precisamente por no oponer reparos ni hacer repulgos con esta o
 aquesa hembras, y atrapa las que puede y con el pelo que peinen. Y si
-un gallo exige pedrigree y condiciones gentilicias a su poligamia;
+un gallo exige **pedrigree** y condiciones gentilicias a su poligamia;
 lógicamente de él no se podrá decir "es un gallo"; sino: ¡es todo un
 hombre! Lo cual pueda que entre los gallos produzca la admiración que
 entre nosotros nuestros galloferos.
@@ -327,7 +327,7 @@ Pero, aquella revelación de su muerte, dime, tú, Capitán, que
 sabes tanto: ¿qué sentido pudo tener que no fuese el convencimiento
 de que el pobre animal proyectó hacia mí las radicaciones de su
 personalidad en el momento que lo estrangulaban? ¿Que Gorjo tiene
-psique; es capaz de originar movimientos eléctricos cargados con el
+**psique**; es capaz de originar movimientos eléctricos cargados con el
 magnetismo de su "ego"? ¿Que Gorjo es, también, hombre? Durante
 mucho tiempo su recuerdo me producía estados lacerantes; pero al
 paso de los años el dolor llegó a hacérseme familiar, y aunque no
@@ -378,7 +378,7 @@ refieren más de una serga. Y yo –si durante esos días me hallaba
 anegado por el mar proteico y seductor de la mitología griega– en
 homenaje a la diosa y a su flecha tenía que dárselo a mi Cazador de
 Charchashwas. Pero ya no me fue posible transferirlo al lobito. Y le di
-el nombre de Thumos, que Aristocles da al alma del animal. El lobito
+el nombre de **Thumos**, que Aristocles da al alma del animal. El lobito
 se llamaría Thumos; y Thumos se llamó.
 
 Thumos a los siete años murió también; lo que si bien me llenó
@@ -439,7 +439,7 @@ modulación anímica. A quienes dudaren de estas revelaciones –si son
 tales–, les pediría encerrar a un perro en habitación oscura y anotar las
 gradaciones del ladrido; llevarle luego a otra llena de luz, y comparar si
 en ambos casos posee los mismos valores y las mismas imágenes
-tonales. Si salta y ladra traduciendo su júbilo, el suyo es un ballet de
+tonales. Si salta y ladra traduciendo su júbilo, el suyo es un **ballet** de
 inefables escorsos; y es innecesario describir ese júbilo cuando el
 olfato, que no casualmente en él no es tan vivo como en otros animales
 de su especie, puede decirle que el amo está cerca. ¿Creen ustedes que
@@ -484,7 +484,7 @@ puro.
     * * *
 
 –Todo lo que de su agrado –dijo– no encuentra el hombre en el
-Zoo, lo refiere al Theo; y allí una sola cosa salta a la vista: sus
+**Zoo**, lo refiere al **Theo**; y allí una sola cosa salta a la vista: sus
 deficiencias zoológicas. De donde se sigue que la razón de ser de la
 humanidad en el hombre es su inferioridad animal; por lo que de su
 pánico habrá de extraer los valores de su osadía, o sea el "coraje del
@@ -584,7 +584,7 @@ menos animal sea. Historia, en el sentido biológico de este término, no
 es la del hombre, es historicismo o simple épica y su verdadera
 expresión debe ser teológica; si su filosofía de los valores es mera
 antropolatría, o sea repudio de la raíz animal. De donde, para el
-filósofo, el hombre sabe que el animal es, mientras sólo cree que él es
+filósofo, el hombre sabe que el animal **es**, mientras sólo **cree** que él es
 hombre. Así visto, y concediendo bondad a su razonamiento, el
 hombre histórico es más que una profesión (oficio) de fe del hombre
 mismo. Algún filósofo de las calles, cuando por ellas anduve junto al
@@ -662,7 +662,7 @@ menos ridícula, y, sobre todo, menos cruel.
 
     * * *
 
-–¡Oh, Capitán, Mi Capitán!...
+–¡Oh, Capitán, **Mi Capitán**!...
 
 Tremulaba mi raboncito, mientras Lulú –perfil de figulina en
 alabastrino pelaje, que asperjaran alquitranes de abeto– besaba con
@@ -704,7 +704,7 @@ de sus arcaicas manifestaciones, seguros de que encontraremos raíces
 de la plenitud de la vida en su poesía, si ella fue emergencia de grupos
 humanos libres aún de vectores patológicos.
 
-De esta edad puede decirse, oh, Mi Capitán, que fue la
+De esta edad puede decirse, oh, **Mi Capitán**, que fue la
 bienamada del hombre; y que cuanto en él hay de ternura y lirismo de
 ella procede y le fecunda. Si bien se ve la lengua del hombre en nada
 pertenece al hombre; por lo que el estudio de sus ideografías acaban al
@@ -943,7 +943,7 @@ del saurio, al que miraba como a viejo pariente.
 
 En la masa de ese clan, o intención de clan, de hombres de
 mentalidad rudimentaria, se destacaba uno a quien llamaban
-Achokhallo, mozo dé fuerzas hercúleas con las que nadie fue capaz de
+**Achokhallo**, mozo dé fuerzas hercúleas con las que nadie fue capaz de
 rivalizar; razón por la que se le temía, o admiraba, o ambas cosas; si
 aún hoy la admiración ha superado las formas de asombro o terror; y
 porque temían a la bestia fueron haciendo de ella naturaleza divina.
@@ -1105,7 +1105,7 @@ Sordo hervor germinal subía de ese ovario del mundo.
 
     * * *
 
-Después de momentos, que parecían mementos, en que sólo se
+Después de momentos, que parecían **mementos**, en que sólo se
 oía el fatigado resuello, Lulú, picaresca e intencionada, me dijo:
 
 –¡Qué feo y qué hermoso, Satán!
@@ -1216,7 +1216,7 @@ su lado des el día que su trino electrizó nuestros oídos.
 
 El hombrecito del ¡Inká! ya tenía ocho meses, ensayaba los
 primeros pasos, podía mantenerse sentado, era capaz de preferencias
-musicales y de imponerlas con criqueos y hasta con lagrimitas si su
+musicales y de imponerlas con **criqueos** y hasta con lagrimitas si su
 madre en vez de las piezas de su agrado se empeñaba en poner otras en
 el astroso gramófono; de manera que bastaba juzgar de su música para
 darse cuenta si sus caprichitos provenían de temperamento imperativo,
@@ -1306,7 +1306,7 @@ bulldog.
 
 –Agrega la inteligencia de todos ellos. Thumos era un lobo sin
 lanas; y si no se acusaran en él tanto las características lobunas, habría
-parecido un bull-terrier. Soy poco versado en canilogía; pero sé para
+parecido un **bull-terrier**. Soy poco versado en canilogía; pero sé para
 mí que el perro-lobo tiene origen en Irlanda y viene del cruce del lobo
 y el danés, al menos el lobo a cuya dinastía afiliaba Thumos. Era alto,
 membrudo, pelaje café oscuro, brillante. Alas de una mosca que le
@@ -1324,7 +1324,7 @@ panegírico puede darle otro curso al relato.
 –Ya te demostraré que Thumos no solamente miraba al niño: le
 adoraba.
 
-–Sí, Capitán, Mi Capitán: nacimos para adorarle.
+–Sí, Capitán, **Mi Capitán**: nacimos para adorarle.
 
 –Sigue, sigue, tierno Satán.
 
@@ -1374,7 +1374,7 @@ calles y plazas hasta que la noche caía sobre el poblado. Sabía que en
 esto revelaba el imperio de una ahayu; sentimiento del cósmos
 americano; el mucho de su madre y el todo de su padre.
 
-He aquí, por qué, Capitán, Mi Capitán, le llamaba:
+He aquí, por qué, Capitán, **Mi Capitán**, le llamaba:
 
 ¡El Indio!
 
@@ -1410,7 +1410,7 @@ El hombrecito, con el ¡Inká! y un periódico hacía alitas que
 echaba a volar, como otrora nubes (alitas con que Thumos daba sus
 cabriolas), y de la niña y de su llanto, a pesar de tenerlos casi a mano,
 parecía enterarse. Me cegó la impaciencia y alzando a la pobrecita díla
-tal par de manazos, aunque (lo juro, Capitán, Mi Capitán) no fue mi
+tal par de manazos, aunque (lo juro, Capitán, **Mi Capitán**) no fue mi
 intención, seguramente con violencia. ¡Santo cielo, en qué hora fue! El
 llanto de la pequeñuela se tornó el chillido del chivo que desuellan
 vivo. Me asusté. Pero ya el hombrecito del ¡Inká! se había arrastrado
@@ -1425,7 +1425,7 @@ El hombrecito me miraba.
 Perro, perro: el divino esqueleto de EL PEZ DE ORO te miró...
 Han pasado diez años y el hombrecito del ¡Inká! no deja de mirarte.
 
-¡Capitán, Mi Capitán: qué ruin andrajo es el hombre!
+¡Capitán, **Mi Capitán**: qué ruin andrajo es el hombre!
 
 Me sentí el mayor de los monstruos nacidos en la tierra.
 
@@ -1551,7 +1551,7 @@ las botinas de los tordos de su vecindad; la emplea y gasta, así mismo,
 en grado no excesivamente extremo, el cirujano que remienda el
 hígado averiado por la cirrosis alcohólica. Para esto el hombre requiere
 más de los cinco sentidos. Thumos estaba amunicionado mejor que el
-homo sapiens. Era constitución mental la suya tan extraordinaria,
+**homo sapiens**. Era constitución mental la suya tan extraordinaria,
 como pronto verán ustedes.
 
 Recordaré tan sólo dos órdenes de su aprehensión de la vida,
@@ -1724,7 +1724,7 @@ saberlo, la creo real de punta a rabo. Y la siento como un latido que me
 extranjeras del corazón. ¡Es una historia luminosa de fondo lacerante!
 Mañana la terminarás, ¿verdad? En ella los perros somos redimidos.
 
-–¡Oh, Capitán, Mi Capitán!...
+–¡Oh, Capitán, **Mi Capitán**!...
 
     * * *
 
@@ -2067,7 +2067,7 @@ con profundidad absorta.
 –¡Satán! ¡Satán!... No lo veles; no lo encubras, hermano mío: ¡tú
 eres Thumos!
 
-–¡Oh, Capitán, Mi Capitán: Soy Thumos, el Khori-Puma!
+–¡Oh, Capitán, **Mi Capitán**: Soy Thumos, el Khori-Puma!
 
     * * *
 
@@ -2126,7 +2126,7 @@ no conoce, o adrede desconoce.
 
 Ingrato; perro al fin. Porque en el estómago le ardían carbones
 amorosos; porque se negó a ser hombre si había alcanzado a perro.
-¡Qué torpe tu soberbia, Simio Sapiens! Prefirió verle muerto a saberle
+¡Qué torpe tu soberbia, **Simio Sapiens**! Prefirió verle muerto a saberle
 feliz. ¿Es que el hombre, es hombre sólo por su incapacidad de sentirse
 feliz en la felicidad de los perros? Sí; ése el camino seguro para que un
 día ni en los perros ni en él se halle.
@@ -2243,7 +2243,7 @@ El perro Thumos posee un alma tan análoga al alma de su amo,
 que parecen hermanos siameses; sufren las mismas torturas;
 experimentan las mismas iluminaciones; cargan con análogos calvarios.
 Por qué extrañarse que así sea, si la vida es una chispa del alma del
-perro Thumos y chispa del alma del Khori-Puma, su amo, o hermano.
+perro Thumos y chispa del alma del **Khori-Puma**, su amo, o hermano.
 
 ¿Que el hombre deviene espiritual y la bestia terráquea? ¿Quién
 sostiene aún tan groseras torpezas? ¿Dios? En verdad os digo, que si en
@@ -2304,4 +2304,3 @@ Sólo Thumos es bueno en el hombre.
 
 Mono sabio: humanízate en la bestia antes que la bestia
 desaparezca en el mono.
-

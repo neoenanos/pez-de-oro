@@ -3,7 +3,7 @@
 > Y tan alta vida espero, \
 > que muero porque no muero.
 
-> _Teresa de Jesús_
+> **Teresa de Jesús**
 
 Una gota. Otra después. Y van cuatro, cinco, seis. Cuántas ya...
 No muchas; todavía se las puede contar.
@@ -340,18 +340,18 @@ las entrañas de la Pacha-mama, es delgadita, mismo el piopio del
 chiwankhu. Ella ignora de qué mazamorra étnica es fruto; pero en las
 voces con que merca está la olla hedionda de nuestras americanohispanistas historietas o frangollos.
 
-Siwilla: cebolla, castellano indianizado.
+**Siwilla**: cebolla, castellano indianizado.
 
-Alasita: cómprame, aymara.
+**Alasita**: cómprame, aymara.
 
-Mama: señora, o madre, italiano (Mamma mia), limeño
+**Mama**: señora, o madre, italiano (**Mamma mia**), limeño
 (mamaíta), y lo mismo rumano; pero, antes de esto, de todo esto
 después: mamay, sumerio...
 
-Ñiiitoy: euskera; por tontito.
+**Ñiiitoy**: euskera; por tontito.
 
 Además, dice thika: flor, que es como decirla a flor de catorce
-aniversarios, pankharay... Thika, y bien que pueden acreditárselo no
+aniversarios, pankharay... **Thika**, y bien que pueden acreditárselo no
 pocos Filipillos, es kheswa del puro. En compañía de famoso etnólogo
 tudesco anoté (y él a mí me anotó en famoso libro, que no digo; que
 eso otro cuento) la presencia de palabras pukinas, urus, entre estos
@@ -361,10 +361,10 @@ menos sus "ajos". Si en parte alguna dable apreciar el valor de la
 política del Mitmak, que el Orejón impusiera buscando la unidad étnica
 de su Imperio, es acá, entre estos Chiris, si acá donde se constata, en
 forma que se vuelve hasta sociológica, la enojada intransigencia de un
-aristocrático sentimiento del linaje. La institución del mitimae (de
+aristocrático sentimiento del linaje. La institución del **mitimae** (de
 cómo así el lexicógrafo criollo, o curesco que dijera Sancho Panza,
 haría este latinismo, ni lo adivino, ni lo sabrá alguien), digo, que la
-institución del mitimae, de sistema y humano aprovechamiento de la
+institución del **mitimae**, de sistema y humano aprovechamiento de la
 tributación de trabajo que al Estado oblablan los runas, trocóse en
 servilidad, y ya el latinajo se lo aplicó sólo al forzado de las minas, en
 donde era sepultado, hasta tanto poderle sacar carroña momia. Así el
@@ -404,7 +404,7 @@ espaldas de la capilla, como quien al trepar se da con las del khoto, se
 cae en ramillete de flores, a cuyo centro, tocada con espeso monterete
 de totoras verdes, pintarrajeada sangre-sangre, se alza la musiña. Allí
 por dar recado de mi madre a su tiola, conocí a la Amapolita; y ya supe
-kosa que hacerme casero de la tiola.
+**kosa** que hacerme casero de la tiola.
 
 Con sonrisa llena de arrugas la vieja consentía la linlichada; y es
 que la su tiola era mi comagre por serlo de mi linda madrecita.
@@ -668,8 +668,7 @@ fúnebre capilla es cuanto se reclama de su magistratura y dignidades de
 cofrade del santo sepulcro. Los que bien le conocimos, y quienes sin
 conocerle puedan leer sus codicilos, tendremos curiosidad por saber de
 cuáles petacas procedía la fortuna de don José Maria. ¿Don José María
-era don José María? Nunca permitiera violaciones en el Sancto
-Sanctorum de su origen. Pero, yo me sé que don José María, nó don
+era don José María? Nunca permitiera violaciones en el **Sancto Sanctorum** de su origen. Pero, yo me sé que don José María, nó don
 José María Cristal: era don José María Khespe.
 
 Un día se dijo don José María Khespe:
@@ -752,7 +751,7 @@ devolví a las gentes partes alícuotas de la corralera "eme", ya dicha".»
 
 <hr>
 
-«Mea culpa. Amigos canallas que me halagais generosos. Acabó
+«**Mea culpa**. Amigos canallas que me halagais generosos. Acabó
 la farsa. He muerto. Sabedlo ahora: ¡Soy Un Indio! Y vosotras,
 adoradas hijas de mi alma: perdonad a vuestro padre infeliz. Cuando
 leais estas Memorias, estaré muerto en vuestros ojos vivos. Os oigo
@@ -846,7 +845,7 @@ adamita? Os tuve por magistrado sabio; mas nó por lenguaraz khalato.
 Bien veo que vestís barba y fabla de ese fino y peregrino modo por
 algo que os sonrroja mostrar...
 
-»Sigue el footing.
+»Sigue el **footing**.
 
 »No ha menester le hable para que el Obispo me entienda; si, con
 mirarme a los ojos, en ellos le guía la espía; tanto que arrebujado en
@@ -893,10 +892,10 @@ hinojos, unce la testa, golpeando desesperado sus pechos.
 »¿Llora? Veo le burbujea salivilla, por la color hepática, y que
 como gurugúa:
 
-–¡Miserere, Domine!... ¡Miserere, Domine!...
+–**¡Miserere, Domine!**... **¡Miserere, Domine!**...
 
 »Bien le huelo que ante lo inevitable la postrer merced que de ese
-Domine aguarda, es pasar, si alcanzar a los intestinos brutos no tiene
+**Domine** aguarda, es pasar, si alcanzar a los intestinos brutos no tiene
 enmienda, si no liviano, aliviando con su olor de santidad los acres que
 allí deben reinar.
 
@@ -970,7 +969,7 @@ braman, y, finalmente, arrastrando las desvencijadas ancas, huyen.
 He aquí otra de las febricitantes páginas de esas Memorias:
 «Visito la Virreynal ciudad de los Degolladores del Tawantinsuyu; y, en
 rueda de amigotes, y con no velada, declarada por tanto, volteriana y
-ricardopalmesca galanura, me refieren anécdota del sabio Lunarejo,
+ricardopalmesca galanura, me refieren anécdota del sabio **Lunarejo**,
 barrendero que fue del Convento de Agustinos de la ciudad del
 Khoskho, y que por uno de esos volapiés que el viento suele darle a la
 vida, resultó la mayor lumbrera de púlpito de ésos, no por fenecidos,
@@ -992,12 +991,12 @@ presto se oyeron sonar sus alientos.
 
 »–¿Que se calló el chokllopokhocho del Inka?...
 
-»El Lunarejo, entanto, patético, circunflexo, y en drama, oteaba
+»**El Lunarejo**, entanto, patético, circunflexo, y en drama, oteaba
 hacia donde una indiesuca por abrirse paso, para allegarse al púlpito,
 hacía esfuerzos, menos a codazos que sudando entre los apretones que
 la daba hasta hacerla hipar la abigarrada barra de señoretes.
 
-»Allí, alzada su voz, abajado el señorío, El Lunarejo pidió una
+»Allí, alzada su voz, abajado el señorío, **El Lunarejo** pidió una
 caridad:
 
 »–Vuestras señorías, por caridad: hacedme merced de abrir paso
@@ -1053,7 +1052,7 @@ nobleza de Wayna Khapak, el Gran Emperador!
 
 <br>
 
-–¡Mon cuoer!... ¡Un Inka!... ¡Qué fascinante!... ¡Qué nutritivo!...
+–¡**Mon cuoer**!... ¡Un Inka!... ¡Qué fascinante!... ¡Qué nutritivo!...
 Pero, como la francesita duerme, y duermen las Ñustas mistisas, el
 Inka Khespe se atiene a los Khespes: el portero, el pongo, los cholos
 curdas de la aldea, electoraleros profesionales, alcahuetistas por
@@ -1844,7 +1843,7 @@ gala de servirle, y obedecerle, cayendo sobre los hijos como sobre lodo
 abyecto. Pero en el pueblo latía –estrella lejana– la esperanza en la
 Aurora que sigue a la insondable tiniebla. Todo lo dominaban la
 abyección y el temor, cuando, predicando en el barro evangelio de
-parto, apareció extraño ser, que el Puma era, decían; o el hombre que
+parto, apareció extraño ser, que el **Puma** era, decían; o el hombre que
 perseguía la pesca de la Muerte. Este extraño apóstol azotó la oreja del
 tirano con palabras de fuego; le hizo ver lo repugnante de su
 despotismo y le avergonzó al notificarle su inevitable desaparición. Los
@@ -2509,7 +2508,7 @@ resultan básicos para el descubrimiento de las raíces sociológicas del
 grupo humano.
 
 Hay otro ángulo de apreciación: la prolificidad y regulación de los
-nacimientos. La promiscuidad es matriarcal y las relaciones genealógicas se consideran desde el punto de partida de la madre. El
+**nacimientos**. La promiscuidad es matriarcal y las relaciones genealógicas se consideran desde el punto de partida de la madre. El
 poligamismo y la monogamia son fenómenos que acusan ya el
 predominio del varón. Pues bien, es lógico comprender que en el
 matriarcado el número de nacimientos era inmensamente mayor, si se
@@ -2646,8 +2645,7 @@ theologicum, también lo ignora. ¿Y si no están muertos, como que –
 me creo con autoridad para afirmarlo– no están: a qué título se los
 lanzó al LIMBO, contra su voluntad de vida, a merodear (asaltadores
 de caminos) a caza de vida que les albergue y prohije? De hechos que
-confirman tal realidad se obtiene la evidencia de que la canonizada
-civilización humana implica negación, o retroceso, al menos, de todo
+confirman tal realidad se obtiene la evidencia de que la **canonizada civilización** humana implica negación, o retroceso, al menos, de todo
 instinto de humanidad en el hombre. Nadie le cura a éste todavía los
 pavores dantescos con que vive; en las vecindades de la cuna alza
 patíbulos; suelta las bocas del Infierno apenas la suya abre el niño
@@ -3122,4 +3120,3 @@ medida, las leyes del Khori-Puma son leyes de la tierra; y deben seguir
 siendo leyes del Imperio.
 
     ***
-

@@ -6,7 +6,7 @@
 >–¿Tánto es tu cariño? Pues el remedio le tienes a la mano:
 dale a tu joven mujer, que es de ella de quien está enamorado. \
 
->*Eraristrato de Ceos* \
+> **Eraristrato de Ceos** \
 
 >Y el Rey se la dio.
 
@@ -93,21 +93,21 @@ Duerme.
 La respiración le apremia; luego lenta se hace; que ya se apaga. Y
 ahí está: otras vez flameando. Cómo a la luz de los faros se iguala. Esos
 marinos faros cuya luz se hunde en la noche de la mar y morena y
-redepente aparece lengüeteando en el lomo de los oleajes.
+**redepente** aparece lengüeteando en el lomo de los oleajes.
 
 (Así no más es). Padre.
 
-Se redama la vela. Y yo que nunca estuve solo, por más solo que
+Se **redama** la vela. Y yo que nunca estuve solo, por más solo que
 Él me dejare; si a mi lado, respirando, de puntitas, alguien, algunos me
-daban su lata. ¿Y ahura? Que se redama el mentón en el puño; y a
-través de los tragaluces llegan los estertores del Phuño; llegan las cruces; llega el gemido del Crucificado; llegan los ojos; llegan los ajos.
+daban su lata. ¿Y **ahura**? Que se redama el mentón en el puño; y a
+través de los tragaluces llegan los estertores del **Phuño**; llegan las cruces; llega el gemido del Crucificado; llegan los ojos; llegan los ajos.
 
 Llega este Titikaka, lagrimea en mi sangre, me ceña, y la boca que
-evoca me tapa con su tapa del Cherekheña. ¿No estoy el Phuño en el
+evoca me tapa con su **tapa** del Cherekheña. ¿No estoy el Phuño en el
 puño? No me abandonan dos que me susurran:
 
 –Kiii... Kikikiki... ¿Pelele, eres la sombra de otro Pelele? ¿La
-sombra eres de la Tanthaguagua?
+sombra eres de la **Tanthaguagua**?
 
 Cómo el otro camina de su cuenta y de su cuenta me lleva a la
 amargura. Qué cuentos... ¿Estaremos solos en el mundo? No hay
@@ -145,7 +145,7 @@ tolinas del amar, y del amor, de la mar, del amor...
 
 –¿Lo sé?
 
-Trituro la sonrisa; si ya sus risas augan. ¡Padre! ¿No será que
+Trituro la sonrisa; si ya sus risas **augan**. ¡Padre! ¿No será que
 todo mundo miente; y que ni Él agoniza de risa; ni cuadrumanos; ni
 sombras; ni susurran tolinas divinas? ¿Y todo se acaba en que mi sitio
 nó éste, ni el Cornezuelo de Centeno mi agua bendita; que el Sanatorio
@@ -263,7 +263,7 @@ la mar... Ja, ja, ja...
 Menea, anejas, las espléndidas orejas.
 
 –Por la pauta de la flauta, Follincico, que eres mico. ¡En el fondo,
-que me mustia de tu angustia el torzón, mi Follón!... ¿Mas, qué queres,
+que me mustia de tu angustia el torzón, mi Follón!... ¿Mas, qué **queres**,
 si hay mujeres? No te queda más renuevo que pararlo de a de nuevo.
 
 –¡Que te rajo, Renacuajo!... ¡Largo, presto; o te resto, perdulario,
@@ -274,8 +274,8 @@ fin; probaremos con la Nada, que es afín).
 
 Y, severo, encárame:
 
-–A la mesa la carta ésa. Venga acá, formidine, tu pezón. De
-menso pienso hizo Dios al Mamón. Si el recurso sale incurso, tienes,
+–A la mesa la carta ésa. Venga acá, **formidine**, tu pezón. De
+**menso** pienso hizo Dios al Mamón. Si el recurso sale incurso, tienes,
 galgo, para algo. ¡Va, va: cree ya! El sabio se hará el largo: mas el
 Diablo su milagro... Ja, ja, ja...
 
@@ -285,7 +285,7 @@ muerte yo le dí.
 
 Ya no ijadas y menos carcajadas.
 
-–¡Qué recuajo, Renacuajo! ¿Teminaste la Saggaste? Réuma neta,
+–¡Qué recuajo, Renacuajo! ¿Teminaste la **Saggaste**? Réuma neta,
 nmeumonata; valeroso terapeuta terra-mata: embutir terremoto y
 maremoto de un cadáver en el otro; pues siente nada con la prueba tu
 cliente. Que Musmé o Dios se traguen tu parné: si hay museta
@@ -300,7 +300,7 @@ Estornuda.
 jo... Ya; chimbemos por lo alto; si, sedeño, reparador, viénele el sueño;
 o el gran sueño parador... Mas si síntoma engorroso, peligroso, esta
 noche, o mañana, siglo há, siglo viene, sobreviene, Folloncico, no
-vaciles en llamar a este amico. Que me escuese la pelambre y es de
+vaciles en llamar a este **amico**. Que me escuese la pelambre y es de
 hambre que me la labra la pelagra. Tuyo siempre Renacuajo. ¡Y me
 rajo!...
 
@@ -343,7 +343,7 @@ papay!... Solo.
 
 ¿Cómo puedo estar si no me ha engendrado un hombre, sino el
 hombre; no tengo ego y lo que me tiene es naya; no soy del phutu; que
-vengo del phutu-phutu?... ¡Solo! Era colectiva la alcoba de la mamaja.
+vengo del phutu-phutu?... ¡Solo! Era colectiva la alcoba de la **mamaja**.
 Bien que lo veo. Colectivo el tálamo de la mi mamaja; pero nunca
 perdía fulgor, si mientras la mi mama hacíase adorar por alguno de los
 mis tatas, los otros recamaban la tierra y se quedaban frente a la
@@ -387,7 +387,7 @@ La grito:
 –¡No, no, a los Sapos Nenglos! ¡Chunkitoy: no te los comas a sus
 Sapos Nenglitos!
 
-Por el goce medio; medio por el miedo, el riuriu del viento me
+Por el goce medio; medio por el miedo, el **riuriu** del viento me
 aserrucha los ojos.
 
 –¡Chunkituy!
@@ -654,7 +654,7 @@ consuelo...
 Wiphando sus ¡ayayaes!, biscos de chispos, los chacareros de mi
 cobriza tierra son más que parvada de kunturis que por no saber
 moqear en misticho arrastran los ponchos como rendidas alas, y van
-tras ese espectro del Inka, en un ¡ayayay! de aurimelos...
+tras ese espectro del **Inka**, en un ¡ayayay! de aurimelos...
 
 –¡Ay, ayayay, papay, papay!...
 
@@ -1026,7 +1026,7 @@ Ollarea la cuadriga del viento. Mama Paksi ha desaparecido; la
 tierra no veo. Entramos al seno de oscuridad sin molécula. Pólipos
 ténsiles se desprenden de los ojos del llamo. Siento que en ellos se me
 afina la ubicuidad; por lo que allí donde radique el espacio estará en mí.
-El viaje es a la Alak Pacha. El Khawra que degollaron los Pablitos, el
+El viaje es a la **Alak Pacha**. El Khawra que degollaron los Pablitos, el
 auquénido cuyos ojos fulguran en los humazones de la Vía Láctea, me
 conduce a la tierra de arriba, donde los que mueren son condenados a
 vivir.
@@ -1109,7 +1109,7 @@ velocidad en sí con la necesidad en mí que de sí tiene la velocidad. Se
 detiene el Khawra y pisamos el Infierno. ¿Nube que mana maná?
 Tierra sólida: la tierra de nubes de Mama-Okllo... Pero; ya no sé de
 vuelta... Avanza el Khawra y le sigo. He aquí ante mi asombrado ojo la
-tierra que es caminito de las almas: Khana-taki.
+tierra que es caminito de las almas: **Khana-taki**.
 
 El Khawra se inflama y veo su largo pescuezo entre los abismos
 astrales y sus ojos laykhas que centellean.
@@ -1288,7 +1288,7 @@ que el color de las cosas es la necesidad de calor de las cosas. (Deja
 tasajo al filósofo Renacuajo: "¿El color sobrenada? Color calor; o
 nada".) Ciertamente, el color es el rubor frutal. Comienzo de beso el
 rubor, y ya carga olor a feto. ¿No es con la divina trompa que la novia
-besa? En mí se ruboriza el infinito; en mí le inka el corazón; en mí sus
+besa? En mí se ruboriza el infinito; en mí le **inka** el corazón; en mí sus
 rubores despiden azulina nubecilla de olores; en mí se dilata su latido
 peristáltico.
 
@@ -1297,7 +1297,7 @@ Renacuajo, tu verbajo.
 (–Ajo... jo... jo... "A la probeta, pintor genial; a ver nacer genital
 tu paleta".)
 
-Considerado con saggasé, qué barajo Renacuajo. Ella, tu paleta,
+Considerado con **saggasé**, qué barajo Renacuajo. Ella, tu paleta,
 tiene una matriz y debe padecer nueve meses. Pues, padécelos con ella;
 si ella tu hembra; el calor de tu hembra, tu hijo: tu color. Tienes que
 darle la sustancia de tu sangre, el substratum de tu hueso. Que si tu hijo
@@ -1398,7 +1398,7 @@ llema se hará yema").
 > la melífuga del trino; \
 > la unidad molecular de la roca; \
 > el genio de la nube; \
-> el tú-multo del viento; \
+> el tú-**multo** del viento; \
 > la genésica del agua; \
 > la gracia sonora del vuelo.
 
@@ -1528,7 +1528,7 @@ Oro puro, forma preformada, rectangular: gruesa la pata, el
 hocico cúbico, el ojo fuego-hielo, tierno el pecho, lumíneo el diente, la
 garra no gárrula... Su bramido sacude la inmensidad; rompe las
 vértebras de la negación... El tétrico y macabro ¡tok! ¡tok! ¡tok! suena en
-fuga... EL PEZ DE ORO es la flama y alcanza el lliulliuj del
+fuga... EL PEZ DE ORO es la flama y alcanza el **lliulliuj** del
 Relámpago. Son corrientes de fuego que constriñen el abotargado
 vientre flatulento. Ya se oyen estertores de volcán a quien estrangularan en la horca. Y el negro vientre ahogado por el pavor felino y el
 incendio del oro, vomita, devolviendo torrentes de Sapos Nengros.
@@ -2044,7 +2044,7 @@ una lágrima que se ha volcado el sentimiento de la vida.
 
 Cuando se rinde a la fatiga del trabajo y busca descanso en el
 lecho, aunque no llegue a vernos, ni le veamos sino en cuanto nos
-vemos en El, pues en rigor de sentir todo se ve; Mistusita le hace
+vemos en El, pues en rigor **de sentir todo se ve**; Mistusita le hace
 dormir plañendo sus eyrais terruñeros con el cascajoso castellano del
 indio, que es el único idioma que entiende el corazón. Por mí qué diré,
 si los viejos podemos trastabillar, rendidos, y esa edad permanecerá
@@ -2093,7 +2093,7 @@ del barbero.
 En los tus ledos, felinos, dedos finos, el zote azote; y a la mal
 olida Putifar la muerte del garrote; que si olida en recto Phuti; al
 respecto olida, Puti. Migo, y me obligo, amigo; digo... Por Far...
-(Mamma mía... Acorra la cotorra mi CIA-tica rue-Ma tica...) Que la
+(**Mamma mía**... Acorra la cotorra mi CIA-tica rue-Ma tica...) Que la
 Muerte y Putifar tienen la suerte del badajo, mi docto Renacuajo, si
 bajo el barajo caen de tu atajo: ampollas, o bambollas, o centollas. Y
 con esta experiencia ilumina la ciencia divina; que nó con dina, o indina
@@ -2178,4 +2178,3 @@ que estáis vivos!
 <br>
 
 Sólo el que llora es oro, y trino.
-

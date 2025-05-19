@@ -1193,4 +1193,3 @@ miserable cuatrero de la melodía jamás cantará en beso! Sólo canta el
 beso que ha llorado mucho, guaguay.
 
 Y el Antiguo se llevó en el sonko la montaña que besa.
-

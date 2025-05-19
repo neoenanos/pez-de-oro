@@ -1,7 +1,7 @@
 # PACHAMAMA
 
 > Creen que vine del cielo. \
-> _Colón_
+> **Colón**
 
 ¿Y si de allí nó, Cristóforo: de dónde? Qué genial el marino... Los
 Kanibas le habían dicho que vino del cielo, y era lo sensato, silogístico,
@@ -39,8 +39,7 @@ fermentaban y hacia ellos las naves eran impelidas con la ansiedad de
 quien ya tiene otra fe que su fe; que si no le bastaran wikingos,
 sumerios y fenicios, Marco Polo le dijera que por ese camino
 encontraría a Zipango, el maestro Paulo Toscanelli, que por ahí toparía
-al Gran Khan, y es fama que le hacia portador de los ¡Ave Cesare
-Imperator! de su Chullpa–tullu. Por lo que el bueno del genovés iba
+al Gran Khan, y es fama que le hacia portador de los **¡Ave Cesare Imperator!** de su Chullpa–tullu. Por lo que el bueno del genovés iba
 con el corazón empuñado, degustando por momentos aquel que sus
 plantas tocaran tierra y sus rodillas pudieran doblarse ante el mayor
 ventrífogo de los siglos: el Gran Khan, como él, cainita, aunque ya de
@@ -1114,4 +1113,3 @@ somos proyección sin límite...
 > que de mi sangre extraigo; \
 > si ella es la parte \
 > enamorada de tu naturaleza.
-
