@@ -1,4 +1,5 @@
-# EL PEZ DE ORO
+
+
 
 > Bajo nublas de cieno \
 > en el desconsuelo de la tarde, \
@@ -135,7 +136,7 @@ personalidad.
 Si es genésico el proceso de la vida la inmortalidad de los
 individuos celulares constituirá una condición erótica; y se ama y
 germina –lo que parece indiscutible– en tanto se está en sí mismo, en
-música redonda. Los experimentos de Voronoff lo demuestran; y de
+**música redonda**. Los experimentos de Voronoff lo demuestran; y de
 la manera que tiene la ciencia señalado, aunque explicado no, también
 los matrimonios cuya prole nace condenada a morir a poco de nacida.
 El esporo se niega a desarrollarse y acaba sustrayéndose. La célula
@@ -144,11 +145,11 @@ encontró amor o séase afinidad y simpatía. ¿Esto, y el caso de las
 glándulas de mono, qué sugieren? Sugieren que las células poseen
 personalidad, inteligencia, capacidad de elección, órganos gustativos; es
 de ellas que proviene lo que se llama carácter, instintos, modalidades.
-El botánico dirá que la flor procede con sabiduría, con-ciencia,
+El botánico dirá que la flor procede con sabiduría, **con-ciencia**,
 conocimiento del momento, de sus normas y ventajas, y que aún
 careciendo de células ópticas, y de corazón, ve, y es enamoradiza y
 propensa a teñir su pudicia con pudibundos escarlatas. De paso
-observemos en su irresistible sexappeal, si cuando odora es porque le
+observemos en su irresistible **sexappeal**, si cuando odora es porque le
 cosquillea el ovario y se sale de él en suspiros.
 
 Se ve que las células de la flor podrán morir, así desesperadas se
@@ -251,7 +252,7 @@ En Alemania hay pensador que se estime que no hubiese
 descubierto la "mónada" y señalado caminejos hacia la metafísica del
 Incognoscible, juzgándose límite de toda sabiduría. Células adiposas.
 
-Hay político en esta Sub-América que no lleve en el meollo
+Hay político en esta **Sub-América** que no lleve en el meollo
 montoneras, tremolina y garrote; y de la "historia" de sus democracias
 –lo saben todos en el mundo inmundo– asuntos son de la patología
 más absoluta. Célula.

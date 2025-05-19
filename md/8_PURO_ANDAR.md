@@ -4,7 +4,7 @@
 > Ipsum quod fuit. \
 > ¿Quid quod est fuit? \
 > Ipsum quod. \
-> _Eclesiastés_.
+> **Eclesiastés**.
 
 Primavera fue el hurón de mis chullpares; nó porque en ellos
 buscara regodeos, cuanto porque estaba seguro que unas tortuosas
@@ -557,7 +557,7 @@ ella quien ponga melodía y peso en tu beso...
 
     * * *
 
-–¡Factum fallens!... En todo dos se quieren y requieren; así lo
+–**¡Factum fallens!**... En todo dos se quieren y requieren; así lo
 sabe todo bruto. ¿Porque el hombre vaya en dos piernas será capaz de
 dos pasos? Nunca da sino uno. Mira lo que valen las matemáticas.
 Conque, ya ves que dos es uno. Cuatro también uno: la yunta no la
@@ -972,8 +972,7 @@ refriegan y amelcochan al són de la Marimba, vomita? ¿Ahí está Dios
 en Uno? ¿Y con todos los cuernos? ¿El baile es casto sólo porque es
 genésico?
 
-–¿Más sensato no fuera pensar, que pulvi eris et pulveris et
-converteris? ¿Y que un día nos levantaremos de la tumba para oir el
+–¿Más sensato no fuera pensar, que **pulvi eris et pulveris et converteris**? ¿Y que un día nos levantaremos de la tumba para oir el
 Juicio del Creador?
 
 ### HARAWI
@@ -1534,7 +1533,7 @@ buenos chicheros llamamos elocuencia!
 
 –¡Ay; prevaricato más, o prevaricato menos, nadies le mete los
 dedos a este taimado del Hiwa-Hila!... De aquí no salen con libertad
-provisional sino los wachalomos gordos, amigazo. Questar cuesta; y si
+provisional sino los wachalomos gordos, amigazo. **Questar** cuesta; y si
 valor no falta en su amigo, los valores no cuentan.
 
 –Por mí ya qué, pué, doctorcito. Mi pobre hijo, diga usté...
@@ -1563,8 +1562,7 @@ invalidado por el réuma, vive de la limosna de sus hijos.
 –Sí; pero la plata la obtienen de mis propiedades, doctorcito; que
 para socorro de ese infeliz le dejé.
 
-–¡Córcholis! En ese caso no está indicado sino... Privaricatus
-mea. Y por el gaznate; que es infalible.
+–¡Córcholis! En ese caso no está indicado sino... **Privaricatus mea**. Y por el gaznate; que es infalible.
 
 –¡Se lo tragan, doctor: usted no los conoce!
 
@@ -1655,7 +1653,7 @@ flamenco.
 –Y no puede ser de otra manera, señor Ministro.
 
 –Mientras allá estuvimos nos alimentaban esas mentirijillas. Más
-que bípedo implume, o simio sapiens erectus, el hombre debiera ser
+que bípedo implume, o **simio sapiens erectus**, el hombre debiera ser
 tenido como el animal que se engaña. A veces considero que vivir entre
 "ellos" es algo como no-ser, o ser a medias. Des que abandoné carnes y
 condecoraciones abandoné sus puntos de vista; hoy profeso el
@@ -1859,7 +1857,7 @@ percutían con sordos y lúgubres ecos.
 –¿No me ves? Acá, acá; infeliz...
 
 Y el viento que se destrozaba en los filudos picachos hacíales un
-Miserere de órgano.
+**Miserere** de órgano.
 
 Iban y venían; se atropellaban; pretendían aferrarse a las rocas;
 trepar; alcanzar los nichos, u hornacinas, desde quienes les llamaban los
@@ -1870,7 +1868,7 @@ desgarradas escalas, oí...
 
 –¡Ven! ¡Ven, infeliz: aquí estoy!... Nó a ti; al otro. Tú, tú... A ti...
 Te cercenaron la cabeza de un tajo y la aventaron al fondo de la
-barranca... Aquí estoy: ven... ¿Fue tu pecado el haber nacido? ¿Te
+barranca... Aquí estoy: ven... ¿Fue tu pecado el **haber nacido**? ¿Te
 seccionaron, falange a falange, para descubrir en cuál resquicio se
 alojaban tus crímenes; y al último te amputaron la cabeza, pues acaso lo
 que perseguían era amputar al hombre? ¡Qué veneno corrosivo el de
@@ -1920,12 +1918,12 @@ hizo vivir a los muertos en cueros, digo, en huesos.
 –El de Samosata, hijo. Fue ironista sutil y mortífero. Sus
 "Diálogos de los Muertos" son maravilla de causticidad y de gracia.
 Según es mi sentir, Luciano inspiró al Dante; aunque haya quienes
-sostengan que calcó (y calcó, dicen) su Commedia de un poema árabe;
+sostengan que calcó (y calcó, dicen) su **Commedia** de un poema árabe;
 y falta viperina lengua que la haga milagro del Signori Latine, su
 maestro. Porque si en fuente alguna obtuvo su magna inspiración fue
 en la Epístola de Juan a las Siete Iglesias de Asia. Por lo demás, el de
 bajar al Hades fue conocido ejercicio entre griegos, no menos que
-entre hindúes, kuikus y botocudos. Sin embargo, algo suigeneris
+entre hindúes, kuikus y botocudos. Sin embargo, algo **suigeneris**
 sostiene nuestro mestizo –y que os haga conocimiento que mestizo es,
 conviene–; a saber: que el Inka no sólo mandaba en la superficie de su
 imperio, si se arrogó facultad de legislar y mantener autoridades en los
@@ -2018,7 +2016,7 @@ originalidades cutáneas no cuentan para este objeto.
 
 –Que no debe ser poca la suya, maestro, lo veo, si, según
 planteáis, la muerte de su niño le ha traído a hacer de su necesidad la
-necesidad de la vida. Los muertos somos; mas por él estamos en sino
+necesidad de la vida. Los muertos somos; mas por él estamos **en** sino
 será ficción tal estado. Acordéme un dicho de Kant: "el que debe es
 porque puede". Perdió a su pequeñuelo; sin él no se pasa; y por
 satisfacer su necesidad, nos crea. Querer es ya poder. Diré como vos,
@@ -2027,8 +2025,7 @@ Fertilidad de psicópata.
 
 –No acuerdo. Sostengo que el sér es –y acá, en nosotros, se
 demuestra– más allá de la percepción, como lo revela la naturaleza de
-su necesidad, que no es una imagen, sí un hecho-fuerza. Nihil novum
-sub sole. No para alcanzar el conocimiento de la cosa, sino para
+su necesidad, que no es una imagen, sí un hecho-fuerza. **Nihil novum sub sole**. No para alcanzar el conocimiento de la cosa, sino para
 aprehender su realidad –cosa a la cosa ajena– debe conocerse en qué
 grado el hombre nada hace que no hubiese hecho antes. Y cuando
 Kant dice: "el que debe", tenemos que enjuiciar el valor de las voces
@@ -2187,7 +2184,7 @@ el Romance de María de Ágreda, para no mentar a Granada, Teresa,
 Quevedo, con el que hoy enfardelan los peninsulares? Esa lengua está
 en proceso de desintegración. Nuestro suelo produjo la papa; sigue
 produciendo al indio. Empece sus premáticas, la fabla hispana en el
-cósmos indio será la fabla del hisañu. ¿Es que no se lo ha visto hasta
+cósmos indio será la fabla del **hisañu**. ¿Es que no se lo ha visto hasta
 hoy? Cuáles no ya las formas inesperadas que adquiere en América la
 vocalización del hispano. Pues, sabed que es en la fonética que los
 idiomas pierden su naturaleza o la refirman; que luego siguen las
@@ -2583,7 +2580,7 @@ pena.
 
 –¡Debías meterte en él!
 
-Del tórax espectral salió pizzicato chakchando kuka.
+Del tórax espectral salió **pizzicato** chakchando kuka.
 
 –Ji, ji, ji, ji... ¡Me alegro, jajai; me alegro, hija, me alegro! Nosotras
 somos las culpables. Ahí está pues: soñando con ellos las tontonas,
@@ -2957,7 +2954,7 @@ Fue tal mi grito de ansiedad, que se detuvo, mientras inmaterial
 sonrisa iluminaba su faz; pues ¿qué músculo en el marfil granítico
 podía contraerse?
 
-–Estos esqueletitos son los Sullus.
+–Estos esqueletitos son los **Sullus**.
 
 Volvíme para mirarles con el pavor en los ojos.
 
@@ -3011,9 +3008,9 @@ el ser requiere de estancia, y que ella es otra que el hombre; en qué
 medida el problema del Sullu constituye el angular deber de la vida.
 
 Bien; miremos a la patria de nuestros mil millones de Sullus que
-se saben proscritos del Suyu patrio; y considera que el Suyu del Sullu
+se saben proscritos del **Suyu** patrio; y considera que el Suyu del Sullu
 está embargado por una minoría desarticulada de su naturaleza. No
-dirás que el Tawantinsuyu ha muerto; pero dirás que no le permiten
+dirás que el **Tawantinsuyu** ha muerto; pero dirás que no le permiten
 vivir. ¿Faltará el Inka en tu sangre? tan nó, que habla. De acá obtén un
 corolario: el Tawantisuyo vive si el Sullu cuya hechura es no sabe
 morir. Cuando echaron por tierra nuestros Saksaiwamanes pensaron
@@ -3155,7 +3152,7 @@ insurrecta... Des acá siéntese bullir la aldea de los mistichos en la fiesta
 de la Mamita Wirgina; sus mugrientos lenocinios; sus alegres allkhamaris, príncipes de la Khenaya; sus paraísos de boscaje dulce; sus
 muelles chihis y explanadas de dorados misikus.
 
-Des acá siéntese a la guagua, cara al Sol, deslumbrante, asomar
+Des acá siéntese a la **guagua**, cara al Sol, deslumbrante, asomar
 en thusa de totora que engastan esmeraldas y rubíes, y engastan
 ámbares que pipían y oleajes temblorosos. Des acá siéntesele uncir a
 voluntad enfermedades, hambre, capaz de cruz y fuego, de huracán y
@@ -3240,7 +3237,7 @@ hombre... Qué amarga respuesta, la suya, para América.
 
     * * *
 
-–¡Ruack!...
+–**¡Ruack!**...
 
 –¡Guaguay!
 
@@ -3295,7 +3292,7 @@ y florece...
 
 –Me duele tu corazón... Ah, trampa maldita, que no eres
 charango en el indio; nó viola en el Diablo. El corazón es lo que mata.
-¡Adiós, padre! ¡Tatay: aeternum vale! ¿Dónde el atlético salvaje? ¿El
+¡Adiós, padre! ¡Tatay: **aeternum vale**! ¿Dónde el atlético salvaje? ¿El
 tras la nevera ido, dónde se fue? En tus cruces mueres y de tus cruces
 me levanto. ¡Hijo mío que no tuve: yo te habría engendrado sin
 Diablos! Este que veis agonizar, el que mató horizontes; mas los
@@ -3503,7 +3500,7 @@ Mi madre.
 Con Él en brazos, y de rodillas, arrastréme a su encuentro; y me
 tumbé a sus plantas, humedecí sus huellas y las besé. Besé sus huesos, y
 los lloré. Pero cuando su dulce mimo en las vacías cuencas sollozaba, y
-marfilinas falanges restañaban las mías, vi que mi yoka besaba mis
+marfilinas falanges restañaban las mías, vi que mi **yoka** besaba mis
 descarnados pies, y que su hueso, pegado al mío, los bañaba con
 arpegios.
 
@@ -3531,8 +3528,7 @@ He aquí que los testarazos del ciclón habían trozado al más noble
 y añoso roble de mi kharkha. ¡Mi padre! Besé sus pies y los lloré. ¿En
 qué punto se ha seccionado el hilo de la vida?
 
-Ellos, no poco locos, si por locos se están en el fuego que arde
-sin comienzo, con sus quimeras, y de sus quimeras, me hicieron
+Ellos, no poco locos, si por locos se están en el **fuego que arde sin comienzo**, con sus quimeras, y de sus quimeras, me hicieron
 confidencia. Y de los más, aquellos menos cuerdos, se holgaron de
 saber que les tenía cerca; y que por qué fue que no habían podido
 saberlo. Mas cuando porfié porque lo mejor era nos volviésemos a
@@ -3574,4 +3570,3 @@ La aurora de sus trinos ha vestido el camino.
 Saj, saj, saj, saj...
 
 <br>
-

@@ -2,7 +2,7 @@
 
 > Cuanto vimos y cogimos lo soltamos; \
 > y traemos cuanto ni vimos ni cogimos. \
-> _Heráclito_
+> **Heráclito**
 
 Mi Wayñusiña era un ababol de parlanchinas corolas abiertas al
 liliputiense cielo que la diera por patria, para que en tanto kurukuteaban sus rubores no recordara a la Amapolita que no lejos de la
@@ -552,8 +552,8 @@ Quedábanme vestigios de conciencia cuando me fue dado oir a
 los médicos, abonando mi razón, declarar que en momento alguno
 convinieron en el diagnóstico; que ni alteraciones observaron en la
 temperatura; menos se habían caracterizado perturbaciones nerviosas
-(mis clásicos soliloquios eran sólo dramática per nativitate), inhibición
-de la voluntad se hizo manifiesta, menos schizos que acusaran
+(mis clásicos soliloquios eran sólo dramática **per nativitate**), inhibición
+de la voluntad se hizo manifiesta, menos **schizos** que acusaran
 indiosincrasia psicósica.
 
 Terminó uno de ellos:
@@ -567,7 +567,7 @@ vas: será por que ése tu deseo...
 Fueron los últimos chispazos de la conciencia; y, luego, me
 hundí...
 
-Atraídos por la cadaverina, con el non sancto afán de capujar
+Atraídos por la cadaverina, con el **non sancto** afán de capujar
 almas al Diablo, me volitaron el resuello no pocos buhoneros; amigos
 candorosos, obligaron a santo frailecico Francisco, que bien conocía
 los grados de mi acracia, a alisarme para el gran viaje y la fenomenal
@@ -2529,4 +2529,3 @@ trinidad! ¡Vuelo, al hijo, al hijo!
     * * *
 
 "¿Qué? ¿Te hirieron; lloras, Plato?..."
-

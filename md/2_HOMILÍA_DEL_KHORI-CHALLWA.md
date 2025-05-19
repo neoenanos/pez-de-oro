@@ -68,10 +68,7 @@ una interdicción punto menos que fatal.
 
 Dice en las "Advertencias" de sus "Comentarios Reales":
 
-"Para que se entienda mejor lo que, con el favor divino,
-huviéremos de escrivir en esta historia, porque en ella hemos de
-dezir muchos nombres de la lengua general del Perú, será bien
-dar algunas advertencias de ella".
+**"Para que se entienda mejor lo que, con el favor divino, huviéremos de escrivir en esta historia, porque en ella hemos de dezir muchos nombres de la lengua general del Perú, será bien dar algunas advertencias de ella".**
 
 Advertencias que sólo nos advierten del inadvertimiento del
 gallardo escritor cuzqueño; pues la manera señoril de advertir a España
@@ -80,11 +77,7 @@ melodiosa y fina, según él como pocos la encarece.
 
 Y agrega:
 
-"Para atajar la corrupción [la de trocar unas por otras letras,
-vicio en que los españoles incurrían a paso cuando escribían la
-Runa-Simi], me sea lícito, pues soy indio que en esta historia yo
-escriba como indio con las mismas letras que tales dicciones se
-deben escrebir".
+**"Para atajar la corrupción [la de trocar unas por otras letras, vicio en que los españoles incurrían a paso cuando escribían la Runa-Simi], me sea lícito, pues soy indio que en esta historia yo escriba como indio con las mismas letras que tales dicciones se deben escrebir".**
 
 Lo penoso es que estos "atajamientos" muestran lo atajado que
 Garcilazo llevaba al indio que mal plañe en su rico romance su pobreza
@@ -92,8 +85,7 @@ y encogimiento.
 
 Y ésto aún:
 
-"...que cierto es lástima que se pierda o corrompa [el
-kheswa], siendo una lengua tan galana".
+**"...que cierto es lástima que se pierda o corrompa [el kheswa], siendo una lengua tan galana".**
 
 ¿Y quiénes, si no él, si no Valera, si no el indio Choquehuanca,
 que a poco de someterse a la férula de los amos escribieron con brillo,
@@ -200,11 +192,7 @@ mismo fraile conversor. En 1536, un hijo de Agustín de Hipona,
 trabaja ya, y piensa, que es lo más insólito, en un cerebro entreverado:
 no hay otra forma de caracterizarle.
 
-"Inmaculada Virgen y Madre de Dios, y de los creyentes; y,
-como a real y verdadera Wiñay Cusiatha y Kota-khanaway y
-Titikaka de los Arusayas del Inti-llampu en su Apupu-Wakawy
-del Tawantinsuyu. A la cual, divina Reyna del tiempo y de la
-eternidad, sea el sin fin: ¡Ilillu! ¡Llally! ¡Iyau!".
+**"Inmaculada Virgen y Madre de Dios, y de los creyentes; y, como a real y verdadera Wiñay Cusiatha y Kota-khanaway y Titikaka de los Arusayas del Inti-llampu en su Apupu-Wakawy del Tawantinsuyu. A la cual, divina Reyna del tiempo y de la eternidad, sea el sin fin: ¡Ilillu! ¡Llally! ¡Iyau!".**
 
 De la multitud de tales mestizos arrumacos, típicamente
 colonistas, pues, aunque espiritualmente colónidas no comentemos ya,
@@ -220,7 +208,7 @@ orejona. Y esto, y gramáticas, y lexicones, y cartillas, revelan el orden
 
 severo con que cumplían su deber. Que el P. Rivadeneira, o el P.
 Lainez, como Generales de los soldados de Iñigo, impusieran el
-conocimiento del idioma indígena, sine qua non para la tonsura del
+conocimiento del idioma indígena, **sine qua non** para la tonsura del
 misionero, ya revela en qué grado los frailes concedían importancia al
 idioma como medio único de llegar a la mentalidad del catecúmeno y
 cuánta elasticidad para adoctrinarlo empleaban, si allí donde habían de
@@ -297,12 +285,7 @@ del idioma de los Conquistadores.
 
 A ojo ciego se lee en la "Nueua Coronica":
 
-"... y esta gente no sabía hazer rropa bestianse hojas de
-arboles y estera texido de paxa no sauia hazer casas, ueuian en
-cuevas y penascos, y todo su trauajo era adorar a dios – como el
-profeta abacuchy y dezias aci agrandes bozes: Sor, hasta cuando
-clamare y noyras y dare bozes y no responderas; capac Sor
-huaynacaman caparisec mana huainihuanquicho".
+**"... y esta gente no sabía hazer rropa bestianse hojas de arboles y estera texido de paxa no sauia hazer casas, ueuian en cuevas y penascos, y todo su trauajo era adorar a dios – como el profeta abacuchy y dezias aci agrandes bozes: Sor, hasta cuando clamare y noyras y dare bozes y no responderas; capac Sor huaynacaman caparisec mana huainihuanquicho".**
 
 La "Nueua Coronica" sí es un alegato de "raza"; en ella hay la
 reacción vertebral de un pueblo que si bien se resigna a aceptar dioses
@@ -345,7 +328,7 @@ intentado, y con jerarquía menos–, en él se constata la concurrencia
 colonial de las dos lenguas en que se enfrentan España y el Inkario; y
 que para devenir expresión nacional debe decidirse en unidad. En otras
 palabras: si América es una realidad genéticamente mestiza, la literatura
-americana debe ser idiomáticamente híbrida.
+americana debe ser idiomáticamente **híbrida**.
 
 El español de Huaman se parece mucho al que empleábamos los
 "vanguardistas" del Titikaka, por atrás de 1924, malo por su naturaleza
@@ -359,12 +342,12 @@ darle las características que le diferencian del latín. Los idiomas
 indígenas carecen de artículos y preposiciones, y el indio al hablar el
 español de ellos le priva. A la larga le impondría, como en el uso diario
 hace, literariamente, sus desinencias y declinaciones, hibridando las
-voces: asinita, elake, aquisito, maratito, aurita. Y allí sedimentará la
+voces: **asinita, elake, aquisito, maratito, aurita.** Y allí sedimentará la
 posibilidad de un nuevo idioma, consecuentemente, de una Literatura
 Americana.
 
 ¿Cuántos vocablos indígenas de América obtuvieron carta de
-ciudadanía, nó en el Sancto Sanctorum de la Academia, sí en el
+ciudadanía, nó en el **Sancto Sanctorum** de la Academia, sí en el
 torrente del habla popular de España? Después de trazada buena parte
 de estos renglones, un erudito hispano de aquellos que migan la idea de
 una España tan americana como de una América tan española, coma
@@ -440,7 +423,7 @@ más útil es en pongo, y se comprenderá quién lo dice. Es indio lo
 mejor del pensamiento de Tamayo (como yo le sé); aunque sus
 vituallas mentales sean humanísticas y grecolatinas, no lo más
 valorizable en él, puesto que de valores de esa índole está abarrotado el
-templum mestizo. Vale lo que en él se explica como presencia de un
+**templum** mestizo. Vale lo que en él se explica como presencia de un
 sentimiento telúrico, por tanto, indio; que no es mucho en cantidad.
 
 Se explica el yaraviísmo mestizo como predominio de la
@@ -581,7 +564,7 @@ su carne para cargar el arco...
 Lo más que podrá dar la quejumbre será obras de un
 romanticismo semita, como la "María" de Jorge Isaacs, el poema
 erótico sustantivamente judío trasladado al ámbito español de América;
-o la estrambótica castidad castiza de "Don Ramiro", flor de saudade
+o la estrambótica castidad castiza de "Don Ramiro", flor de **saudade**
 (el yaraviísmo es eso: nostalgia) del criollo que añora de España como
 la mujer sin óvulos añora la maternidad, o se acongoja con ternura de
 mitimae... La voz del indio en la Literatura Americana tiene que poseer
@@ -644,11 +627,11 @@ testículos de Leviathán que es el Alcalde Crespo, de la inmortal
 Zalamea. Esos entenderán en qué grado los americanos no podemos
 ser sino indios, o kuikos.
 
-En la Runa-Sini, según el P. Mossi, el vocablo "aborigen" se
-traduce por la voz kuiko, con la que no há muchos años se ofendía a
+En la Runa-Sini, según el P. Mossi, el vocablo **"aborigen"** se
+traduce por la voz **kuiko**, con la que no há muchos años se ofendía a
 los criollos bolivianos. Pues de aquí adelante los americanos
 llamémonos, y sintámonos, ¡kuikos!; que esto tendrá dos virtudes no
-despreciables. En primer lugar, acabaremos con la boutade de los
+despreciables. En primer lugar, acabaremos con la **boutade** de los
 tratadistas hispánicos hábiles en hispanoamericanofilia, de que
 remoquetearnos "indios" fue darnos naturaleza; luego, y es lo
 primordial, que así sabremos que las moles eternas de Tiwanaku,
@@ -869,7 +852,7 @@ No obstante las animosas diligencias de Ameghino y de otros
 paleontólogos se llega a la conclusión de que Él no se ha dado en suelo
 
 americano. Nosotros, también, somos hijos de la "grosura" de la mar:
-Wirakhochas. Él no es otro que el Pithecantropus erectus, cuyo paso
+Wirakhochas. Él no es otro que el **Pithecantropus erectus,** cuyo paso
 por parte alguna de América está señalado, menos el de su abuelo el
 mono catirrino, si es que –es un sentir– no se oculta en los bosques
 amazónicos. En cambio hánse reconocido restos de un dolicocéfalo
@@ -968,7 +951,7 @@ fascinerosos". ¿Podrá descubrirse en su historia el bersogniano élan
 vital? El suyo es el último estrato de cultura cuyas raices desaparecen.
 Si de acuerdo con los más autorizados cronistas hispanos, su duración
 apenas supera los cuatrocientos años (señálase en Thunupa la presencia
-de apóstol de Jesús tras el Espolio), debe estimarse si en ese lapso
+de apóstol de Jesús tras el **Espolio**), debe estimarse si en ese lapso
 pudo fecundar cultura de tan profunda eficacia, de tan sabia sencillez,
 proviniendo del ayllu punalúa, o algo así. Sus realizaciones materiales
 no tienen semejanza; y se las mire en la ingeniatura de regadío, en los
@@ -1058,7 +1041,7 @@ los Inkas son sucedáneos de la cultura atlanta, y que en algún punto
 pudieron hallar parentesco o relación con la cultura del Summer.
 
 Verdad se muestra como sano corolario de estas inducciones: si
-el Inkario no importa lo que Vico llama ricorsi de cultura ancestral,
+el Inkario no importa lo que Vico llama **ricorsi** de cultura ancestral,
 constituye problema histórico insoluble.
 
 Tal interna corrivación de linfas induce a admitir que el mito
@@ -1079,8 +1062,8 @@ Atlántida sea una realidad estatigráficamente comprobable, como
 parecen haberlo establecido exploraciones submarinas realizadas por
 hombres de ciencia europeos y norteamericanos, si bien se aduce el
 reparo de que para dar validez a sus conclusiones, sea previo aceptar
-que la posición del eje de la tierra debió ser otra (E ppur si muove):
-esa cultura es la cultura atlanta. Y el atlanta el homo sapiens
+que la posición del eje de la tierra debió ser otra **(E ppur si muove)**:
+esa cultura es la cultura atlanta. Y el atlanta el **homo sapiens**
 americano. Todo lo cual ha sido registrado sobre firmas de sabios.
 
 Sobrevino el hundimiento y con él la dispersión. Y he aquí la
@@ -1149,7 +1132,7 @@ o hispanoamericanismo.
 Simón Bolívar es tan español como Gonzalo Pizarro; sus
 grandezas, las de un Cid Campeador; de él, por tan elemental causa,
 están ausentes los sentidos ontológicos de nuestro mundo, como
-deben estar del sublime Las Casas, a quien genealogistas hispanofágicos falta que americanicen pundens causa. Bolívar viene de
+deben estar del sublime Las Casas, a quien genealogistas hispanofágicos falta que americanicen **pundens causa**. Bolívar viene de
 Plutarco (y en eso acaso sea el prime español humanista, más que
 Vives); Las Casas de los Cánones de Letrán: ninguno huele al Khawra
 heráldico.
@@ -1163,7 +1146,7 @@ americano, son vestigio de reconocimiento de sus texturas. La
 Revolución de los Libertadores consagra el derecho de los
 encomenderos, y en el hecho, aunque no en la letra (coordenada
 típicamente criolla), pone punto final al del íncola. Sobre los tizones
-apagados del Sans culotte se alzaría el imperio del cacique. Si los
+apagados del **Sans culotte** se alzaría el imperio del cacique. Si los
 colonizadores tenían –también en la letra– a quien rendir cuenta de sus
 tropelías y exacciones: EL REY; ya no tendrían los caciques sino al
 Cura eufeudado a sus sinecuras. Tal la libertad del indio, o sea del
@@ -1199,7 +1182,7 @@ están obligados a representar la surgencia de un americanismo clásico,
 deviniendo nacionalidades inkaikas; que sólo así retendrán el legado del
 espíritu patricio, de otra manera condenado a desaparecer.
 
-El mito griego es el alma mater del mundo occidental; el mito
+El mito griego es el **alma mater** del mundo occidental; el mito
 inkásiko debe serlo de una América del Sur con "ego". Ciertamente, en
 la del Norte, frente al monstruoso poderío neobritánico, no es hispana
 la guardia de la frontera: es azteca. Deber de quienes detentan la
@@ -1293,7 +1276,7 @@ del Alba o sepulturero del Sol.
 desprendido en ese momento de los brazos de su barragana y estaba
 más ébrio que el padre Noé, cuando se enfardeló en los ornamentos
 sacros, y sin respeto a Dios ni miedo al Diablo, celebró la misa del
-_Corpus Christi_. Pobre chapate... Su nombre me piruetea en los
+**Corpus Christi**. Pobre chapate... Su nombre me piruetea en los
 bracitos de acero de la mecanográfica; si era tierno y mimoso como
 hombre. Me pregunto ahora: ¿Y este cura español habría podido hacer
 lo mismo en España? No, ciertamente; sí. De otra manera formaría en
@@ -1630,7 +1613,7 @@ se comprenderá en qué medida los dolores que determinan el
 azucarado gimoteo de la parturienta, son eso: azúcar, al lado del
 misterioso vinagre que trasiega en tanto aquél. Y cuando el que llega
 asoma la cabecita por la aereola, se desliza cárdeno, ceroso, y rompe
-con el Gloria inexcelsis geminis de la sinfonía, y no se le ve en los
+con el **Gloria inexcelsis geminis** de la sinfonía, y no se le ve en los
 ojos estolidez, pavor, la tortura de la ternura, y cuanto haya, dése por
 averiguado que la de la maternidad es una filfa más de las tonterías
 humanas. Mas no es así: en tal momento el pobre hombre es un dios
@@ -1872,4 +1855,3 @@ tempestades de tu trino.
 > y como trino \
 > con que arde su caverna, \
 > ni comienza ni acaba.
-

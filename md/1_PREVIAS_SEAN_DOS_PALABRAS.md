@@ -42,7 +42,7 @@ relato; y es necesario señalarlas, no confundirlas, sobre todo, como
 solecismos, para establecer su acaso única originalidad. Mas, digamos,
 más, no.
 
-G. Ch.
+**G. Ch.**
 
 1927 - 1957
 
@@ -65,4 +65,3 @@ G. Ch.
 > Esqueletos en el Infierno \
 > Bacterias, Sueños, Versos. \
 > Etc., etc.
-
