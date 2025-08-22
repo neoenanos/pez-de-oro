@@ -38,7 +38,6 @@ let pez = Deno.readTextFileSync(
   "/home/martincito/Documentos/epub/pez/md/CHURATA, Gamaliel - El pez de oro (Canata, 2014).md",
 );
 const pezNoAccents = accentFold(pez);
-const pezNoBold = pezNoAccents.replaceAll("**", "");
 
 let i = 1;
 
@@ -49,9 +48,11 @@ const valid = []
 const endNotes = []
 
 for (const [textTooMatch, footnote] of notasArr) {
+
   const cleanSubStr = accentFold(textTooMatch);
   const exist = pezNoAccents.includes(cleanSubStr);
 
+  
   if (!exist) {
     noMatch.push([i, textTooMatch]);
   }
@@ -64,16 +65,20 @@ for (const [textTooMatch, footnote] of notasArr) {
 
   if(exist && !(matches.length > 2) ){
     const placement = pezNoAccents.indexOf(cleanSubStr);
-    valid.push([i, placement, textTooMatch.length])
-    endNotes.push(footnote)
+    valid.push([i, placement, cleanSubStr.length])
   }
+
+  endNotes.push(footnote)
   i++;
 }
 
 
+const r = valid.sort(( a,b ) => b[1] - a[1])
 
-for(const [note, index, lenght] of valid.reverse()){
-  pez = pez.splice(index+lenght, 0 , `[^${note}]` )
+for(const [note, index, length] of r){
+  const addition = `[^${note}]`
+
+  pez = pez.slice(0, index + length ) + addition + pez.slice(index + length);
 }
 
 pez = pez + '\n\n' + endNotes.join('\n\n')
@@ -84,18 +89,16 @@ pez = pez + '\n\n' + endNotes.join('\n\n')
 
 function accentFold(inStr: string) {
   return inStr.replace(
-    /([àáâãäå])|([çčć])|([èéêë])|([ìíîï])|([ñ])|([òóôõöø])|([ß])|([ùúûü])|([ÿ])|([æ])/g,
-    function (str, a, c, e, i, n, o, s, u, y, ae) {
+    /([àáâãäå])|([çčć])|([èéêë])|([ìíîï])|([ñ])|([òóôõöø])|([ùúûü])|([ÿ])|/g,
+    function (str, a, c, e, i, n, o, u, y,) {
       if (a) return "a";
       if (c) return "c";
       if (e) return "e";
       if (i) return "i";
       if (n) return "n";
       if (o) return "o";
-      if (s) return "s";
       if (u) return "u";
       if (y) return "y";
-      if (ae) return "ae";
       return str;
     },
   );
