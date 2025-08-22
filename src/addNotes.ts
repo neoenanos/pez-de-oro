@@ -54,22 +54,19 @@ for (const [textTooMatch, footnote] of notasArr) {
 
   if (!exist) {
     noMatch.push([i, textTooMatch]);
-    i++;
-    continue;
   }
 
   const matches = pezNoAccents.split(cleanSubStr);
 
   if (matches.length > 2) {
     collisioned.push([i, textTooMatch, matches.length]);
-    i++;
-    continue;
   }
 
-  const placement = pezNoAccents.indexOf(cleanSubStr);
-
-  valid.push([i, placement, textTooMatch.length])
-  endNotes.push(footnote)
+  if(exist && !(matches.length > 2) ){
+    const placement = pezNoAccents.indexOf(cleanSubStr);
+    valid.push([i, placement, textTooMatch.length])
+    endNotes.push(footnote)
+  }
   i++;
 }
 
@@ -82,7 +79,7 @@ for(const [note, index, lenght] of valid.reverse()){
 pez = pez + '\n\n' + endNotes.join('\n\n')
 
 // Deno.writeTextFileSync("./malas.json", JSON.stringify(noMatch));
-// Deno.writeTextFileSync("./pez.md", pez);
+// Deno.writeTextFileSync("./noteado.md", pez);
 // Deno.writeTextFileSync("./collisiones.json", JSON.stringify(collisioned));
 
 function accentFold(inStr: string) {
