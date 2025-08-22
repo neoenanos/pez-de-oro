@@ -81,14 +81,8 @@ for(const [note, index, lenght] of valid.reverse()){
 
 pez = pez + '\n\n' + endNotes.join('\n\n')
 
-
-
-// console.log('notas que se jodieron solo por bold (**x**): ' + (noMatch.length - boldFucked.length) )
-// console.log('total notas jodidas: ' + noMatch.length )
-
-
 // Deno.writeTextFileSync("./malas.json", JSON.stringify(noMatch));
-Deno.writeTextFileSync("./pez.md", pez);
+// Deno.writeTextFileSync("./pez.md", pez);
 // Deno.writeTextFileSync("./collisiones.json", JSON.stringify(collisioned));
 
 function accentFold(inStr: string) {
