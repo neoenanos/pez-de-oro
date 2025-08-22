@@ -53,11 +53,11 @@
 > con que arde su caverna \
 > ni comienza ni acaba.
 
- Por lo que en estos cuentos, si no fábulas, o mágicas del Laykhakuy, de ti diga y de tu lago, lo que de ambos haya escrito hasta acá, o escriba en días venideros, ¿a quién pediré perdón, Khori-Challwa, sino a ti, si soy lerdo, y cojo, y manco, y como nadie conozco que arremeto en kharkhas para horadar en quienes me falta cincel aunque pulsos no me falten? Pero un manco como pocos picapedrero: don Miguel de Cervantes y Saavedra, lego de aulas y de órdenes, me enseñó que cojo, manco y lego, cuando el corazón se inflama en Inka, hasta los sandios para entender se tornan sabios y esculpen lo que se atreven al granito con las yemas; que allí los mancos no manquean y los cojos vuelan... Cómo están de su eufonía ufanas las khellkas de ese varón no manco. Y cómo es de generosa su manquera, si los kuikos americanos escribimos al modo siniestro a merced de la mano que allá los suyos le cortaron.
+ Por lo que en estos cuentos, si no fábulas, o mágicas del Laykhakuy, de ti diga y de tu lago, lo que de ambos haya escrito hasta acá, o escriba en días venideros, ¿a quién pediré perdón, Khori-Challwa, sino a ti, si soy lerdo, y cojo, y manco, y como nadie conozco que arremeto en kharkhas para horadar en quienes me falta cincel aunque pulsos no me falten? Pero un manco como pocos picapedrero: don Miguel de Cervantes y Saavedra, lego de aulas y de órdenes, me enseñó que cojo, manco y lego, cuando el corazón se inflama en Inka, hasta los sandios para entender se tornan sabios y esculpen lo que se atreven al granito con las yemas[^8]; que allí los mancos no manquean y los cojos vuelan... Cómo están de su eufonía ufanas las khellkas de ese varón no manco. Y cómo es de generosa su manquera, si los kuikos americanos escribimos al modo siniestro a merced de la mano que allá los suyos le cortaron.
 
  En las letras, en la palabra, que se compone de letras, en el lenguaje que se edifica con palabras, si escritas, se contiene el órgano de expresión de una literatura; por lo que el punto de partida de toda literatura (y de todo hombre) está en el idioma que la sustancia. Los americanos no tenemos literatura, filosofía, derecho de gentes, derecho público, que no sean los contenidos en los idiomas vernáculos, ninguna literatura escrita y sólo leyendas en literatura vocal, ciencia hablada, que se guardaron mediante wayrurus, chispas de oro, khachinas de ónix, encantadora simbología y nemotecnia que empleaban los harawikus para representar sus epopeyas en los grandes días cívicos del Inkario y conservar así las creaciones específicamente literarias, –bobez aparte– en que no fue raquítico el ingenio de sus poetas y filósofos. El caso es que nos empeñamos en tenerla valiéndonos de una lengua no kuika: la hispana. Y en ella borroneamos "como indios", aunque no en indio, que es cosa distinta. Y aun, así esto será posible sólo si resultamos capaces de hacer del español –solución provisional y aleatoria– lo que el español hizo de nosotros: mestizos –para España también aleatoria y provisional solución–. Pero un mestizo puede germinar en nueve meses y salirse toreando. Un idioma no. Los idiomas vienen de un tiempo de trino: el de lactancia del Pithencantropo; se mezclaron después, contendieron con voces a ellos ajenas, asimilaron unas, chakcháronlas, escupieron otras, en fin, las amañaron a la índole de su gorjeo y a la idiosincrasia de sus medios lonríngeos en no pocos siglos.
 
- Cuando el Inka Garcilazo, mestizo que fue de Palla y de un segundón de los Duques de Feria e Infantado, escribió sus inmortales epopeyas, él que pudo y debió hacerlo en kheswa, empleó, ¡y con qué gracia teresiana!, el idioma de su padre, ya condenó el de su madre a una interdicción punto menos que fatal.
+ Cuando el Inka Garcilazo[^9], mestizo que fue de Palla y de un segundón de los Duques de Feria e Infantado, escribió sus inmortales epopeyas, él que pudo y debió hacerlo en kheswa, empleó, ¡y con qué gracia teresiana!, el idioma de su padre, ya condenó el de su madre a una interdicción punto menos que fatal.
 
  Dice en las "Advertencias" de sus "Comentarios Reales":
 
@@ -75,7 +75,7 @@
 
 **"...que cierto es lástima que se pierda o corrompa [el kheswa], siendo una lengua tan galana".**
 
-¿Y quiénes, si no él, si no Valera[^10], si no el indio Choquehuanca, que a poco de someterse a la férula de los amos escribieron con brillo, con gracia, con sentido arquitectural, el hispano, los llamados a evitar el naufragio? Galana es el habla maternal de Garcilazo, y más que galana, pródiga en contenidos expresionales, de idiostenia[^12] tan filosófica, pictórica o musical, como lo autorizan quienes tuvieron, o tienen, el privilegio de su posesión, si los mismos que apenas la sentimos en el gusto a saliva onírica, comprobamos cómo es ella lo que se nos amputó del alma sabiendo que así se nos privaría de una maternidad idiomática.
+¿Y quiénes, si no él, si no Valera[^10], si no el indio Choquehuanca[^11], que a poco de someterse a la férula de los amos escribieron con brillo, con gracia, con sentido arquitectural, el hispano, los llamados a evitar el naufragio? Galana es el habla maternal de Garcilazo, y más que galana, pródiga en contenidos expresionales, de idiostenia[^12] tan filosófica, pictórica o musical, como lo autorizan quienes tuvieron, o tienen, el privilegio de su posesión, si los mismos que apenas la sentimos en el gusto a saliva onírica, comprobamos cómo es ella lo que se nos amputó del alma sabiendo que así se nos privaría de una maternidad idiomática.
 
  Cuánto no será si el sabio Domingo Mossi[^13] afirma en su monumental "Diccionario Sintético" haber hecho viaje de Roma a los Charcas exclusivamente por el gusto de predicarla, si la tiene por una de las lenguas más expresivas y ricas, tan dócil a la ternura, como generosa y mayestática para las concepciones superiores. Así mismo estima que se conserva con mayor caudalidad y pureza en los Charcas del Alto Perú que en el mismo solio del Inkario; lo que tenemos que admitirle, si Mossi además de autor de una Gramática Kheswa dedicó al estudio de este idioma su vida y sabiduría que no fueron cortas. De paso anotemos tales estupendas revelaciones que el historicismo no ha olisqueado, si nada confirman como no sea el contenido sustancioso de la política del Inka, el cual, cuando colonizaba, si absorvía un pueblo era para hacerse absorber por él en el grado ése en que el colono acaba en representativo categorial de su espíritu. Nada hay semejante a lo largo de la historia humana...
 
@@ -506,15 +506,13 @@
 
  Obsérvese el rostro del hombre que asiste al primer alumbramiento de su mujer, esto es, al nacimiento de su primer hijo; y se comprenderá en qué medida los dolores que determinan el azucarado gimoteo de la parturienta, son eso: azúcar, al lado del misterioso vinagre que trasiega en tanto aquél. Y cuando el que llega asoma la cabecita por la aereola, se desliza cárdeno, ceroso, y rompe con el **Gloria inexcelsis geminis[^125]** de la sinfonía, y no se le ve en los ojos estolidez, pavor, la tortura de la ternura, y cuanto haya, dése por averiguado que la de la maternidad es una filfa más de las tonterías humanas. Mas no es así: en tal momento el pobre hombre es un dios que se espanta de Dios...
 
- Es que lo más espantable de todo esto es saber que la hermosura sólo puede venir en gametos, y que es el hombre el inductor del drama, el fálico sacerdote de la germinación. ¿Cómo, fuera de ésta, podrá entenderse prelatura en el orden estético? El único mandamiento de la belleza viva: ¡engendrar! ¿Entiendes, Plato? Para el americano de
-
- América: ¡engendrar!, ¡engendrar! Engendrar hasta la profundidad del Tawantinsuyu.
+ Es que lo más espantable de todo esto es saber que la hermosura sólo puede venir en gametos, y que es el hombre el inductor del drama, el fálico sacerdote de la germinación. ¿Cómo, fuera de ésta, podrá entenderse prelatura en el orden estético? El único mandamiento de la belleza viva: ¡engendrar! ¿Entiendes, Plato?[^126] Para el americano de América: ¡engendrar!, ¡engendrar! Engendrar hasta la profundidad del Tawantinsuyu.
 
  Las Wilamaywas enseñan que para engendrar es previo estar en el sér[^127], en Aura Mazda, en ahayu, en atlanta y Pithecantropo...[^128] Saberse totalidad en EL PEZ DE ORO, el cual es universo y patria, sólo porque es punto lácteo. Comenzando por nuestra vida, que es el hecho estético augural del Cósmos, entenderemos en primer lugar que estética no es estática; y en segundo que la belleza viene de una plenitud en la profundidad, y que sólo cuando nos hemos reproducido es que realmente entramos en el drama del infinito; que solamente allí el hombre estará en fruto y germinación.
 
  El arte de los americanos es arte de extravertidos no obstante carecer de senos germinales y de aquí su pavor espectral. Nada se hace más objetivo que esta afirmación cuando se busca en el documento colonial el paso del genio americano. Mucho se habla de una arquitectura híbrida, a causa de que el indio fue el alarife de las soberbias fábricas neohispanas, soberbias nó al lado de la monumentalidad inkásika; mas si así fuese esto poseería una fecundidad promisoria y desconcertante, precisamente porque ese hibridismo no se patentiza en otros órdenes estéticos, y cuando un pueblo, o un hombre, amestiza el fruto de su actividad manual, es porque ya constituye una realidad biológicamente mestiza. Más que con ánimo polémico, cuanto con el de adquirir ese convencimiento he tratado de justificar a quienes con voluntad de bien manifiesta han sostenido hasta hoy doctrina tal; si algunos llegan, inclusive, a inferir que en la misma arquitectónica de la metrópoli el reflejo del reflejo determina ciertas adquisiciones que tendrían raíz americana. Muy a la vista se descubre que el señuelo domina el esquema reflexivo; precisamente porque juzgan de lo sustancial por lo adjetivo, no hallo valedero ninguno de sus argumentos. Cuando el indio americano acepta que Jesucristo es el Sol y Mama-Killa la Virgen Madre, está imponiendo su triángulo cosmológico y genético a la teodicea católica, como antes se lo impusiera Grecia; y no a la inversa. Sin embargo, si aquí existe hibridación teológica no existe estética. Los símbolos del Sol y de la Luna en las ideografías del plateresco colonial no han sido impuestas por el indio, ni admitidos con valor categorial por la Iglesia; son tan subsidiarios que sólo pueden obedecer a una concesión dentro del proceso catequista. Para que América hubiese pirografiado su espíritu en la arquitectura hispana éste habría tenido que asimilar el trapezoide o el lienzo paleolítico. Ciertamente el indio acaba levantando la iglesuca aldeana, o de suburbio, con mentalidad inkásica; pero empleará no su andesita[^130], sino adobe, como se ve en alguna perspectiva de San Blas en el Cuzco, donde el trapezoide ha cobrado la torre. Nadie dará importancia a este[^131] síntoma de interpenetración de estilos. Las soberbias iglesias de Pomata y Juli dan constantemente para discresiones de esta índole; pero hay que hacer un estéril esfuerzo mental para admitir el hibridaje allí donde si se advierte un ritmo de fuga del barroco es porque se acentúan los signos del Renacimiento italiano, particularmente en Pomata. Existe evidente bronquedad en la apreciación y sensiblería chauvinista en el empeño. Y es de anotar que el trapezoide resulta tan antinacional para la Colonia como para la República.
 
- El hombre, y los pueblos, en naya, esculpen con el sexo; porque es con el sexo que engendran y se perennizan. Es poco menos que estúpido ya dudar de la capacidad estética de quienes labraron Sillustani, Tiwanaku, Chavin, Pukara[^133], y dejan la estela de una alfarería que cobra a diario menos importancia arqueológica que intelectual; y que ha dejado obras que confirman su genio, como el Chullpa-tullu de Gavilán (así le llamo, y no acuerdo si se le conoce por "La Muerte", que escribo en tienda de campaña y a no pocos nudos de libros y de sabios) o cierto pilloncejo cuzqueño en que el agua se vierte por las mamas de una india. La escultura de Gavilán es un tratado de metasíquica americana; no se trata del descarnado fantasmal: es el muerto vivo. Algún día se comprenderá el valor extremo de esta genial creación en que late el universo del hombre con el sentimiento del infinito.
+ El hombre, y los pueblos, en naya, esculpen con el sexo; porque es con el sexo que engendran y se perennizan. Es poco menos que estúpido ya dudar de la capacidad estética de quienes labraron Sillustani, Tiwanaku, Chavin, Pukara[^133], y dejan la estela de una alfarería que cobra a diario menos importancia arqueológica que intelectual; y que ha dejado obras que confirman su genio, como el Chullpa-tullu de Gavilán[^134] (así le llamo, y no acuerdo si se le conoce por "La Muerte", que escribo en tienda de campaña y a no pocos nudos de libros y de sabios) o cierto pilloncejo cuzqueño en que el agua se vierte por las mamas de una india. La escultura de Gavilán es un tratado de metasíquica americana; no se trata del descarnado fantasmal: es el muerto vivo. Algún día se comprenderá el valor extremo de esta genial creación en que late el universo del hombre con el sentimiento del infinito.
 
  No se germina sino en germen y los frutos estéticos de la germinación tienen que poseer grado geográfico, punto lácteo, si es cosa averiguada que nadie engendra fuera de sí mismo, en comandita o segunda persona. Mas, por razones que miran a los factores sociales que concurren a la formación de los idiomas andinos, podría estimarse que el "ego" latino, no es el inkásiko, que es ego colectivo. Por lo que es forzoso que para ser "americana" la Literatura Americana, comience por mostrarnos en sí el tumulto del pueblo de que es fruto y el punto lácteo del hombre.
 
@@ -884,7 +882,7 @@
 
 ¡Tenemos que huir, imilla! ¡Tenemos que huir a la charca!
 
- La poesía crepita y revienta salvas de camaretones en mis ojos. Cuanto toco se vuelve canción. Cuanto miro, danza, y danza la tierra bajo mis plantas. A trueque de kilómetros de lengua, llegaremos a Orko-pata, y vencido el centímetro de lodo, además de los jardines se abrirá un panorama proyectado de ellos, macerado en los sonkhos: ¡Mi hijo! ¡Hijo mío!
+ La poesía crepita y revienta salvas de camaretones[^161] en mis ojos. Cuanto toco se vuelve canción. Cuanto miro, danza, y danza la tierra bajo mis plantas. A trueque de kilómetros de lengua, llegaremos a Orko-pata, y vencido el centímetro de lodo, además de los jardines se abrirá un panorama proyectado de ellos, macerado en los sonkhos: ¡Mi hijo! ¡Hijo mío!
 
 –¡Guaguay! ¡Guagualay!
 
@@ -1148,7 +1146,7 @@
 
 –Electrizas al hichu; y ya relampaguea EL PEZ DE ORO.
 
- LIV. Inocencia, qué cruz la de tu cruz. Me sustancia el charango. Y por calles y plazas, suburbios y cenizales, vagan mis fantasmas y mis thanosos huérfanos, trabucando sus viejos basurales y las puertas que aldabonaron la ruindad y el miedo. Habrá ya quien redima la cruz de los zagüanes, y el silencio se animará en la vieja chuseka agorera para ir y morir en la cruz de la estrella, gritando: ¡Sicio!
+ LIV. Inocencia, qué cruz la de tu cruz. Me sustancia el charango. Y por calles y plazas, suburbios y cenizales, vagan mis fantasmas y mis thanosos huérfanos, trabucando sus viejos basurales y las puertas que aldabonaron la ruindad y el miedo. Habrá ya quien redima la cruz de los zagüanes, y el silencio se animará en la vieja chuseka agorera para ir y morir en la cruz de la estrella, gritando: [^177]
 
 ### HARARUÑA
 
@@ -1257,7 +1255,7 @@
 
  LXII. El sueño le vence: qué sueño. Pero aún así vuelve del sueño para comprobar si cantando sigo o enmudecido echo espiras por la raíz ébria de su júbilo. Que si mi fuga le asaltara, saltara sobre mi fuga, y el sueño, y mi fuga, danzaron en dos sapitos verdes.
 
- Fijo, mi fijo, estoy.
+ Fijo, [^182].
 
  Enraizado estoy.
 
@@ -1715,15 +1713,13 @@
 
  Son instituciones de EL PEZ DE ORO.
 
- El escéptico de "Panglós", sostendrá que lo único que no admite escépticos es lo que estuvo; y así como se lo echa por el raciocinio, se
-"da media vuelta" y se mete por los ventanales de los nervios. Mas es sólo presencia del presente que llamamos pasado.
+ El escéptico de "Panglós", sostendrá que lo único que no admite escépticos es lo que estuvo; y así como se lo echa por el raciocinio, se "da media vuelta" y se mete por los ventanales de los nervios. Mas es sólo presencia del presente que llamamos pasado.
 
  Así, para el runa-hake, los "pasados" son los presentes; y no porque lo explique, sino porque lo siente. Vive en un constante acecho de la muerte, pero de esa muerte que vive, que está. Y está nó ciertamente en su chullpar, sino en él. No rechazaría Bergson la ejecutoria sensista del espeleólogo, o espeleófilo, pues para el florido filósofo de la Intuición Creadora, si actuamos es en pasado, es decir en cuanto sentimos la estancia. Y es que el runa-hake no se guía sólo por doctrinas baconianas, sino que ha asimilado a Federico Nietzsche, hace la friolera de doscientos mil años, y cultiva otra fe que "la fe en la tierra", y, lo que es más importante, la fe de la tierra; que esa fe es la conciencia de la posesión de la vida. Claro que ni Bacon[^210] ni Federico (el adolescente que vivía macerando en probeta evangélica), pudieron ser intuídos cuando como tales filósofos no existían. Entonces, las intuiciones o exploraciones de los filósofos son más que vibraciones de la mentalidad de la caverna, en tanto se reproducen en naturalezas en quienes el instinto no ha sido obliterado.
 
  CXV. Mirados así estos problemas, ¿qué es el amor para nosotros, almas? Es poder de estar. No soy porque pienso; soy porque duelo, aunque probablemente nunca pueda definir el dolor. Ello no hace: lo importante es doler, o ser. Si hemos concebido la idea de muerte es porque el que agoniza se queja; y deja de quejarse cuando deja de respirar. Con tan frágil testimonio se quebranta la vida. No; si la muerte es el más categórico y torpe de los absurdos intelectivos del hombre, el muerto sigue quejándose después de muerto, precisamente porque está vivo dentro, y no fuera, del óvulo de la vida: el dolor.
 
- Ciertamente, desde alguno de los planos de la conciencia se siente que hablar es tanto como engendrar, y que se habla y se engendra como se ama, con el angustioso instinto de la permanencia. Pero, por mucho que las palabras me rompan el corazón, mi mejor palabra es la chispa magnética que de mí se desprende: mi hijo. Pero mi hijo es tan naturaleza como palabra, y ambos están porque estuvieron. Sería una estupidez si sostengo que mi hijo existe en cuanto le pienso; existe en cuanto estamos, y hablamos en cuanto sentimos que estamos. De aquí que las pocas palabras que iluminan el verbo del hombre no son las que se piensan, sino las que se expresan en esa inconsciencia sabia del instinto. La mujer es madre por él, aunque por convencimiento sea maternal. Si dejo de pensar dejé de existir: pero sigo doliendo... ¡y no existo! No hablo porque pienso; hablo porque siento. Se sigue que cuando el hombre retorne de la aventura diaspórica, y se meta en sí mismo, porque sólo así se mete en el infinito, su naturaleza se habrá iluminado en la medida del cósmos, y su palabra tendrá el poder del
-¡Fiat Lux!... Tendrá fetones.
+ Ciertamente, desde alguno de los planos de la conciencia se siente que hablar es tanto como engendrar, y que se habla y se engendra como se ama, con el angustioso instinto de la permanencia. Pero, por mucho que las palabras me rompan el corazón, mi mejor palabra es la chispa magnética que de mí se desprende: mi hijo. Pero mi hijo es tan naturaleza como palabra, y ambos están porque estuvieron. Sería una estupidez si sostengo que mi hijo existe en cuanto le pienso; existe en cuanto estamos, y hablamos en cuanto sentimos que estamos. De aquí que las pocas palabras que iluminan el verbo del hombre no son las que se piensan, sino las que se expresan en esa inconsciencia sabia del instinto. La mujer es madre por él, aunque por convencimiento sea maternal. Si dejo de pensar dejé de existir: pero sigo doliendo... ¡y no existo! No hablo porque pienso; hablo porque siento. Se sigue que cuando el hombre retorne de la aventura diaspórica, y se meta en sí mismo, porque sólo así se mete en el infinito, su naturaleza se habrá iluminado en la medida del cósmos, y su palabra tendrá el poder del ¡Fiat Lux!... Tendrá fetones [^211].
 
  Vamos, anda, canta...
 
@@ -1735,10 +1731,9 @@
 
  Per me si va nel eterno dolore...[^214]
 
- Es lo que realmente revela la calidad humana y trágica de su
-**Commedia**: si para la bestia humana, y para toda bestia, lo eterno es la vida y el dolor en que la vida se sustancia.
+ Es lo que realmente revela la calidad humana y trágica de su **Commedia**: si para la bestia humana, y para toda bestia, lo eterno es la vida y el dolor en que la vida se sustancia.
 
- Fatti non fosti a vivire come bruti.
+ Fatti non fosti a vivire come bruti[^215].
 
  Y allí, y en otra parte nó, radica la melancólica comicidad del civilizado, comicidad que no le ahonda en sí mismo, si lo disuelve en la irrealidad mentalista, para no darle calificativo más impúdico y cabal. Realidad, empero, de que no podrá redimirse sino **come bruti**.
 
@@ -1746,7 +1741,7 @@
 
  No me han ocurrido esos versos del Dante porque me precie de poseer su lengua, sí porque el Dante sabe que los siento. Entre paréntesis, tales sentires no le habían sido revelados en su tránsito.
 
- Sabe ahora que **Il Paradiso** legítimo de la vida, es **Il Inferno**. Desde luego, quien ríe más de la célica Beatriz teologada es el propio poeta, mientras se quema en éste, la sirte **smaritta**, que tanto horrorizara al Cisne, su maestro, y a él, cuando ambos bien pronto hubieron de percatarse que la **diretta via** a la plenitud, la eternidad, la gracia, es la **diabolica e porca** y Divina Carne.
+ Sabe ahora que **Il Paradiso** legítimo de la vida, es **Il Inferno**. Desde luego, quien ríe más de la célica Beatriz teologada es el propio poeta, mientras se quema en éste, la sirte **smaritta**, que tanto horrorizara al Cisne[^216], su maestro, y a él, cuando ambos bien pronto hubieron de percatarse que la **diretta via** a la plenitud, la eternidad, la gracia, es la **diabolica e porca** y Divina Carne.
 
  Es poco pantagruélico aceptar que el único animal que ríe sea el hombre, más aún, que haya inventado la risa como antídoto de sus dolores, según Nietzsche sostiene. El ario que comprendió mejor, tal vez porque es un ario de extracción mongólica, la logoloquia[^217] de la ataraxia griega, es éste; pero su risa a las vistas no es eutrapelia ni kalistenia[^218], desde el punto de vista tártaro, de cuya gigantomaquia su Zaratustra es sólo una versión dialéctica del **junker**; es inmersión bhudista en la totalidad nirvánica, en la negación del hombre en la monstruosidad. El hombre es la medida del hombre; el Superhombre... Si no capataz, su corajina, botas y látigo, será el ángel, y en ambos casos, social o antropológicamente, negación. El estado de fuerza, de armipotencia, para el hombre, no está en el arquetipo: el hombre es manada, es tribu, es horda. Y el gran hombre es grande sólo en función de masa. No hay grandeza individual sin mística. La soledad del felino tiene una razón inequívoca: la garra. El hombre en la selva es un hokollo que trepa árboles y se alimenta de frutos que no debe pelear. No se crea que inventó el puñal (ni nada): lo copió al tigre; el primer puñal del hombre fue su colmillo. El instinto de imitación, propio del simio, le llevó a devorar hombres como él, porque observó que los animales comedores de hombres son los más fuertes.
 
@@ -2034,7 +2029,7 @@
 
  El hijo nunca muere; y si le abruma el sueño, duerme en el Padre para en él despertar a veces al tercer día.
 
-–**¡Lamma!, ¡Lamma!: ¿Sabactani?**... ¡Padre! ¿Por qué me has abandonado?
+–**¡Lamma!, ¡Lamma!: ¿Sabactani?**... ¡Padre! ¿Por qué me has abandonado?[^261]
 
  He aquí, en labios del Hijo del Hombre el horrendo grito de la angustia vital: sentir que el germen paterno abandona al hombre. No hay desgarramiento igual capaz de sacudir las estructuras de la vida. Decirle al hombre que tendrá ya padre que lo engendre, es decirle que el vacío se ha abierto bajo sus plantas y que la Muerte y sus gélidas guadañas son lo real y miserable condición de su naturaleza.
 
@@ -2673,7 +2668,7 @@
 
 # PACHAMAMA
 
-> Creen que vine del cielo. \
+> Creen que vine del cielo[^313]. \
 > **Colón**
 
 ¿Y si de allí nó, Cris[^314]tóforo: de dónde? Qué genial el marino... Los Kanibas le habían dicho que vino del cielo, y era lo sensato, silogístico, y único admisible, ya que no podía del regüeldo de la ballena de Jonás a causa de que entonces era muerta; y para que de otra ballena fuera, fuera menester milagro, milagro a quien se oponían las poco esclarecidas mancebías de que parecen resultado algunos de los eslabones de su cadena, y que no poco le abonaban famas de pudendo en el cielo, aunque en el otro, nó en aquel a que los Kanibas habían hecho referencia, según cree que creen... Si las aguas de "la mar océana" están en la tierra, en la tierra habitan, y la tierra en el cielo, decirle que vino de éste, revela sólo que los antropófagos de K[^316]anidia eran cuando menos más reflexivos y observadores que el Almirante. ¡Y este sublime iluso nos descubrió! Aunque la traposa verdad esté de su parte, la realidad no está de parte de Colón, sí de los Kanidios; que de este oscuro marino de la sangre de Jonás, usufructuario de las viejas cartas de marear de ciertos filibusteros fenicios, no menos que de las secretas señas que en la lengua de Erin el rubicundo dejaran marinos wikingos, del más ilustre caínita, por venir de la estirpe de Can, hicieron el genio de los siglos. Colón se salió de Palos de Moguer al encuentro del Gran Khan, y cayó en América, sosteniendo a causa de su caída que la había descubierto. No puede nadie descubrir un mundo descubierto ya, conforme atesta profecía con dos mil años de vejez, si en otra mayor esa América fue cubierta por hombres rudos y sabios de cierto país perdido a media mar, y del cual quedaban, a uno y otro lados, tribus errantes o dispersas. Allí, en las piedras n[^317]efitas, se dijo que un tal Cristóforo, o cosa así como SEJHESUA –en lengua hermética– sería descubierto al mundo a causa de tal prodigio; que no es poco que un mundo saliese por un hombre. Se ve que el descubierto no puede ser el descubridor.
@@ -4251,7 +4246,7 @@
 
 <hr>
 
- Como si gateara masticaba palabras para tropezar en una sílaba. Presto a romperse, su fornido cuello vientre de madre en parto. Llegué a pensar que no respiraba; pero oídos sobre el lomo resollaban los pulmones como el viento en la chikhana. Si algo le disgustaba ya era rumiante; trituraba la baba con molar de megaterio, temblaban babillas en la comisura de la jeta, y ya estaba plácido. Era el viejo orangután salido del bulbo genealógico. Genial siempre; su curiosidad maravillosa. Y si nada podía no admirarle, todo le arrastraba con el viento hacia la infancia. No hubo en mi chuklla allko más retozón, ni flor hubo que perfumara más. He aquí que aunque no cesaba de sostener que El lo había echado, sus vientos fuertes rompieron el coral de mi naranja de oro. Le lloraba, sí; pero en silencio, sin gemido. Y sin una lágrima que yo me sé y qu[^426]e de entonce tembló en sus ojos, habríamos pensado que en el ojo el cielo le temblaba por llorarle.
+ Como si gateara masticaba palabras para tropezar en una sílaba. Presto a romperse, su fornido cuello vientre de madre en parto. Llegué a pensar que no respiraba; pero oídos sobre el lomo resollaban los pulmones como el viento en la chikhana. Si algo le disgustaba ya era rumiante; trituraba la baba con molar de megaterio, temblaban babillas en la comisura de la jeta, y ya estaba plácido. Era el viejo orangután salido del bulbo genealógico. Genial siempre; su curiosidad maravillosa. Y si nada podía no admirarle, todo le arrastraba con el viento hacia la infancia. No hubo en mi chuklla allko más retozón, ni flor hubo que perfumara más. He aquí que aunque no cesaba de sostener que El lo había echado, sus vientos fuertes rompieron el coral de mi naranja de oro. Le lloraba, sí; pero en silencio, sin gemido. Y sin una lágrima que yo me sé y que de entonce[^426]  tembló en sus ojos, habríamos pensado que en el ojo el cielo le temblaba por llorarle.
 
 –¡Volveremos!
 
@@ -4433,7 +4428,7 @@
 
  Y el Antiguo se llevó en el sonko la montaña que besa.
 
-# MAMA KUKA
+# MAMA KUKA[^428]
 
 > Cuanto vimos y cogimos lo soltamos; \
 > y traemos cuanto ni vimos ni cogimos. \
@@ -4453,9 +4448,9 @@
 
 –¿Cómo ha amanecido la ruborosa? Entiendo que estará alegre y bonita que nunca, si el día es una bendición... Déla mis recuerdos y muchos besos.
 
- Tal día no veríamos sol. Malhumorada cerrazón cubría el cielo, y el viento, húmedo y constante, anunciaba de ésos chubas[^431]cos sinaícos que azotan en el verano del Titikaka; y ya al mediar la tarde se volcaron cataratas.
+ Tal día no veríamos sol. Malhumorada cerrazón cubría el cielo, y el viento, húmedo y constante, anunciaba de ésos chubascos sinaícos[^431] que azotan en el verano del Titikaka; y ya al mediar la tarde se volcaron cataratas.
 
-–¡Aló! ¡Aló!... ¿Orko-pata?
+–¡Aló! ¡Aló!... ¿Orko-pata?[^432]
 
 –Orko-pata.
 
@@ -5492,8 +5487,8 @@
 
 –¿Jaaa?... ¿Qué has dicho?... Ah... Pero, está muerta; muerta, muerta... Me consta... Ja, ja, ja...
 
-–No te enloquezca el espíritu de negación, que ahora híbridos somos, doctor Fausto... ¡Vive, vive!... No morirá... Vino del Tawantinsuyo y está en mi cruz. No sabré cuándo comienza su dimensión en mí, ni cuándo la integro en sus dimensiones. Ahora mismo, en el punto que ella se pregunta, despierto coronado de espinas. ¡Estará en el madero, doctor Fausto, cuando a él me claves, sobrevenga la hora de nona, se rasgue el velo de las madres, se revulsionen las khenayas, el tuerto Longino me haya roto el costado izquierdo, la sed me despedace la garganta, gatee por el mundo mi amargo quejido, y llegue, al fin, doctor Fausto, ¡al fin! la hora de rectificar los estertores: ¡Hijo, Hijo!
-¿Por qué me has abandonado?...
+–No te enloquezca el espíritu de negación, que ahora híbridos somos, doctor Fausto... ¡Vive, vive!... No morirá... Vino del Tawantinsuyo y está en mi cruz. No sabré cuándo comienza su dimensión en mí, ni cuándo la integro en sus dimensiones. Ahora mismo, en el punto que ella se pregunta, despierto coronado de espinas. ¡Estará en el madero, doctor Fausto, cuando a él me claves, sobrevenga la hora de nona, se rasgue el velo de las madres, se revulsionen las khenayas, el tuerto Longino me haya roto el costado izquierdo[^508], la sed me despedace la garganta, gatee por el mundo mi amargo quejido, y llegue, al fin, doctor Fausto, ¡al fin! la hora de rectificar los estertores: ¡Hijo, Hijo!
+¿Por qué me has abandonado?[^509]...
 
  El joven médico habría caído de rodillas, musitando, horriblemente compungido:
 
@@ -7443,7 +7438,7 @@
 
 <br>
 
-(Fijo, mi fijo, estoy).
+(Fijo, mi fijo[^637], estoy).
 
 <br>
 
@@ -12105,7 +12100,7 @@
 > Laykha-kota \
 > Khori-Challwa...
 
- He aquí, y he aquí, que el pecesito muerto siente que dentro la mama de su mama le llora su Tata-Puma:
+ He aquí, y he aquí[^842], que el pecesito muerto siente que dentro la mama de su mama le llora su Tata-Puma:
 
 ### HARAWI
 
@@ -12854,7 +12849,7 @@
 
 [^6]: _Masato_ designa una «bebida fermentada hecha con yuca» (Álvarez Vita). Hay que decir que, en la selva amazónica peruana, el preparado, que puede ser también de maíz o banano, fermenta por la masticación. _Masapo_ puede ser errata o juego de palabras («cometer con el masapo» evocaría «comerse el sapo»).
 
-[^7]: Primera ed.: orinólogos. De acuerdo con el valor de lo onírico en toda la obra, parece más lógica la referencia a los rituales andinos de adivinación por los sueños (_orinólogos_ sería entonces una errata), si bien la duda puede persistir si pensamos en el valor sagrado y adivinatorio de la orina (que podráimos relacionar con la idea de la lluvia como orina de la gran llama celeste), valor que se menciona, por ejemplo, en Robert Randall, «Los dos vasos. Cosmovisión y política de la embriaguez desde el inkanato hasta la colonia». en Thierry Saignes (comp.), _Borrachera y memoria. La experiencia de lo sagrado en los Andes_, La Paz, Hisbol/IFEA, 1993, págs. 73-112. Existe la palabra uromancia, que según el DRAE significa «Supuesta adivinación por el examen de la orina».
+[^7]: Primera ed.: orinólogos. De acuerdo con el valor de lo onírico en toda la obra, parece más lógica la referencia a los rituales andinos de adivinación por los sueños (_orinólogos_ sería entonces una errata), si bien la duda puede persistir si pensamos en el valor sagrado y adivinatorio de la orina (que podríamos relacionar con la idea de la lluvia como orina de la gran llama celeste), valor que se menciona, por ejemplo, en Robert Randall, «Los dos vasos. Cosmovisión y política de la embriaguez desde el inkanato hasta la colonia». en Thierry Saignes (comp.), _Borrachera y memoria. La experiencia de lo sagrado en los Andes_, La Paz, Hisbol/IFEA, 1993, págs. 73-112. Existe la palabra uromancia, que según el DRAE significa «Supuesta adivinación por el examen de la orina».
 
 [^8]: Sería «yemas», pero más adelante Churata juega con la oposición llemas/yemas.
 
