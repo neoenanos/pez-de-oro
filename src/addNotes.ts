@@ -1,41 +1,14 @@
+import * as path from "jsr:@std/path";
 
-// Extend the String interface to include 'splice'
-declare global {
-  interface String {
-    splice(start: number, delCount: number, newSubStr: string): string;
-  }
-}
-
-if (!String.prototype.splice) {
-    /**
-     * {JSDoc}
-     *
-     * The splice() method changes the content of a string by removing a range of
-     * characters and/or adding new characters.
-     *
-     * @this {String}
-     * @param {number} start Index at which to start changing the string.
-     * @param {number} delCount An integer indicating the number of old chars to remove.
-     * @param {string} newSubStr The String that is spliced in.
-     * @return {string} A new string with the spliced substring.
-     */
-    String.prototype.splice = function(start: number, delCount: number, newSubStr: string): string {
-        return this.slice(0, start) + newSubStr + this.slice(start + Math.abs(delCount));
-    };
-}
-
-
-
-
-
+const currentDir = path.dirname(path.fromFileUrl(import.meta.url));
 const notasArr = Deno.readTextFileSync(
-  "/home/martincito/Documentos/epub/pez/assets/notas pez.txt",
+  path.join(currentDir, "..", "assets", "notas pez.txt")
 )
   .split("\n")
   .map((str) => str.split("-->").map((el) => el.trim()));
 
 let pez = Deno.readTextFileSync(
-  "/home/martincito/Documentos/epub/pez/md/CHURATA, Gamaliel - El pez de oro (Canata, 2014).md",
+  path.join(currentDir, "..", "md", "CHURATA, Gamaliel - El pez de oro (Canata, 2014).md")
 );
 const pezNoAccents = accentFold(pez);
 
