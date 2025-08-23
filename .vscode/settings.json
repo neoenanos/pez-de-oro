@@ -1,3 +1,7 @@
 {
-    "markdownlint.config": { "MD033": false, "MD028": false}
+  "markdownlint.config": {
+    "MD033": false,
+    "MD028": false
+  },
+  "deno.enable": true
 }
