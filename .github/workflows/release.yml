@@ -15,7 +15,13 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
+      
+      - name: Download and Install Custom Font
+        run: |
+          wget -O libertine.zip https://dl.dafont.com/dl/?f=linux_libertine
+          unzip libertine.zip -d /usr/share/fonts/truetype/
+          sudo fc-cache -f
+        
       - name: Install dependencies
         run: | 
           sudo apt-get update
