@@ -18,7 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: | 
-          sudo apt install -y make pandoc qpdf latexmk texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended rename
+          sudo apt install -y --fix-missing make pandoc qpdf latexmk texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended rename
         
       - name: Compile all
         run: make
