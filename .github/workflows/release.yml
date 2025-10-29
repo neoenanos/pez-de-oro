@@ -29,6 +29,9 @@ jobs:
           files: "build/*"
           generate_release_notes: true
 
+      - name: Rename html
+        run: mv build/html/book.html build/html/index.html
+
       - name: Netlify Actions
         uses: nwtgck/actions-netlify@v3.0.0
         with:
