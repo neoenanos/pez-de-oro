@@ -13465,7 +13465,7 @@
 
 [^325]: Citas o referencias al _Primer Diario_.
 
-[^326]. Kanidia: el Imperio del Gran Khan del que habla Marco Polo y donde Colón cree estar.
+[^326]: Kanidia: el Imperio del Gran Khan del que habla Marco Polo y donde Colón cree estar.
 
 [^327]: Cita aproximada del Primer Viaje de Colón, Lunes, 12 de noviembre. El mismo día menciona Baveque, tal vez Boriquén, Puerto Rico, según Varela (_op. cit._, 93). El martes 13 la llama Baneque.
 
