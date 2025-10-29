@@ -145,6 +145,7 @@ replace: emptypage $(BOOK_PDF)
 	echo "   $$pages"; \
 	qpdf $(BOOK_PDF) --pages $$pages -- $(MODIFIED_PDF); \
 	echo "✅ Created $(MODIFIED_PDF) (replaced pages: $(REPLACE_PAGES))"
+	rm build/empty.pdf
 
 ####################################################################################################
 # File builders

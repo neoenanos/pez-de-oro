@@ -1,4 +1,4 @@
-name: Release
+name: Release and Deploy
 
 on:
   push:
@@ -16,28 +16,28 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install pandoc
-        run: sudo apt install -y pandoc
+      - name: Install dependencies
+        run: | 
+          sudo apt install -y make pandoc qpdf latexmk texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended rename
         
-      - name: Get epub name
-        id: epub_filename
-        run: |
-          title=$(grep '^title:' meta/metadata.yml | cut -d ' ' -f2- | xargs)
-          author_name=$(grep '^  - name:' meta/metadata.yml | cut -d ':' -f2- | xargs)
-          author_lastname=$(grep '^  - lastname:' meta/metadata.yml | cut -d ':' -f2- | xargs)
-          filename="$author_lastname, $author_name - $title"
-          echo "filename=${filename// /_}" >> $GITHUB_OUTPUT
-
-      - name: Compile Epub
-        run: |
-          mkdir -p out
-          pandoc md/* \
-          -o "out/${{steps.epub_filename.outputs.filename}}.epub" \
-          --metadata-file=meta/metadata.yml \
-          --toc-depth 2 
+      - name: Compile all
+        run: make
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: "out/*"
+          files: "build/*"
           generate_release_notes: true
+
+      - name: Netlify Actions
+        uses: nwtgck/actions-netlify@v3.0.0
+        with:
+          publish-dir: './build/html'
+          production-branch: main
+          netlify-config-path: ./netlify.toml
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Deploy from GitHub Actions"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        timeout-minutes: 1
