@@ -33,7 +33,9 @@ jobs:
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: "build/*"
+          files: 
+            "build/epub/book.epub
+            build/pdf/book.epub"
           generate_release_notes: true
 
       - name: Rename html
