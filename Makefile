@@ -2,9 +2,6 @@
 # Configuration
 ####################################################################################################
 
-include .env
-export
-
 # Build configuration
 
 BUILD = build
