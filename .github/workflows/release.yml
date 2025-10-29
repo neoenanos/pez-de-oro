@@ -46,7 +46,7 @@ jobs:
         with:
           publish-dir: './build/html'
           production-branch: main
-          alias: pezdeoro
+          production-deploy: true
           github-token: ${{ secrets.GITHUB_TOKEN }}
           deploy-message: "Deploy from GitHub Actions"
         env:
